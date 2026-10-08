@@ -8,7 +8,7 @@
   "pythonMinimum": "3.10",
   "runtimeDependencies": [],
   "expansionStatus": "docs/expansion_status.json",
-  "publication": "GitHub公开发布准备中；等待首次推送确认",
+  "publication": "已公开发布至GitHub",
   "releaseStatus": "docs/首版状态.json",
   "releaseAcceptance": "passed_four_item_scope",
   "releaseNotes": "docs/版本说明_1.0.0.md",
