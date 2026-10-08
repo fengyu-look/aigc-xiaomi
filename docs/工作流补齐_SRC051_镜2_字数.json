@@ -1,0 +1,17 @@
+{
+  "PositiveCharacters": 446,
+  "NegativeCharacters": 205,
+  "FrameCount": 288,
+  "LogicChecks": 12,
+  "POVChecks": 10,
+  "ClosureChecks": 9,
+  "KeyFrameTimes": [
+    0,
+    3,
+    6,
+    9
+  ],
+  "ViewTurnSeconds": 2.5,
+  "ModelTested": false,
+  "Revision": "R03逐时点展开"
+}

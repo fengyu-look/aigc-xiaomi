@@ -1,0 +1,191 @@
+{
+  "TaskPointId": "P04-N02",
+  "Date": "2026-10-06",
+  "Libraries": [
+    {
+      "LibraryId": 51,
+      "FirstOrdinal": 50,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "5E22ADA7F7D166FC675910989EEF7E0F2614716A9D2CD019B045B91999D785CF",
+      "HistoricalScope": "H038通用镜头协议及70—100已读方法",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 52,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "2729E61DCAF7AF253656B788BC56D41CD74CEE7645472D9E43FA03EEB843672C",
+      "HistoricalScope": "H020共同扩写规则7节/H037新增执行细则11节已读，身份、动态状态与地图分层",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 53,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "96ED9652A059CA3FB4294E347EF64E75736A67EC261463EC1FDC482B57F951B8",
+      "HistoricalScope": "H020身份/分块方法及H037资产分类；控制接口仅以本点官方核查为据",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 54,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "9785126173EB20FEEA95966AF4D9539F23D3095C99F18B05B85C6683B0C3EB10",
+      "HistoricalScope": "H038通用镜头协议及70—100，运动/光学/时间/视效分层",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 55,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "6E2C0619E98B3C01EF3F41B0D6760360C479EC0B122497A0EC8D6BF933EE9245",
+      "HistoricalScope": "H037资产跨块关系/H038运动与时间层，局部错误与原信息保持",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 56,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 50,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "54B82A169384D027CDB84DF2ECA2FD3B165BDA67798716CFADFFB722155F046F",
+      "HistoricalScope": "H037共享地图/H038轨迹；引擎接口另据官方范围，不冒已搭系统",
+      "SRC045CorrespondingVersion": "unavailable"
+    },
+    {
+      "LibraryId": 57,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 21,
+      "OriginalRead": true,
+      "OriginalTextSHA256": "FAE45F8BE97216242EF0AA30D76A31F6114D00A17BFF411E55B9BAF129BCBBB1",
+      "HistoricalScope": "H037共享地图、几何边界、道具尺寸方法；新视角技术另核原始论文",
+      "SRC045CorrespondingVersion": "unavailable"
+    }
+  ],
+  "SRC045ChapterInventory": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "UnavailableCandidates": 272,
+  "HistoricalMethods": [
+    {
+      "HistoryId": "H020",
+      "ImportedSHA256": "0FC14947398E63DFF9F40F39833598014155C4BED43936A42DC2CDE09029A8C5",
+      "ActualScope": "本点第二部分共同规则7节实际完整读，原文部分与十套独立模板未本点全读"
+    },
+    {
+      "HistoryId": "H037",
+      "ImportedSHA256": "AE981E1DC3440B88AD6D839C24F741F26206FCA879851C78664C32D09C52C023",
+      "ActualScope": "本点第二部分11执行细则实际完整读，原文未本点整读"
+    },
+    {
+      "HistoryId": "H038",
+      "ImportedSHA256": "A5E671EF1E09523E18AB51700B058E90822718CA0148325397B383DDB7F8D3B8",
+      "ActualScope": "本点通用镜头九步及70—100的31条实际完整读；其余范围不冒全稿验收"
+    }
+  ],
+  "WebVerification": [
+    {
+      "Title": "PyTorch随机性",
+      "URL": "https://docs.pytorch.org/docs/2.14/notes/randomness.html",
+      "ActualScope": "实际读跨版本/设备复现与随机源行406—438；不认本地安装版"
+    },
+    {
+      "Title": "Diffusers IP-Adapter",
+      "URL": "https://huggingface.co/docs/diffusers/en/using-diffusers/ip_adapter",
+      "ActualScope": "实际读基础/兼容权重/scale/掩码/Plus和FaceID/多图/结构组合/样式层相关102—407；未运行API"
+    },
+    {
+      "Title": "ControlNet1.1作者库",
+      "URL": "https://github.com/lllyasviel/ControlNet-v1-1-nightly",
+      "ActualScope": "实际读depth/normalbae/canny 272—321、Seg/OpenPose/lineart 419—483；未读全库"
+    },
+    {
+      "Title": "Epic ICVFX",
+      "URL": "https://dev.epicgames.com/documentation/unreal-engine/in-camera-vfx-quick-start-for-unreal-engine",
+      "ActualScope": "实际读追踪/nDisplay/内视锥/镜头标定及节点偏移239—279与前提；未搭系统"
+    },
+    {
+      "Title": "Unity Playables",
+      "URL": "https://docs.unity3d.com/Manual/Playables.html",
+      "ActualScope": "实际读125—169动画图、混合、脚本和Timeline关系；显示网页版本不等本机"
+    },
+    {
+      "Title": "Blender显示变换",
+      "URL": "https://docs.blender.org/manual/en/5.0/render/color_management/displays_views.html",
+      "ActualScope": "实际可见检索正文线性到显示、色域和视图变换；不是整手册或本机版本"
+    },
+    {
+      "Title": "NeRF原作者",
+      "URL": "https://www.matthewtancik.com/nerf",
+      "ActualScope": "实际读99—144五维密度/视向辐射、位姿图输入、体渲染、深度及可另提网格；未运行"
+    },
+    {
+      "Title": "3DGS原作者",
+      "URL": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
+      "ActualScope": "实际读17—26稀疏标定点、高斯协方差/渲染与作者数据评估；原FPS非本机测值"
+    },
+    {
+      "Title": "Open3D ICP",
+      "URL": "https://www.open3d.org/docs/release/tutorial/t_pipelines/t_icp_registration.html",
+      "ActualScope": "实际可见官方检索正文初始粗对齐、两点云和变换/法线条件；示例耗时不作为本机"
+    },
+    {
+      "Title": "OpenCV双目深度",
+      "URL": "https://docs.opencv.org/4.13.0/dd/d53/tutorial_py_depthmap.html",
+      "ActualScope": "实际读18—77 Bf/Z视差关系、匹配/低纹理与边界噪声过滤；未执行代码"
+    },
+    {
+      "Title": "Basler ToF",
+      "URL": "https://docs.baslerweb.com/tof-camera-technology",
+      "ActualScope": "实际读1021—1039往返测量和影响因素；设备模式按型号核"
+    },
+    {
+      "Title": "Basler影响因素",
+      "URL": "https://docs.baslerweb.com/influencing-factors",
+      "ActualScope": "实际读1050—1092散射、温度、多径和反射；型号专有数值不推广全部设备"
+    }
+  ],
+  "FailedPageAccessNotAdopted": [
+    "Diffusers stable_video_diffusion pipeline direct open failed; no model-specific timing/frame/parameter assertions adopted",
+    "Blender latest color_management direct failed; use actual visible versioned search scope only"
+  ],
+  "ExternalGenerationPerformed": false
+}

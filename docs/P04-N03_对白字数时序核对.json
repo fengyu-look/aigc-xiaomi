@@ -1,0 +1,142 @@
+{
+  "ActualLines": [
+    {
+      "Version": "DLG-LETTER-V1",
+      "Speaker": "A",
+      "Text": "那封信一直在我手里，今天才交给你。对不起。",
+      "SpokenCharacters": "那封信一直在我手里今天才交给你对不起",
+      "CharacterCount": 18
+    },
+    {
+      "Version": "DLG-LETTER-V1",
+      "Speaker": "B",
+      "Text": "我知道了。",
+      "SpokenCharacters": "我知道了",
+      "CharacterCount": 4
+    },
+    {
+      "Version": "VM-LETTER-V1",
+      "Speaker": "A",
+      "Text": "苏遥，那封信是我寄的。你有空时再回我。",
+      "SpokenCharacters": "苏遥那封信是我寄的你有空时再回我",
+      "CharacterCount": 16
+    }
+  ],
+  "Relationships": [
+    {
+      "Relation": "A发声",
+      "Calculated": 6.0,
+      "Expected": 6,
+      "Consistent": true
+    },
+    {
+      "Relation": "A含停顿",
+      "Calculated": 7.0,
+      "Expected": 7,
+      "Consistent": true
+    },
+    {
+      "Relation": "B发声",
+      "Calculated": 2.0,
+      "Expected": 2,
+      "Consistent": true
+    },
+    {
+      "Relation": "当面整镜",
+      "Calculated": 12,
+      "Expected": 12,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言发声",
+      "Calculated": 8.0,
+      "Expected": 8,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言称呼",
+      "Calculated": 1.0,
+      "Expected": 1,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言中句",
+      "Calculated": 3.5,
+      "Expected": 3.5,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言末句",
+      "Calculated": 3.5,
+      "Expected": 3.5,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言总",
+      "Calculated": 12,
+      "Expected": 12,
+      "Consistent": true
+    },
+    {
+      "Relation": "兩者镜帧",
+      "Calculated": 288,
+      "Expected": 288,
+      "Consistent": true
+    },
+    {
+      "Relation": "对白6帧窗",
+      "Calculated": 288,
+      "Expected": 288,
+      "Consistent": true
+    },
+    {
+      "Relation": "留言初五窗",
+      "Calculated": 288,
+      "Expected": 288,
+      "Consistent": true
+    },
+    {
+      "Relation": "手机表面y",
+      "Calculated": 0.296,
+      "Expected": 0.296,
+      "Consistent": true
+    },
+    {
+      "Relation": "近/退按钮距离",
+      "Calculated": 0.37923080043688434,
+      "Expected": 0.37923080043688434,
+      "Consistent": true
+    },
+    {
+      "Relation": "按钮近退速",
+      "Calculated": 0.7584616008737687,
+      "Expected": 0.7584616008737687,
+      "Consistent": true
+    },
+    {
+      "Relation": "按钮接触帧",
+      "Calculated": 6.0,
+      "Expected": 6,
+      "Consistent": true
+    },
+    {
+      "Relation": "按钮近退各帧",
+      "Calculated": 12.0,
+      "Expected": 12,
+      "Consistent": true
+    }
+  ],
+  "DraftCorrections": [
+    {
+      "Before": "原创留言草稿一处17字、后句8字，与逐字16冲突",
+      "After": "全稿统一2+7+7=16字并据2字秒重排，原来源不改",
+      "Backup": ".local/P04-N03_SRC030_草稿计数修正前.md"
+    },
+    {
+      "Before": "t10笼统触屏无近/触/离时窗和接触点",
+      "After": "手机尺寸/屏朝南/Q(.2,.296,1.06)，9.5—10近、10—10.25触、10.25—10.75离、10.75—12保持，t10单触发"
+    }
+  ],
+  "Scope": "实际文字计数、时窗和指尖设计；未朗读录制/rig/界面可见/实际手机操作",
+  "MediaVerification": "not_performed"
+}

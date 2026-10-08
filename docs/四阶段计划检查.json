@@ -1,0 +1,85 @@
+{
+  "Date": "2026-10-06",
+  "PlannedCounts": [
+    1000,
+    1000,
+    1000,
+    815
+  ],
+  "Coverage": 3815,
+  "UniqueTaskIds": 3815,
+  "NoOverlapWithCompletedBaseline": true,
+  "EveryPendingCandidateCoveredInOrder": true,
+  "EntrySourceAndHistoryStatusesUnchanged": true,
+  "CompletedCountUnchanged": 62,
+  "StageBoundaries": [
+    {
+      "StageId": "P01",
+      "PlannedCandidateCount": 1000,
+      "FirstTaskId": "L01-T0063",
+      "LastTaskId": "L15-T0053"
+    },
+    {
+      "StageId": "P02",
+      "PlannedCandidateCount": 1000,
+      "FirstTaskId": "L15-T0054",
+      "LastTaskId": "L31-T0041"
+    },
+    {
+      "StageId": "P03",
+      "PlannedCandidateCount": 1000,
+      "FirstTaskId": "L31-T0042",
+      "LastTaskId": "L46-T0047"
+    },
+    {
+      "StageId": "P04",
+      "PlannedCandidateCount": 815,
+      "FirstTaskId": "L46-T0048",
+      "LastTaskId": "L61-T0092"
+    }
+  ],
+  "Checks": [
+    {
+      "Command": "python -X utf8 tools/check_project.py",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python -X utf8 -m unittest discover -s tests -v",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python -X utf8 tools/refresh_index.py --dry-run",
+      "ExitCode": 0
+    }
+  ],
+  "MaximumTaskPointsPerStage": 3,
+  "TotalTaskPoints": 12,
+  "TaskPointCounts": [
+    [
+      334,
+      333,
+      333
+    ],
+    [
+      334,
+      333,
+      333
+    ],
+    [
+      334,
+      333,
+      333
+    ],
+    [
+      272,
+      272,
+      271
+    ]
+  ],
+  "PointCoverage": 3815,
+  "PointIDsUnique": true,
+  "TaskPointsConcatenateToOriginalStageRanges": true,
+  "ThirdPointIncludesStageAcceptance": true,
+  "ChecksReport": "docs/四阶段计划检查运行.json",
+  "FinalAcceptanceAssignedTo": "P04-N03"
+}

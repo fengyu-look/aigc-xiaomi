@@ -1,0 +1,20 @@
+{
+  "HistoryId": "H017",
+  "SourceId": "SRC041",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 232,
+  "HistoricalOriginalNonemptyLines": 234,
+  "DifferenceLines": [
+    "--- SRC041原文\n",
+    "+++ H017原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    "-微调分镜脚本的提示词",
+    "+优化分镜的提示词，随便给一句话都可以",
+    "+2026-09-20",
+    "+阅读需要16分钟",
+    " 角色"
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

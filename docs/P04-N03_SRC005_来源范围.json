@@ -1,0 +1,14 @@
+{
+  "WholeLocalSourceActuallyRead": "SRC005原60条/五分类/240字段/应用层全文",
+  "MergedScope": [
+    "SRC022章20字段",
+    "SRC045章20字段"
+  ],
+  "ExternalSource": {
+    "URL": "https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms",
+    "ActualScope": "搜索结果可见课程开篇：某些问题可能更快，不是全课程或当前设备基准/发布",
+    "Use": "限定35原万能超高速语义；不引用路线图或宣布优势成果"
+  },
+  "Design": "PROP-KEY-V1全部尺度动作虚构设计，未锁具实作/媒体生成",
+  "IndependentContentReview": "pending"
+}

@@ -1,0 +1,78 @@
+{
+  "Date": "2026-10-07",
+  "AuthorizedScope": "只收口3815条：核对四阶段结果，整理完成报告",
+  "Status": "completed",
+  "Stages": [
+    {
+      "StageId": "P01",
+      "Candidates": 1000,
+      "WrittenAndAISelfReviewed": 1000,
+      "Excluded": 0,
+      "Remaining": 0,
+      "TaskPointCount": 3
+    },
+    {
+      "StageId": "P02",
+      "Candidates": 1000,
+      "WrittenAndAISelfReviewed": 1000,
+      "Excluded": 0,
+      "Remaining": 0,
+      "TaskPointCount": 3
+    },
+    {
+      "StageId": "P03",
+      "Candidates": 1000,
+      "WrittenAndAISelfReviewed": 999,
+      "Excluded": 1,
+      "Remaining": 0,
+      "TaskPointCount": 3
+    },
+    {
+      "StageId": "P04",
+      "Candidates": 815,
+      "WrittenAndAISelfReviewed": 815,
+      "Excluded": 0,
+      "Remaining": 0,
+      "TaskPointCount": 3
+    }
+  ],
+  "StageCandidates": 3815,
+  "StageWrittenAndAISelfReviewed": 3814,
+  "ExcludedWithEvidence": [
+    "L38-T0003"
+  ],
+  "RemainingWritingCandidates": 0,
+  "BaselineOutsideStages": 62,
+  "TotalActualDeepBodiesChecked": 3876,
+  "OriginalLibraryBlocksChecked": 61,
+  "ActualBodyIndexQueueHashAgreement": true,
+  "ReviewFilesPresent": true,
+  "StageIdsUniqueAndDisjointFromBaseline": true,
+  "StageBodyHashManifestSHA256": "61EFCFB6BD394D2F7F14757149C3F00889424A506D5BF02EA5FF0CCF69983430",
+  "VerificationBoundary": "本轮重新读取正文核对哈希、原文保护、阶段分组及既有自审记录；未重做全量语义审核、独立内容验收或外部生成效果验证。",
+  "FullProjectAcceptanceComplete": false,
+  "EngineeringChecks": {
+    "RefreshDryRun": {
+      "ExitCode": 0,
+      "ChangedDocuments": [],
+      "OriginalBaselinesChanged": false,
+      "DeepExpansionStatusChanged": false
+    },
+    "IndexSynchronizedPreviouslyWrittenSourceDocuments": 4,
+    "ProjectCheck": {
+      "ExitCode": 0,
+      "Errors": [],
+      "OriginalBlocksChecked": 112,
+      "LinksChecked": 864,
+      "DeepIndexedSections": 3876
+    },
+    "UnitTests": {
+      "ExitCode": 0,
+      "Total": 14,
+      "Passed": 14,
+      "Failed": 0,
+      "ElapsedSeconds": 9.929
+    },
+    "Logs": ".local/3815最新工程检查.json"
+  }
+}

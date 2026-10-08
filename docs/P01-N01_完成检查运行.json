@@ -1,0 +1,58 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P01-N01",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "chunk_id": "9609a4",
+      "wall_time_seconds": 1.67e-05,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "chunk_id": "6d4b01",
+      "wall_time_seconds": 4.21e-05,
+      "exit_code": 0,
+      "original_token_count": 177,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 396,\r\n  \"DeepSelfReviewedTasksWithRecords\": 396,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python -m unittest discover -s tests -v",
+      "chunk_id": "ee1c74",
+      "wall_time_seconds": 9.8732045,
+      "exit_code": 0,
+      "original_token_count": 508,
+      "output": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\r\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\r\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\r\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\r\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\r\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\r\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\r\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\r\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\r\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\r\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\r\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\r\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\r\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 14 tests in 10.730s\r\n\r\nOK\r\n"
+    },
+    {
+      "cmd": "python .local/P01-N01_全点验证.py",
+      "chunk_id": "72e057",
+      "wall_time_seconds": 5.015656,
+      "original_token_count": 0,
+      "output": "{\n  \"DirectDeepReads\": 396,\n  \"Passed\": 396,\n  \"NewCompleteExamples\": 212,\n  \"PointResolved\": 334,\n  \"PointRemaining\": 0,\n  \"StageResolved\": 334,\n  \"StageTarget\": 1000,\n  \"NextPoint\": \"P01-N02\",\n  \"Next\": \"L09-T0087\",\n  \"GlobalPending\": 3481,\n  \"MissingDeepNotMarkedComplete\": true,\n  \"FixedStageTargetsAndAtMostThreePoints\": true,\n  \"OriginalBaselinesUnchanged\": true,\n  \"PriorReceiptsAndGitIndexUnchanged\": true,\n  \"HistoricalFilesUnchanged\": true,\n  \"SingleSectionBoundary\": true,\n  \"MathSpotChecks\": [\n    {\n      \"Check\": \"24mm水平视角\",\n      \"Computed\": 73.73979529168804,\n      \"ExpectedApprox\": 73.7\n    },\n    {\n      \"Check\": \"45mm水平视角\",\n      \"Computed\": 43.60281897270362,\n      \"ExpectedApprox\": 43.6\n    },\n    {\n      \"Check\": \"16mm水平视角\",\n      \"Computed\": 96.73292132685961,\n      \"ExpectedApprox\": 96.7\n    },\n    {\n      \"Check\": \"35mm水平视角\",\n      \"Computed\": 54.43222311461495,\n      \"ExpectedApprox\": 54.4\n    },\n    {\n      \"Check\": \"1:1微距占宽\",\n      \"Computed\": 27.77777777777778,\n      \"ExpectedApprox\": 27.8\n    },\n    {\n      \"Check\": \"35mm变焦量/3秒\",\n      \"Computed\": 11.666666666666666,\n      \"ExpectedApprox\": 11.67\n    },\n    {\n      \"Check\": \"暗角0.7亮度档差\",\n      \"Computed\": 0.5145731728297583,\n      \"ExpectedApprox\": 0.515\n    },\n    {\n      \"Check\": \"10比1光比档差\",\n      \"Computed\": 3.321928094887362,\n      \"ExpectedApprox\": 3.32\n    },\n    {\n      \"Check\": \"Loop灯高\",\n      \"Computed\": 2.0660254037844386,\n      \"ExpectedApprox\": 2.07\n    },\n    {\n      \"Check\": \"10度太阳影长\",\n      \"Computed\": 9.641179093350106,\n      \"ExpectedApprox\": 9.64\n    },\n    {\n      \"Check\": \"高低眼线角\",\n      \"Computed\": 11.309932474020215,\n      \"ExpectedApprox\": 11.3\n    },\n    {\n      \"Check\": \"90度走圈弧长\",\n      \"Computed\": 2.356194490192345,\n      \"ExpectedApprox\": 2.36\n    },\n    {\n      \"Check\": \"迷踪三段路径\",\n      \"Computed\": 2.121320343559643,\n      \"ExpectedApprox\": 2.12\n    }\n  ],\n  \"ExternalGenerationPerformed\": false\n}\n",
+      "exit_code": 0,
+      "OutputCapture": "Completed stdout JSON transcribed from tool output d8f783"
+    }
+  ],
+  "Scope": "原文、文本自审记录、396独立检索、数值抽核、回归和可迁移性；未生成验证",
+  "PostClosureChecks": [
+    {
+      "Command": "python tools/check_project.py",
+      "chunk_id": "a05379",
+      "wall_time_seconds": 1.1811344,
+      "exit_code": 0,
+      "original_token_count": 177,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 396,\r\n  \"DeepSelfReviewedTasksWithRecords\": 396,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "Command": "Python final task-point/stage/checkpoint/Git-index consistency assertions",
+      "chunk_id": "0caf7d",
+      "wall_time_seconds": 0.393078,
+      "exit_code": 0,
+      "original_token_count": 32,
+      "output": "Final state consistent: point completed334, stage334/1000, global396, next plannedP01-N02, remaining3481; Git index unchanged.\r\n"
+    }
+  ]
+}

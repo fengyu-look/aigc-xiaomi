@@ -1,0 +1,51 @@
+{
+  "Date": "2026-10-06",
+  "TaskIds": [
+    "L01-T0062"
+  ],
+  "Review": "docs/深度扩写审查_L01_0062.md",
+  "OriginalBaselinesChanged": false,
+  "Runs": [
+    {
+      "name": "project_check_62",
+      "cmd": "python -X utf8 tools/check_project.py",
+      "chunk_id": "aa6ae5",
+      "wall_time_seconds": 1.1044355,
+      "exit_code": 0,
+      "original_token_count": 177,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 62,\r\n  \"DeepSelfReviewedTasksWithRecords\": 62,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "name": "unit_tests_62",
+      "cmd": "python -X utf8 -m unittest discover -s tests -v",
+      "chunk_id": "0e6d91",
+      "wall_time_seconds": 9.8602601,
+      "exit_code": 0,
+      "original_token_count": 508,
+      "output": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\r\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\r\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\r\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\r\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\r\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\r\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\r\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\r\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\r\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\r\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\r\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\r\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\r\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 14 tests in 9.425s\r\n\r\nOK\r\n"
+    },
+    {
+      "name": "refresh_dry_run_62",
+      "cmd": "python -X utf8 tools/refresh_index.py --dry-run",
+      "chunk_id": "5fc842",
+      "wall_time_seconds": 0.9707512,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "name": "direct_deep_reads_62",
+      "cmd": "python -X utf8 .local/继续第62条_检索验证.py",
+      "chunk_id": "be29d5",
+      "wall_time_seconds": 5.6602581,
+      "exit_code": 0,
+      "original_token_count": 53,
+      "output": "{\r\n  \"DirectDeepReads\": 62,\r\n  \"Passed\": 62,\r\n  \"SingleSectionBoundary\": true,\r\n  \"OriginalAndDeepJointRead\": true,\r\n  \"NewEntryCompleteExampleAndParameters\": true,\r\n  \"NextEntryNotIndexedAsExpanded\": true\r\n}\r\n"
+    }
+  ],
+  "FullScopeComplete": false,
+  "ExternalGenerationPerformed": false,
+  "WritingAndAISelfReviewedTotal": 62,
+  "NextTaskId": "L01-T0063",
+  "PriorEntryContentChange": "L01-T0061新增段落边界换行；其余先前深度段落哈希保持"
+}

@@ -1,0 +1,30 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P03-N02",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "chunk_id": "447aeb",
+      "wall_time_seconds": 0.9468472,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "chunk_id": "f3d0e8",
+      "wall_time_seconds": 2.5886857,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 2728,\r\n  \"DeepSelfReviewedTasksWithRecords\": 2728,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python .local/P03-N02_关闭后一致性.py",
+      "chunk_id": "723739",
+      "wall_time_seconds": 0.4746987,
+      "exit_code": 0,
+      "original_token_count": 126,
+      "output": "{\"Status\": \"passed\", \"PointComplete\": true, \"Resolved\": 333, \"Written\": 332, \"Excluded\": 1, \"GlobalWritten\": 2728, \"GlobalExcluded\": 1, \"Pending\": 1148, \"P03StageResolved\": 667, \"P03StageWritten\": 666, \"P03StageExcluded\": 1, \"StageRemaining\": 333, \"FourStageResolved\": 2667, \"NextPointPlanned\": \"P03-N03\", \"NextTask\": \"L40-T0020\", \"OriginalAndPriorReceiptsAndGitIndexPreservedFiles\": 219, \"PriorP01P02AcceptanceAndP03N01Unchanged\": true, \"FullTaskComplete\": false, \"ExternalGenerationPerformed\": false}\r\n"
+    }
+  ]
+}

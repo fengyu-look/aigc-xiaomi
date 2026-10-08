@@ -1,0 +1,34 @@
+{
+  "TaskPointId": "P04-N03",
+  "SourcesActuallyRead": [
+    "SRC001全文72字及应用层",
+    "SRC013全文全部字段与9格/应用层",
+    "SRC014全文全部协议/防护/联网/沉浸与应用层",
+    "SRC049全文三步/三框/自检/应用层"
+  ],
+  "AuthoredSourceIds": [
+    "SRC001",
+    "SRC013",
+    "SRC014",
+    "SRC049"
+  ],
+  "Scope": "逐源实际全文阅读和逐字段新增草稿；尚未接入登记，不按存在自动完成",
+  "LibraryCandidatesAdded": 0,
+  "ExternalLinkAttempt": {
+    "URL": "https://link3.cc/f728",
+    "Result": "tool inaccessible; remote content not read, no feedback submitted"
+  },
+  "PrimaryWebActuallyRead": [
+    {
+      "URL": "https://help.suno.com/en/articles/3726721",
+      "Scope": "实际全文35行Custom Mode功能步骤，未验证本机端/版本/精确BPM/时长"
+    },
+    {
+      "URL": "https://docs.blender.org/manual/ar/5.0/modeling/geometry_nodes/input/scene/camera_info.html",
+      "Scope": "实际检索可见全条目相机输出参数，透视focal length、sensor与正交scale；未安装/运行"
+    }
+  ],
+  "OriginalConstraintsKept": true,
+  "IndependentContentReview": "pending",
+  "ActualMediaVerification": "not_performed"
+}

@@ -1,0 +1,78 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P01-N03",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "chunk_id": "783fe6",
+      "wall_time_seconds": 0.000019,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "chunk_id": "c5043f",
+      "wall_time_seconds": 0.0000075,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 1062,\r\n  \"DeepSelfReviewedTasksWithRecords\": 1062,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python -m unittest discover -s tests -v",
+      "chunk_id": "1a1160",
+      "wall_time_seconds": 8.225816,
+      "exit_code": 0,
+      "original_token_count": 508,
+      "output": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\r\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\r\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\r\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\r\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\r\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\r\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\r\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\r\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\r\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\r\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\r\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\r\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\r\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 14 tests in 9.105s\r\n\r\nOK\r\n"
+    },
+    {
+      "cmd": "python .local/P01-N03_全点与阶段验证.py",
+      "session_id": 82326,
+      "output": "已核验 334/1062 独立深度读取\r\n已核验 667/1062 独立深度读取\r\n已核验 1000/1062 独立深度读取\r\n{\r\n  \"DirectDeepReads\": 1062,\r\n  \"Passed\": 1062,\r\n  \"NewCompleteExamples\": 333,\r\n  \"PointResolved\": 333,\r\n  \"PointRemaining\": 0,\r\n  \"StageCoveragePassed\": 1000,\r\n  \"StageResolved\": 1000,\r\n  \"StageTarget\": 1000,\r\n  \"NextPoint\": \"P02-N01\",\r\n  \"Next\": \"L15-T0054\",\r\n  \"GlobalPending\": 2815,\r\n  \"MissingDeepNotMarkedComplete\": true,\r\n  \"FixedStageTargetsAndAtMostThreePoints\": true,\r\n  \"OriginalBaselinesUnchanged\": true,\r\n  \"PriorReceiptsAndGitIndexUnchanged\": true,\r\n  \"HistoricalFilesUnchanged\": true,\r\n  \"OldCanonicalBytePrefixesPreserved\": true,\r\n  \"PriorL12DeepTextsPreserved\": true,\r\n  \"SingleSectionBoundary\": true,\r\n  \"MathAuditCount\": 73,\r\n  \"IndependentMathRecalculation\": {\r\n    \"四段各十帧成片秒\": 1.6666666666666667,\r\n    \"24fps三帧窗口秒\": 0.125,\r\n    \"十秒一眨平均每分钟\": 6.0,\r\n    \"孔径3到4.2增长百分比\": 40.000000000000014,\r\n    \"指数五半衰期剩余毫米\": 0.125,\r\n    \"人物门同比像素高\": 1035.2941176470588,\r\n    \"半圆0.8米六秒速度\": 0.41887902047863906,\r\n    \"太空前匀后减总米\": 4.0,\r\n    \"灰人头身比\": 3.0,\r\n    \"头顶肩点衣摆高度厘米\": 15\r\n  },\r\n  \"CoverageReport\": \"docs/P01_阶段覆盖核验.json\",\r\n  \"PreservedManifestFiles\": 188,\r\n  \"ExternalGenerationPerformed\": false\r\n}\r\n",
+      "chunk_id": "ab31d4",
+      "wall_time_seconds": 0.00001,
+      "exit_code": 0,
+      "original_token_count": 338
+    }
+  ],
+  "RepairedCheckAttempts": [
+    {
+      "cmd": "python .local/P01-N03_全点与阶段验证.py",
+      "chunk_id": "be4bfe",
+      "wall_time_seconds": 5.4919564,
+      "exit_code": 1,
+      "original_token_count": 110,
+      "output": "Traceback (most recent call last):\r\n  File \"C:\\Users\\Administrator\\Desktop\\AIGC小秘\\.local\\P01-N03_全点与阶段验证.py\", line 23, in <module>\r\n    assert e['InventoryDecision']=='included' and e.get('InventoryEvidence') and e['Evidence'].get('Sources') and len(seg)>300,task\r\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\nAssertionError: L01-T0063\r\n"
+    }
+  ],
+  "RepairExplanation": "全量阶段核验器起初要求每条显式InventoryEvidence，首批58条旧结构仅有InventoryReason与既有逐条ContentReview；核实后按实际旧理由和原审查证据读取，不改原内容。最终1062检索及阶段1000覆盖通过。",
+  "PostClosureChecks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "chunk_id": "d64a0f",
+      "wall_time_seconds": 0.9227439,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "chunk_id": "3dd3be",
+      "wall_time_seconds": 1.6015817,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 1062,\r\n  \"DeepSelfReviewedTasksWithRecords\": 1062,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python .local/P01-N03_关闭后一致性.py",
+      "chunk_id": "4bb498",
+      "wall_time_seconds": 0.3975972,
+      "exit_code": 0,
+      "original_token_count": 145,
+      "output": "{\r\n  \"Point\": \"P01-N03\",\r\n  \"PointStatus\": \"completed\",\r\n  \"PointWritten\": 333,\r\n  \"Stage\": \"P01\",\r\n  \"StageStatus\": \"completed\",\r\n  \"StageWritten\": 1000,\r\n  \"StagePoints\": [\r\n    334,\r\n    333,\r\n    333\r\n  ],\r\n  \"GlobalWritten\": 1062,\r\n  \"GlobalPending\": 2815,\r\n  \"NextPoint\": \"P02-N01\",\r\n  \"NextPointStatus\": \"planned\",\r\n  \"NextPointTarget\": 334,\r\n  \"NextId\": \"L15-T0054\",\r\n  \"LegacyEvidenceBackfilled\": 58,\r\n  \"StageReviewHashesPreserved\": true,\r\n  \"PriorReceiptsAndSourcesAndGitIndexPreserved\": true,\r\n  \"FullTaskComplete\": false,\r\n  \"ExternalGenerationPerformed\": false\r\n}\r\n"
+    }
+  ],
+  "FinalResult": "本点333/333完成，第一阶段1000/1000验收通过；全局1062，剩2815；下一P02-N01 planned。",
+  "ExternalGenerationPerformed": false
+}

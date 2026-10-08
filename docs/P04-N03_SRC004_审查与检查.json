@@ -1,0 +1,116 @@
+{
+  "SourceId": "SRC004",
+  "ReviewedOriginalTopics": 20,
+  "ComparedOriginalFields": 80,
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC004-S001",
+      "Title": "20条完整来源与两个合集章06",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "20全文/80字段/7差异实际读与分类，自动门实现为设计不更改原稿",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "4770DFA2F01D13019137C17DD1D7F9010E06BDBB3BF92DDE3AD75F97DA26113E",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S002",
+      "Title": "原数值与其测量口径逐一保留",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "原三层/＞5m/3个以上/四处比例与距离分类保留，比例口径先约定且不称已测",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "EDA32015023D29F6510C7C923CBBD14365964BE10C15AA58120AF416AF903B4C",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S003",
+      "Title": "门框、按钮和两人起点完整地图",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "开放6×8预演和独立门框，避免隔墙遮住按钮；左铰/保守扫域/2成人/固定BTN",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "B3E25F47057742B4B6B5C7913BA8F4ED38E7ED0EAADF9B88EF7FBD29B3FC4173",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S004",
+      "Title": "B让路与A通过的明确时间窗",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "B朝西背退东.6，A2—6北行3m，t6离扫区.59米简化余量",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "06715929DE7906F5A7D7D3849F14AE2FEDF573ACF01773076B1B3E878DC0D682",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S005",
+      "Title": "B按固定按钮、自动关门与手部状态",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "B6—7右转西→北，右指表面Q/单触发，门7.25—9.25闭，无抓门把",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1591986B47A166B74811A096289707C2FFDAD809069EB5EE80FBBD41DB465937",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S006",
+      "Title": "摄影机、声音、帧号与完整单镜提示",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "全景单镜完整输入/240帧+48门帧并行/实际声事件，无对白音乐",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1FEE6AD516FC3601EAF41C83744505DD115149C83625CACDEB397F0BDB8B8507",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S007",
+      "Title": "距离与叙事不能凭阈值自动判心理",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "1.5→1.9209→1.5→2.3431米纯通行，不能误判情感或心理",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "87E61F34EF8A0108EC16C680022ED543859EB8410FC597EB47DF82347933E0D5",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC004-S008",
+      "Title": "资产计划、故障修复与完整交接",
+      "SourceId": "SRC004",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/场面调度库_原文与应用扩写.md",
+      "ActualReviewObservation": "计划资产无文件、故障逐具体状态修复、t10双方手空/门闭交接",
+      "Review": "完整原20及新增8段、7字段差异逐项文本自审",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "ABD5F981C59D9CE33940359E9DA3300D70DC37162F1178E0F7485D2F2AF6B61F",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "Review": "docs/P04-N03_SRC004_逐字段与工作流审查.md",
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Retrieval": "8实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_SRC004_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false
+}

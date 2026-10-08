@@ -1,0 +1,2245 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P04-N02",
+  "TaskPointStatus": "completed",
+  "TaskPointComplete": true,
+  "PlannedCandidateCount": 272,
+  "FirstTaskId": "L51-T0050",
+  "LastTaskId": "L57-T0021",
+  "NewWritingAndSelfReviewedCount": 272,
+  "CumulativeWritingAndSelfReviewedCountInPoint": 272,
+  "ExcludedWithReviewEvidenceCountInPoint": 0,
+  "ExcludedTaskIds": [],
+  "ResolvedCandidatesInPoint": 272,
+  "RemainingCandidatesInPoint": 0,
+  "CurrentGlobalWritingAndSelfReviewedCount": 3605,
+  "CurrentGlobalExcludedCount": 1,
+  "RemainingGlobalCandidates": 271,
+  "BaselineCompletedCount": 62,
+  "StageProgress": {
+    "StageId": "P04",
+    "Written": 544,
+    "Excluded": 0,
+    "Resolved": 544,
+    "Target": 815,
+    "Remaining": 271,
+    "Status": "in_progress"
+  },
+  "FourStageWritten": 3543,
+  "FourStageResolved": 3544,
+  "NextTaskPointId": "P04-N03",
+  "NextTaskPointStatus": "planned",
+  "NextTaskId": "L57-T0022",
+  "NextTitle": "室外场景",
+  "CompletedNewTaskIds": [
+    "L51-T0050",
+    "L52-T0001",
+    "L52-T0002",
+    "L52-T0003",
+    "L52-T0004",
+    "L52-T0005",
+    "L52-T0006",
+    "L52-T0007",
+    "L52-T0008",
+    "L52-T0009",
+    "L52-T0010",
+    "L52-T0011",
+    "L52-T0012",
+    "L52-T0013",
+    "L52-T0014",
+    "L52-T0015",
+    "L52-T0016",
+    "L52-T0017",
+    "L52-T0018",
+    "L52-T0019",
+    "L52-T0020",
+    "L52-T0021",
+    "L52-T0022",
+    "L52-T0023",
+    "L52-T0024",
+    "L52-T0025",
+    "L52-T0026",
+    "L52-T0027",
+    "L52-T0028",
+    "L52-T0029",
+    "L52-T0030",
+    "L52-T0031",
+    "L52-T0032",
+    "L52-T0033",
+    "L52-T0034",
+    "L52-T0035",
+    "L52-T0036",
+    "L52-T0037",
+    "L52-T0038",
+    "L52-T0039",
+    "L52-T0040",
+    "L52-T0041",
+    "L52-T0042",
+    "L52-T0043",
+    "L52-T0044",
+    "L52-T0045",
+    "L52-T0046",
+    "L52-T0047",
+    "L52-T0048",
+    "L52-T0049",
+    "L52-T0050",
+    "L53-T0001",
+    "L53-T0002",
+    "L53-T0003",
+    "L53-T0004",
+    "L53-T0005",
+    "L53-T0006",
+    "L53-T0007",
+    "L53-T0008",
+    "L53-T0009",
+    "L53-T0010",
+    "L53-T0011",
+    "L53-T0012",
+    "L53-T0013",
+    "L53-T0014",
+    "L53-T0015",
+    "L53-T0016",
+    "L53-T0017",
+    "L53-T0018",
+    "L53-T0019",
+    "L53-T0020",
+    "L53-T0021",
+    "L53-T0022",
+    "L53-T0023",
+    "L53-T0024",
+    "L53-T0025",
+    "L53-T0026",
+    "L53-T0027",
+    "L53-T0028",
+    "L53-T0029",
+    "L53-T0030",
+    "L53-T0031",
+    "L53-T0032",
+    "L53-T0033",
+    "L53-T0034",
+    "L53-T0035",
+    "L53-T0036",
+    "L53-T0037",
+    "L53-T0038",
+    "L53-T0039",
+    "L53-T0040",
+    "L53-T0041",
+    "L53-T0042",
+    "L53-T0043",
+    "L53-T0044",
+    "L53-T0045",
+    "L53-T0046",
+    "L53-T0047",
+    "L53-T0048",
+    "L53-T0049",
+    "L53-T0050",
+    "L54-T0001",
+    "L54-T0002",
+    "L54-T0003",
+    "L54-T0004",
+    "L54-T0005",
+    "L54-T0006",
+    "L54-T0007",
+    "L54-T0008",
+    "L54-T0009",
+    "L54-T0010",
+    "L54-T0011",
+    "L54-T0012",
+    "L54-T0013",
+    "L54-T0014",
+    "L54-T0015",
+    "L54-T0016",
+    "L54-T0017",
+    "L54-T0018",
+    "L54-T0019",
+    "L54-T0020",
+    "L54-T0021",
+    "L54-T0022",
+    "L54-T0023",
+    "L54-T0024",
+    "L54-T0025",
+    "L54-T0026",
+    "L54-T0027",
+    "L54-T0028",
+    "L54-T0029",
+    "L54-T0030",
+    "L54-T0031",
+    "L54-T0032",
+    "L54-T0033",
+    "L54-T0034",
+    "L54-T0035",
+    "L54-T0036",
+    "L54-T0037",
+    "L54-T0038",
+    "L54-T0039",
+    "L54-T0040",
+    "L54-T0041",
+    "L54-T0042",
+    "L54-T0043",
+    "L54-T0044",
+    "L54-T0045",
+    "L54-T0046",
+    "L54-T0047",
+    "L54-T0048",
+    "L54-T0049",
+    "L54-T0050",
+    "L55-T0001",
+    "L55-T0002",
+    "L55-T0003",
+    "L55-T0004",
+    "L55-T0005",
+    "L55-T0006",
+    "L55-T0007",
+    "L55-T0008",
+    "L55-T0009",
+    "L55-T0010",
+    "L55-T0011",
+    "L55-T0012",
+    "L55-T0013",
+    "L55-T0014",
+    "L55-T0015",
+    "L55-T0016",
+    "L55-T0017",
+    "L55-T0018",
+    "L55-T0019",
+    "L55-T0020",
+    "L55-T0021",
+    "L55-T0022",
+    "L55-T0023",
+    "L55-T0024",
+    "L55-T0025",
+    "L55-T0026",
+    "L55-T0027",
+    "L55-T0028",
+    "L55-T0029",
+    "L55-T0030",
+    "L55-T0031",
+    "L55-T0032",
+    "L55-T0033",
+    "L55-T0034",
+    "L55-T0035",
+    "L55-T0036",
+    "L55-T0037",
+    "L55-T0038",
+    "L55-T0039",
+    "L55-T0040",
+    "L55-T0041",
+    "L55-T0042",
+    "L55-T0043",
+    "L55-T0044",
+    "L55-T0045",
+    "L55-T0046",
+    "L55-T0047",
+    "L55-T0048",
+    "L55-T0049",
+    "L55-T0050",
+    "L56-T0001",
+    "L56-T0002",
+    "L56-T0003",
+    "L56-T0004",
+    "L56-T0005",
+    "L56-T0006",
+    "L56-T0007",
+    "L56-T0008",
+    "L56-T0009",
+    "L56-T0010",
+    "L56-T0011",
+    "L56-T0012",
+    "L56-T0013",
+    "L56-T0014",
+    "L56-T0015",
+    "L56-T0016",
+    "L56-T0017",
+    "L56-T0018",
+    "L56-T0019",
+    "L56-T0020",
+    "L56-T0021",
+    "L56-T0022",
+    "L56-T0023",
+    "L56-T0024",
+    "L56-T0025",
+    "L56-T0026",
+    "L56-T0027",
+    "L56-T0028",
+    "L56-T0029",
+    "L56-T0030",
+    "L56-T0031",
+    "L56-T0032",
+    "L56-T0033",
+    "L56-T0034",
+    "L56-T0035",
+    "L56-T0036",
+    "L56-T0037",
+    "L56-T0038",
+    "L56-T0039",
+    "L56-T0040",
+    "L56-T0041",
+    "L56-T0042",
+    "L56-T0043",
+    "L56-T0044",
+    "L56-T0045",
+    "L56-T0046",
+    "L56-T0047",
+    "L56-T0048",
+    "L56-T0049",
+    "L56-T0050",
+    "L57-T0001",
+    "L57-T0002",
+    "L57-T0003",
+    "L57-T0004",
+    "L57-T0005",
+    "L57-T0006",
+    "L57-T0007",
+    "L57-T0008",
+    "L57-T0009",
+    "L57-T0010",
+    "L57-T0011",
+    "L57-T0012",
+    "L57-T0013",
+    "L57-T0014",
+    "L57-T0015",
+    "L57-T0016",
+    "L57-T0017",
+    "L57-T0018",
+    "L57-T0019",
+    "L57-T0020",
+    "L57-T0021"
+  ],
+  "CompletedPointTaskIds": [
+    "L51-T0050",
+    "L52-T0001",
+    "L52-T0002",
+    "L52-T0003",
+    "L52-T0004",
+    "L52-T0005",
+    "L52-T0006",
+    "L52-T0007",
+    "L52-T0008",
+    "L52-T0009",
+    "L52-T0010",
+    "L52-T0011",
+    "L52-T0012",
+    "L52-T0013",
+    "L52-T0014",
+    "L52-T0015",
+    "L52-T0016",
+    "L52-T0017",
+    "L52-T0018",
+    "L52-T0019",
+    "L52-T0020",
+    "L52-T0021",
+    "L52-T0022",
+    "L52-T0023",
+    "L52-T0024",
+    "L52-T0025",
+    "L52-T0026",
+    "L52-T0027",
+    "L52-T0028",
+    "L52-T0029",
+    "L52-T0030",
+    "L52-T0031",
+    "L52-T0032",
+    "L52-T0033",
+    "L52-T0034",
+    "L52-T0035",
+    "L52-T0036",
+    "L52-T0037",
+    "L52-T0038",
+    "L52-T0039",
+    "L52-T0040",
+    "L52-T0041",
+    "L52-T0042",
+    "L52-T0043",
+    "L52-T0044",
+    "L52-T0045",
+    "L52-T0046",
+    "L52-T0047",
+    "L52-T0048",
+    "L52-T0049",
+    "L52-T0050",
+    "L53-T0001",
+    "L53-T0002",
+    "L53-T0003",
+    "L53-T0004",
+    "L53-T0005",
+    "L53-T0006",
+    "L53-T0007",
+    "L53-T0008",
+    "L53-T0009",
+    "L53-T0010",
+    "L53-T0011",
+    "L53-T0012",
+    "L53-T0013",
+    "L53-T0014",
+    "L53-T0015",
+    "L53-T0016",
+    "L53-T0017",
+    "L53-T0018",
+    "L53-T0019",
+    "L53-T0020",
+    "L53-T0021",
+    "L53-T0022",
+    "L53-T0023",
+    "L53-T0024",
+    "L53-T0025",
+    "L53-T0026",
+    "L53-T0027",
+    "L53-T0028",
+    "L53-T0029",
+    "L53-T0030",
+    "L53-T0031",
+    "L53-T0032",
+    "L53-T0033",
+    "L53-T0034",
+    "L53-T0035",
+    "L53-T0036",
+    "L53-T0037",
+    "L53-T0038",
+    "L53-T0039",
+    "L53-T0040",
+    "L53-T0041",
+    "L53-T0042",
+    "L53-T0043",
+    "L53-T0044",
+    "L53-T0045",
+    "L53-T0046",
+    "L53-T0047",
+    "L53-T0048",
+    "L53-T0049",
+    "L53-T0050",
+    "L54-T0001",
+    "L54-T0002",
+    "L54-T0003",
+    "L54-T0004",
+    "L54-T0005",
+    "L54-T0006",
+    "L54-T0007",
+    "L54-T0008",
+    "L54-T0009",
+    "L54-T0010",
+    "L54-T0011",
+    "L54-T0012",
+    "L54-T0013",
+    "L54-T0014",
+    "L54-T0015",
+    "L54-T0016",
+    "L54-T0017",
+    "L54-T0018",
+    "L54-T0019",
+    "L54-T0020",
+    "L54-T0021",
+    "L54-T0022",
+    "L54-T0023",
+    "L54-T0024",
+    "L54-T0025",
+    "L54-T0026",
+    "L54-T0027",
+    "L54-T0028",
+    "L54-T0029",
+    "L54-T0030",
+    "L54-T0031",
+    "L54-T0032",
+    "L54-T0033",
+    "L54-T0034",
+    "L54-T0035",
+    "L54-T0036",
+    "L54-T0037",
+    "L54-T0038",
+    "L54-T0039",
+    "L54-T0040",
+    "L54-T0041",
+    "L54-T0042",
+    "L54-T0043",
+    "L54-T0044",
+    "L54-T0045",
+    "L54-T0046",
+    "L54-T0047",
+    "L54-T0048",
+    "L54-T0049",
+    "L54-T0050",
+    "L55-T0001",
+    "L55-T0002",
+    "L55-T0003",
+    "L55-T0004",
+    "L55-T0005",
+    "L55-T0006",
+    "L55-T0007",
+    "L55-T0008",
+    "L55-T0009",
+    "L55-T0010",
+    "L55-T0011",
+    "L55-T0012",
+    "L55-T0013",
+    "L55-T0014",
+    "L55-T0015",
+    "L55-T0016",
+    "L55-T0017",
+    "L55-T0018",
+    "L55-T0019",
+    "L55-T0020",
+    "L55-T0021",
+    "L55-T0022",
+    "L55-T0023",
+    "L55-T0024",
+    "L55-T0025",
+    "L55-T0026",
+    "L55-T0027",
+    "L55-T0028",
+    "L55-T0029",
+    "L55-T0030",
+    "L55-T0031",
+    "L55-T0032",
+    "L55-T0033",
+    "L55-T0034",
+    "L55-T0035",
+    "L55-T0036",
+    "L55-T0037",
+    "L55-T0038",
+    "L55-T0039",
+    "L55-T0040",
+    "L55-T0041",
+    "L55-T0042",
+    "L55-T0043",
+    "L55-T0044",
+    "L55-T0045",
+    "L55-T0046",
+    "L55-T0047",
+    "L55-T0048",
+    "L55-T0049",
+    "L55-T0050",
+    "L56-T0001",
+    "L56-T0002",
+    "L56-T0003",
+    "L56-T0004",
+    "L56-T0005",
+    "L56-T0006",
+    "L56-T0007",
+    "L56-T0008",
+    "L56-T0009",
+    "L56-T0010",
+    "L56-T0011",
+    "L56-T0012",
+    "L56-T0013",
+    "L56-T0014",
+    "L56-T0015",
+    "L56-T0016",
+    "L56-T0017",
+    "L56-T0018",
+    "L56-T0019",
+    "L56-T0020",
+    "L56-T0021",
+    "L56-T0022",
+    "L56-T0023",
+    "L56-T0024",
+    "L56-T0025",
+    "L56-T0026",
+    "L56-T0027",
+    "L56-T0028",
+    "L56-T0029",
+    "L56-T0030",
+    "L56-T0031",
+    "L56-T0032",
+    "L56-T0033",
+    "L56-T0034",
+    "L56-T0035",
+    "L56-T0036",
+    "L56-T0037",
+    "L56-T0038",
+    "L56-T0039",
+    "L56-T0040",
+    "L56-T0041",
+    "L56-T0042",
+    "L56-T0043",
+    "L56-T0044",
+    "L56-T0045",
+    "L56-T0046",
+    "L56-T0047",
+    "L56-T0048",
+    "L56-T0049",
+    "L56-T0050",
+    "L57-T0001",
+    "L57-T0002",
+    "L57-T0003",
+    "L57-T0004",
+    "L57-T0005",
+    "L57-T0006",
+    "L57-T0007",
+    "L57-T0008",
+    "L57-T0009",
+    "L57-T0010",
+    "L57-T0011",
+    "L57-T0012",
+    "L57-T0013",
+    "L57-T0014",
+    "L57-T0015",
+    "L57-T0016",
+    "L57-T0017",
+    "L57-T0018",
+    "L57-T0019",
+    "L57-T0020",
+    "L57-T0021"
+  ],
+  "Review": "docs/深度扩写审查_P04-N02_272条.md",
+  "VersionComparison": "docs/P04-N02_来源对读.json",
+  "Checks": [],
+  "FullTaskComplete": false,
+  "IndependentContentReview": "pending_except_limited_feedback",
+  "ExternalGenerationPerformed": false,
+  "ExistingEvidenceUpdates": [
+    {
+      "TaskId": "L51-T0049",
+      "Before": "F42CC20201A16D43BD3B9A2B4F7D9CC85713227928795BA237031067703D7B88",
+      "After": "36BF4D6955740596FF3FB3C0CCF5689F4BE5F7F2EDC1F7B589B7BFF36EFE5B9B",
+      "Reason": "append boundary whitespace only; previous body preserved"
+    }
+  ],
+  "CompletionScope": "272逐条文本写作、执行方自审、来源范围与设计关系、具体交接、正式检索及工程检查；独立完整内容与实际素材尚未验证",
+  "ChecksReport": "docs/P04-N02_完成检查运行.json",
+  "DirectDeepReadsPassed": 3605,
+  "NumericRelationshipChecksPassed": 41,
+  "PointCoverage": [
+    {
+      "TaskId": "L51-T0050",
+      "DeepSHA256": "659BC3285B2AF6BBFD3F46BD7CB574C60203FAEB5B0CDE889C7AD09265719B23",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0001",
+      "DeepSHA256": "6376B3179902A5EE2EAAF5BCF5CA1BA56EEBA75A0E58660619AC1EEB8FEF04D6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0002",
+      "DeepSHA256": "481FDF20B81F6313F4436BB59365CA707C6A21C674E60C15281EE53A14B9CF14",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0003",
+      "DeepSHA256": "17FAD754C380192E285D58A16526AA367652AE5768D72C24E54CECD09ACDBD4D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0004",
+      "DeepSHA256": "FA4C68B4D23CB6FF6CAF4DD761469D167E5D039DA074F69C9AC923F0FD6A9245",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0005",
+      "DeepSHA256": "DA988315D7F66398A40AF7C46B4E7643C2F17671A11980615B530FF36DE73D51",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0006",
+      "DeepSHA256": "AC24C12A7A078AD640ABBB7313FB1C01FE9AECA344A3A3C72CBBB2B790865663",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0007",
+      "DeepSHA256": "9943B15179776E32CF013E1C07D7EA050F3B05659A6314A8461555220540C5F2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0008",
+      "DeepSHA256": "EEB7B11ABA69D7BB3B5DF3811860C3AAF64E26266BCF0B409802FAD8EF9341D2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0009",
+      "DeepSHA256": "C75DCD24E58FFD61CA6750A2BA6483BFF6DF3027C1A07C963F4D215D5806161D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0010",
+      "DeepSHA256": "041D3EAAAC522D09966FBFA988FE06FC651AFE348F6FE2A1C546B5D5D0F793C3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0011",
+      "DeepSHA256": "6BB5624549B5C4711C2FA9404C1EC84E376E6D2A8A1EFE2243C9F44C38A0EE80",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0012",
+      "DeepSHA256": "70DC56DE56984A5A2E1752F03C7CFF8493CD905A003880D4CCD5FDB430673C3F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0013",
+      "DeepSHA256": "987DDB703F5D99926C9824180F0B88DFD886232F87DE91CCE7F5F5B31A2639A5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0014",
+      "DeepSHA256": "703DBA6E0BB5252C69BB1B22A87EFBB2BC02F24B3340A7790499BAAE56AAA2AE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0015",
+      "DeepSHA256": "F420F0FFBEF12176BC6617D8E185940862B12789745031042C4B1BD31E29AE77",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0016",
+      "DeepSHA256": "0AA9D1785AF7275CA26D2030B567401BC9B026A6EE9D84952A028E73764ED4BB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0017",
+      "DeepSHA256": "7D447DF27992BA6282EB2A4FB75B962E0771F1CB137E94300ADBCEFA75A7E241",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0018",
+      "DeepSHA256": "EF15EF74B5C7871CE6548EE5AF31C6F8AD359DF6B1A5C6669C3DDFA63B7B62D9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0019",
+      "DeepSHA256": "2D23888AE5DB3F7EE3C4898A8A8D13B57DF5A9A244901A2E007B409057044C40",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0020",
+      "DeepSHA256": "6F3046E168BC428F2C4D168185D6E1B01151BDDBE0E704538E0CBDC34332557F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0021",
+      "DeepSHA256": "AB1BFE20765383205CF85BF75543A8222BD5EF4C14B2B4CF7202814CA7D61B2A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0022",
+      "DeepSHA256": "A71B78E647DF9A5B6ABF0FE4D96918F533B2D193B67D0CC382D53C717E9DAE1D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0023",
+      "DeepSHA256": "B0CAA976068F3E64D6D472A9B978F7AF801C5B39BD350FCC3C80185850D69228",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0024",
+      "DeepSHA256": "532559CDDD440F8633155F5BB2B9AD1933B33ACDF7E479C168A48ED08DA9E27B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0025",
+      "DeepSHA256": "0E504C94A8316E5142BD6FFC25028ABAC24F8DF48CC353A324EC0D5E7C629A96",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0026",
+      "DeepSHA256": "92D2A12D381A743A93D70EDD44E11EA28A6F56F29B9A63F28E006797132F2FE7",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0027",
+      "DeepSHA256": "D9FD74EC9B68297BEF153FC302E2933D0D761D167FFA134DEB7BED1E11C1ED64",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0028",
+      "DeepSHA256": "586246E238F1D31065EFAFE445E3B58D925A5D6F55C3213294C284EEE3E84875",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0029",
+      "DeepSHA256": "00092AB605429654AFB6AD71DCB7713042534D6977AC38162D57CA1FDDBF4341",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0030",
+      "DeepSHA256": "7E955E86F09CE59346BACAA7E657CE3834EA1DB1CBDBE4E81F5D6F54E27FB9BB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0031",
+      "DeepSHA256": "8D419DF213834210BE2A63366C0709F5F06637129832C12D2861A4794EFEAFD0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0032",
+      "DeepSHA256": "57BC4A29C4B01A3636035010B3AB9A5897BEC9DD5C42CF03CA5DF22344C12D7A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0033",
+      "DeepSHA256": "074769A7EE7CC521ACE072673C12E6E9C04D6C757B270896BB1B247465D94DC8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0034",
+      "DeepSHA256": "7F964E60E7B2D7F02BD08AF5B258A64D8E60930D2B658FA7B3C419834D6572C0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0035",
+      "DeepSHA256": "20326AC615D1AEFFA971D3A9AE27758C2474E42E5E80BC9D6F2400DF7D9A3E34",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0036",
+      "DeepSHA256": "258F0DFE4C4D886C06D42940073763AB2C6317BE68FD91CD0D8F784E058D89EC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0037",
+      "DeepSHA256": "6556C396EE1A09BFA494449C6FF179B9AE69E95FE6915741BAA60E407A89E6A7",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0038",
+      "DeepSHA256": "FB5D2A1AC7AC177169F5C60E0295DADBCABA58702BB956B3BFF80F7CEB956CF0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0039",
+      "DeepSHA256": "E42501C30FE813C82A87ACE9E02DB78300C005BA4106D15E7431583A6CFE97AD",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0040",
+      "DeepSHA256": "48CC820E2CDC163214AC958109AA9AE89F104B965E9E2CA794AD0A885262DF86",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0041",
+      "DeepSHA256": "640B52C6380BFFF52B10D7815B5150BB50D3E699FA027A8172474D132E9430A9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0042",
+      "DeepSHA256": "C46E4E075FC97819140E886C23D940D56A01E0EE7D7B54C27B2A8B19E223F811",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0043",
+      "DeepSHA256": "ACEB90AC236BCD79BD58CB322D373D2A03F804BB419D927CC7C6544594766772",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0044",
+      "DeepSHA256": "974F5397ECD480BECC6745D20CE2AC0E051358A02ADB1B8198B1DD0C2CF81C3D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0045",
+      "DeepSHA256": "B1E7EB21CE74921B6471C04EEC9FBF0D6FBDDCC7CCD4F59EE46BE36091EF3871",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0046",
+      "DeepSHA256": "08F9D87B6AEF9A0B103C3D36D5717D042068B2B3794B29F3414CA19BF792E1FE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0047",
+      "DeepSHA256": "86D0E63CDB661763EE9BDC421512B54F33B7DB4EB55ABC3DE689C05DFD554EEA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0048",
+      "DeepSHA256": "0FF8E783918A4A4F865959B46EAB08A74404DF5B5683936FB41CA095872E4FB9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0049",
+      "DeepSHA256": "FD5DC24A1FE40AF02D8931C0C8E4D370CDD61BDA86B0CADCD06CAEEC8023C454",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L52-T0050",
+      "DeepSHA256": "48BA18C6197FB43ECA33902C837B524F5CD99D829A7E51B0CEB9ED7B965B3CF8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0001",
+      "DeepSHA256": "7C42577E0F3594951CC80C3D67338D01968FB210AFB31FD169C709B66F6B9C36",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0002",
+      "DeepSHA256": "AF505DC88D6944A50923609D7A2A2992EA15639180C9E05A4265541568722F4D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0003",
+      "DeepSHA256": "43F3688D14F4A5EF007A7167F893B3D7F56D16F1C0D87DA723295A0B82B80BFA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0004",
+      "DeepSHA256": "712B63A32107886F13967993C6F263B14BD9E1CBE4D56D60BF00E266D161407C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0005",
+      "DeepSHA256": "EE257A788B3CFFEB3A2C4998170289C52585F32A3546702CF619F6B26F40E832",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0006",
+      "DeepSHA256": "51F09DF98C60D6EA57CB0D9206F2571BAF5616C5C36E1A5417982782AF81FF94",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0007",
+      "DeepSHA256": "BBB7FD4DF22F4265827D117B6FCC4FCB261343255942321323197C2B2C7A2863",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0008",
+      "DeepSHA256": "5D68909A0B41B8A7762905B3E4DF5E5DCC1C606C2A11C913BE1F4A16AF7D4F5E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0009",
+      "DeepSHA256": "E6B6ADCB670FA1E58AF8F9FA17A29F6045943DF187A150973EFFD103F5265010",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0010",
+      "DeepSHA256": "EBF0A753B80437B84996D446664FE2F7E85C8B36446CAF483C3B37F9BDC76351",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0011",
+      "DeepSHA256": "1198BDB792DB0AE121E4E4196E3BD21145EEDC3A26639A26BEB54E597C07DAD1",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0012",
+      "DeepSHA256": "DF391ABEE9217E27636FDBEA3E057E265F9DD9273B275FAB5E637657A4B2C72D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0013",
+      "DeepSHA256": "9B34689C9849D0F12E070090086B984736DDC6063A2CB390EAB6EE8483109DC8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0014",
+      "DeepSHA256": "6FC24E743810423C3E510BBE3E3026604906CD1CD6F61612F2F904C2FC4A7075",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0015",
+      "DeepSHA256": "FA8C1F78951E31E5DD1C360BE33536D771E4ADF19CFB2A4144F666D0F79FC385",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0016",
+      "DeepSHA256": "89DAF12B65BBB8E7A8F14F1C73A4E5E23E34B7D579F598AB74D2770D285580EB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0017",
+      "DeepSHA256": "1A634681AFB2DB29228AF433495B7766B74E121B58E12EA8722AFC51BA23EC33",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0018",
+      "DeepSHA256": "5E7BAB792A3F1B95407C8354F7835138B8E7DA07F753E90866F9BC92AE25C1A8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0019",
+      "DeepSHA256": "12801A6D974F57BED38E90DCD8501062625FE3892804DAD67C4921318FD45455",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0020",
+      "DeepSHA256": "61FD0F9C92876EDA1EFAFB9F07377F800ECB0FF20AD985F4E3E5022852D8AB82",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0021",
+      "DeepSHA256": "02F9F5D47D28CB65ED910C75E54E7E6AFD3863C57FEBC7543427D671CEAC692C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0022",
+      "DeepSHA256": "F92B1003782208130F02D6BA06096DBD1F15D82CA4B471B678678D2657C9991D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0023",
+      "DeepSHA256": "8740081337A347F0DEAC30F02E8F834C308BF62A222D89AD8E80FBE21A8C7EBC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0024",
+      "DeepSHA256": "D0F61765503E319960B739FA8AE1F81AD8D12075DC62C9FA5F33828ECEAEDE1F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0025",
+      "DeepSHA256": "65B7434F99F0FED68EBF284056E6BB06A53DE35D6827CA7A21898358BFC569D6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0026",
+      "DeepSHA256": "59C8A503914F554E54D5B73204D7F41C2F7A4EFE642F8F1A8A9570B7FDBE1F8E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0027",
+      "DeepSHA256": "E112AECEB1114328E12BF99B2A33B6EF2DA5D6CF08A404DDD2F3292D55777127",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0028",
+      "DeepSHA256": "0323B0CF200A6D8AAA2F705E5B06C7F27262ADDA1F33A4304536F996748D1D8A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0029",
+      "DeepSHA256": "242CA718952CE938FEBABE398D19B8192734C130F617E09AED4A04E95DDC8484",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0030",
+      "DeepSHA256": "5A8317868A9FB906A93734C59A77FFBC3985936351DCD46840A4EAF358E3EA05",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0031",
+      "DeepSHA256": "83D6A89111B79FC342435B9CFB0568925973E01FE9F55DDCFE9F805D70AC197F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0032",
+      "DeepSHA256": "6EC4FBE759A673EEC54D806B79B0272FDEDDA66CE360BE7D8957DA0B243BDB74",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0033",
+      "DeepSHA256": "DFDA0B3523EB1ED9D7AFA13FA1104E912CD369C43132205DCC1360A201C35772",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0034",
+      "DeepSHA256": "7F623F6BCA06670D8138371379AED1823049756A2C6BD9526908AA9424A26E66",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0035",
+      "DeepSHA256": "97354C9BF8BC1FBFBC3C304BC1C63238C6C26F2533E50977104B1A0FBCEDD16A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0036",
+      "DeepSHA256": "9A625A7842323A30B3CAC0D894DA008FFAEF8422F5A2C10B0121DAE5528619C6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0037",
+      "DeepSHA256": "937A4513B4DFF77D01FCC12CFC8295ADCFA579E22513B26C34585058991B20D2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0038",
+      "DeepSHA256": "2A6AF6EB37B363BA9302EC83A61239D391D4B3330838AFE9AF5D4FD212577ACA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0039",
+      "DeepSHA256": "37A73E9979E72037E7D4F1866B274A78085840FE3071CFD4715B50E7F84065E3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0040",
+      "DeepSHA256": "3BFECC818DE20377C8BA6E8C5803993127169BAEBF3B5CB749C038627B27D56C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0041",
+      "DeepSHA256": "8CA61AF1DD721163B7612EC460143EDEB9ADD19834C9F2264F984DE009AB80B3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0042",
+      "DeepSHA256": "7382BB41CB8C7B9BAC31E8A4EB9994ED512B00CCE560175FD81E5BE93A0E867B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0043",
+      "DeepSHA256": "D20242ECD97EA4C4954D4849CE40B4D12CBB8087CEF7C3066A65276178310D65",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0044",
+      "DeepSHA256": "E8F8C8C17BF4EEFE0C9C98E7481ED5ACFAD77941C37DB779F03392C8F26AF950",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0045",
+      "DeepSHA256": "EFDA782376200EC27F92E6CE833F3EEB734E7D3F5C5FB6955A2FBB29087C3110",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0046",
+      "DeepSHA256": "71FFD273AE381DA429E6FD04B1FABFFA91F996E9B2B88AC4AE5BF4A835B2BAB0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0047",
+      "DeepSHA256": "CAD0AB7EEF671AB2B2FA1BA21A7C2671D9E984FA1015D3DF01EC43144C55D4B0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0048",
+      "DeepSHA256": "825779DB91DB7E1B833C50BF06BD7ACEC6856B721C066D29A791B296AED2B9A5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0049",
+      "DeepSHA256": "C7F70BCBB6CCE55FEBDB9602528D344157AA3EA839460733157A54E6D8851171",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L53-T0050",
+      "DeepSHA256": "1BFC6094D0C128530FA9574140C1FC7D4A9030E0546B3FB377F49327A1FF4FF2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0001",
+      "DeepSHA256": "911AC448B2FBDBE053B76B43CD65526096AEFB8F7E461C252820FF5DA5D7D7B6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0002",
+      "DeepSHA256": "7BCAC9BEAA682C165B2EA806AA9B767DB4E49F6FB3BB08AC4B853C956BF0E821",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0003",
+      "DeepSHA256": "79C8EA0DBB7FFC01A9EE6A58E4D026C00EC2D9D8B3E47D7E84244646C8D1B873",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0004",
+      "DeepSHA256": "9589DC46E2F1D359D8691BE2E26A1D438166F8F35F489AEBA90604B17E7A502B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0005",
+      "DeepSHA256": "34A3775538CD131FAA5C1B88CAC23D7524ADC5B53F43007D84BDF4B1F3A1D6F8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0006",
+      "DeepSHA256": "245ABC3A89A9D449EB144206FE27C92B646C42A904907DD4953A2329548413BC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0007",
+      "DeepSHA256": "F73591F63F0EE70044F97D2A894641840E0FAAADB836AE6116568ED9996809B9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0008",
+      "DeepSHA256": "2760912FE4E9202B6BE4E882E46C3D0FBF0CDB216D35ED6E3B42660A33816E98",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0009",
+      "DeepSHA256": "961B4C51B9CF0953D0FD0F154A38B9AF6F2BFD43D8B65E6EA58806234BF1DA47",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0010",
+      "DeepSHA256": "0778218AE4F790E740BDBCAC5DCFA5869F03B97DCEB5EAB607A2679719B7B752",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0011",
+      "DeepSHA256": "136B451F99E2B6996D49736A3DF88900262371780FB586BFCAD5A6C754932BCA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0012",
+      "DeepSHA256": "5EAB62D62C63E9ABD7D4F53CADFDBD63863B2C66FD8342C426254740FB365780",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0013",
+      "DeepSHA256": "A0F65DC210BDB718E0D3548C66B6BA342B447F8C1F17859C557B96931DE70BD9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0014",
+      "DeepSHA256": "7A77A13ABD496DF19BD6416CBE980787ABCB3867962EE8C1A55D4F4A5DB88BC5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0015",
+      "DeepSHA256": "C48D88A48E10475ED3A5F1182F493F5D57639FE6BADB8913C571FF5EEF629541",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0016",
+      "DeepSHA256": "3003A49E3AEC983DEACB1255CAE7028C96B4BD6FFA46A66EE64BE4C112CD35B9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0017",
+      "DeepSHA256": "472BE40F062887E1B23416B0E1FF26EE5C547B9F4D1C0FA17377D520B3E24187",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0018",
+      "DeepSHA256": "538270D34EBE0F6A8A3B486DE1E925C4A70DE71E70741B59412C2D6FA111BDAB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0019",
+      "DeepSHA256": "6AFA027E938C1914D9259757178B4C9CDD884084E1049B8CD23B6CE6F81762CA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0020",
+      "DeepSHA256": "D0E95DFF73FB10452C45F40860CF4E5EF7591261499601707A36ADB938278BF5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0021",
+      "DeepSHA256": "FBD7AC309B23B67099EB154E604B310A393501DEFB2331A9E11E669C1303BE74",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0022",
+      "DeepSHA256": "417620E6AE009D06BB4613B696C2A50B5FF9BA0081BE4A7BF5D7072DC8BAE492",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0023",
+      "DeepSHA256": "38735523143A06ECDCDFBF68F32F7CA0B65549D43C8B2E085AC0334820576C98",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0024",
+      "DeepSHA256": "67E67999825F9100EA7B37ECFC437EE67BC7E24DE1344C9BD10A00DFF6EA6516",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0025",
+      "DeepSHA256": "778A10D00FD0A455EA1794CE85CECFB011FA0DDDF8897A63DA211EF1E276D274",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0026",
+      "DeepSHA256": "12BEF38E0A9BFFA6836BFCF96284BE92B3669466261FF34ECCF6DEBDA3E4F125",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0027",
+      "DeepSHA256": "373158508B0726A3DCB3545363B27E432B5ED2906D9871F7EF05989454DBFDF6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0028",
+      "DeepSHA256": "CD9774C8076D70E7FA8C9B92C5BC78ADF9C5AAB8FA81BECD1879E5F3E77C3AD5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0029",
+      "DeepSHA256": "ADFF3F61608AA054CD7FB811F97C5DEC9153FDB6231EC0F2FBBB511661A89BB1",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0030",
+      "DeepSHA256": "DD153F5FFA4BB65D74C51916A8D3055F74FAF35415AD51D6DDDB6F7FB25ED7A5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0031",
+      "DeepSHA256": "79DDB221EA1A8BCC7AA22126579BDC43AF23160F72DACEE235AAD4C493310990",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0032",
+      "DeepSHA256": "989995A8F25BE7FB234BF01FD89BA5D12A64E82E99D29BE6375CFBCA5C8743C5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0033",
+      "DeepSHA256": "5E315E97BB05D90188E46214C81478B9FB0C31F2418A0CE29CA8EEC1936D1A95",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0034",
+      "DeepSHA256": "D158217A02B0CC6261C8711732DD56DC2B25974BF50A07C3B21A6EEFE29DE270",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0035",
+      "DeepSHA256": "A454682F35F158B0BA369FCD62C37FD8DADB6D4110C1F4A68736591B520FB400",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0036",
+      "DeepSHA256": "EF0BAA2E54283AB582E268D816DB9FAD303C55DE41DD0E89D1ECD28A74B2DE38",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0037",
+      "DeepSHA256": "74C3EE89C7C818E7A80DF1944CD0336708EBFB7A2CDF5B4DE973BE3D235DCC31",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0038",
+      "DeepSHA256": "02F28F34DF7142135159A4BDF04D6FC040E690DE2A104C1D97AB0D00F0014FBC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0039",
+      "DeepSHA256": "2223E38834861FC835EDD0D48EAB3F22497D325D27F05C55A688032B6DDE75DB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0040",
+      "DeepSHA256": "4A9179AD50F7FA59DFB4E461FB97139E71118E6D7B6C8F927FA32AC214B0C18C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0041",
+      "DeepSHA256": "C7436E3251813211EF207776AF4D0FD86C92343C11D16E80804BB082AE9D15B5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0042",
+      "DeepSHA256": "CE89855C9609555783C00043927C8284A73DD2DA8446F4AFED80819E00FA9DEB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0043",
+      "DeepSHA256": "9ABC4E3037BEBDD3657632EEBFC79B16D732EB6CC418A1678779EBEDE7AD25DB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0044",
+      "DeepSHA256": "C2112A4615D952959B94E4CE9FD107BE7224CA0E11943C325BA1910EE6A02A1E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0045",
+      "DeepSHA256": "F18DDEBB1BB55E2B1730C23DB67B313E3B705FD73760E273B674920962073BFF",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0046",
+      "DeepSHA256": "19C05B555276BC0F84FE58E0B6FFCEA741121815B06242099277F9297BA2976B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0047",
+      "DeepSHA256": "518EB23883AB7D87A99750ABBD05A85E173455AA9C71FDCC904FFE53727D0798",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0048",
+      "DeepSHA256": "D901A3BCF81ED9473E61715881E24AC5271895AC03C39EFC166A5E9835795060",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0049",
+      "DeepSHA256": "F2165CC3D4711BA5648D74960CB5BE2FCDD135A3774C80F420EDFCB9A79D9C5F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L54-T0050",
+      "DeepSHA256": "7F72F8F4E948538B006EDC502D31A681B8A4A18E2587E875D68F2D0CED5F730B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0001",
+      "DeepSHA256": "3A675FDE896D23E5F071C245F01D708BC3B64AB644FDA7F45CE2FC306B435861",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0002",
+      "DeepSHA256": "9332B6DBE3523FC2CEA16F72482E45607D82DDB6837B30393885B1BB52960B74",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0003",
+      "DeepSHA256": "8B58B9EB33C16729633B157B5C73C4C342D8FED517528107A3E0089543A0116E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0004",
+      "DeepSHA256": "3077FC1449895107386ED27C7E6C9115B138CE864DB092300F31E688E4FAF3F3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0005",
+      "DeepSHA256": "77A60F2EAD5B7046B1161AE17C813C34E109DC2DB95276661FB0333E329459EF",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0006",
+      "DeepSHA256": "AFF95FA9772F74527555BD345F5DE4EACF3A624A82311ABD9B255035C362E2D2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0007",
+      "DeepSHA256": "26D80F4D64A093C7856587332C8139512AB93A4512E096EDEC7D618120624ECE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0008",
+      "DeepSHA256": "FCC334A4AEA38C15382CD7649E7604F99324908BD4757DE316EBF145595AE1FE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0009",
+      "DeepSHA256": "1699BC297AD555F8391A48993E39F3B39CE8A55EAD534A45481C78112DEBC5A4",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0010",
+      "DeepSHA256": "737954A5868BF1947033E8AE3794E81FA2B9F34DBA8A2F3D5B42D6728C447685",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0011",
+      "DeepSHA256": "0285DC4BDFB83ECDD25361F6F32F2F80021BE6C85610856F287AED5F89E44FCD",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0012",
+      "DeepSHA256": "B0F105663DEB99760F75C05D5C22D2670B314A1BC2EE62ABC0159483C7741FC1",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0013",
+      "DeepSHA256": "979CE3CA7C8FE32DFF816235FCC7B1E3F737C1571F6A56561F2DFF4CC8231F63",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0014",
+      "DeepSHA256": "68EF6AE8F15597B1D2D74CFC7EEC5288300897F0BE2689E7731AAC21594B6D20",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0015",
+      "DeepSHA256": "309932CB94884B30C5B2D7F5DA7FF526CDEBB39ACF4B661D8DADBA47575BD6C9",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0016",
+      "DeepSHA256": "3A3BD844970C45B0F7869C1BD862CB393B6DF6FA2E4498FC25B2FC3DB65E4644",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0017",
+      "DeepSHA256": "292C4505372552F4B3E514B50E52378BDE9B30171F97F855311228941E35585E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0018",
+      "DeepSHA256": "24BF3F7CDE9BF951B401E9F3F4AB6A9E45BDD94B905EACB1F45715BD5A82DEDD",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0019",
+      "DeepSHA256": "F19F181E37F45346DC84A4421BC09A51B4508A77718915D5C9682F8EA8C4FFE5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0020",
+      "DeepSHA256": "4AF8BC80C1F03A0060605904A5A9407A5CC15B26C6D788E3DE0B5389E6A48D53",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0021",
+      "DeepSHA256": "43EB14FCA9E78A24DD92D8427CE44DC571F59633614301F77F646F2071E67E67",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0022",
+      "DeepSHA256": "3B432EAB64EF5E37814E7466798C9C468D65A884AA839600315718740C5D0C55",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0023",
+      "DeepSHA256": "82AF735678B8784D0A2E1163DB2969D67C60804F124572EC34D449F16E32E698",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0024",
+      "DeepSHA256": "C61DF921F6B3AF896B070B19E8CF1DF93DD738692B0322C6EAB2082A8B8EE423",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0025",
+      "DeepSHA256": "C4FF9F3ED0BE771B3E42749D0C20C15DB65C4AC1AC960DEB268ECAF0DB7A4D78",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0026",
+      "DeepSHA256": "57F8F8D4F3BCB2811E5E80AED59559C78085DB9FC2197BD02A7E602D2BC632CD",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0027",
+      "DeepSHA256": "525D13576A40C9F6DFA6BF5EBA289E31BDD4E9F7B4CFD482B99F79F6669AD445",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0028",
+      "DeepSHA256": "16299E9833C639C0F4574ABEC193C82553F2D0D2FECCCE99F411F53C98C3549D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0029",
+      "DeepSHA256": "D8EC2BDE4696634CA4188E932FEF5D8CBBC7D6F7A150FBC3ABC94A44C1D41753",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0030",
+      "DeepSHA256": "942E797614102E951F858217E2CCAF4DE504B52A4F134BAE794E65C14FDB129E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0031",
+      "DeepSHA256": "10BCDF0777CC68E52829EED503B8E332F7C211455A7D9B7E469FB023A7C1ECF7",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0032",
+      "DeepSHA256": "44E09E11755C137C0E3DFC213D0D1F7FB16B3C9B9F1D39A374A8DD476677072F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0033",
+      "DeepSHA256": "985392656A19AED2959CF2C901B0BF79F5F001F51462374246B3D05B63924B11",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0034",
+      "DeepSHA256": "0E3AD893780F75F66532F7D86BC150A30892E2E77E0D19A9C1B3C82D584379B2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0035",
+      "DeepSHA256": "E12F980D288266845E8AA661BCDB00FECD52C22EFABFC830C2089D826E57036D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0036",
+      "DeepSHA256": "3104FBA90C9EA1D380495EA25D5B2A15824D4447756C5FF17D4EFE4249873ADE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0037",
+      "DeepSHA256": "B1A9FD06C2D0734ADA5F87213B396409E4B9CBFE533DC47E1A2C87C5ED3C97E7",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0038",
+      "DeepSHA256": "B677B03142D0BF4C0F95BEC092F2E3ECDC3504D6F9BA8FA726909FADA76DD2D3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0039",
+      "DeepSHA256": "87DD3C0E298C0F337A458B4F8D2EB9C111D4E66B2B60FD71CB7DCA241EDB1C8E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0040",
+      "DeepSHA256": "66A8E0073A0E2593B9CE8B76BB4DF530EAD399585096D1FD69F88116EEF086C0",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0041",
+      "DeepSHA256": "B7A187E63BA425374856E9536AD00BEDA0A2DC65B400D45131D5350E9272FC71",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0042",
+      "DeepSHA256": "A2ECB5B4BBA9E799DEAEA55812D86957F82B009AF01E969C9748025D13171575",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0043",
+      "DeepSHA256": "EAA0EE87AC9D9C19423EB6CC26BC66EE996FFA2A3E1F95E1167A795F488F492D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0044",
+      "DeepSHA256": "229BA3B0F79EB7EF2E9EDFCD6821A9DD5ED581B2CCD0A2BBFE0AE10C35C2C6E3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0045",
+      "DeepSHA256": "DF530334F7B4CC00317A820C7945C539327DE080E78824CE52B003D25124A6CA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0046",
+      "DeepSHA256": "455DD5A1675F47B14812F6164B83DACC2B25E961738889AA54C08BD782FFFF70",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0047",
+      "DeepSHA256": "1437E0ABAEB27ECFF45FAC6AA073160024CB631E69F43ADDE04F84DD378B52FE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0048",
+      "DeepSHA256": "7A5C7090F32AD34155E174D6A3570A5B1501C0372AE87AB37B373A78B3E0A86A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0049",
+      "DeepSHA256": "2F6DD7BF579B0BD948AC74FE2FCCEFED8B2551F7E8C890883C3597BE8CB61217",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L55-T0050",
+      "DeepSHA256": "97F2962E3D0E0138C04B50F7A39C58D5B46FA7A12B5293DB55B490483FB459F4",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0001",
+      "DeepSHA256": "8EF86D26AA585244ECFB864D19FB025A57F15BA0DC037807EBFCA3797FA2F048",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0002",
+      "DeepSHA256": "72C4A3E40D8FDE822807144246BC983CDE1275E427EE3E611467B34769517A0A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0003",
+      "DeepSHA256": "1DC33C3A172C36DF133B3811D63561647D45A92EF08C6D904BC2C5982E678C50",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0004",
+      "DeepSHA256": "CDC40CF15F61D1CD351D0C96777403FB2547B5C8331BA742D385E2E9BE0667FA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0005",
+      "DeepSHA256": "E9A02C697A85D0C268B11D8B2251982BE8F72B32097F86DF9A3909CAFC6998FB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0006",
+      "DeepSHA256": "303BE6A44586E1BAB3E8412F55B8655B05A6F6D8064C87BA47FC85D3748DDF1F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0007",
+      "DeepSHA256": "639673588403B9ED62FE01F81C2ECEC744E6C3FCAA1DB1E7B52BAEA4A5713372",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0008",
+      "DeepSHA256": "C84EF5622453987B60C88052B748EA44E2EF70E91E5EE97A4A58614F48AE7320",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0009",
+      "DeepSHA256": "A914CB50EF4C2CD246A21F7488C8F2578D624307456C9B8159F38FE88C7B9084",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0010",
+      "DeepSHA256": "078A1FAF5C594BA891132005620E7A5D7402CFA11FDC95048BA5F9105FC528C2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0011",
+      "DeepSHA256": "C00C6F298CBCD0AE1FD6A035FA9F244938517C3741961D6A67064FC20136848E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0012",
+      "DeepSHA256": "92B62B3A760B2E6036ABC92DE400C4E92C4A762E5262B7A3503439B4B6846DA3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0013",
+      "DeepSHA256": "72A9BC31688EF646FC4EB41E4E9376E639CF299B046F29E10A8B9B80997A680D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0014",
+      "DeepSHA256": "7F78D0384AF5E9BD90D5B4C8F7554C86369C2197B990F328CDEC2468E3BC0F3A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0015",
+      "DeepSHA256": "EC7BDEACF62646BD3F1C460800A5D34391757EE5D599ACB303DBE2B87EF84AEA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0016",
+      "DeepSHA256": "2037F807A782916F60600B1B3BB9E19C67AE55C309E8513DFD6FA8947DF3E742",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0017",
+      "DeepSHA256": "1DBD2563FF666E8348FD0594963F691769C91B4C0220AD5326A516EDAB12D4DB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0018",
+      "DeepSHA256": "CB3170A43905130738FEAF863332C3BF93CCAA36E4AB457CC88AF1C78B6D36FA",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0019",
+      "DeepSHA256": "D1C9B8F40A7ED78700BB68D6990D436D43B5764122971E04DF881D86C67300D2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0020",
+      "DeepSHA256": "309DEE14ACBE19AB801CBF17EC5B122B2A146A949B34B507B2798D1904853AD2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0021",
+      "DeepSHA256": "C481F3BF912007B1D90D3CF5A8670874237CABA64956952E939DCAD12F36524C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0022",
+      "DeepSHA256": "62C92008E2ECFA50A97B1D31D9BD50EFCAA88004ECBF40A82377B7654E747B33",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0023",
+      "DeepSHA256": "B1CBCD3617F73B75D563A4BC0C0DE82B97C43AC1B11B81478455AC858567215E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0024",
+      "DeepSHA256": "D1CF16C1D9139C814B3847A5434AB1FFC7D5CC85A8B8D76A1D31CD98A6F7A61C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0025",
+      "DeepSHA256": "E055F543A4117FD08A681CEBD26DF8696EE722E8A9404F0EDD512785E96989D3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0026",
+      "DeepSHA256": "635F353C9DD7F63208ABB2EE55723D70F4511FAB6EFBA51DA7ED67DE4387F4E8",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0027",
+      "DeepSHA256": "0ED1544B9AE64AEB80615027C202A33C7F739E52D6683C5E5CE8770E31B7B6D6",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0028",
+      "DeepSHA256": "80AC5717BC90DC6A9E2C4B7240C4E57010F4D4CFE186B2BE0B5D902115523FFB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0029",
+      "DeepSHA256": "E3805836371A86552E202E350EAB291FC67D00D0B0B587FB51A390104731434B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0030",
+      "DeepSHA256": "F22672A5032021F8F308290EA6E6B2E681514BE6A48E960B1FF62C0BA1DD4797",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0031",
+      "DeepSHA256": "F3A002FB9184D2DB5610AE1D744F0F1103F9192421A45134270A348609AB47C3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0032",
+      "DeepSHA256": "88201F5862069CF3CB87AF23393B5F05D2D968AE41CC6E1721FA6E8EEBB2FDB4",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0033",
+      "DeepSHA256": "4F70644D2E31C41B8BC1A8B76B6FB28E6D93815E1374193FA4F80E84F4A0C43E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0034",
+      "DeepSHA256": "5BC894A59ECEEFC7FA582B3C39ACACB64A49B31D00A7306F5B3928A0EB12B97B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0035",
+      "DeepSHA256": "69A56F6D850440E715430B2641CC47C96B9F6D33F1EBD07AC561EFD0894A48FC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0036",
+      "DeepSHA256": "DFE82D798B55ABBA2095C893F76B8C520E838F3195F353B6741E3D73E471F97C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0037",
+      "DeepSHA256": "3331283FA5BFF1DBC1E6824A472AF60D288BAC0CD54703420B001300971E72AE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0038",
+      "DeepSHA256": "D08F0C5B2A3479EC7A534DFB0FAA2E56D76E381483108B8D39C6022E3714D6E2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0039",
+      "DeepSHA256": "87FF12509D0BDFDF92586BB2E24787B305EFC28568941ACA8FB7D9A0479B759E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0040",
+      "DeepSHA256": "72F295C92B1FC65E7CDD8A6914088D454373589FE3621EEA3F095D73C1A96862",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0041",
+      "DeepSHA256": "D10D9F4188DD9A30957DDEEE39E1E7EB3EF68961F2C24720A78A891032640699",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0042",
+      "DeepSHA256": "AF50E773752934C8E1B208B6D80EA53429F76AB067486DDEA09CBF1C0710F948",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0043",
+      "DeepSHA256": "BAA1211F9B7CC7600DDFEF2F6891527F87C573BA340073C4966702438861E38E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0044",
+      "DeepSHA256": "27F5307481B350807291DD91CAD6A7C345AE65B4E14C0A92746DCED16032CD25",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0045",
+      "DeepSHA256": "87C43080EE4A875CE739FE05B414B10AEADF5857FE1EB879ED8FE6D38501B793",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0046",
+      "DeepSHA256": "DC49FCFFEECFCCE8B1600B93788DC78A06C1FB53877DFFF90D89D0C05A378357",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0047",
+      "DeepSHA256": "E6858733F6AFB553D9AF0EC3B6FF1EB58401A3C8D5A485DE74535CE732C69E9F",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0048",
+      "DeepSHA256": "67610556375A1A45FF8A59B69F6EEE6907EF1D3C7A9CDBF4D94AF529DBFD2B7C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0049",
+      "DeepSHA256": "114266320A1269F9B23F75E96C8AA3C599FFAAF08AB135BFCFFE8B932E32E5BC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L56-T0050",
+      "DeepSHA256": "2266BA853F0C8514C9C95D11A67C7809308806FEAA3551D204E4767B9F6631AF",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0001",
+      "DeepSHA256": "65079A2D2CADC38F76F30FE3EF634A8CA3964233E3D60BF59880509739D9FB67",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0002",
+      "DeepSHA256": "13AFAF94B216F3A1FD0AA9D72666A736C9E5DBEDA7AE6C435C973412E32512CE",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0003",
+      "DeepSHA256": "2E52C67855D8BC15609130A5D67F1F44F081F1F212F6CF8F12D0AA39AA5BACA4",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0004",
+      "DeepSHA256": "F6BEA055999183AC7DB71E31BC820E96C49E7BE76EE0198DFBEC0CFBD3BD0D49",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0005",
+      "DeepSHA256": "29699DE45AF7008E4A4098FE41FB1CF0B6BC4D7CB8BF2C4A5B48495A5B2040D2",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0006",
+      "DeepSHA256": "339811A853B52BAD77DCAA8D760A610259DEFAA73A53E756C8DF9BA6E9C0D4A4",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0007",
+      "DeepSHA256": "99D2F48D566D1CA388B09ACA234EAB17A2118CA1C31F584705B77FE635B02D7D",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0008",
+      "DeepSHA256": "7E7E0CEAE8CB92E4D4D59B8414CBF82FAC12F398FFFFD572932E854E1E2023AB",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0009",
+      "DeepSHA256": "B97B6474E593E1C3CE6A5879282368D233B2DEA2F2F29DCB69EB398F30605095",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0010",
+      "DeepSHA256": "5D6C7535071CD11E1D440FB9B0F6A777442ECB59903392C3DE371E741B092EBF",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0011",
+      "DeepSHA256": "DEEF792294CCDEC454BBA78C5E2D3DDF9B29DE7B1A310ABF7D6135A8ADE65BF5",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0012",
+      "DeepSHA256": "8284727DF5632066DF32422033E526827FA7DFE2D597C3755C4E131AE000A845",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0013",
+      "DeepSHA256": "425D17A3DCEB0DD29DA935D42F2C7A09D213E515233E0D3B63ADD3F1C1E2BE2E",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0014",
+      "DeepSHA256": "E05F3DBD240A30BFED14A1C750D70274FB032AF3118ADCE9AE90DBACABB740DC",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0015",
+      "DeepSHA256": "DF96A2E43FE9C71A62EE5013BE5E534D2A3A502F1107E50C12AC5E7032C3B016",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0016",
+      "DeepSHA256": "2121D19F50FAF46EEB2AE4DDFDC11958733BAED4BDBBC387086A8E2C80859CF3",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0017",
+      "DeepSHA256": "D6AEDFBD3F3813E6F890E9D8B2B35307DBD7C35059E182ABE10F12D73104CF7C",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0018",
+      "DeepSHA256": "AD5A7C366E688A735B663DE5573865FC065F398A80AA3E00ECB181B52DEC308B",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0019",
+      "DeepSHA256": "3A874F7CF8992CFC53ABEE0B134794370FEE55FA866E54C8DD3A6B040D44329A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0020",
+      "DeepSHA256": "85B930F3E64941AFD2E11F1C9F9ED5F897591589A51CF21447D4E2399CD5A20A",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    },
+    {
+      "TaskId": "L57-T0021",
+      "DeepSHA256": "6A29F6FD5DD56189CF8C591E7EAD54EFAA0D661803DD7D743A3E49A0476FA963",
+      "SingleSectionRetrievalPassed": true,
+      "SemanticIndependentlyReviewed": false
+    }
+  ],
+  "OriginalBaselinesChanged": false,
+  "PreviousContentAndReceiptsPreserved": true,
+  "SourceWorkflowStatuses": {
+    "pending": 22,
+    "partial_review": 29
+  },
+  "HistoricalOverallStatuses": {
+    "partial_review": 20,
+    "pending": 18
+  },
+  "PostClosureConsistencyPassed": true
+}

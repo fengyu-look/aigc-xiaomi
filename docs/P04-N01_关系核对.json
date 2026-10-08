@@ -1,0 +1,279 @@
+{
+  "RelationshipCount": 39,
+  "Relations": [
+    {
+      "TaskId": "L47-T0014",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L47-T0017",
+      "Relation": "2票=1+1",
+      "Calculated": 2,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L47-T0022",
+      "Relation": "180秒-8秒",
+      "Calculated": 172,
+      "DesignedExpected": 172,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L47-T0037",
+      "Relation": "3应还-2实还",
+      "Calculated": 1,
+      "DesignedExpected": 1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L47-T0041",
+      "Relation": "1.5米-.5米",
+      "Calculated": 1.0,
+      "DesignedExpected": 1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L47-T0048",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L48-T0002",
+      "Relation": "拒绝不算越界，偷看+藏卷",
+      "Calculated": 2,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L48-T0001",
+      "Relation": "三场10秒",
+      "Calculated": 30,
+      "DesignedExpected": 30,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L48-T0015",
+      "Relation": "三场12秒",
+      "Calculated": 36,
+      "DesignedExpected": 36,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L48-T0056",
+      "Relation": "30收入-20成本",
+      "Calculated": 10,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0015",
+      "Relation": "120米/120秒",
+      "Calculated": 1.0,
+      "DesignedExpected": 1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0017",
+      "Relation": "4秒/.5播放率",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0018",
+      "Relation": "240秒/24倍",
+      "Calculated": 10.0,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0019",
+      "Relation": "2秒*96fps/24fps",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0020",
+      "Relation": "6+6+4+2秒",
+      "Calculated": 18,
+      "DesignedExpected": 18,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0027",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L49-T0049",
+      "Relation": "12人-3过",
+      "Calculated": 9,
+      "DesignedExpected": 9,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0001",
+      "Relation": "60km/2h及2h+10h",
+      "Calculated": 30.0,
+      "DesignedExpected": 30,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0001",
+      "Relation": "05时+12小时",
+      "Calculated": 17,
+      "DesignedExpected": 17,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0002",
+      "Relation": "8小节*4拍*60/120+4尾",
+      "Calculated": 20.0,
+      "DesignedExpected": 20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0029",
+      "Relation": "8小节*4拍*60/120",
+      "Calculated": 16.0,
+      "DesignedExpected": 16,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0030",
+      "Relation": "12人-8过",
+      "Calculated": 4,
+      "DesignedExpected": 4,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0031",
+      "Relation": "12秒*24fps",
+      "Calculated": 288,
+      "DesignedExpected": 288,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0031",
+      "Relation": "288帧/二帧一画",
+      "Calculated": 144.0,
+      "DesignedExpected": 144,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L50-T0041",
+      "Relation": "5赞成+2反对",
+      "Calculated": 7,
+      "DesignedExpected": 7,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0009",
+      "Relation": "1920*2像素",
+      "Calculated": 3840,
+      "DesignedExpected": 3840,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0013",
+      "Relation": "1.1嵌套两次",
+      "Calculated": 1.2100000000000002,
+      "DesignedExpected": 1.21,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0014",
+      "Relation": "30步*.5",
+      "Calculated": 15.0,
+      "DesignedExpected": 15,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0015",
+      "Relation": "20步奇偶分",
+      "Calculated": 10.0,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0024",
+      "Relation": ".3米/3秒",
+      "Calculated": 0.09999999999999999,
+      "DesignedExpected": 0.1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0033",
+      "Relation": "3档*2种子",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0037",
+      "Relation": "2档曝光量差",
+      "Calculated": 4,
+      "DesignedExpected": 4,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0038",
+      "Relation": "70+8+22%画幅",
+      "Calculated": 100,
+      "DesignedExpected": 100,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0044",
+      "Relation": "2米-.5近+.5+.5退",
+      "Calculated": 2.5,
+      "DesignedExpected": 2.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0048",
+      "Relation": "2米+.5退",
+      "Calculated": 2.5,
+      "DesignedExpected": 2.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L41-T0012",
+      "Relation": "16拍*60/120",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L41-T0013",
+      "Relation": "2.4米/8秒",
+      "Calculated": 0.3,
+      "DesignedExpected": 0.3,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L43-T0026",
+      "Relation": "4拍*60/120",
+      "Calculated": 2.0,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L43-T0050",
+      "Relation": "16拍*60/96",
+      "Calculated": 10.0,
+      "DesignedExpected": 10,
+      "Consistent": true
+    }
+  ],
+  "Scope": "设计数量关系一致，不等声音/空间/动作实际验证；272内容计数为独立队列检查，不混入关系条数"
+}

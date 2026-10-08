@@ -1,0 +1,24 @@
+{
+  "HistoryId": "H004",
+  "SourceId": "SRC047",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 406,
+  "HistoricalOriginalNonemptyLines": 406,
+  "DifferenceLines": [
+    "--- SRC047原文\n",
+    "+++ H004原稿\n",
+    "@@ -1,5 +1,5 @@\n",
+    "-AI生成分镜脚本提示词",
+    "-Seedance2.5多镜头视频生成提示词",
+    "-```text",
+    "-Seedance2.5多镜头视频生成母提示词V8.2（通用版·角色按需输出）",
+    "+AI漫剧分镜脚本提示词",
+    "+2026-09-23",
+    "+阅读需要21分钟",
+    "+Seedance2.5多镜头视频生成母提示词",
+    " 目标平台：Seedance2.5"
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

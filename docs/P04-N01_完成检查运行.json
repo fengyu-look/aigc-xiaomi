@@ -1,0 +1,31 @@
+{
+  "TaskPointId": "P04-N01",
+  "ActualPostClosureRuns": [
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/refresh_index.py",
+        "--dry-run"
+      ],
+      "ExitCode": 0,
+      "Output": "{\n  \"DryRun\": true,\n  \"ChangedDocuments\": [],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n"
+    },
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/check_project.py"
+      ],
+      "ExitCode": 0,
+      "Output": "{\n  \"OriginalTXTFiles\": 60,\n  \"Coverage\": {\n    \"UniqueOriginalFiles\": 51,\n    \"LibraryChapters\": 61,\n    \"ConsultationModules\": 15,\n    \"HistoricalPrompts\": 38\n  },\n  \"LookupValidation\": {\n    \"CheckedOriginalBlocks\": 112,\n    \"Modes\": 15,\n    \"Libraries\": 61,\n    \"HistoricalPrompts\": 38,\n    \"CheckedLinks\": 698,\n    \"Errors\": [],\n    \"Warnings\": [],\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\n  },\n  \"DeepIndexedSections\": 3333,\n  \"DeepSelfReviewedTasksWithRecords\": 3333,\n  \"Errors\": [],\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\n}\n"
+    }
+  ],
+  "UnitTests": {
+    "Command": "python -m unittest discover -s tests -v",
+    "ExitCode": 0,
+    "Cases": 14,
+    "ObservedResult": "Ran 14 tests in 10.032s; OK",
+    "ActualToolSessionId": 15953
+  },
+  "DirectCLIValidationReport": ".local/P04-N01_全点验证结果.json",
+  "ContentQualityScope": "执行方文本自审；不以这些结构/检索检查宣告独立语义通过"
+}

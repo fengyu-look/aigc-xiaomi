@@ -1,0 +1,177 @@
+{
+  "Checks": {
+    "ActuallyRetrievedSourceSteps": 32,
+    "OriginalSourceBytesPreserved": true,
+    "LibraryDeepIndexUnchanged": true,
+    "HistoricalIndexUnchanged": true,
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "RunReport": "docs/P04-N03_首四来源工程检查运行.json",
+    "IndependentContentReview": "pending",
+    "MediaVerification": "not_performed",
+    "FullTaskComplete": false
+  },
+  "Entries": [
+    {
+      "TaskId": "SRC001-S001",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "27B346971C6306634232285B650EEDB203AF9035524AA98AD3B44D938EA7F9BC"
+    },
+    {
+      "TaskId": "SRC001-S002",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "8B03E805AA5E7E6321F9D753D570F9681AADB97CC667069BFAB3A77690C9FD40"
+    },
+    {
+      "TaskId": "SRC001-S003",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "A1F373E1491C0769D4A28E3EBD5862C825E3A909F5727618BFC13C5408581FCA"
+    },
+    {
+      "TaskId": "SRC013-S001",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "A3AE8E53BA056CA9F36EC8413D1841CC1C9D82E9935FDF3B1C84FB09153BA851"
+    },
+    {
+      "TaskId": "SRC013-S002",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "8783E5C5596AE24ADC170ECC8F3503140BBFF3DD3789E0515B9ED00BC2CA123D"
+    },
+    {
+      "TaskId": "SRC013-S003",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "5ACBF0E1CA2CC33152E889A9FB887B94E7700D883B221722D48DC0677D0F2522"
+    },
+    {
+      "TaskId": "SRC013-S004",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "60926C8D351121BE2DCD933C3AC590554940B31846F626FA934BECED235F3589"
+    },
+    {
+      "TaskId": "SRC013-S005",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "362B0CD059A5BE225072855056908C899814A6F11F1B9CA753AEC25637299B7F"
+    },
+    {
+      "TaskId": "SRC013-S006",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "E5EC33672EA2B2454C2DA3D2AE779FEF8C87BA7147C74EF498FA9335810B5B0D"
+    },
+    {
+      "TaskId": "SRC013-S007",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "2F93211431249E0285A45811875F5C774C7EB6DF9FF7E77A9288D6FABB29E0CC"
+    },
+    {
+      "TaskId": "SRC013-S008",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "B68D5FD934AAFCEAA97B3F7383AD3438A982CDC23D74CBA2CFCDF312ED373804"
+    },
+    {
+      "TaskId": "SRC013-S009",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "B19F82D685290C393CC87ED4146F38378937F68389D98ADED61E78DD9DED001F"
+    },
+    {
+      "TaskId": "SRC013-S010",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "F473D9F3C28AD2B37CAB16DAB55A418F9FD548D05A0C85511B3F858E699E8123"
+    },
+    {
+      "TaskId": "SRC013-S011",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "85906ADF713A0576947E02BC348B8211DEE85EF0AB39125ED0E8C3BA2916837B"
+    },
+    {
+      "TaskId": "SRC013-S012",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "D3A66B6C0FD82D5544D6B738B68C0F0B1A51C8473E173FD8965A90334E093788"
+    },
+    {
+      "TaskId": "SRC013-S013",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "69D411FBE68C8F6D368B54530E2E609CF0C620ACC5D4AC7FAF8F681ECBF059D5"
+    },
+    {
+      "TaskId": "SRC013-S014",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "B48E7F9B40791299EF4A5DBAFAB223950327906C605F99768789434ED490D4B7"
+    },
+    {
+      "TaskId": "SRC014-S001",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "55D81B3BEF7470E9EC9357634CE2B459179F7FD0EFB4030A11E5749256B6E7B6"
+    },
+    {
+      "TaskId": "SRC014-S002",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "F6EA5C32EB51DAEC89D20AF3A25B68F784D5761E00E0EACC15A585F4BF050FAC"
+    },
+    {
+      "TaskId": "SRC014-S003",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "059C9B91464097D99E6A591FADCF7E3A6051DBA9084EF45B113159B1A6DC4E23"
+    },
+    {
+      "TaskId": "SRC014-S004",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "C915E92D99EC2232E47483803248642BCE367603FAEEF67338DBB7EED0E97749"
+    },
+    {
+      "TaskId": "SRC014-S005",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "F15B91A2E815033BF8127CB92B486D2D1BB755F82EBABEDE84871168385208EB"
+    },
+    {
+      "TaskId": "SRC014-S006",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "AF2273299D926813FEE892121357DBFF4536EF4D223AC20F7A4BE412D2719EB1"
+    },
+    {
+      "TaskId": "SRC014-S007",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "65E3844A2EF4FD22AAE52057AADFE48123810760D9B200D594EB27AE8E01B68E"
+    },
+    {
+      "TaskId": "SRC014-S008",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "0429EB0EB5682152995CAF17BD3689021070A9353E877621752FFB2D86F2F60E"
+    },
+    {
+      "TaskId": "SRC014-S009",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "C71CA8024577ABE0E4285A7F0C4B267023B4F6AEC37AAFA49F4C8298F0C16C6D"
+    },
+    {
+      "TaskId": "SRC049-S001",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "B5FBD8D0BC13D37A5ECD777C121DCC661ED624D078D42F5042510FF4B52C4E87"
+    },
+    {
+      "TaskId": "SRC049-S002",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "9A56762B67C0FE0D68C852209970331837B93A9BEDB8C9F9A7826140A4A11940"
+    },
+    {
+      "TaskId": "SRC049-S003",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "D0BE935F199792B2304F783B044974D936AD835E2D355B13AA32D2B70A374152"
+    },
+    {
+      "TaskId": "SRC049-S004",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "D42D7D6CEB173940B736D5BACA6140AF4DBA229809A9A114EC23590F6F86F6CC"
+    },
+    {
+      "TaskId": "SRC049-S005",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "674449C7157720AB2E0B2B4AE0F35ED74C01C5BC298518CFB0F5965D8D0B6FA8"
+    },
+    {
+      "TaskId": "SRC049-S006",
+      "SingleSectionRetrievalPassed": true,
+      "DeepSHA256": "B185CBD2A803D816E89DE27ACB5B1EE04BBB7856B23009FB5A0E087C2B53C944"
+    }
+  ]
+}

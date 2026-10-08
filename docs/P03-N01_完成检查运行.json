@@ -1,0 +1,26 @@
+{
+  "TaskPointId": "P03-N01",
+  "Date": "2026-10-06",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "exit_code": 0,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "exit_code": 0,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 2396,\r\n  \"DeepSelfReviewedTasksWithRecords\": 2396,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python -m unittest discover -s tests -v",
+      "exit_code": 0,
+      "output": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\r\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\r\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\r\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\r\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\r\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\r\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\r\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\r\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\r\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\r\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\r\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\r\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\r\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 14 tests in 12.311s\r\n\r\nOK\r\n"
+    },
+    {
+      "cmd": "python .local/P03-N01_全点验证.py",
+      "exit_code": 0,
+      "output": "已检索与核验334/2396\r\n已检索与核验668/2396\r\n已检索与核验1002/2396\r\n已检索与核验1336/2396\r\n已检索与核验1670/2396\r\n已检索与核验2004/2396\r\n已检索与核验2338/2396\r\n{\r\n  \"TaskPointId\": \"P03-N01\",\r\n  \"Passed\": 2396,\r\n  \"DirectDeepReads\": 2396,\r\n  \"NewCompleteExamples\": 334,\r\n  \"PointResolved\": 334,\r\n  \"PointRemaining\": 0,\r\n  \"StageResolved\": 334,\r\n  \"StageTarget\": 1000,\r\n  \"StageRemaining\": 666,\r\n  \"GlobalPending\": 1481,\r\n  \"NextPoint\": \"P03-N02\",\r\n  \"Next\": \"L36-T0138\",\r\n  \"MissingDeepNotMarkedComplete\": true,\r\n  \"OriginalBaselinesUnchanged\": true,\r\n  \"HistoricalFilesUnchanged\": true,\r\n  \"PriorReceiptsAndGitIndexUnchanged\": true,\r\n  \"PriorAcceptedStageUnchanged\": true,\r\n  \"CanonicalBytePrefixesPreserved\": true,\r\n  \"PreviousL31DeepTextsPreserved\": true,\r\n  \"FixedStageTargetsAndAtMostThreePoints\": true,\r\n  \"MathAuditCount\": 182,\r\n  \"PreservedManifestFiles\": 212,\r\n  \"ExternalGenerationPerformed\": false\r\n}\r\n"
+    }
+  ]
+}

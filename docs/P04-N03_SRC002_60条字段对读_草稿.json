@@ -1,0 +1,1931 @@
+{
+  "SourceId": "SRC002",
+  "LibraryId": 21,
+  "Count": 60,
+  "Comparison": "四字段逐项定位机械记录，语义审查由实际阅读不同字段另行判定；不因归一相同就盖章科学准确",
+  "IndependentOriginalSHA256": "F830C7054EF354522997E51A1BF492E62498458DF9D1217573CC718DB16954E6",
+  "MergedOriginalSHA256": "EF286A60227B7E93390BF0B04749AFA828DEDC30DF844811268FF31D554FFFD5",
+  "Entries": [
+    {
+      "TaskId": "L21-T0001",
+      "IndependentOriginalNumber": "1",
+      "IndependentTitle": "钢铁（Steel）⭐",
+      "MergedTitle": "钢铁（Steel）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "铁碳合金，坚硬、有光泽、可锻造。",
+          "Merged": "铁碳合金，坚硬、有光泽、可锻造。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈银灰色，有金属光泽，可抛光至镜面效果或保留锻造纹理（锤痕、拉丝）。光线在表面形成锐利高光和清晰反射。角落和缝隙处可能有暗部堆积。可表现为冷兵器、机械零件、建筑结构。",
+          "Merged": "表面呈银灰色，有金属光泽，可抛光至镜面效果或保留锻造纹理锤痕或拉丝。光线在表面形成锐利高光和清晰反射。角落和缝隙处可能有暗部堆积。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "坚硬、冰冷、工业、力量、可靠。",
+          "Merged": "坚硬、冰冷、工业、力量、可靠。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "武器、机械、建筑、工业场景。",
+          "Merged": "武器、机械、建筑、工业场景。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0002",
+      "IndependentOriginalNumber": "2",
+      "IndependentTitle": "铜（Copper）🔥",
+      "MergedTitle": "铜（Copper）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "红棕色金属，导电导热性好，易氧化。",
+          "Merged": "红棕色金属，导电导热性好，易氧化。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "新铜呈明亮的红棕色，有温暖光泽；氧化后呈暗褐色或绿色（铜绿）。表面可能有不均匀的氧化斑块。光线在铜表面形成暖色高光。",
+          "Merged": "新铜呈明亮的红棕色，有温暖光泽；氧化后呈暗褐色或绿色铜绿。表面可能有不均匀的氧化斑块。光线在铜表面形成暖色高光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "古朴、温暖、历史感、工艺。",
+          "Merged": "古朴、温暖、历史感、工艺。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "古器、管道、雕塑、装饰。",
+          "Merged": "古器、管道、雕塑、装饰。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0003",
+      "IndependentOriginalNumber": "3",
+      "IndependentTitle": "金（Gold）🔥",
+      "MergedTitle": "金（Gold）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "贵金属，金黄色，延展性极好。",
+          "Merged": "贵金属，金黄色，延展性极好。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "明亮的金黄色，表面有极高的反光率，可形成镜面反射。纯金质地软，常与合金使用。光线在黄金表面形成耀眼的金色高光，边缘有暖色光晕。",
+          "Merged": "明亮的金黄色，表面有极高的反光率，可形成镜面反射。纯金质地软，常与合金使用。光线在黄金表面形成耀眼的金色高光，边缘有暖色光晕。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "财富、奢华、神圣、永恒。",
+          "Merged": "财富、奢华、神圣、永恒。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "珠宝、圣物、装饰、皇权。",
+          "Merged": "珠宝、圣物、装饰、皇权。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0004",
+      "IndependentOriginalNumber": "4",
+      "IndependentTitle": "银（Silver）🔥",
+      "MergedTitle": "银（Silver）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "贵金属，银白色，反光率高。",
+          "Merged": "贵金属，银白色，反光率高。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "明亮的银白色，表面光洁如镜，反射清晰。氧化后变暗发黑（硫化银）。银器表面常有细腻的雕花或抛光纹路。",
+          "Merged": "明亮的银白色，表面光洁如镜，反射清晰。氧化后变暗发黑硫化银。银器表面常有细腻的雕花或抛光纹路。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "纯净、优雅、高贵、冷艳。",
+          "Merged": "纯净、优雅、高贵、冷艳。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "餐具、首饰、圣器、装饰。",
+          "Merged": "餐具、首饰、圣器、装饰。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0005",
+      "IndependentOriginalNumber": "5",
+      "IndependentTitle": "铝合金（Aluminum Alloy）🔥",
+      "MergedTitle": "铝合金（Aluminum Alloy）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "轻质金属，银白色，现代工业常用。",
+          "Merged": "轻质金属，银白色，现代工业常用。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈哑光银灰或阳极氧化色（黑、蓝、红等）。拉丝或喷砂处理常见。光线反射柔和不刺眼。用于飞机、手机、现代家具。",
+          "Merged": "表面呈哑光银灰或阳极氧化色黑蓝红等。拉丝或喷砂处理常见。光线反射柔和不刺眼。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "现代、轻量、科技、简洁。",
+          "Merged": "现代、轻量、科技、简洁。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "现代设备、交通工具、电子产品。",
+          "Merged": "现代设备、交通工具、电子产品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0006",
+      "IndependentOriginalNumber": "6",
+      "IndependentTitle": "钛金属（Titanium）🔥",
+      "MergedTitle": "钛金属（Titanium）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "高强度、耐腐蚀的金属，银灰色。",
+          "Merged": "高强度、耐腐蚀的金属，银灰色。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈深银灰色，略带哑光，可抛光或保留磨砂。钛合金常用于高端装备，表面可能有彩虹色氧化膜（阳极氧化效果）。质感冷硬而精致。",
+          "Merged": "表面呈深银灰色，略带哑光，可抛光或保留磨砂。钛合金常用于高端装备，表面可能有彩虹色氧化膜阳极氧化效果。质感冷硬而精致。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "高科技、坚固、高端、冷峻。",
+          "Merged": "高科技、坚固、高端、冷峻。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "航空航天、高端武器、医疗器械、奢侈品。",
+          "Merged": "航空航天、高端武器、医疗器械、奢侈品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0007",
+      "IndependentOriginalNumber": "7",
+      "IndependentTitle": "锈蚀铁（Rusted Iron）🔥",
+      "MergedTitle": "锈蚀铁（Rusted Iron）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "铁在潮湿环境中氧化形成的锈蚀表面。",
+          "Merged": "铁在潮湿环境中氧化形成的锈蚀表面。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面覆盖橙红色、棕褐色的锈斑，质地粗糙，有片状剥落和粉状锈迹。锈蚀不均匀，形成自然纹理。光线在粗糙表面散射，无强烈反光。",
+          "Merged": "表面覆盖橙红色、棕褐色的锈斑，质地粗糙，有片状剥落和粉状锈迹。锈蚀不均匀，形成自然纹理。光线在粗糙表面散射，无强烈反光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "衰败、岁月、荒废、沉重。",
+          "Merged": "衰败、岁月、荒废、沉重。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "废墟、旧船、工业遗址、战争遗迹。",
+          "Merged": "废墟、旧船、工业遗址、战争遗迹。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0008",
+      "IndependentOriginalNumber": "8",
+      "IndependentTitle": "黄铜（Brass）🔥",
+      "MergedTitle": "黄铜（Brass）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "铜锌合金，金黄色，略暗于纯金。",
+          "Merged": "铜锌合金，金黄色，略暗于纯金。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈黄褐色至金黄色，光泽比纯金柔和，常带拉丝或抛光纹理。随时间氧化变暗，出现棕色或绿色斑块。",
+          "Merged": "表面呈黄褐色至金黄色，光泽比纯金柔和，常带拉丝或抛光纹理。随时间氧化变暗，出现棕色或绿色斑块。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "古典、精致、机械、复古。",
+          "Merged": "古典、精致、机械、复古。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "乐器、灯具、门把手、旧式机械。",
+          "Merged": "乐器、灯具、门把手、旧式机械。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0009",
+      "IndependentOriginalNumber": "9",
+      "IndependentTitle": "铬（Chrome）🔥",
+      "MergedTitle": "铬（Chrome）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "高度抛光的铬镀层，反光极强。",
+          "Merged": "高度抛光的铬镀层，反光极强。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈镜面效果，反射周围环境清晰，高光锐利，几乎无自身颜色（银白）。常用于汽车装饰、卫浴五金。指纹和微小划痕可见。",
+          "Merged": "表面呈镜面效果，反射周围环境清晰，高光锐利，几乎无自身颜色银白。常用于汽车装饰、卫浴五金。指纹和微小划痕可见。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "华丽、现代、闪亮、炫目。",
+          "Merged": "华丽、现代、闪亮、炫目。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "汽车、摩托、装饰、未来感物品。",
+          "Merged": "汽车、摩托、装饰、未来感物品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0010",
+      "IndependentOriginalNumber": "10",
+      "IndependentTitle": "黑铁（Black Iron）🔥",
+      "MergedTitle": "黑铁（Black Iron）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "经过发黑处理的铁，表面暗黑。",
+          "Merged": "经过发黑处理的铁，表面暗黑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "深黑灰色，表面哑光或微粗糙，有磨砂感。常用于传统兵器（如忍者刀）、铁艺制品。光线吸收多，反射少。",
+          "Merged": "深黑灰色，表面哑光或微粗糙，有磨砂感。常用于传统兵器、铁艺制品。光线吸收多，反射少。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "沉稳、冷酷、实用、暗黑。",
+          "Merged": "沉稳、冷酷、实用、暗黑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "武器、铁艺、暗黑风格。",
+          "Merged": "武器、铁艺、暗黑风格。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0011",
+      "IndependentOriginalNumber": "11",
+      "IndependentTitle": "原木（Raw Wood）🔥",
+      "MergedTitle": "原木（Raw Wood）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "未加工或粗加工的木材，保留自然纹理。",
+          "Merged": "未加工或粗加工的木材，保留自然纹理。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面有树皮残留、木纹清晰、粗糙，可能有裂纹和节疤。颜色依树种（松木浅黄、橡木浅棕、胡桃木深褐）。光线在粗糙表面散射，无强烈高光。",
+          "Merged": "表面有树皮残留、木纹清晰、粗糙，可能有裂纹和节疤。颜色依树种松木浅黄、橡木浅棕、胡桃木深褐。光线在粗糙表面散射，无强烈高光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "自然、质朴、原始、温暖。",
+          "Merged": "自然、质朴、原始、温暖。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "木屋、家具、自然场景、手工制品。",
+          "Merged": "木屋、家具、自然场景、手工制品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0012",
+      "IndependentOriginalNumber": "12",
+      "IndependentTitle": "抛光木材（Polished Wood）⭐",
+      "MergedTitle": "抛光木材（Polished Wood）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "经过打磨上漆的木材，表面光滑。",
+          "Merged": "经过打磨上漆的木材，表面光滑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面光滑如镜，有清晰木纹，反光柔和。漆面可能为清漆（保留木色）或色漆。高光处有柔和亮点，暗部有细微反光。",
+          "Merged": "表面光滑如镜，有清晰木纹，反光柔和。漆面可能为清漆保留木色或色漆。高光处有柔和亮点，暗部有细微反光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "精致、温馨、高雅、稳重。",
+          "Merged": "精致、温馨、高雅、稳重。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "高档家具、地板、乐器、室内装饰。",
+          "Merged": "高档家具、地板、乐器、室内装饰。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0013",
+      "IndependentOriginalNumber": "13",
+      "IndependentTitle": "老旧木材（Weathered Wood）🔥",
+      "MergedTitle": "老旧木材（Weathered Wood）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "长期暴露在外的木材，风化褪色。",
+          "Merged": "长期暴露在外的木材，风化褪色。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈灰白色或暗褐色，木纹因风化而模糊，有裂纹、翘曲、苔藓或污渍。质地松软，边缘磨损。",
+          "Merged": "表面呈灰白色或暗褐色，木纹因风化而模糊，有裂纹、翘曲、苔藓或污渍。质地松软，边缘磨损。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "怀旧、荒废、时光、沧桑。",
+          "Merged": "怀旧、荒废、时光、沧桑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "旧屋、废墟、海边栈道、西部场景。",
+          "Merged": "旧屋、废墟、海边栈道、西部场景。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0014",
+      "IndependentOriginalNumber": "14",
+      "IndependentTitle": "竹（Bamboo）🔥",
+      "MergedTitle": "竹（Bamboo）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "竹子的表面质感。",
+          "Merged": "竹子的表面质感。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面光滑，有节痕，颜色从青绿到黄褐。竹纤维纹理直，有光泽。可用于家具、建筑、工艺品。",
+          "Merged": "表面光滑，有节痕，颜色从青绿到黄褐。竹纤维纹理直，有光泽。可用于家具、建筑、工艺品。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "清雅、东方、自然、韧性。",
+          "Merged": "清雅、东方、自然、韧性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "东方风格、园林、竹制品、武侠。",
+          "Merged": "东方风格、园林、竹制品、武侠。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0015",
+      "IndependentOriginalNumber": "15",
+      "IndependentTitle": "树皮（Bark）⭐",
+      "MergedTitle": "树皮（Bark）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "树木表皮的粗糙纹理。",
+          "Merged": "树木表皮的粗糙纹理。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "依树种不同，树皮有纵向裂纹（橡树）、片状剥落（桦树）、鳞片状（松树）、光滑（山毛榉）。颜色灰、棕、红褐。粗糙、不规则。",
+          "Merged": "依树种不同，树皮有纵向裂纹橡树、片状剥落桦树、鳞片状松树、光滑山毛榉。颜色灰、棕、红褐。粗糙、不规则。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "自然、沧桑、生命力。",
+          "Merged": "自然、沧桑、生命力。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "森林、自然场景、特写、奇幻树木。",
+          "Merged": "森林、自然场景、特写、奇幻树木。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0016",
+      "IndependentOriginalNumber": "16",
+      "IndependentTitle": "木炭（Charcoal）🔥",
+      "MergedTitle": "木炭（Charcoal）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "木材不完全燃烧的产物。",
+          "Merged": "木材不完全燃烧的产物。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "黑色、多孔、表面粗糙易碎，有光泽的断面（玻璃状）。轻，易沾手。",
+          "Merged": "黑色、多孔、表面粗糙易碎，有光泽的断面玻璃状。轻，易沾手。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "燃烧、原始、破坏、简单。",
+          "Merged": "燃烧、原始、破坏、简单。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "篝火、绘画、工业、废墟。",
+          "Merged": "篝火、绘画、工业、废墟。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0017",
+      "IndependentOriginalNumber": "17",
+      "IndependentTitle": "软木（Cork）🔥",
+      "MergedTitle": "软木（Cork）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "橡树树皮制成，轻软有弹性。",
+          "Merged": "橡树树皮制成，轻软有弹性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "浅棕色，表面有细密颗粒纹理，按压有弹性。用于瓶塞、垫片、公告板。",
+          "Merged": "浅棕色，表面有细密颗粒纹理，按压有弹性。用于瓶塞、垫片、公告板。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "轻巧、温暖、实用、自然。",
+          "Merged": "轻巧、温暖、实用、自然。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "家居、办公、实验室。",
+          "Merged": "家居、办公、实验室。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0018",
+      "IndependentOriginalNumber": "18",
+      "IndependentTitle": "复合木材（Engineered Wood）🔥",
+      "MergedTitle": "复合木材（Engineered Wood）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "胶合板、密度板等人造木材。",
+          "Merged": "胶合板、密度板等人造木材。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面平整，纹理均匀（贴面）或颗粒状（刨花板），颜色多样。边缘可见分层。用于现代家具。",
+          "Merged": "表面平整，纹理均匀贴面或颗粒状刨花板，颜色多样。边缘可见分层。用于现代家具。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "现代、经济、实用。",
+          "Merged": "现代、经济、实用。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "现代办公、简约家居。",
+          "Merged": "现代办公、简约家居。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0019",
+      "IndependentOriginalNumber": "19",
+      "IndependentTitle": "大理石（Marble）🔥",
+      "MergedTitle": "大理石（Marble）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "变质岩，有美丽纹理，常用于高档装饰。",
+          "Merged": "变质岩，有美丽纹理，常用于高档装饰。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面光滑如镜（抛光后），有流动的云纹或条纹，颜色白、米黄、灰、绿、粉等。光线在表面形成柔和反射，纹理清晰。",
+          "Merged": "表面光滑如镜抛光后，有流动的云纹或条纹，颜色白、米黄、灰、绿、粉等。光线在表面形成柔和反射，纹理清晰。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "高贵、典雅、永恒、冰冷。",
+          "Merged": "高贵、典雅、永恒、冰冷。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "宫殿、雕塑、高档建筑、地面。",
+          "Merged": "宫殿、雕塑、高档建筑、地面。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0020",
+      "IndependentOriginalNumber": "20",
+      "IndependentTitle": "花岗岩（Granite）🔥",
+      "MergedTitle": "花岗岩（Granite）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "火成岩，坚硬耐磨，颗粒状结构。",
+          "Merged": "火成岩，坚硬耐磨，颗粒状结构。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面由不同颜色的矿物颗粒组成（黑、白、粉、灰），抛光后光滑但仍有颗粒感，常作台面和外墙。",
+          "Merged": "表面由不同颜色的矿物颗粒组成黑白粉灰，抛光后光滑但仍有颗粒感，常作台面和外墙。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "坚固、稳重、耐久、自然。",
+          "Merged": "坚固、稳重、耐久、自然。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "建筑、地面、台面、纪念碑。",
+          "Merged": "建筑、地面、台面、纪念碑。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0021",
+      "IndependentOriginalNumber": "21",
+      "IndependentTitle": "砂岩（Sandstone）🔥",
+      "MergedTitle": "砂岩（Sandstone）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "沉积岩，由砂粒胶结而成，粗糙多孔。",
+          "Merged": "沉积岩，由砂粒胶结而成，粗糙多孔。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈颗粒状，颜色黄、红、棕、灰，质感粗糙，吸水性强。适合雕刻和建筑立面。",
+          "Merged": "表面呈颗粒状，颜色黄、红、棕、灰，质感粗糙，吸水性强。适合雕刻和建筑立面。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "古老、温暖、自然、风化。",
+          "Merged": "古老、温暖、自然、风化。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "古城、寺庙、沙漠建筑、雕刻。",
+          "Merged": "古城、寺庙、沙漠建筑、雕刻。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0022",
+      "IndependentOriginalNumber": "22",
+      "IndependentTitle": "石灰岩（Limestone）🔥",
+      "MergedTitle": "石灰岩（Limestone）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "沉积岩，主要由碳酸钙组成，质地较软。",
+          "Merged": "沉积岩，主要由碳酸钙组成，质地较软。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "浅灰白色或米黄色，表面较平滑但可能含化石痕迹，易被酸雨侵蚀形成凹坑。",
+          "Merged": "浅灰白色或米黄色，表面较平滑但可能含化石痕迹，易被酸雨侵蚀形成凹坑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "古典、沧桑、地质。",
+          "Merged": "古典、沧桑、地质。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "古建筑、溶洞、海岸。",
+          "Merged": "古建筑、溶洞、海岸。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0023",
+      "IndependentOriginalNumber": "23",
+      "IndependentTitle": "玄武岩（Basalt）🔥",
+      "MergedTitle": "玄武岩（Basalt）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "火山岩，深色致密。",
+          "Merged": "火山岩，深色致密。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "深灰至黑色，表面可光滑（冷却后）或多孔（气孔构造）。常用于路面、建筑。",
+          "Merged": "深灰至黑色，表面可光滑冷却后或多孔气孔构造。常用于路面、建筑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "沉重、坚硬、原始。",
+          "Merged": "沉重、坚硬、原始。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "火山地带、现代建筑、路面。",
+          "Merged": "火山地带、现代建筑、路面。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0024",
+      "IndependentOriginalNumber": "24",
+      "IndependentTitle": "鹅卵石（Pebbles）⭐",
+      "MergedTitle": "鹅卵石（Pebbles）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "被水冲刷磨圆的石块。",
+          "Merged": "被水冲刷磨圆的石块。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "大小不一，表面光滑圆润，颜色多样（灰、白、棕、黑），常堆积在河滩或路面。光线在表面有柔和高光。",
+          "Merged": "大小不一，表面光滑圆润，颜色多样灰、白、棕、黑，常堆积在河滩或路面。光线在表面有柔和高光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "自然、宁静、休闲、日式。",
+          "Merged": "自然、宁静、休闲、日式。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "园林、河滩、浴室、小径。",
+          "Merged": "园林、河滩、浴室、小径。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0025",
+      "IndependentOriginalNumber": "25",
+      "IndependentTitle": "板岩（Slate）🔥",
+      "MergedTitle": "板岩（Slate）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "变质岩，可剥离成薄板。",
+          "Merged": "变质岩，可剥离成薄板。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "深灰至黑色，表面有层理，劈开面平整但略显粗糙，常作屋顶或书写板。",
+          "Merged": "深灰至黑色，表面有层理，劈开面平整但略显粗糙，常作屋顶或书写板。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "朴实、耐用、乡村。",
+          "Merged": "朴实、耐用、乡村。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "屋顶、地面、黑板、乡村建筑。",
+          "Merged": "屋顶、地面、黑板、乡村建筑。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0026",
+      "IndependentOriginalNumber": "26",
+      "IndependentTitle": "玉石（Jade）🔥",
+      "MergedTitle": "玉石（Jade）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "珍贵矿石，温润有光泽。",
+          "Merged": "珍贵矿石，温润有光泽。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "绿色（翡翠）或白色（和田玉），半透明至微透明，表面温润如脂，有细腻纹理。光线在内部有柔和透射。",
+          "Merged": "绿色翡翠或白色和田玉，半透明至微透明，表面温润如脂，有细腻纹理。光线在内部有柔和透射。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "高贵、温润、东方、祥瑞。",
+          "Merged": "高贵、温润、东方、祥瑞。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "首饰、古玩、东方题材、宝物。",
+          "Merged": "首饰、古玩、东方题材、宝物。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0027",
+      "IndependentOriginalNumber": "27",
+      "IndependentTitle": "棉布（Cotton）⭐",
+      "MergedTitle": "棉布（Cotton）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "天然纤维织物，柔软透气。",
+          "Merged": "天然纤维织物，柔软透气。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面有轻微纹理，哑光，柔软褶皱自然，染色丰富。可薄可厚（纱布到帆布）。光线柔和散射。",
+          "Merged": "表面有轻微纹理，哑光，柔软褶皱自然，染色丰富。可薄可厚纱布到帆布。光线柔和散射。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "舒适、日常、朴素、温暖。",
+          "Merged": "舒适、日常、朴素、温暖。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "衣物、床品、日常用品。",
+          "Merged": "衣物、床品、日常用品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0028",
+      "IndependentOriginalNumber": "28",
+      "IndependentTitle": "麻布（Linen）🔥",
+      "MergedTitle": "麻布（Linen）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "亚麻纤维织物，粗糙有质感。",
+          "Merged": "亚麻纤维织物，粗糙有质感。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "纹理粗犷，有明显经纬线，表面略粗糙，光泽自然哑光，易起皱。颜色多为米白、浅灰、浅棕。",
+          "Merged": "纹理粗犷，有明显经纬线，表面略粗糙，光泽自然哑光，易起皱。颜色多为米白、浅灰、浅棕。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "自然、禅意、简约、凉爽。",
+          "Merged": "自然、禅意、简约、凉爽。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "夏装、窗帘、桌布、文艺风。",
+          "Merged": "夏装、窗帘、桌布、文艺风。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0029",
+      "IndependentOriginalNumber": "29",
+      "IndependentTitle": "丝绸（Silk）🔥",
+      "MergedTitle": "丝绸（Silk）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "天然蛋白质纤维，光滑有光泽。",
+          "Merged": "天然蛋白质纤维，光滑有光泽。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面光滑如流水，有柔和的高光反射，色彩鲜艳。轻薄柔软，褶皱处有明亮的光泽变化。触感顺滑。",
+          "Merged": "表面光滑如流水，有柔和的高光反射，色彩鲜艳。轻薄柔软，褶皱处有明亮的光泽变化。触感顺滑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "奢华、优雅、性感、古典。",
+          "Merged": "奢华、优雅、性感、古典。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "礼服、汉服、床品、装饰。",
+          "Merged": "礼服、汉服、床品、装饰。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0030",
+      "IndependentOriginalNumber": "30",
+      "IndependentTitle": "皮革（Leather）🔥",
+      "MergedTitle": "皮革（Leather）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "动物皮鞣制而成，坚韧有弹性。",
+          "Merged": "动物皮鞣制而成，坚韧有弹性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面有天然纹理（毛孔、皱纹），哑光或抛光。颜色深棕、黑、红棕。质地坚韧，有厚重感。使用后有包浆和褶皱。",
+          "Merged": "表面有天然纹理毛孔、皱纹，哑光或抛光。颜色深棕、黑、红棕。质地坚韧，有厚重感。使用后有包浆和褶皱。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "粗犷、耐用、高级、野性。",
+          "Merged": "粗犷、耐用、高级、野性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "夹克、皮包、马具、家具。",
+          "Merged": "夹克、皮包、马具、家具。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0031",
+      "IndependentOriginalNumber": "31",
+      "IndependentTitle": "牛仔布（Denim）🔥",
+      "MergedTitle": "牛仔布（Denim）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "粗斜纹棉布，耐磨。",
+          "Merged": "粗斜纹棉布，耐磨。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面有清晰的斜纹纹理，蓝色深浅变化，常有磨白、破洞、铆钉。质地厚实，手感粗糙。",
+          "Merged": "表面有清晰的斜纹纹理，蓝色深浅变化，常有磨白、破洞、铆钉。质地厚实，手感粗糙。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "休闲、青春、反叛、日常。",
+          "Merged": "休闲、青春、反叛、日常。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "牛仔裤、夹克、工装。",
+          "Merged": "牛仔裤、夹克、工装。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0032",
+      "IndependentOriginalNumber": "32",
+      "IndependentTitle": "毛呢（Wool）🔥",
+      "MergedTitle": "毛呢（Wool）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "羊毛织物，保暖厚实。",
+          "Merged": "羊毛织物，保暖厚实。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面有细密绒毛，手感柔软，呢料有挺括感。颜色沉稳，如深灰、藏蓝、驼色。光线吸收较多。",
+          "Merged": "表面有细密绒毛，手感柔软，呢料有挺括感。颜色沉稳，如深灰、藏蓝、驼色。光线吸收较多。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "温暖、庄重、传统、优雅。",
+          "Merged": "温暖、庄重、传统、优雅。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "大衣、西装、冬季服装、室内装饰。",
+          "Merged": "大衣、西装、冬季服装、室内装饰。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0033",
+      "IndependentOriginalNumber": "33",
+      "IndependentTitle": "蕾丝（Lace）🔥",
+      "MergedTitle": "蕾丝（Lace）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "网状镂空织物，精致。",
+          "Merged": "网状镂空织物，精致。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "精细的网眼和花纹，半透明，边缘可能有波浪或锯齿。光线透过形成美丽图案。",
+          "Merged": "精细的网眼和花纹，半透明，边缘可能有波浪或锯齿。光线透过形成美丽图案。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "浪漫、柔美、性感、精致。",
+          "Merged": "浪漫、柔美、性感、精致。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "婚纱、内衣、装饰、女装。",
+          "Merged": "婚纱、内衣、装饰、女装。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0034",
+      "IndependentOriginalNumber": "34",
+      "IndependentTitle": "帆布（Canvas）🔥",
+      "MergedTitle": "帆布（Canvas）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "粗厚棉布或麻布，耐磨。",
+          "Merged": "粗厚棉布或麻布，耐磨。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "厚实，纹理粗，颜色多为白、米白、军绿、黑。用于帐篷、画布、背包。哑光质感。",
+          "Merged": "厚实，纹理粗，颜色多为白、米白、军绿、黑。用于帐篷、画布、背包。哑光质感。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "实用、户外、艺术、耐用。",
+          "Merged": "实用、户外、艺术、耐用。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "帐篷、画布、背包、户外用品。",
+          "Merged": "帐篷、画布、背包、户外用品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0035",
+      "IndependentOriginalNumber": "35",
+      "IndependentTitle": "水（Water）⭐",
+      "MergedTitle": "水（Water）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "透明液体，可呈现静止或流动。",
+          "Merged": "透明液体，可呈现静止或流动。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "静止水面如镜，反射清晰，略有波纹时反射扭曲；流动水有旋涡和气泡；水花飞溅时形成白色水雾。光线透过时有折射。深度不同颜色从浅蓝到深蓝。",
+          "Merged": "静止水面如镜，反射清晰，略有波纹时反射扭曲；流动水有旋涡和气泡；水花飞溅时形成白色水雾。光线透过时有折射。深度不同颜色从浅蓝到深蓝。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "生命、洁净、流动、情感。",
+          "Merged": "生命、洁净、流动、情感。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "所有液体场景、雨、湖海。",
+          "Merged": "所有液体场景、雨、湖海。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0036",
+      "IndependentOriginalNumber": "36",
+      "IndependentTitle": "油（Oil）🔥",
+      "MergedTitle": "油（Oil）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "黏稠液体，不溶于水，有光泽。",
+          "Merged": "黏稠液体，不溶于水，有光泽。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "深琥珀色到黑色，表面有彩虹色光泽（薄膜干涉），流动缓慢，有黏性。可粘附在表面。",
+          "Merged": "深琥珀色到黑色，表面有彩虹色光泽薄膜干涉，流动缓慢，有黏性。可粘附在表面。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "工业、污染、危险、机械。",
+          "Merged": "工业、污染、危险、机械。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "机械、油污、工业事故、烹饪。",
+          "Merged": "机械、油污、工业事故、烹饪。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0037",
+      "IndependentOriginalNumber": "37",
+      "IndependentTitle": "血液（Blood）🔥",
+      "MergedTitle": "血液（Blood）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "红色不透明液体，有黏性。",
+          "Merged": "红色不透明液体，有黏性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "鲜红色（动脉血）到暗红色（静脉血/干涸），表面有光泽，流动时略黏稠，溅落后形成血滴。干涸后变暗，呈红褐色。",
+          "Merged": "鲜红色动脉血到暗红色静脉血或干涸，表面有光泽，流动时略黏稠，溅落后形成血滴。干涸后变暗，呈红褐色。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "暴力、伤害、生命、恐怖。",
+          "Merged": "暴力、伤害、生命、恐怖。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "伤口、凶案、战斗、恐怖。",
+          "Merged": "伤口、凶案、战斗、恐怖。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0038",
+      "IndependentOriginalNumber": "38",
+      "IndependentTitle": "熔岩（Lava）🔥",
+      "MergedTitle": "熔岩（Lava）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "高温熔融岩石。",
+          "Merged": "高温熔融岩石。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "炽热橙红色，表面有流动的亮红色裂纹（冷却表皮裂开），散发高温扭曲空气，可发光照亮周围。冷却后变黑。",
+          "Merged": "炽热橙红色，表面有流动的亮红色裂纹冷却表皮裂开，散发高温扭曲空气，可发光照亮周围。冷却后变黑。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "毁灭、原始、高温、地狱。",
+          "Merged": "毁灭、原始、高温、地狱。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "火山、地狱、灾难。",
+          "Merged": "火山、地狱、灾难。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0039",
+      "IndependentOriginalNumber": "39",
+      "IndependentTitle": "泥浆（Mud）🔥",
+      "MergedTitle": "泥浆（Mud）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "水和土的混合物，黏稠。",
+          "Merged": "水和土的混合物，黏稠。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "棕色或灰色，表面反光弱，有气泡和脚印，干燥后龟裂。质感厚重黏附。",
+          "Merged": "棕色或灰色，表面反光弱，有气泡和脚印，干燥后龟裂。质感厚重黏附。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "肮脏、自然、泥泞、战争。",
+          "Merged": "肮脏、自然、泥泞、战争。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "沼泽、雨后、战场、农村。",
+          "Merged": "沼泽、雨后、战场、农村。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0040",
+      "IndependentOriginalNumber": "40",
+      "IndependentTitle": "牛奶/乳汁（Milk）🔥",
+      "MergedTitle": "牛奶或乳汁（Milk）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "白色不透明液体，略有黏性。",
+          "Merged": "白色不透明液体，略有黏性。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "纯白色，表面有柔和光泽，倒入杯中形成平滑液面，溅出时有白色液滴。质感温和。",
+          "Merged": "纯白色，表面有柔和光泽，倒入杯中形成平滑液面，溅出时有白色液滴。质感温和。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "纯净、滋养、生命。",
+          "Merged": "纯净、滋养、生命。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "食物、母性、纯真。",
+          "Merged": "食物、母性、纯真。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0041",
+      "IndependentOriginalNumber": "41",
+      "IndependentTitle": "人类皮肤（Human Skin）⭐",
+      "MergedTitle": "人类皮肤（Human Skin）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "人体表面的柔软覆盖物。",
+          "Merged": "人体表面的柔软覆盖物。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "有细微毛孔和绒毛，肤色因种族和光照而异，油脂分泌产生自然光泽。弹性好，受压变白后恢复。纹理在放大时可见皮纹。",
+          "Merged": "有细微毛孔和绒毛，肤色因种族和光照而异，油脂分泌产生自然光泽。弹性好，受压变白后恢复。纹理在放大时可见皮纹。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "真实、生命、亲密、温度。",
+          "Merged": "真实、生命、亲密、温度。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "所有人物镜头、特写、情感表达。",
+          "Merged": "所有人物镜头、特写、情感表达。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0042",
+      "IndependentOriginalNumber": "42",
+      "IndependentTitle": "动物毛皮（Animal Fur）🔥",
+      "MergedTitle": "动物毛皮（Animal Fur）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "覆盖动物的毛发。",
+          "Merged": "覆盖动物的毛发。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "依动物不同，有短毛（猫）、长毛（狮子鬃毛）、卷毛（绵羊）。毛发光泽柔顺或粗糙，排列有方向性。风吹时毛发飘动。",
+          "Merged": "依动物不同，有短毛猫、长毛狮子鬃毛、卷毛绵羊。毛发光泽柔顺或粗糙，排列有方向性。风吹时毛发飘动。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "野性、温暖、可爱、危险。",
+          "Merged": "野性、温暖、可爱、危险。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "动物、皮草、自然、角色。",
+          "Merged": "动物、皮草、自然、角色。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0043",
+      "IndependentOriginalNumber": "43",
+      "IndependentTitle": "羽毛（Feathers）🔥",
+      "MergedTitle": "羽毛（Feathers）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "鸟类体表的覆盖物。",
+          "Merged": "鸟类体表的覆盖物。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "轻盈，有羽轴和羽枝，颜色鲜艳或有光泽，排列整齐。飞行时随风飘动。",
+          "Merged": "轻盈，有羽轴和羽枝，颜色鲜艳或有光泽，排列整齐。飞行时随风飘动。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "自由、轻盈、美丽、天使/恶魔。",
+          "Merged": "自由、轻盈、美丽、天使或恶魔。",
+          "NormalizedEqual": false
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "鸟类、天使、装饰、服装。",
+          "Merged": "鸟类、天使、装饰、服装。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0044",
+      "IndependentOriginalNumber": "44",
+      "IndependentTitle": "鳞片（Scales）🔥",
+      "MergedTitle": "鳞片（Scales）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "覆盖鱼类、爬行动物的角质薄片。",
+          "Merged": "覆盖鱼类、爬行动物的角质薄片。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "排列整齐如瓦片，表面光滑反光，颜色多样（鱼鳞银、蛇鳞棕、龙鳞金）。干燥时略翘起，湿润时贴服。",
+          "Merged": "排列整齐如瓦片，表面光滑反光，颜色多样鱼鳞银、蛇鳞棕、龙鳞金。干燥时略翘起，湿润时贴服。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "野性、冷血、神秘、防护。",
+          "Merged": "野性、冷血、神秘、防护。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "蛇、鱼、龙、蜥蜴。",
+          "Merged": "蛇、鱼、龙、蜥蜴。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0045",
+      "IndependentOriginalNumber": "45",
+      "IndependentTitle": "树皮纹理（Bark Texture）⭐",
+      "MergedTitle": "树皮纹理（Bark Texture）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "树木表皮的粗糙纹理。",
+          "Merged": "树木表皮的粗糙纹理。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "纵向沟壑、横向裂纹、鳞片状剥落、苔藓附着，颜色灰棕，粗糙不平，光影在缝隙处变暗。",
+          "Merged": "纵向沟壑、横向裂纹、鳞片状剥落、苔藓附着，颜色灰棕，粗糙不平，光影在缝隙处变暗。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "岁月、自然、粗糙。",
+          "Merged": "岁月、自然、粗糙。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "特写、自然场景。",
+          "Merged": "特写、自然场景。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0046",
+      "IndependentOriginalNumber": "46",
+      "IndependentTitle": "叶片（Leaf）⭐",
+      "MergedTitle": "叶片（Leaf）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "植物的叶子。",
+          "Merged": "植物的叶子。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "薄而柔韧，表面有叶脉纹理，正反面颜色不同（正面深绿有光泽，背面浅绿有绒毛），光线可透射。枯萎后变黄变脆。",
+          "Merged": "薄而柔韧，表面有叶脉纹理，正反面颜色不同正面深绿有光泽，背面浅绿有绒毛，光线可透射。枯萎后变黄变脆。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "生命、清新、季节、自然。",
+          "Merged": "生命、清新、季节、自然。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "植物、自然、季节转换。",
+          "Merged": "植物、自然、季节转换。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0047",
+      "IndependentOriginalNumber": "47",
+      "IndependentTitle": "花朵（Flower）🔥",
+      "MergedTitle": "花朵（Flower）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "植物的生殖结构，色彩鲜艳。",
+          "Merged": "植物的生殖结构，色彩鲜艳。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "花瓣柔软，边缘可微皱，颜色丰富，花蕊细节清晰，花粉可见。晨露使其更鲜艳。",
+          "Merged": "花瓣柔软，边缘可微皱，颜色丰富，花蕊细节清晰，花粉可见。晨露使其更鲜艳。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "美丽、浪漫、生命、短暂。",
+          "Merged": "美丽、浪漫、生命、短暂。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "花海、特写、浪漫、葬礼。",
+          "Merged": "花海、特写、浪漫、葬礼。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0048",
+      "IndependentOriginalNumber": "48",
+      "IndependentTitle": "骨骼（Bone）🔥",
+      "MergedTitle": "骨骼（Bone）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "脊椎动物的骨架。",
+          "Merged": "脊椎动物的骨架。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "白色至米黄色，表面光滑有微孔，质地坚硬，关节处有软骨痕迹。陈旧骨骼可能发黄或有裂纹。",
+          "Merged": "白色至米黄色，表面光滑有微孔，质地坚硬，关节处有软骨痕迹。陈旧骨骼可能发黄或有裂纹。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "死亡、恐惧、标本、考古。",
+          "Merged": "死亡、恐惧、标本、考古。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "骷髅、化石、恐怖、医学。",
+          "Merged": "骷髅、化石、恐怖、医学。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0049",
+      "IndependentOriginalNumber": "49",
+      "IndependentTitle": "玻璃（Glass）⭐",
+      "MergedTitle": "玻璃（Glass）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "透明硬脆材料。",
+          "Merged": "透明硬脆材料。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "完全透明或半透明，光线折射和反射。表面光滑，高光锐利。可着色或磨砂。碎裂后呈尖锐碎片。",
+          "Merged": "完全透明或半透明，光线折射和反射。表面光滑，高光锐利。可着色或磨砂。碎裂后呈尖锐碎片。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "脆弱、纯净、现代、精致。",
+          "Merged": "脆弱、纯净、现代、精致。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "窗户、器皿、建筑、科技。",
+          "Merged": "窗户、器皿、建筑、科技。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0050",
+      "IndependentOriginalNumber": "50",
+      "IndependentTitle": "塑料（Plastic）⭐",
+      "MergedTitle": "塑料（Plastic）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "高分子合成材料，种类繁多。",
+          "Merged": "高分子合成材料，种类繁多。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "可硬可软，表面光滑或磨砂，颜色鲜艳，有注塑痕迹。透明塑料有轻微雾度。光泽度可调。",
+          "Merged": "可硬可软，表面光滑或磨砂，颜色鲜艳，有注塑痕迹。透明塑料有轻微雾度。光泽度可调。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "现代、廉价、实用、多彩。",
+          "Merged": "现代、廉价、实用、多彩。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "日用品、玩具、包装、现代产品。",
+          "Merged": "日用品、玩具、包装、现代产品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0051",
+      "IndependentOriginalNumber": "51",
+      "IndependentTitle": "橡胶（Rubber）🔥",
+      "MergedTitle": "橡胶（Rubber）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "弹性体，可拉伸回弹。",
+          "Merged": "弹性体，可拉伸回弹。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "黑色或深色，表面哑光或微亮，有弹性纹理，按压变形后恢复。用于轮胎、鞋底、密封件。",
+          "Merged": "黑色或深色，表面哑光或微亮，有弹性纹理，按压变形后恢复。用于轮胎、鞋底、密封件。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "实用、弹性、工业、防护。",
+          "Merged": "实用、弹性、工业、防护。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "轮胎、雨鞋、工业、运动。",
+          "Merged": "轮胎、雨鞋、工业、运动。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0052",
+      "IndependentOriginalNumber": "52",
+      "IndependentTitle": "碳纤维（Carbon Fiber）🔥",
+      "MergedTitle": "碳纤维（Carbon Fiber）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "碳纤维编织复合材料，轻且强。",
+          "Merged": "碳纤维编织复合材料，轻且强。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面呈黑色，有编织纹理（方格或斜纹），光泽柔和，质感高级。用于赛车、航空。",
+          "Merged": "表面呈黑色，有编织纹理方格或斜纹，光泽柔和，质感高级。用于赛车、航空。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "高科技、性能、昂贵、未来。",
+          "Merged": "高科技、性能、昂贵、未来。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "赛车、飞机、高端装备。",
+          "Merged": "赛车、飞机、高端装备。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0053",
+      "IndependentOriginalNumber": "53",
+      "IndependentTitle": "混凝土（Concrete）⭐",
+      "MergedTitle": "混凝土（Concrete）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "水泥、砂石混合硬化材料。",
+          "Merged": "水泥、砂石混合硬化材料。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "灰色，表面有浇筑纹理、气孔、裂缝，吸水后变色。常留有模板痕迹。",
+          "Merged": "灰色，表面有浇筑纹理、气孔、裂缝，吸水后变色。常留有模板痕迹。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "粗犷、工业、坚固、都市。",
+          "Merged": "粗犷、工业、坚固、都市。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "建筑、墙壁、城市。",
+          "Merged": "建筑、墙壁、城市。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0054",
+      "IndependentOriginalNumber": "54",
+      "IndependentTitle": "陶瓷（Ceramic）🔥",
+      "MergedTitle": "陶瓷（Ceramic）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "黏土烧制，坚硬易碎。",
+          "Merged": "黏土烧制，坚硬易碎。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "表面光滑（上釉）或粗糙（素烧），颜色多样，釉面有光泽，敲击声清脆。可绘制花纹。",
+          "Merged": "表面光滑上釉或粗糙素烧，颜色多样，釉面有光泽，敲击声清脆。可绘制花纹。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "精致、传统、艺术、易碎。",
+          "Merged": "精致、传统、艺术、易碎。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "餐具、花瓶、卫浴、工艺品。",
+          "Merged": "餐具、花瓶、卫浴、工艺品。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0055",
+      "IndependentOriginalNumber": "55",
+      "IndependentTitle": "泡沫（Foam）🔥",
+      "MergedTitle": "泡沫（Foam）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "大量气泡聚集，轻而多孔。",
+          "Merged": "大量气泡聚集，轻而多孔。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "白色或彩色，表面由无数气泡组成，质地柔软，轻压变形，可吸水。光线散射，无高光。",
+          "Merged": "白色或彩色，表面由无数气泡组成，质地柔软，轻压变形，可吸水。光线散射，无高光。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "轻软、清洁、隔离、舒适。",
+          "Merged": "轻软、清洁、隔离、舒适。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "清洁、包装、缓冲、海洋泡沫。",
+          "Merged": "清洁、包装、缓冲、海洋泡沫。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0056",
+      "IndependentOriginalNumber": "56",
+      "IndependentTitle": "冰（Ice）🔥",
+      "MergedTitle": "冰（Ice）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "固态水，透明，低温。",
+          "Merged": "固态水，透明，低温。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "透明或半透明，内部可能有气泡或裂纹，表面光滑反光，融化时边缘变圆。不同厚度呈现不同蓝色。",
+          "Merged": "透明或半透明，内部可能有气泡或裂纹，表面光滑反光，融化时边缘变圆。不同厚度呈现不同蓝色。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "寒冷、纯净、脆弱、危险。",
+          "Merged": "寒冷、纯净、脆弱、危险。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "冬季、极地、饮品、冰雕。",
+          "Merged": "冬季、极地、饮品、冰雕。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0057",
+      "IndependentOriginalNumber": "57",
+      "IndependentTitle": "晶体（Crystal）🔥",
+      "MergedTitle": "晶体（Crystal）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "规则排列的矿物质，多面体。",
+          "Merged": "规则排列的矿物质，多面体。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "透明或半透明，有锐利棱边和光滑晶面，光线折射形成彩虹色，内部可能有包裹体。颜色多样。",
+          "Merged": "透明或半透明，有锐利棱边和光滑晶面，光线折射形成彩虹色，内部可能有包裹体。颜色多样。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "神秘、能量、珍贵、美丽。",
+          "Merged": "神秘、能量、珍贵、美丽。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "矿洞、魔法、首饰、科幻。",
+          "Merged": "矿洞、魔法、首饰、科幻。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0058",
+      "IndependentOriginalNumber": "58",
+      "IndependentTitle": "能量（Energy）🔥",
+      "MergedTitle": "能量（Energy）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "非物质能量形态。",
+          "Merged": "非物质能量形态。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "发光、流动、无实体，可有颜色和形态（光球、光束、力场），边缘模糊，有粒子效果。",
+          "Merged": "发光、流动、无实体，可有颜色和形态光球、光束、力场，边缘模糊，有粒子效果。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "力量、魔法、科技、超越。",
+          "Merged": "力量、魔法、科技、超越。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "魔法、科幻、特效。",
+          "Merged": "魔法、科幻、特效。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0059",
+      "IndependentOriginalNumber": "59",
+      "IndependentTitle": "暗物质/阴影（Dark Matter/Shadow）🔥",
+      "MergedTitle": "暗物质或阴影（Dark Matter/Shadow）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "不可见但可感知的黑暗形态。",
+          "Merged": "不可见但可感知的黑暗形态。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "纯黑或深紫色，吸收光线，边缘有模糊烟雾感，可流动变形，给人压迫感。",
+          "Merged": "纯黑或深紫色，吸收光线，边缘有模糊烟雾感，可流动变形，给人压迫感。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "邪恶、神秘、恐惧、未知。",
+          "Merged": "邪恶、神秘、恐惧、未知。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "恐怖、黑暗奇幻、科幻。",
+          "Merged": "恐怖、黑暗奇幻、科幻。",
+          "NormalizedEqual": true
+        }
+      ]
+    },
+    {
+      "TaskId": "L21-T0060",
+      "IndependentOriginalNumber": "60",
+      "IndependentTitle": "全息影像（Hologram）🔥",
+      "MergedTitle": "全息影像（Hologram）",
+      "Fields": [
+        {
+          "Field": "定义",
+          "Independent": "投影形成的虚拟图像。",
+          "Merged": "投影形成的虚拟图像。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "AI技术执行",
+          "Independent": "半透明，由光点或线框构成，有扫描线闪烁，可穿过，无实体阴影。",
+          "Merged": "半透明，由光点或线框构成，有扫描线闪烁，可穿过，无实体阴影。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "情绪功能",
+          "Independent": "科技、虚拟、未来、信息。",
+          "Merged": "科技、虚拟、未来、信息。",
+          "NormalizedEqual": true
+        },
+        {
+          "Field": "适用场景",
+          "Independent": "科幻、通讯、界面、展示。",
+          "Merged": "科幻、通讯、界面、展示。",
+          "NormalizedEqual": true
+        }
+      ]
+    }
+  ],
+  "Status": "comparison_draft"
+}

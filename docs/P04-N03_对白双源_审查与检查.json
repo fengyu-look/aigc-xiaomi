@@ -1,0 +1,241 @@
+{
+  "SourceIds": [
+    "SRC006",
+    "SRC030"
+  ],
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC006-S001",
+      "Title": "70条来源分类与真实对白输入",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "六组70/原21库旧统计不覆盖61库；A留信/B持信先验明确",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "2EA85F2677A2C38CCE0AE3A3B587488D2EFF40121C7E9F87462B887167EC59F3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S002",
+      "Title": "十八字例的实际计数与发声时间",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "18汉字分9+6+3/3字秒/1停，B4字/2字秒，终结3秒共12",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "93EAD7A1229125A312054CCBF2799857530C9475C97DF8CBCA93211BAABA21C9",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S003",
+      "Title": "每句话真正改变了谁知道什么",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "t3获留信主张/t7获歉意/t9仅确认听到，未声明宽恕/原因未知",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0706514F99DA5C515388003AD1A3B36DB20FD43268DC2032CC014D9115A08AC8",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S004",
+      "Title": "功能、风格与潜台词的可用组合及冲突",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "风格功能潜台词组合和互斥，完整暗示/回避例有前置和结果",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "9CD1D1294C0F6066FB75AA5A2329545D503DB30E880EE1F76C3AA1B3BB7556EE",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S005",
+      "Title": "从时窗到演员动作、摄影机与声轨",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "双人固定根/朝向/手归属，50mm中景规划，沉默是无对白与全静音分版",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1BCCB69374EBF2390EE4491FE2B1ABCADF90E57215F1EBC7366A63DA1FE20B3E",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S006",
+      "Title": "完整可复制对白分镜交付",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整双人12秒提示/288帧/字幕声口型不同轨，计划资产非文件",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1FE08AC9ACAFF7C85419B4C1FADA9F3A31354C88A2435C848233258C6F0C3D2D",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S007",
+      "Title": "旁白、留言和角色表达的边界",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "内心旁白/留言知识边界，NIMH谱系范围可见说明非诊断",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "C13B0A6D19FC0FCB25F6A2944559316D3E2393A857AD08BD691FE69455195369",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC006-S008",
+      "Title": "具体失败修复和结果交接",
+      "SourceId": "SRC006",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/对话台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "实际字数时窗和两人信息/信位置末态逐故障修复、无真实朗读",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "B9B9D7D6C6C2F301C558E3354B012F9B816C38A01373AAA0F9D136D54A8631A4",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S001",
+      "Title": "70条独立稿的差异保留与补齐说明",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "48实际差异、27漏关注/26连接改变/31少人称程度/64与69备选句分隔丢失、占位变化保留",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "4078EC60A2DBBA0F38A45BC24531FF1A6398D142466C409C2318796556113116",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S002",
+      "Title": "实际留言与纸面全文，避免空壳交接",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "实际信全文和独立留言全文，A独处/B未听，媒介不混",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "2E7D1DA7DFF93EF7724924BA337FC7F25B77507DD3E808C41B9EFAC83F424453",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S003",
+      "Title": "留言时间、停顿和录制结束实际状态",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "草稿17字改16，2+7+7与2字秒12秒预算，9.5—10.75指尖完整近触离",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "08E6DB43698E2EA1038DD24C4114FCD755107EE0E8AAEE57FC9BA1A4AAF9E478",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S004",
+      "Title": "完整留言制作文本与旁白备选的知识差",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整留言12秒/288帧+手机屏表面/视角可读性不冒保证，saved_local未发送",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "52E51511C6499AE68AB0DB1DD5B1E7CB4063D38266E38B9346C97A26250C0C88",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S005",
+      "Title": "原沉默、重叠和重复数值保留与不可误用",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "原1—5/2—5/2—3数值保留、打断和重叠.5秒独立例，当前无第二人",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0C5FE2E24170B82FEF3DF0E98CC8A2F0C4FBD2F665AF119CC208B54CDAB9D588",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC030-S006",
+      "Title": "文本复核、版本选择和下一事件输入",
+      "SourceId": "SRC030",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/27、对话与台词库_原文与应用扩写.md",
+      "ActualReviewObservation": "前/后互斥时间线与实际下一事件状态，手机/信/声音计划资产非已有文件",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "AD265B8101CBA493B4690F11B48297C63890AE92610A6D3366DD41E4E7813EFA",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Review": "docs/P04-N03_对白双源_逐步骤审查.md",
+  "Retrieval": "14实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_对白双源_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false,
+  "ContentManifest": {
+    "BatchLabel": "对白双源",
+    "ActualTextReviewCompleted": true,
+    "FullTaskComplete": false,
+    "Scope": "SRC006与SRC030各70条280字段/六分类/应用层实际全文读取，四版对应章27字段及48差异实际阅读分类。8+6新增步骤，18字当面道歉与16字未发送留言的完整互斥版本。",
+    "ReviewConclusion": "[四版实际字段](P04-N03_对白70条四版字段对读.json)、[17计数时序关系及两处草稿修正](P04-N03_对白字数时序核对.json)、[来源范围](P04-N03_对白来源与阅读范围.json)。末态前者B仅听见事实、后者B未听，不能自动宣布宽恕/复合/留言发送。",
+    "Sources": [
+      {
+        "SourceId": "SRC006",
+        "Draft": ".local/P04-N03_SRC006_工作流草稿.md",
+        "ActualReviewObservations": [
+          "六组70/原21库旧统计不覆盖61库；A留信/B持信先验明确",
+          "18汉字分9+6+3/3字秒/1停，B4字/2字秒，终结3秒共12",
+          "t3获留信主张/t7获歉意/t9仅确认听到，未声明宽恕/原因未知",
+          "风格功能潜台词组合和互斥，完整暗示/回避例有前置和结果",
+          "双人固定根/朝向/手归属，50mm中景规划，沉默是无对白与全静音分版",
+          "完整双人12秒提示/288帧/字幕声口型不同轨，计划资产非文件",
+          "内心旁白/留言知识边界，NIMH谱系范围可见说明非诊断",
+          "实际字数时窗和两人信息/信位置末态逐故障修复、无真实朗读"
+        ],
+        "CompletedScope": "70条四字段/六组/实际版本差异及8执行流程文本深化自审检索，不等于完整心理科学事实或真实表演效果验收",
+        "VersionComparison": "docs/P04-N03_对白70条四版字段对读.json",
+        "Limitations": "未朗读/音量/口型/真实rig/图像/音频生成、独立内容复核待做。"
+      },
+      {
+        "SourceId": "SRC030",
+        "Draft": ".local/P04-N03_SRC030_工作流草稿.md",
+        "ActualReviewObservations": [
+          "48实际差异、27漏关注/26连接改变/31少人称程度/64与69备选句分隔丢失、占位变化保留",
+          "实际信全文和独立留言全文，A独处/B未听，媒介不混",
+          "草稿17字改16，2+7+7与2字秒12秒预算，9.5—10.75指尖完整近触离",
+          "完整留言12秒/288帧+手机屏表面/视角可读性不冒保证，saved_local未发送",
+          "原1—5/2—5/2—3数值保留、打断和重叠.5秒独立例，当前无第二人",
+          "前/后互斥时间线与实际下一事件状态，手机/信/声音计划资产非已有文件"
+        ],
+        "CompletedScope": "70条四字段/分类/四版实际对读与6执行流程文本深化自审检索，非全科学校勘或真实手机/音频验收",
+        "VersionComparison": "docs/P04-N03_对白70条四版字段对读.json",
+        "Limitations": "无网络消息发送/真实设备控制/录音、嘴型/接触/画幅未生成验证。"
+      }
+    ],
+    "PartialScopeUpdates": [
+      {
+        "SourceId": "SRC045",
+        "Scope": "另核27对白70条字段与SRC030/SRC022逐字相同；06/16/20/21先前章记录保留，不含其他章整体完成"
+      }
+    ],
+    "ExpectedCumulativeSourcesAndSteps": [
+      11,
+      84
+    ],
+    "NextWork": "SRC007起剩40源/38历史/15演练/旧3053扩大交接审与独立全量内容验收"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "TaskPointId": "P04-N02",
+  "ActualEngineeringRuns": [
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/refresh_index.py",
+        "--dry-run"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"DryRun\": true,\n  \"ChangedDocuments\": [],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n",
+      "Stderr": ""
+    },
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/check_project.py"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"OriginalTXTFiles\": 60,\n  \"Coverage\": {\n    \"UniqueOriginalFiles\": 51,\n    \"LibraryChapters\": 61,\n    \"ConsultationModules\": 15,\n    \"HistoricalPrompts\": 38\n  },\n  \"LookupValidation\": {\n    \"CheckedOriginalBlocks\": 112,\n    \"Modes\": 15,\n    \"Libraries\": 61,\n    \"HistoricalPrompts\": 38,\n    \"CheckedLinks\": 698,\n    \"Errors\": [],\n    \"Warnings\": [],\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\n  },\n  \"DeepIndexedSections\": 3605,\n  \"DeepSelfReviewedTasksWithRecords\": 3605,\n  \"Errors\": [],\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\n}\n",
+      "Stderr": ""
+    },
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tests",
+        "-v"
+      ],
+      "ExitCode": 0,
+      "Stdout": "",
+      "Stderr": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 13.932s\n\nOK\n"
+    }
+  ],
+  "ActualPostClosureRuns": [
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/refresh_index.py",
+        "--dry-run"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"DryRun\": true,\n  \"ChangedDocuments\": [],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n",
+      "Stderr": ""
+    },
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/check_project.py"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"OriginalTXTFiles\": 60,\n  \"Coverage\": {\n    \"UniqueOriginalFiles\": 51,\n    \"LibraryChapters\": 61,\n    \"ConsultationModules\": 15,\n    \"HistoricalPrompts\": 38\n  },\n  \"LookupValidation\": {\n    \"CheckedOriginalBlocks\": 112,\n    \"Modes\": 15,\n    \"Libraries\": 61,\n    \"HistoricalPrompts\": 38,\n    \"CheckedLinks\": 698,\n    \"Errors\": [],\n    \"Warnings\": [],\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\n  },\n  \"DeepIndexedSections\": 3605,\n  \"DeepSelfReviewedTasksWithRecords\": 3605,\n  \"Errors\": [],\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\n}\n",
+      "Stderr": ""
+    }
+  ],
+  "DirectCLIValidationReport": ".local/P04-N02_全点验证结果.json",
+  "ContentQualityScope": "工程/检索与执行方文本自审分开记录，不宣告独立全库语义通过"
+}

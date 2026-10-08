@@ -1,0 +1,90 @@
+{
+  "SchemaVersion": "1.0",
+  "Version": "1.0.0",
+  "UpdatedAtLocal": "2026-10-07T23:28:47.607802+08:00",
+  "ProductStage": "内容与框架完整首版",
+  "ReleaseAcceptance": "passed_four_item_scope",
+  "FullTaskComplete": true,
+  "CurrentItem": 4,
+  "Counts": {
+    "OriginalTXTFiles": 60,
+    "UniqueSources": 51,
+    "DuplicateTXTFiles": 9,
+    "Libraries": 61,
+    "CandidateNumberedSections": 3877,
+    "LibraryDeepWrittenAndAISelfReviewed": 3876,
+    "ExcludedWithEvidence": 1,
+    "RemainingLibraryWriting": 0,
+    "StageBaselineWritten": 62,
+    "FourStageResolved": 3815,
+    "FourStageWritten": 3814,
+    "FourStageExcluded": 1,
+    "CurrentSourceDocumentsWritten": 51,
+    "SourceWorkflowDeepSections": 259,
+    "SourceWorkflowSectionsBeforeHistoryIntegration": 221,
+    "HistoryAdoptionSections": 38,
+    "Item1FixedSourcesIndependentlyAccepted": 36,
+    "HistoricalPromptsComparedAndAccepted": 38,
+    "ConsultationModulesIntegratedAndAccepted": 15,
+    "ActualMediaGenerationVerified": 0
+  },
+  "FourStageTargets": [
+    1000,
+    1000,
+    1000,
+    815
+  ],
+  "MaximumTaskPointsPerStage": 3,
+  "WritingStatus": "completed_written_and_executor_self_reviewed",
+  "IndependentReviewScope": "第一项固定36份工作流及整改、第二项38稿有效内容整合、第三项15入口和所用资源关系已通过独立验收；不等于61库全部原文或3876词条全量独立复审。",
+  "Items": [
+    {
+      "Item": 1,
+      "Submission": "docs/创作工作流补齐_完成报告.md",
+      "Acceptance": "docs/创作工作流补齐_独立验收报告.md",
+      "ExecutionStatus": "accepted",
+      "IndependentReview": "passed"
+    },
+    {
+      "Item": 2,
+      "Submission": "docs/版本有效内容整合_完成报告.md",
+      "Acceptance": "docs/版本有效内容整合_独立验收报告.md",
+      "ExecutionStatus": "accepted",
+      "IndependentReview": "passed"
+    },
+    {
+      "Item": 3,
+      "Submission": "docs/咨询入口接入_完成报告.md",
+      "Acceptance": "docs/咨询入口接入_独立验收报告.md",
+      "ExecutionStatus": "accepted",
+      "IndependentReview": "passed"
+    },
+    {
+      "Item": 4,
+      "Submission": "docs/内容与框架首版_完成报告.md",
+      "Acceptance": "docs/内容与框架首版_独立验收报告.md",
+      "ExecutionStatus": "accepted",
+      "IndependentReview": "passed"
+    }
+  ],
+  "WritingEvidence": [
+    "docs/3815条写作完成报告_2026-10-07.md",
+    "docs/3815条写作收口核对_2026-10-07.json"
+  ],
+  "NotPerformed": [
+    "实际外部模型出图/出片/音乐生成效果测试",
+    "15类有原始输入输出的创作演练",
+    "61库全部原文与3876词条全量独立复审",
+    "旧3053条扩大终验",
+    "GitHub发布/远程创建/推送"
+  ],
+  "HistoricalAnnotationPolicy": "源/历史稿、深度段、阶段日志及前三项提交报告中的待整稿审核/待验收/尚未开始等文字记录当时范围；现状查本状态及对应独立验收报告。旧未完成演练/全量复审不作为本次自动待办，未核科学/模型/实际媒体边界继续有效。",
+  "CanonicalMaintenanceSource": "skills/film-creation-library",
+  "CurrentEntry": "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/00_工作入口.md",
+  "NextWork": "四项授权收口已完成；无自动待办。后续按用户新的创作或维护需求办理。",
+  "ExecutionComplete": true,
+  "RemainingAuthorizedWork": 0,
+  "CompletionScope": "四项约定的内容与框架首版收口；不是旧全量独立词条复审、创作演练或媒体效果验收。",
+  "AcceptedAtLocal": "2026-10-08T08:56:21.996907+08:00",
+  "AcceptanceReport": "docs/内容与框架首版_独立验收报告.md"
+}

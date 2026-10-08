@@ -1,0 +1,15 @@
+{
+  "ChineseCharacters": 4055,
+  "NonWhitespaceCharacters": 4774,
+  "DialogueChineseCharacters": 1541,
+  "SummaryChineseCharacters": 214,
+  "OutlineChineseCharacters": [
+    113,
+    116,
+    110,
+    112
+  ],
+  "DialogueRatio": 0.38002466091245374,
+  "ChapterSHA256": "f5ced7b3568499b20ee1e015b91edb262f0ba83086fb671bd2df48f0fa143195",
+  "Scope": "实际维护样例文字计数，不是读者反馈或全库独立语义验收"
+}

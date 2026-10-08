@@ -1,0 +1,468 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P02-N02",
+  "Libraries": [
+    {
+      "LibraryId": 20,
+      "FirstOrdinal": 8,
+      "LastOrdinal": 60,
+      "ComparedCount": 53,
+      "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+      "Comparisons": [
+        {
+          "SourceId": "SRC005",
+          "Compared": 53,
+          "FirstOrdinal": 8,
+          "LastOrdinal": 60,
+          "Differences": [
+            {
+              "Ordinal": 9,
+              "Field": "Title",
+              "Master": "飞镖或手里剑（Throwing Stars）",
+              "Version": "飞镖/手里剑（Throwing Stars）"
+            },
+            {
+              "Ordinal": 10,
+              "Field": "AI技术执行",
+              "Master": "流线型设计，发光元件枪口、能量槽，扳机，可能有能量管线。射击时枪口发光并射出光束。",
+              "Version": "流线型设计，发光元件（枪口、能量槽），扳机，可能有能量管线。射击时枪口发光并射出光束。"
+            },
+            {
+              "Ordinal": 11,
+              "Field": "AI技术执行",
+              "Master": "金属手柄，从手柄射出能量剑刃发光、稳定，剑刃颜色多样，挥动有嗡嗡声。",
+              "Version": "金属手柄，从手柄射出能量剑刃（发光、稳定），剑刃颜色多样，挥动有嗡嗡声。"
+            },
+            {
+              "Ordinal": 11,
+              "Field": "情绪功能",
+              "Master": "超凡、优雅、科幻或奇幻、力量。",
+              "Version": "超凡、优雅、科幻/奇幻、力量。"
+            },
+            {
+              "Ordinal": 14,
+              "Field": "AI技术执行",
+              "Master": "圆形或方形的板材木、金属、复合材料，有把手，表面可能有纹章或浮雕。",
+              "Version": "圆形或方形的板材（木、金属、复合材料），有把手，表面可能有纹章或浮雕。"
+            },
+            {
+              "Ordinal": 15,
+              "Field": "Title",
+              "Master": "雷管或炸药（Explosives）",
+              "Version": "雷管/炸药（Explosives）"
+            },
+            {
+              "Ordinal": 17,
+              "Field": "AI技术执行",
+              "Master": "透明或多色晶体，内部有光或能量流动，颜色随属性蓝水红火等，可镶嵌在武器或法杖上。",
+              "Version": "透明或多色晶体，内部有光或能量流动，颜色随属性（蓝=水，红=火等），可镶嵌在武器或法杖上。"
+            },
+            {
+              "Ordinal": 18,
+              "Field": "AI技术执行",
+              "Master": "小玻璃瓶，内装彩色液体红治疗蓝魔法绿毒，有软木塞或金属盖，液体可能有微光或气泡。",
+              "Version": "小玻璃瓶，内装彩色液体（红=治疗，蓝=魔法，绿=毒），有软木塞或金属盖，液体可能有微光或气泡。"
+            },
+            {
+              "Ordinal": 19,
+              "Field": "AI技术执行",
+              "Master": "小型的挂坠金属、宝石、符文石，系绳或链子，表面有符号或图案，可能发光。",
+              "Version": "小型的挂坠（金属、宝石、符文石），系绳或链子，表面有符号或图案，可能发光。"
+            },
+            {
+              "Ordinal": 22,
+              "Field": "AI技术执行",
+              "Master": "外观可能正常但细节异常，如镜子里有不同的倒影，玩偶眼睛会动，周围有阴冷气息。",
+              "Version": "外观可能正常但细节异常（如镜子里有不同的倒影，玩偶眼睛会动），周围有阴冷气息。"
+            },
+            {
+              "Ordinal": 25,
+              "Field": "AI技术执行",
+              "Master": "小型容器瓶子、宝石、雕像，内部有发光的灵魂微光，可能锁链或符文封印。",
+              "Version": "小型容器（瓶子、宝石、雕像），内部有发光的灵魂微光，可能锁链或符文封印。"
+            },
+            {
+              "Ordinal": 26,
+              "Field": "AI技术执行",
+              "Master": "古朴的杯子金、银或木，可能发光或有圣痕，神圣庄严。",
+              "Version": "古朴的杯子（金、银或木），可能发光或有圣痕，神圣庄严。"
+            },
+            {
+              "Ordinal": 29,
+              "Field": "AI技术执行",
+              "Master": "浑浊的液体，可加入他人毛发等，喝下后身体变形。",
+              "Version": "浑浊的液体（可加入他人毛发等），喝下后身体变形。"
+            },
+            {
+              "Ordinal": 31,
+              "Field": "AI技术执行",
+              "Master": "小型设备手环、耳麦、手持，投射出半透明的人像或界面。",
+              "Version": "小型设备（手环、耳麦、手持），投射出半透明的人像或界面。"
+            },
+            {
+              "Ordinal": 48,
+              "Field": "Title",
+              "Master": "信件或照片（Letter/Photo）",
+              "Version": "信件/照片（Letter/Photo）"
+            },
+            {
+              "Ordinal": 50,
+              "Field": "Title",
+              "Master": "香烟或打火机（Cigarette/Lighter）",
+              "Version": "香烟/打火机（Cigarette/Lighter）"
+            },
+            {
+              "Ordinal": 50,
+              "Field": "AI技术执行",
+              "Master": "香烟白纸卷烟草，打火机金属或塑料，点火。",
+              "Version": "香烟（白纸卷烟草）、打火机（金属或塑料，点火）。"
+            },
+            {
+              "Ordinal": 51,
+              "Field": "Title",
+              "Master": "酒杯或酒瓶（Glass/Bottle）",
+              "Version": "酒杯/酒瓶（Glass/Bottle）"
+            },
+            {
+              "Ordinal": 51,
+              "Field": "AI技术执行",
+              "Master": "玻璃杯、酒瓶形状各异，装不同酒液。",
+              "Version": "玻璃杯、酒瓶（形状各异），装不同酒液。"
+            },
+            {
+              "Ordinal": 53,
+              "Field": "AI技术执行",
+              "Master": "镜框金属或塑料、镜片，不同款式。",
+              "Version": "镜框（金属或塑料）、镜片，不同款式。"
+            },
+            {
+              "Ordinal": 56,
+              "Field": "AI技术执行",
+              "Master": "四轮机动车，各种车型轿车、SUV、跑车，有车身、车窗、车灯。",
+              "Version": "四轮机动车，各种车型（轿车、SUV、跑车），有车身、车窗、车灯。"
+            }
+          ],
+          "UnavailableOrdinals": []
+        },
+        {
+          "SourceId": "SRC045",
+          "Compared": 53,
+          "FirstOrdinal": 8,
+          "LastOrdinal": 60,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    },
+    {
+      "LibraryId": 21,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 60,
+      "ComparedCount": 60,
+      "OriginalTextSHA256": "EF286A60227B7E93390BF0B04749AFA828DEDC30DF844811268FF31D554FFFD5",
+      "Comparisons": [
+        {
+          "SourceId": "SRC002",
+          "Compared": 60,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 60,
+          "Differences": [
+            {
+              "Ordinal": 1,
+              "Field": "AI技术执行",
+              "Master": "表面呈银灰色，有金属光泽，可抛光至镜面效果或保留锻造纹理锤痕或拉丝。光线在表面形成锐利高光和清晰反射。角落和缝隙处可能有暗部堆积。",
+              "Version": "表面呈银灰色，有金属光泽，可抛光至镜面效果或保留锻造纹理（锤痕、拉丝）。光线在表面形成锐利高光和清晰反射。角落和缝隙处可能有暗部堆积。可表现为冷兵器、机械零件、建筑结构。"
+            },
+            {
+              "Ordinal": 2,
+              "Field": "AI技术执行",
+              "Master": "新铜呈明亮的红棕色，有温暖光泽；氧化后呈暗褐色或绿色铜绿。表面可能有不均匀的氧化斑块。光线在铜表面形成暖色高光。",
+              "Version": "新铜呈明亮的红棕色，有温暖光泽；氧化后呈暗褐色或绿色（铜绿）。表面可能有不均匀的氧化斑块。光线在铜表面形成暖色高光。"
+            },
+            {
+              "Ordinal": 4,
+              "Field": "AI技术执行",
+              "Master": "明亮的银白色，表面光洁如镜，反射清晰。氧化后变暗发黑硫化银。银器表面常有细腻的雕花或抛光纹路。",
+              "Version": "明亮的银白色，表面光洁如镜，反射清晰。氧化后变暗发黑（硫化银）。银器表面常有细腻的雕花或抛光纹路。"
+            },
+            {
+              "Ordinal": 5,
+              "Field": "AI技术执行",
+              "Master": "表面呈哑光银灰或阳极氧化色黑蓝红等。拉丝或喷砂处理常见。光线反射柔和不刺眼。",
+              "Version": "表面呈哑光银灰或阳极氧化色（黑、蓝、红等）。拉丝或喷砂处理常见。光线反射柔和不刺眼。用于飞机、手机、现代家具。"
+            },
+            {
+              "Ordinal": 6,
+              "Field": "AI技术执行",
+              "Master": "表面呈深银灰色，略带哑光，可抛光或保留磨砂。钛合金常用于高端装备，表面可能有彩虹色氧化膜阳极氧化效果。质感冷硬而精致。",
+              "Version": "表面呈深银灰色，略带哑光，可抛光或保留磨砂。钛合金常用于高端装备，表面可能有彩虹色氧化膜（阳极氧化效果）。质感冷硬而精致。"
+            },
+            {
+              "Ordinal": 9,
+              "Field": "AI技术执行",
+              "Master": "表面呈镜面效果，反射周围环境清晰，高光锐利，几乎无自身颜色银白。常用于汽车装饰、卫浴五金。指纹和微小划痕可见。",
+              "Version": "表面呈镜面效果，反射周围环境清晰，高光锐利，几乎无自身颜色（银白）。常用于汽车装饰、卫浴五金。指纹和微小划痕可见。"
+            },
+            {
+              "Ordinal": 10,
+              "Field": "AI技术执行",
+              "Master": "深黑灰色，表面哑光或微粗糙，有磨砂感。常用于传统兵器、铁艺制品。光线吸收多，反射少。",
+              "Version": "深黑灰色，表面哑光或微粗糙，有磨砂感。常用于传统兵器（如忍者刀）、铁艺制品。光线吸收多，反射少。"
+            },
+            {
+              "Ordinal": 11,
+              "Field": "AI技术执行",
+              "Master": "表面有树皮残留、木纹清晰、粗糙，可能有裂纹和节疤。颜色依树种松木浅黄、橡木浅棕、胡桃木深褐。光线在粗糙表面散射，无强烈高光。",
+              "Version": "表面有树皮残留、木纹清晰、粗糙，可能有裂纹和节疤。颜色依树种（松木浅黄、橡木浅棕、胡桃木深褐）。光线在粗糙表面散射，无强烈高光。"
+            },
+            {
+              "Ordinal": 12,
+              "Field": "AI技术执行",
+              "Master": "表面光滑如镜，有清晰木纹，反光柔和。漆面可能为清漆保留木色或色漆。高光处有柔和亮点，暗部有细微反光。",
+              "Version": "表面光滑如镜，有清晰木纹，反光柔和。漆面可能为清漆（保留木色）或色漆。高光处有柔和亮点，暗部有细微反光。"
+            },
+            {
+              "Ordinal": 15,
+              "Field": "AI技术执行",
+              "Master": "依树种不同，树皮有纵向裂纹橡树、片状剥落桦树、鳞片状松树、光滑山毛榉。颜色灰、棕、红褐。粗糙、不规则。",
+              "Version": "依树种不同，树皮有纵向裂纹（橡树）、片状剥落（桦树）、鳞片状（松树）、光滑（山毛榉）。颜色灰、棕、红褐。粗糙、不规则。"
+            },
+            {
+              "Ordinal": 16,
+              "Field": "AI技术执行",
+              "Master": "黑色、多孔、表面粗糙易碎，有光泽的断面玻璃状。轻，易沾手。",
+              "Version": "黑色、多孔、表面粗糙易碎，有光泽的断面（玻璃状）。轻，易沾手。"
+            },
+            {
+              "Ordinal": 18,
+              "Field": "AI技术执行",
+              "Master": "表面平整，纹理均匀贴面或颗粒状刨花板，颜色多样。边缘可见分层。用于现代家具。",
+              "Version": "表面平整，纹理均匀（贴面）或颗粒状（刨花板），颜色多样。边缘可见分层。用于现代家具。"
+            },
+            {
+              "Ordinal": 19,
+              "Field": "AI技术执行",
+              "Master": "表面光滑如镜抛光后，有流动的云纹或条纹，颜色白、米黄、灰、绿、粉等。光线在表面形成柔和反射，纹理清晰。",
+              "Version": "表面光滑如镜（抛光后），有流动的云纹或条纹，颜色白、米黄、灰、绿、粉等。光线在表面形成柔和反射，纹理清晰。"
+            },
+            {
+              "Ordinal": 20,
+              "Field": "AI技术执行",
+              "Master": "表面由不同颜色的矿物颗粒组成黑白粉灰，抛光后光滑但仍有颗粒感，常作台面和外墙。",
+              "Version": "表面由不同颜色的矿物颗粒组成（黑、白、粉、灰），抛光后光滑但仍有颗粒感，常作台面和外墙。"
+            },
+            {
+              "Ordinal": 23,
+              "Field": "AI技术执行",
+              "Master": "深灰至黑色，表面可光滑冷却后或多孔气孔构造。常用于路面、建筑。",
+              "Version": "深灰至黑色，表面可光滑（冷却后）或多孔（气孔构造）。常用于路面、建筑。"
+            },
+            {
+              "Ordinal": 24,
+              "Field": "AI技术执行",
+              "Master": "大小不一，表面光滑圆润，颜色多样灰、白、棕、黑，常堆积在河滩或路面。光线在表面有柔和高光。",
+              "Version": "大小不一，表面光滑圆润，颜色多样（灰、白、棕、黑），常堆积在河滩或路面。光线在表面有柔和高光。"
+            },
+            {
+              "Ordinal": 26,
+              "Field": "AI技术执行",
+              "Master": "绿色翡翠或白色和田玉，半透明至微透明，表面温润如脂，有细腻纹理。光线在内部有柔和透射。",
+              "Version": "绿色（翡翠）或白色（和田玉），半透明至微透明，表面温润如脂，有细腻纹理。光线在内部有柔和透射。"
+            },
+            {
+              "Ordinal": 27,
+              "Field": "AI技术执行",
+              "Master": "表面有轻微纹理，哑光，柔软褶皱自然，染色丰富。可薄可厚纱布到帆布。光线柔和散射。",
+              "Version": "表面有轻微纹理，哑光，柔软褶皱自然，染色丰富。可薄可厚（纱布到帆布）。光线柔和散射。"
+            },
+            {
+              "Ordinal": 30,
+              "Field": "AI技术执行",
+              "Master": "表面有天然纹理毛孔、皱纹，哑光或抛光。颜色深棕、黑、红棕。质地坚韧，有厚重感。使用后有包浆和褶皱。",
+              "Version": "表面有天然纹理（毛孔、皱纹），哑光或抛光。颜色深棕、黑、红棕。质地坚韧，有厚重感。使用后有包浆和褶皱。"
+            },
+            {
+              "Ordinal": 36,
+              "Field": "AI技术执行",
+              "Master": "深琥珀色到黑色，表面有彩虹色光泽薄膜干涉，流动缓慢，有黏性。可粘附在表面。",
+              "Version": "深琥珀色到黑色，表面有彩虹色光泽（薄膜干涉），流动缓慢，有黏性。可粘附在表面。"
+            },
+            {
+              "Ordinal": 37,
+              "Field": "AI技术执行",
+              "Master": "鲜红色动脉血到暗红色静脉血或干涸，表面有光泽，流动时略黏稠，溅落后形成血滴。干涸后变暗，呈红褐色。",
+              "Version": "鲜红色（动脉血）到暗红色（静脉血/干涸），表面有光泽，流动时略黏稠，溅落后形成血滴。干涸后变暗，呈红褐色。"
+            },
+            {
+              "Ordinal": 38,
+              "Field": "AI技术执行",
+              "Master": "炽热橙红色，表面有流动的亮红色裂纹冷却表皮裂开，散发高温扭曲空气，可发光照亮周围。冷却后变黑。",
+              "Version": "炽热橙红色，表面有流动的亮红色裂纹（冷却表皮裂开），散发高温扭曲空气，可发光照亮周围。冷却后变黑。"
+            },
+            {
+              "Ordinal": 40,
+              "Field": "Title",
+              "Master": "牛奶或乳汁（Milk）",
+              "Version": "牛奶/乳汁（Milk）"
+            },
+            {
+              "Ordinal": 42,
+              "Field": "AI技术执行",
+              "Master": "依动物不同，有短毛猫、长毛狮子鬃毛、卷毛绵羊。毛发光泽柔顺或粗糙，排列有方向性。风吹时毛发飘动。",
+              "Version": "依动物不同，有短毛（猫）、长毛（狮子鬃毛）、卷毛（绵羊）。毛发光泽柔顺或粗糙，排列有方向性。风吹时毛发飘动。"
+            },
+            {
+              "Ordinal": 43,
+              "Field": "情绪功能",
+              "Master": "自由、轻盈、美丽、天使或恶魔。",
+              "Version": "自由、轻盈、美丽、天使/恶魔。"
+            },
+            {
+              "Ordinal": 44,
+              "Field": "AI技术执行",
+              "Master": "排列整齐如瓦片，表面光滑反光，颜色多样鱼鳞银、蛇鳞棕、龙鳞金。干燥时略翘起，湿润时贴服。",
+              "Version": "排列整齐如瓦片，表面光滑反光，颜色多样（鱼鳞银、蛇鳞棕、龙鳞金）。干燥时略翘起，湿润时贴服。"
+            },
+            {
+              "Ordinal": 46,
+              "Field": "AI技术执行",
+              "Master": "薄而柔韧，表面有叶脉纹理，正反面颜色不同正面深绿有光泽，背面浅绿有绒毛，光线可透射。枯萎后变黄变脆。",
+              "Version": "薄而柔韧，表面有叶脉纹理，正反面颜色不同（正面深绿有光泽，背面浅绿有绒毛），光线可透射。枯萎后变黄变脆。"
+            },
+            {
+              "Ordinal": 52,
+              "Field": "AI技术执行",
+              "Master": "表面呈黑色，有编织纹理方格或斜纹，光泽柔和，质感高级。用于赛车、航空。",
+              "Version": "表面呈黑色，有编织纹理（方格或斜纹），光泽柔和，质感高级。用于赛车、航空。"
+            },
+            {
+              "Ordinal": 54,
+              "Field": "AI技术执行",
+              "Master": "表面光滑上釉或粗糙素烧，颜色多样，釉面有光泽，敲击声清脆。可绘制花纹。",
+              "Version": "表面光滑（上釉）或粗糙（素烧），颜色多样，釉面有光泽，敲击声清脆。可绘制花纹。"
+            },
+            {
+              "Ordinal": 58,
+              "Field": "AI技术执行",
+              "Master": "发光、流动、无实体，可有颜色和形态光球、光束、力场，边缘模糊，有粒子效果。",
+              "Version": "发光、流动、无实体，可有颜色和形态（光球、光束、力场），边缘模糊，有粒子效果。"
+            },
+            {
+              "Ordinal": 59,
+              "Field": "Title",
+              "Master": "暗物质或阴影（Dark Matter/Shadow）",
+              "Version": "暗物质/阴影（Dark Matter/Shadow）"
+            }
+          ],
+          "UnavailableOrdinals": []
+        },
+        {
+          "SourceId": "SRC045",
+          "Compared": 60,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 60,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    },
+    {
+      "LibraryId": 22,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 60,
+      "ComparedCount": 60,
+      "OriginalTextSHA256": "329E83E02E41C9B923E9FECDF2DFE8895FA6EB68113484DE48DC45AE70F86589",
+      "Comparisons": [
+        {
+          "SourceId": "SRC045",
+          "Compared": 60,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 60,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    },
+    {
+      "LibraryId": 23,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 46,
+      "ComparedCount": 46,
+      "OriginalTextSHA256": "F78EEF8E805905DC012CFD8E9230F6DF8180FD54C6341A6D30178ECB5833371B",
+      "Comparisons": [
+        {
+          "SourceId": "SRC045",
+          "Compared": 46,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 46,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    },
+    {
+      "LibraryId": 24,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 60,
+      "ComparedCount": 60,
+      "OriginalTextSHA256": "CB67FAFBCD0C5EAF5A59C449DC3F92F9FC2FA978E12C5B58152B023EB59E36F6",
+      "Comparisons": [
+        {
+          "SourceId": "SRC045",
+          "Compared": 60,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 60,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    },
+    {
+      "LibraryId": 25,
+      "FirstOrdinal": 1,
+      "LastOrdinal": 54,
+      "ComparedCount": 54,
+      "OriginalTextSHA256": "F079F17716751B7F3F74DB047F90DCAA7C1FA6C3AAB141750A9B58CCA1B0B436",
+      "Comparisons": [
+        {
+          "SourceId": "SRC029",
+          "Compared": 54,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 54,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        },
+        {
+          "SourceId": "SRC045",
+          "Compared": 54,
+          "FirstOrdinal": 1,
+          "LastOrdinal": 54,
+          "Differences": [],
+          "UnavailableOrdinals": []
+        }
+      ]
+    }
+  ],
+  "HistoricalOriginalComparisons": [
+    {
+      "HistoryId": "H036",
+      "LibraryId": 25,
+      "ComparedOriginalEntries": 54,
+      "Differences": [],
+      "ImportedSHA256": "3DCE8207B7D7B69426650F6E98EC7D13143DE82472972E1B602A4C7B94B850E9",
+      "Adoption": "只采用新增开篇及完整统一约定；第55—60条及逐条新增未本点全文审核，整稿未完成"
+    }
+  ],
+  "HistoryScopes": {
+    "H032": "新增开篇及1节事实/设计补全；非同编号布料历史稿",
+    "H036": "新增开篇及完整统一约定；原第1—54条字段对读",
+    "H037": "新增开篇及1节三分支抽取；非同编号道具历史稿",
+    "L21/L23/L24": "无本点采用的同编号历史稿"
+  },
+  "ExternalGenerationPerformed": false,
+  "Review": {
+    "ReviewedEntries": 333,
+    "ContentReview": "docs/深度扩写审查_P02-N02_333条.md",
+    "Disposition": "333全纳入；排除0；相近项以主体/状态/时间/功能区分"
+  }
+}

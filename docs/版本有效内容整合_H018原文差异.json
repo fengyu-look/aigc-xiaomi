@@ -1,0 +1,19 @@
+{
+  "HistoryId": "H018",
+  "SourceId": "SRC037",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 937,
+  "HistoricalOriginalNonemptyLines": 939,
+  "DifferenceLines": [
+    "--- SRC037原文\n",
+    "+++ H018原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    " 全类型歌曲创作提示词",
+    "+2026-09-27",
+    "+阅读需要24分钟",
+    " 灵犀·全类型歌曲全知创作操作系统V2.0"
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

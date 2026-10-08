@@ -1,0 +1,73 @@
+{
+  "Date": "2026-10-08T08:51:08.897225+08:00",
+  "Issue": "R01",
+  "ChangedFiles": [
+    "docs/扩写进度.md",
+    "docs/expansion_status.json"
+  ],
+  "ExactScope": "只修改五库当前状态文字；JSON仅五个DeepExpansionStatus值，MD仅73—77五行",
+  "Rows": [
+    {
+      "LibraryId": 57,
+      "Name": "3D与空间重建库",
+      "WrittenCount": 50,
+      "MarkdownLine": 73,
+      "OldDeepExpansionStatus": "50条实际逐条文本写作/执行方自审，检索/工程待本点检查；独立完整内容与媒体待验",
+      "NewDeepExpansionStatus": "50条逐条文本写作、执行方自审、检索接入及工程检查已完成；未做全量独立内容复审及实际媒体验证。工程证据：docs/内容与框架首版_工程检查.json",
+      "JSONStatusLine": 720
+    },
+    {
+      "LibraryId": 58,
+      "Name": "交互叙事与沉浸媒体库",
+      "WrittenCount": 50,
+      "MarkdownLine": 74,
+      "OldDeepExpansionStatus": "50条实际逐条文本写作/执行方自审，检索/工程待本点检查；独立完整内容与媒体待验",
+      "NewDeepExpansionStatus": "50条逐条文本写作、执行方自审、检索接入及工程检查已完成；未做全量独立内容复审及实际媒体验证。工程证据：docs/内容与框架首版_工程检查.json",
+      "JSONStatusLine": 734
+    },
+    {
+      "LibraryId": 59,
+      "Name": "AI伦理与文化敏感库",
+      "WrittenCount": 50,
+      "MarkdownLine": 75,
+      "OldDeepExpansionStatus": "50条实际逐条文本写作/执行方自审，检索/工程待本点检查；独立完整内容与媒体待验",
+      "NewDeepExpansionStatus": "50条逐条文本写作、执行方自审、检索接入及工程检查已完成；未做全量独立内容复审及实际媒体验证。工程证据：docs/内容与框架首版_工程检查.json",
+      "JSONStatusLine": 747
+    },
+    {
+      "LibraryId": 60,
+      "Name": "历史考据与时代库",
+      "WrittenCount": 50,
+      "MarkdownLine": 76,
+      "OldDeepExpansionStatus": "50条实际逐条文本写作/执行方自审，检索/工程待本点检查；独立完整内容与媒体待验",
+      "NewDeepExpansionStatus": "50条逐条文本写作、执行方自审、检索接入及工程检查已完成；未做全量独立内容复审及实际媒体验证。工程证据：docs/内容与框架首版_工程检查.json",
+      "JSONStatusLine": 760
+    },
+    {
+      "LibraryId": 61,
+      "Name": "实验与先锋影像库",
+      "WrittenCount": 92,
+      "MarkdownLine": 77,
+      "OldDeepExpansionStatus": "92条实际逐条文本写作/执行方自审，检索/工程待本点检查；独立完整内容与媒体待验",
+      "NewDeepExpansionStatus": "92条逐条文本写作、执行方自审、检索接入及工程检查已完成；未做全量独立内容复审及实际媒体验证。工程证据：docs/内容与框架首版_工程检查.json",
+      "JSONStatusLine": 773
+    }
+  ],
+  "EngineeringEvidence": "docs/内容与框架首版_工程检查.json",
+  "EngineeringEvidenceSHA256": "95E41729EAE7CFA968060E12AF8A6596A31697E8A65DE687A2899D7A4C204B53",
+  "EngineeringEvidenceDate": "2026-10-07T23:26:00.263429+08:00",
+  "DryRun": {
+    "Command": "python tools/refresh_index.py --dry-run",
+    "ExitCode": 0,
+    "ParsedResult": {
+      "DryRun": true,
+      "ChangedDocuments": [],
+      "OriginalBaselinesChanged": false,
+      "DeepExpansionStatusChanged": false
+    }
+  },
+  "TestsRerun": false,
+  "Reason": "无脚本/索引/库内容改动，按当前整改要求复用已通过15项工程测试",
+  "IndependentItem4Acceptance": "pending_recheck",
+  "FullTaskComplete": false
+}

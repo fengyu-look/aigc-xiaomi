@@ -1,0 +1,5421 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P02-N01",
+  "TaskPointStatus": "completed",
+  "PlannedCandidateCount": 334,
+  "FirstTaskId": "L15-T0054",
+  "LastTaskId": "L20-T0007",
+  "NewWritingAndSelfReviewedCount": 334,
+  "CumulativeWritingAndSelfReviewedCountInPoint": 334,
+  "RemainingCandidatesInPoint": 0,
+  "CurrentGlobalWritingAndSelfReviewedCount": 1396,
+  "RemainingGlobalCandidates": 2481,
+  "BaselineCompletedCount": 62,
+  "StageProgress": {
+    "StageId": "P02",
+    "Resolved": 334,
+    "Target": 1000,
+    "Remaining": 666,
+    "Status": "in_progress"
+  },
+  "NextTaskPointId": "P02-N02",
+  "NextTaskPointStatus": "planned",
+  "NextTaskId": "L20-T0008",
+  "NextTitle": "十字弩（Crossbow）",
+  "CompletedNewTaskIds": [
+    "L15-T0054",
+    "L15-T0055",
+    "L15-T0056",
+    "L15-T0057",
+    "L15-T0058",
+    "L15-T0059",
+    "L15-T0060",
+    "L15-T0061",
+    "L15-T0062",
+    "L15-T0063",
+    "L15-T0064",
+    "L15-T0065",
+    "L15-T0066",
+    "L15-T0067",
+    "L15-T0068",
+    "L15-T0069",
+    "L15-T0070",
+    "L15-T0071",
+    "L15-T0072",
+    "L15-T0073",
+    "L15-T0074",
+    "L15-T0075",
+    "L15-T0076",
+    "L15-T0077",
+    "L15-T0078",
+    "L15-T0079",
+    "L15-T0080",
+    "L16-T0001",
+    "L16-T0002",
+    "L16-T0003",
+    "L16-T0004",
+    "L16-T0005",
+    "L16-T0006",
+    "L16-T0007",
+    "L16-T0008",
+    "L16-T0009",
+    "L16-T0010",
+    "L16-T0011",
+    "L16-T0012",
+    "L16-T0013",
+    "L16-T0014",
+    "L16-T0015",
+    "L16-T0016",
+    "L16-T0017",
+    "L16-T0018",
+    "L16-T0019",
+    "L16-T0020",
+    "L16-T0021",
+    "L16-T0022",
+    "L16-T0023",
+    "L16-T0024",
+    "L16-T0025",
+    "L16-T0026",
+    "L16-T0027",
+    "L16-T0028",
+    "L16-T0029",
+    "L16-T0030",
+    "L16-T0031",
+    "L16-T0032",
+    "L16-T0033",
+    "L16-T0034",
+    "L16-T0035",
+    "L16-T0036",
+    "L16-T0037",
+    "L16-T0038",
+    "L16-T0039",
+    "L16-T0040",
+    "L16-T0041",
+    "L16-T0042",
+    "L16-T0043",
+    "L16-T0044",
+    "L16-T0045",
+    "L16-T0046",
+    "L16-T0047",
+    "L16-T0048",
+    "L16-T0049",
+    "L16-T0050",
+    "L16-T0051",
+    "L16-T0052",
+    "L16-T0053",
+    "L16-T0054",
+    "L16-T0055",
+    "L16-T0056",
+    "L16-T0057",
+    "L16-T0058",
+    "L16-T0059",
+    "L16-T0060",
+    "L16-T0061",
+    "L16-T0062",
+    "L16-T0063",
+    "L16-T0064",
+    "L16-T0065",
+    "L16-T0066",
+    "L16-T0067",
+    "L16-T0068",
+    "L16-T0069",
+    "L16-T0070",
+    "L16-T0071",
+    "L16-T0072",
+    "L16-T0073",
+    "L16-T0074",
+    "L16-T0075",
+    "L16-T0076",
+    "L16-T0077",
+    "L16-T0078",
+    "L16-T0079",
+    "L16-T0080",
+    "L16-T0081",
+    "L16-T0082",
+    "L16-T0083",
+    "L16-T0084",
+    "L16-T0085",
+    "L16-T0086",
+    "L16-T0087",
+    "L16-T0088",
+    "L16-T0089",
+    "L16-T0090",
+    "L16-T0091",
+    "L16-T0092",
+    "L16-T0093",
+    "L16-T0094",
+    "L16-T0095",
+    "L16-T0096",
+    "L16-T0097",
+    "L16-T0098",
+    "L16-T0099",
+    "L16-T0100",
+    "L17-T0001",
+    "L17-T0002",
+    "L17-T0003",
+    "L17-T0004",
+    "L17-T0005",
+    "L17-T0006",
+    "L17-T0007",
+    "L17-T0008",
+    "L17-T0009",
+    "L17-T0010",
+    "L17-T0011",
+    "L17-T0012",
+    "L17-T0013",
+    "L17-T0014",
+    "L17-T0015",
+    "L17-T0016",
+    "L17-T0017",
+    "L17-T0018",
+    "L17-T0019",
+    "L17-T0020",
+    "L17-T0021",
+    "L17-T0022",
+    "L17-T0023",
+    "L17-T0024",
+    "L17-T0025",
+    "L17-T0026",
+    "L17-T0027",
+    "L17-T0028",
+    "L17-T0029",
+    "L17-T0030",
+    "L17-T0031",
+    "L17-T0032",
+    "L17-T0033",
+    "L17-T0034",
+    "L17-T0035",
+    "L17-T0036",
+    "L17-T0037",
+    "L17-T0038",
+    "L17-T0039",
+    "L17-T0040",
+    "L17-T0041",
+    "L17-T0042",
+    "L17-T0043",
+    "L17-T0044",
+    "L17-T0045",
+    "L17-T0046",
+    "L17-T0047",
+    "L17-T0048",
+    "L17-T0049",
+    "L17-T0050",
+    "L17-T0051",
+    "L17-T0052",
+    "L17-T0053",
+    "L17-T0054",
+    "L17-T0055",
+    "L17-T0056",
+    "L17-T0057",
+    "L17-T0058",
+    "L17-T0059",
+    "L17-T0060",
+    "L18-T0001",
+    "L18-T0002",
+    "L18-T0003",
+    "L18-T0004",
+    "L18-T0005",
+    "L18-T0006",
+    "L18-T0007",
+    "L18-T0008",
+    "L18-T0009",
+    "L18-T0010",
+    "L18-T0011",
+    "L18-T0012",
+    "L18-T0013",
+    "L18-T0014",
+    "L18-T0015",
+    "L18-T0016",
+    "L18-T0017",
+    "L18-T0018",
+    "L18-T0019",
+    "L18-T0020",
+    "L18-T0021",
+    "L18-T0022",
+    "L18-T0023",
+    "L18-T0024",
+    "L18-T0025",
+    "L18-T0026",
+    "L18-T0027",
+    "L18-T0028",
+    "L18-T0029",
+    "L18-T0030",
+    "L18-T0031",
+    "L18-T0032",
+    "L18-T0033",
+    "L18-T0034",
+    "L18-T0035",
+    "L18-T0036",
+    "L18-T0037",
+    "L18-T0038",
+    "L18-T0039",
+    "L18-T0040",
+    "L18-T0041",
+    "L18-T0042",
+    "L18-T0043",
+    "L18-T0044",
+    "L18-T0045",
+    "L18-T0046",
+    "L18-T0047",
+    "L18-T0048",
+    "L18-T0049",
+    "L18-T0050",
+    "L18-T0051",
+    "L18-T0052",
+    "L18-T0053",
+    "L18-T0054",
+    "L18-T0055",
+    "L18-T0056",
+    "L18-T0057",
+    "L18-T0058",
+    "L18-T0059",
+    "L18-T0060",
+    "L19-T0001",
+    "L19-T0002",
+    "L19-T0003",
+    "L19-T0004",
+    "L19-T0005",
+    "L19-T0006",
+    "L19-T0007",
+    "L19-T0008",
+    "L19-T0009",
+    "L19-T0010",
+    "L19-T0011",
+    "L19-T0012",
+    "L19-T0013",
+    "L19-T0014",
+    "L19-T0015",
+    "L19-T0016",
+    "L19-T0017",
+    "L19-T0018",
+    "L19-T0019",
+    "L19-T0020",
+    "L19-T0021",
+    "L19-T0022",
+    "L19-T0023",
+    "L19-T0024",
+    "L19-T0025",
+    "L19-T0026",
+    "L19-T0027",
+    "L19-T0028",
+    "L19-T0029",
+    "L19-T0030",
+    "L19-T0031",
+    "L19-T0032",
+    "L19-T0033",
+    "L19-T0034",
+    "L19-T0035",
+    "L19-T0036",
+    "L19-T0037",
+    "L19-T0038",
+    "L19-T0039",
+    "L19-T0040",
+    "L19-T0041",
+    "L19-T0042",
+    "L19-T0043",
+    "L19-T0044",
+    "L19-T0045",
+    "L19-T0046",
+    "L19-T0047",
+    "L19-T0048",
+    "L19-T0049",
+    "L19-T0050",
+    "L19-T0051",
+    "L19-T0052",
+    "L19-T0053",
+    "L19-T0054",
+    "L19-T0055",
+    "L19-T0056",
+    "L19-T0057",
+    "L19-T0058",
+    "L19-T0059",
+    "L19-T0060",
+    "L19-T0061",
+    "L19-T0062",
+    "L19-T0063",
+    "L19-T0064",
+    "L19-T0065",
+    "L19-T0066",
+    "L19-T0067",
+    "L19-T0068",
+    "L19-T0069",
+    "L19-T0070",
+    "L19-T0071",
+    "L19-T0072",
+    "L19-T0073",
+    "L19-T0074",
+    "L19-T0075",
+    "L19-T0076",
+    "L19-T0077",
+    "L19-T0078",
+    "L19-T0079",
+    "L19-T0080",
+    "L20-T0001",
+    "L20-T0002",
+    "L20-T0003",
+    "L20-T0004",
+    "L20-T0005",
+    "L20-T0006",
+    "L20-T0007"
+  ],
+  "CompletedPointTaskIds": [
+    "L15-T0054",
+    "L15-T0055",
+    "L15-T0056",
+    "L15-T0057",
+    "L15-T0058",
+    "L15-T0059",
+    "L15-T0060",
+    "L15-T0061",
+    "L15-T0062",
+    "L15-T0063",
+    "L15-T0064",
+    "L15-T0065",
+    "L15-T0066",
+    "L15-T0067",
+    "L15-T0068",
+    "L15-T0069",
+    "L15-T0070",
+    "L15-T0071",
+    "L15-T0072",
+    "L15-T0073",
+    "L15-T0074",
+    "L15-T0075",
+    "L15-T0076",
+    "L15-T0077",
+    "L15-T0078",
+    "L15-T0079",
+    "L15-T0080",
+    "L16-T0001",
+    "L16-T0002",
+    "L16-T0003",
+    "L16-T0004",
+    "L16-T0005",
+    "L16-T0006",
+    "L16-T0007",
+    "L16-T0008",
+    "L16-T0009",
+    "L16-T0010",
+    "L16-T0011",
+    "L16-T0012",
+    "L16-T0013",
+    "L16-T0014",
+    "L16-T0015",
+    "L16-T0016",
+    "L16-T0017",
+    "L16-T0018",
+    "L16-T0019",
+    "L16-T0020",
+    "L16-T0021",
+    "L16-T0022",
+    "L16-T0023",
+    "L16-T0024",
+    "L16-T0025",
+    "L16-T0026",
+    "L16-T0027",
+    "L16-T0028",
+    "L16-T0029",
+    "L16-T0030",
+    "L16-T0031",
+    "L16-T0032",
+    "L16-T0033",
+    "L16-T0034",
+    "L16-T0035",
+    "L16-T0036",
+    "L16-T0037",
+    "L16-T0038",
+    "L16-T0039",
+    "L16-T0040",
+    "L16-T0041",
+    "L16-T0042",
+    "L16-T0043",
+    "L16-T0044",
+    "L16-T0045",
+    "L16-T0046",
+    "L16-T0047",
+    "L16-T0048",
+    "L16-T0049",
+    "L16-T0050",
+    "L16-T0051",
+    "L16-T0052",
+    "L16-T0053",
+    "L16-T0054",
+    "L16-T0055",
+    "L16-T0056",
+    "L16-T0057",
+    "L16-T0058",
+    "L16-T0059",
+    "L16-T0060",
+    "L16-T0061",
+    "L16-T0062",
+    "L16-T0063",
+    "L16-T0064",
+    "L16-T0065",
+    "L16-T0066",
+    "L16-T0067",
+    "L16-T0068",
+    "L16-T0069",
+    "L16-T0070",
+    "L16-T0071",
+    "L16-T0072",
+    "L16-T0073",
+    "L16-T0074",
+    "L16-T0075",
+    "L16-T0076",
+    "L16-T0077",
+    "L16-T0078",
+    "L16-T0079",
+    "L16-T0080",
+    "L16-T0081",
+    "L16-T0082",
+    "L16-T0083",
+    "L16-T0084",
+    "L16-T0085",
+    "L16-T0086",
+    "L16-T0087",
+    "L16-T0088",
+    "L16-T0089",
+    "L16-T0090",
+    "L16-T0091",
+    "L16-T0092",
+    "L16-T0093",
+    "L16-T0094",
+    "L16-T0095",
+    "L16-T0096",
+    "L16-T0097",
+    "L16-T0098",
+    "L16-T0099",
+    "L16-T0100",
+    "L17-T0001",
+    "L17-T0002",
+    "L17-T0003",
+    "L17-T0004",
+    "L17-T0005",
+    "L17-T0006",
+    "L17-T0007",
+    "L17-T0008",
+    "L17-T0009",
+    "L17-T0010",
+    "L17-T0011",
+    "L17-T0012",
+    "L17-T0013",
+    "L17-T0014",
+    "L17-T0015",
+    "L17-T0016",
+    "L17-T0017",
+    "L17-T0018",
+    "L17-T0019",
+    "L17-T0020",
+    "L17-T0021",
+    "L17-T0022",
+    "L17-T0023",
+    "L17-T0024",
+    "L17-T0025",
+    "L17-T0026",
+    "L17-T0027",
+    "L17-T0028",
+    "L17-T0029",
+    "L17-T0030",
+    "L17-T0031",
+    "L17-T0032",
+    "L17-T0033",
+    "L17-T0034",
+    "L17-T0035",
+    "L17-T0036",
+    "L17-T0037",
+    "L17-T0038",
+    "L17-T0039",
+    "L17-T0040",
+    "L17-T0041",
+    "L17-T0042",
+    "L17-T0043",
+    "L17-T0044",
+    "L17-T0045",
+    "L17-T0046",
+    "L17-T0047",
+    "L17-T0048",
+    "L17-T0049",
+    "L17-T0050",
+    "L17-T0051",
+    "L17-T0052",
+    "L17-T0053",
+    "L17-T0054",
+    "L17-T0055",
+    "L17-T0056",
+    "L17-T0057",
+    "L17-T0058",
+    "L17-T0059",
+    "L17-T0060",
+    "L18-T0001",
+    "L18-T0002",
+    "L18-T0003",
+    "L18-T0004",
+    "L18-T0005",
+    "L18-T0006",
+    "L18-T0007",
+    "L18-T0008",
+    "L18-T0009",
+    "L18-T0010",
+    "L18-T0011",
+    "L18-T0012",
+    "L18-T0013",
+    "L18-T0014",
+    "L18-T0015",
+    "L18-T0016",
+    "L18-T0017",
+    "L18-T0018",
+    "L18-T0019",
+    "L18-T0020",
+    "L18-T0021",
+    "L18-T0022",
+    "L18-T0023",
+    "L18-T0024",
+    "L18-T0025",
+    "L18-T0026",
+    "L18-T0027",
+    "L18-T0028",
+    "L18-T0029",
+    "L18-T0030",
+    "L18-T0031",
+    "L18-T0032",
+    "L18-T0033",
+    "L18-T0034",
+    "L18-T0035",
+    "L18-T0036",
+    "L18-T0037",
+    "L18-T0038",
+    "L18-T0039",
+    "L18-T0040",
+    "L18-T0041",
+    "L18-T0042",
+    "L18-T0043",
+    "L18-T0044",
+    "L18-T0045",
+    "L18-T0046",
+    "L18-T0047",
+    "L18-T0048",
+    "L18-T0049",
+    "L18-T0050",
+    "L18-T0051",
+    "L18-T0052",
+    "L18-T0053",
+    "L18-T0054",
+    "L18-T0055",
+    "L18-T0056",
+    "L18-T0057",
+    "L18-T0058",
+    "L18-T0059",
+    "L18-T0060",
+    "L19-T0001",
+    "L19-T0002",
+    "L19-T0003",
+    "L19-T0004",
+    "L19-T0005",
+    "L19-T0006",
+    "L19-T0007",
+    "L19-T0008",
+    "L19-T0009",
+    "L19-T0010",
+    "L19-T0011",
+    "L19-T0012",
+    "L19-T0013",
+    "L19-T0014",
+    "L19-T0015",
+    "L19-T0016",
+    "L19-T0017",
+    "L19-T0018",
+    "L19-T0019",
+    "L19-T0020",
+    "L19-T0021",
+    "L19-T0022",
+    "L19-T0023",
+    "L19-T0024",
+    "L19-T0025",
+    "L19-T0026",
+    "L19-T0027",
+    "L19-T0028",
+    "L19-T0029",
+    "L19-T0030",
+    "L19-T0031",
+    "L19-T0032",
+    "L19-T0033",
+    "L19-T0034",
+    "L19-T0035",
+    "L19-T0036",
+    "L19-T0037",
+    "L19-T0038",
+    "L19-T0039",
+    "L19-T0040",
+    "L19-T0041",
+    "L19-T0042",
+    "L19-T0043",
+    "L19-T0044",
+    "L19-T0045",
+    "L19-T0046",
+    "L19-T0047",
+    "L19-T0048",
+    "L19-T0049",
+    "L19-T0050",
+    "L19-T0051",
+    "L19-T0052",
+    "L19-T0053",
+    "L19-T0054",
+    "L19-T0055",
+    "L19-T0056",
+    "L19-T0057",
+    "L19-T0058",
+    "L19-T0059",
+    "L19-T0060",
+    "L19-T0061",
+    "L19-T0062",
+    "L19-T0063",
+    "L19-T0064",
+    "L19-T0065",
+    "L19-T0066",
+    "L19-T0067",
+    "L19-T0068",
+    "L19-T0069",
+    "L19-T0070",
+    "L19-T0071",
+    "L19-T0072",
+    "L19-T0073",
+    "L19-T0074",
+    "L19-T0075",
+    "L19-T0076",
+    "L19-T0077",
+    "L19-T0078",
+    "L19-T0079",
+    "L19-T0080",
+    "L20-T0001",
+    "L20-T0002",
+    "L20-T0003",
+    "L20-T0004",
+    "L20-T0005",
+    "L20-T0006",
+    "L20-T0007"
+  ],
+  "Review": "docs/深度扩写审查_P02-N01_334条.md",
+  "VersionComparison": "docs/P02-N01_来源对读.json",
+  "Checks": [
+    {
+      "Command": "python tools/refresh_index.py --dry-run",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python tools/check_project.py",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python -m unittest discover -s tests -v",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python .local/P02-N01_全点验证.py",
+      "ExitCode": 0
+    }
+  ],
+  "FullTaskComplete": false,
+  "ExternalGenerationPerformed": false,
+  "PreviousBoundaryAdjustment": {
+    "TaskId": "L15-T0053",
+    "OnlyWhitespaceSeparatorChanged": true,
+    "OriginalContentAndReviewPreserved": true,
+    "UpdatedEvidenceSHA256": "1F1241DA7278B0F1A21583E7F2D8F43C6F81F19A55380E4D48F2265F6A3D987D"
+  },
+  "TaskPointComplete": true,
+  "ChecksReport": "docs/P02-N01_完成检查运行.json",
+  "OriginalBaselinesChanged": false,
+  "PreviousContentAndReceiptsPreserved": true,
+  "CompletionScope": "本点固定334候选逐条文本扩写、AI自审、来源/相关历史方法对读、检索与适用检查；P02阶段尚余666，第三点验收",
+  "MathChecksPassed": 76,
+  "DirectDeepReadsPassed": 1396,
+  "SourceWorkflowStatuses": {
+    "pending": 27,
+    "partial_review": 24
+  },
+  "HistoricalOverallStatuses": {
+    "partial_review": 12,
+    "pending": 26
+  },
+  "PointCoverage": {
+    "Entries": [
+      {
+        "TaskId": "L15-T0054",
+        "DeepSHA256": "6B92FED43E0D062787BFCAEC2D73057059AE82414469B319C02FE4BB3CD463F7",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第54条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L15-T0055",
+        "DeepSHA256": "39E3C189C66642AEE71421CC2FB0B45C1CDAAD2323410EF353FD3FC4FB88B742",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第55条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L15-T0056",
+        "DeepSHA256": "4FC213DFFF61511CA9E6186720E087C3B5EC231A717E657D8CB888BC2B1476ED",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第56条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 333
+      },
+      {
+        "TaskId": "L15-T0057",
+        "DeepSHA256": "52936A6CA0CFC35500D99921CF437E3D7744B52684FF47BDA61BEDCBFBDA6E28",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第57条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L15-T0058",
+        "DeepSHA256": "67B16FFB280A3826E67023773FE1BF49F06AB800B10B2E1F68EF1D90D450C7E2",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第58条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L15-T0059",
+        "DeepSHA256": "E4B7741769647D59680688E09DB255182E5BB0E45F50F3460565D0F5942F1850",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第59条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 339
+      },
+      {
+        "TaskId": "L15-T0060",
+        "DeepSHA256": "C5134696FF6178EB9E5BC4A0FC9A3D88B934E5E940C921F4320AAD93D26E84BC",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第60条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 334
+      },
+      {
+        "TaskId": "L15-T0061",
+        "DeepSHA256": "05D456EC3FBD748E5365414126C8F484B760E57112E28A31B530897A7F7F869E",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第61条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 348
+      },
+      {
+        "TaskId": "L15-T0062",
+        "DeepSHA256": "97FBC3A2DC4E016FA167C189B359A4E4EA1CFAA11B973650DB3FD651DAD41659",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第62条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L15-T0063",
+        "DeepSHA256": "E11D48CAFC165E4443D719D097664B4FB38FB6AA664E86F2F38204212B3D159B",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第63条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 341
+      },
+      {
+        "TaskId": "L15-T0064",
+        "DeepSHA256": "8A91AC2C956E7B46C92C9CA11B170CD160ECC2A59589D3F7368F0BDC9884557E",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第64条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 339
+      },
+      {
+        "TaskId": "L15-T0065",
+        "DeepSHA256": "F787DB7D0F861AF4EFFB2FC379007B282632212C181B549D3F3C3FDB4BF8B3A3",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第65条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 341
+      },
+      {
+        "TaskId": "L15-T0066",
+        "DeepSHA256": "E1A455D3B9E302F8196F12D6703B92E3311F1200C767D8B2B0CE8446BA844515",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第66条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 337
+      },
+      {
+        "TaskId": "L15-T0067",
+        "DeepSHA256": "4889B3048E4589A6F171C0CCCE24C437BAF7282483AAABB30B40F2203396A567",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第67条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 335
+      },
+      {
+        "TaskId": "L15-T0068",
+        "DeepSHA256": "2490B4F6623E8892C7FE26CC99D9C4E9CDF70BC97542CD27043A0062161BC121",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第68条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 332
+      },
+      {
+        "TaskId": "L15-T0069",
+        "DeepSHA256": "254FA566159DF8D1EEA1EA46D505B203D8D9DB67C62E75C0AA57A8060CDAED75",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第69条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 342
+      },
+      {
+        "TaskId": "L15-T0070",
+        "DeepSHA256": "F85D724B8B50089841EBB43446CCE20B3A24343B510C2BAE21EC1958A96C5FDC",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第70条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 337
+      },
+      {
+        "TaskId": "L15-T0071",
+        "DeepSHA256": "DE7E557D696B03C8DAF1FCAD55ACC4E10B72350D13CB25B1E823C18B9A7C7970",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第71条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 338
+      },
+      {
+        "TaskId": "L15-T0072",
+        "DeepSHA256": "7ED7ECD1EC3E08CECD47AAB83C87D3A5CB95412689C9D7BC34BB611F9E5F81D7",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第72条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 345
+      },
+      {
+        "TaskId": "L15-T0073",
+        "DeepSHA256": "674BAFFCE5A9261BBAE5D709BF8EF5B0F29C6CC18E9767301691FEB6F3120026",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第73条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 337
+      },
+      {
+        "TaskId": "L15-T0074",
+        "DeepSHA256": "0587CE45632A946D18CF7E2954CF1D130F7C2AB0FC0792E58357C137DA6D928D",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第74条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 341
+      },
+      {
+        "TaskId": "L15-T0075",
+        "DeepSHA256": "D8C974DEF3F80A0A28BC3A0C816354E9A5E115CAD37BA6171374666DA44D0E5E",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第75条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L15-T0076",
+        "DeepSHA256": "D87AB637B163C9E61CED3EAEFA7030955C44AD9B1F457337B89494845BEB1B4A",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第76条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L15-T0077",
+        "DeepSHA256": "F0AADE2F41D53DF74146C6682A32BB71BAA65029411034ADDECDA3600A39881D",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第77条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L15-T0078",
+        "DeepSHA256": "068FD7EB0A3B54565ADD66BE6E3DB51EA8324C05937598359E1A554F28CA3486",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第78条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 345
+      },
+      {
+        "TaskId": "L15-T0079",
+        "DeepSHA256": "5FF847A6CBB0770F0AA92ED55FA208E3281D1A4CD54B2860982B62BD46649BB8",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第79条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 342
+      },
+      {
+        "TaskId": "L15-T0080",
+        "DeepSHA256": "5217491487DA71A2DD95BDFBF3A774F5DA5CB869DAFF6F3BDD2375669A40E667",
+        "OriginalTextSHA256": "CE7A39DD36A7E87E395180C3557B5FB0223934F21619823D05E03B77707A5B59",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库15第80条",
+          "SRC007:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无非人同编号历史稿；H011仅身份与连接方法"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L16-T0001",
+        "DeepSHA256": "F8A87274600D1E3E4668572CE5D93DDC00864DF8BB2EE5E85433D0B3354EA37F",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第1条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 350
+      },
+      {
+        "TaskId": "L16-T0002",
+        "DeepSHA256": "D9F1652289333E079A440E0A93A5C12AA97EA758C29D844AA2FF56A31A03011C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第2条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 350
+      },
+      {
+        "TaskId": "L16-T0003",
+        "DeepSHA256": "ABB77DC0C0F36E2D64571B8A73DFE8A7C5F74A6DF20BC6EE3C9860E98B03CE4A",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第3条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0004",
+        "DeepSHA256": "D49D6DA345769F30BA77CA133EABCF5C21FD2661455365EE8FF37375E7F3F90F",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第4条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 338
+      },
+      {
+        "TaskId": "L16-T0005",
+        "DeepSHA256": "3B103A5D3B5B61E2542653AAFCFFA0A6962126FBCE4B2ECF6F8BECB82C9C63EF",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第5条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0006",
+        "DeepSHA256": "E2C4BED39E2EF1F0819EE35E2E1DDC2CDD1B355FA45F77BCA12DE1EF972CF46C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第6条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 345
+      },
+      {
+        "TaskId": "L16-T0007",
+        "DeepSHA256": "BC22B3A8890C5AF267837F00098EB1387ED652783D916E8AFAB6298ADB30A7E9",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第7条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 339
+      },
+      {
+        "TaskId": "L16-T0008",
+        "DeepSHA256": "DBC53C11CB5D060F8522D28FB9269088D4B4A4A82176CB435720399D8F02FAFC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第8条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L16-T0009",
+        "DeepSHA256": "04DB37328B47A8151D25329143FE2C0102C7FD942EFA1398F3221DA9C9BC1DC6",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第9条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 338
+      },
+      {
+        "TaskId": "L16-T0010",
+        "DeepSHA256": "80D971755D929BAF2B9631F5E7F5B8341B30E92D50C66C3A750F70C287C5A850",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第10条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L16-T0011",
+        "DeepSHA256": "70C337BEFDD6D8E9D72BCB6AC87E52C6F8614B6F08E344ECA8DAF2F12524905E",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第11条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0012",
+        "DeepSHA256": "726770A890564325F9694EFD4D7B433F2B7104AC77979127B899E3E69D0235FC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第12条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 340
+      },
+      {
+        "TaskId": "L16-T0013",
+        "DeepSHA256": "37B9FC65124979F4EBA448C7C8413280CCE10E532A67ABC9343528C91A933F26",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第13条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0014",
+        "DeepSHA256": "BE3E3EC36F3147EA94CA7BF061BE117D81AC94F9EF2A8CEC8CBAD8488FA8CDC6",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第14条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L16-T0015",
+        "DeepSHA256": "479569B7E1FE468E92DE336AF4B822A65356ED3D6A4E7EECF97C636E7795255C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第15条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L16-T0016",
+        "DeepSHA256": "85F81571A93DA996D26B92DB7354B30D7DA869929839B72E59F640EAABB9B5C0",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第16条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0017",
+        "DeepSHA256": "66D2B99F84DCCEC1C58D8196E922A1FDB2913A9F89FDB3D3DDDBBB98AB01A330",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第17条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L16-T0018",
+        "DeepSHA256": "3DE131A66EBF92480BFF45464EB16A1C756CC4D43B35BA0E3FB003E98873AF57",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第18条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0019",
+        "DeepSHA256": "85F7BE6D19F93E8CC6FC8AB2650BD34838AE584A1F3D2A4E0D2DD323F8C8F161",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第19条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L16-T0020",
+        "DeepSHA256": "830D64F990473439CCC9596BEBCCAEB84A6116EFAF30D88347D3172E57B0E3D4",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第20条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0021",
+        "DeepSHA256": "26EDE0BF6F9EBE87CE6DC26DF2FB5959B60B285B9ADCF40A3930E609B1A42FC8",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第21条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L16-T0022",
+        "DeepSHA256": "5AB5839203AB5BBD55141ED0497006F28B249D23CFA24F673451CB220264F886",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第22条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L16-T0023",
+        "DeepSHA256": "75B19CF1058E5A1CA96F7870FE290B585C2BAC7B3777B10E3F86DFDFD6F1763F",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第23条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L16-T0024",
+        "DeepSHA256": "EA9B7FC600C77E5878353373E946AC940288D16E9471B1E3EFAC7124B40EE723",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第24条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L16-T0025",
+        "DeepSHA256": "25BFFEAD6E4E702E9EF8413C80F33990190C072C7F80020F14C5B5B0C4C3E137",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第25条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L16-T0026",
+        "DeepSHA256": "5F383C0557664DDD8C58D0CACF2A91A45AB4931965AC9988DB5B15420181DD8B",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第26条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L16-T0027",
+        "DeepSHA256": "51C7D6D30B063E7FE508991C038F362F0D146EBC534806161079D819951293CD",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第27条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L16-T0028",
+        "DeepSHA256": "9091893392A161244BC7BF14F6C7C1CFE1A95BBB7F93870DFE7CF9FEF73B7CC7",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第28条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L16-T0029",
+        "DeepSHA256": "475B4A1B42051BE18121C73638F2AF278485750F67AC14C23DCBA15DB4DB5B4E",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第29条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L16-T0030",
+        "DeepSHA256": "A3A0EF2D675B8E7E3C3F6F67F066056BD3F014C003504AC56242CD8D6245AC75",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第30条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0031",
+        "DeepSHA256": "2993AB193B04CB3533CF81BD04AE9AF90A2E9203198710FA577746ACDD3C5BFB",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第31条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0032",
+        "DeepSHA256": "6406BA54DE2B304759ADD5F74AC9FE0C20CFB94E3F2C335D59CEB79C59BEAAFD",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第32条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0033",
+        "DeepSHA256": "CDF482D7CD4B0DF7FAA33FC64D7EB4A1A00F3D5C0A9E5D30378682776A034699",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第33条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0034",
+        "DeepSHA256": "AE1037E792F3358A5790E4731C6A5E0CB44BEFD253E17D727F10E18D839933C9",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第34条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0035",
+        "DeepSHA256": "22227C322A55F39E69787A1BB75CD12A42B934F07E574D898FDF6F3C5A03920D",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第35条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 337
+      },
+      {
+        "TaskId": "L16-T0036",
+        "DeepSHA256": "9E13137C4212EFC3BBE823E025BFF31BCA14096B73FF0E4070F3B84EA0DEC100",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第36条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0037",
+        "DeepSHA256": "2277AC6C67582770128DDD59B8582E548777695DFBC67E5D9F382BAEF7058F4A",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第37条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0038",
+        "DeepSHA256": "A68F31B31588255B855CBC5887FA405491508E0956E5623893531CD112613F18",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第38条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L16-T0039",
+        "DeepSHA256": "8B6D2BD9A6B239C4C33CC3A28B1914A457893403C3235D8CB26D8CC87E4F4970",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第39条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 345
+      },
+      {
+        "TaskId": "L16-T0040",
+        "DeepSHA256": "E899249C70947C8C46A455F93FC9B04FB77127A4165FB369C7CD1F1EFFCEB058",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第40条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0041",
+        "DeepSHA256": "AFFA6F22BF470A9CB4AF42EE3B62CB432ABE98558B4C5C0D9B6692CAF9C346B3",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第41条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0042",
+        "DeepSHA256": "7D066F69DF7E1FCA1B273A3D5E13EED5990FC641C0761F59171FA7220E1C84A7",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第42条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 340
+      },
+      {
+        "TaskId": "L16-T0043",
+        "DeepSHA256": "BFF38B1AC3DAA0B77FFD3B1AF502A3EE5C122DB15796A337EA8C361C12FE5B6D",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第43条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0044",
+        "DeepSHA256": "E1398CEFF7936B2C0E391D86807115AA9FD521C3BA310EEB9FFE3F58F8C54761",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第44条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0045",
+        "DeepSHA256": "59089222E3E619621E7BB1292220AA36F90845E8CB86202E43B25CB38CEE75C1",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第45条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 340
+      },
+      {
+        "TaskId": "L16-T0046",
+        "DeepSHA256": "AADE0AFDC82D1D47DF19E82E5BCAD735D27D8D268F34D4B0898F3B6BD0EADE57",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第46条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L16-T0047",
+        "DeepSHA256": "BD3969FD63048352F672083FE42257ED2456F2F8D774FD9AC933F1C87515DB14",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第47条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0048",
+        "DeepSHA256": "03719070564651BB6D334F81C684642B5BBD62E601C5500CF31A42FE53500749",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第48条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0049",
+        "DeepSHA256": "383DA792CD3BCB755C65866C06DD570FEE942950A929B390C167036835379CED",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第49条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L16-T0050",
+        "DeepSHA256": "623A04EE54153920A69B8056E1599188E6EC94CB6F4DE9095F359DBC9B6D9AA0",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第50条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0051",
+        "DeepSHA256": "DA64775743C9ED0EF6C18AD2E8973AB07EEF1BBBD48CF2B2A678A7287F9165CE",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第51条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0052",
+        "DeepSHA256": "3D3ADB38CD894CACB424CF02F5A40AA2C6A6FADF9D1BB572C06CE8F589532D47",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第52条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 343
+      },
+      {
+        "TaskId": "L16-T0053",
+        "DeepSHA256": "E73FB0AABE4DCF19BBF5439E6E685B5BD33C055259995A45AD3428008E250121",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第53条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L16-T0054",
+        "DeepSHA256": "850EE43314A9C947CFE1F0D39C91FAF1C035C2694E5F3962F75FFA881F0B8347",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第54条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 343
+      },
+      {
+        "TaskId": "L16-T0055",
+        "DeepSHA256": "57162E8D0B086FD35CB3A19084A64AC80D2545C52502E446F08398AAC7120B01",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第55条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L16-T0056",
+        "DeepSHA256": "3F0530C17A46CCC5FE7998449D3926792287E6FCBA8FAE114219DF96D399468F",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第56条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0057",
+        "DeepSHA256": "978FC9079166A7989EE869233B4AD066F991BFD41964A775EE4A3E69D66D7E6C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第57条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L16-T0058",
+        "DeepSHA256": "69679B2B6DD3F05613A42D53E1C09B149FB29DD21B9FCE4E6F29DA7E0AE75D54",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第58条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0059",
+        "DeepSHA256": "0014832D9C679E559BAC33EA45AA9B9B94B72D1A0277DC95FEC3A9B4DDEEE0A1",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第59条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L16-T0060",
+        "DeepSHA256": "56D0B0E95F421CD416AE62E2295ED575E5145556739C49CEB7D1DAB9599EB92C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第60条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0061",
+        "DeepSHA256": "C72231B6D9847917F83D9AFB458CD5BE176AE8B321B13D427F722BE44A5D995B",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第61条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L16-T0062",
+        "DeepSHA256": "ECE672622ECE902FBE64349270D3B4C03138B7AD5AA0ECD7852D68CF9B034DAC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第62条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L16-T0063",
+        "DeepSHA256": "B295AFEFD8EAEFB483D502447ABAC9DAABDBB21D7FEC04AABC9EF028E12319AB",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第63条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L16-T0064",
+        "DeepSHA256": "87C09974041578221CD6D894F1D666638AFA1401AE057C47837F27B79AF01214",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第64条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0065",
+        "DeepSHA256": "A927597B1D986DBEB8C3D8E5B6774BEA98E9D103F832840306A8E7EC4CB2ECAC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第65条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0066",
+        "DeepSHA256": "580BACC64EA0844413946AAF025A57F6A9B68CF75C834893DC39C81603BF97AF",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第66条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L16-T0067",
+        "DeepSHA256": "E38F44BBEBBA15FBC989DF73A43C7963DED8C6447E7D5FCF35FAE61CF5BEA697",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第67条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 350
+      },
+      {
+        "TaskId": "L16-T0068",
+        "DeepSHA256": "2BBE98C76BDE335F2E61A1C268018E05271DC9FA3D8A558EF4C59DB82BC090AD",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第68条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0069",
+        "DeepSHA256": "565BDF1907BB2579FEC9B4FF4E92B390AAF260312C616C1AA5CEBE8C70F7F761",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第69条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0070",
+        "DeepSHA256": "FD93E93CD8A8FF296321921A2A398AF6498CA3B15CAB81392BD6376AC8910B56",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第70条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0071",
+        "DeepSHA256": "DA93E9AC194ABBFD1AD45A64380829D734402017674ED544BDE7F4FEB39A57CC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第71条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L16-T0072",
+        "DeepSHA256": "CB12CE78E7882CB92DC18E652788544FD8E756CA894C82047E0576B98001AB95",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第72条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 351
+      },
+      {
+        "TaskId": "L16-T0073",
+        "DeepSHA256": "E3C5F60B10895927EDCD249434D8AAE0FDA8FD89B945E8FE5C83653FA1104120",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第73条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L16-T0074",
+        "DeepSHA256": "D767B18E895C9113900D87F913FAD3E89B4D38D25AC2F8FE8CA4FD35E44DEBC7",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第74条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L16-T0075",
+        "DeepSHA256": "F5AFFB8AE2EEAF896BAFE09E91203F7C0BE501A24C4A0C20032553DF5E862FAC",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第75条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L16-T0076",
+        "DeepSHA256": "51C27ED436152412EA8DC55FE8373D1C98B111440E130F5A5B388CD97464CD1B",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第76条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L16-T0077",
+        "DeepSHA256": "79A5EAF91574020C4284C9744BA47F940574B612E6C15F9FB81A6ED8622F8EA3",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第77条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L16-T0078",
+        "DeepSHA256": "139F9200B37B60389465B8D35D30A928060D1840ACB258C918CBAE302F6059DA",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第78条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 381
+      },
+      {
+        "TaskId": "L16-T0079",
+        "DeepSHA256": "D3D622162FFA9C838C70AAB6A58BCAE14705C92201025ABABA762D1CAECFFBE3",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第79条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0080",
+        "DeepSHA256": "7AD483FCE312062AFA2CF25829390C84D2626524248513560080DA3CBDB7F312",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第80条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L16-T0081",
+        "DeepSHA256": "255C55EDBEAEA2BBDECF68472E43C6453ED8B3E623BB593055FC4389E7E33434",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第81条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L16-T0082",
+        "DeepSHA256": "57969C16D6A0B9A08B4F49E9B358922BE520F3D9696ABF2075B22EC2287DBDBA",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第82条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L16-T0083",
+        "DeepSHA256": "320C169C944EDB5ACDE1C3284D5AB4CA7E353EE72E4B86C1A22886E946FA2223",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第83条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L16-T0084",
+        "DeepSHA256": "F345199B762A63C7947EC4712C8565004AAB12A06F987F00C3B53E2681CBA97C",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第84条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 339
+      },
+      {
+        "TaskId": "L16-T0085",
+        "DeepSHA256": "5305D629F83D4B9D7C47ECD84CCD3C097C4E3A9FB69AD1524AF14A7A4AD32204",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第85条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 349
+      },
+      {
+        "TaskId": "L16-T0086",
+        "DeepSHA256": "A89EE5EFD1F52ED8FCEB8BCB6A24E674E19A33E48049E57283A83F066A7DAB2A",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第86条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 342
+      },
+      {
+        "TaskId": "L16-T0087",
+        "DeepSHA256": "3F0DC0F85B59B47574C484488B7B56D67EB95448AA113389DB4F98527ED34DA8",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第87条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 342
+      },
+      {
+        "TaskId": "L16-T0088",
+        "DeepSHA256": "DEF9D26A9984B9CCC3909CC0C144D6616D801B920A0916D1C85475C86975C67D",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第88条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 343
+      },
+      {
+        "TaskId": "L16-T0089",
+        "DeepSHA256": "8D786DEDACD5B51D4CE5141522E8C22F4EC216D9FF1FB42BA5BDBD3D66709262",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第89条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L16-T0090",
+        "DeepSHA256": "812D5CDB14FD2D378464F84BA71AB3A127110AEDB80E83A303D4B2405318E8AE",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第90条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L16-T0091",
+        "DeepSHA256": "C9DC3EF8A88F29D41845A88ED097C0090E4A2D8E4B5F218E97AC88F2C190553D",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第91条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 346
+      },
+      {
+        "TaskId": "L16-T0092",
+        "DeepSHA256": "134074AD0B8B05EBE0D7A09F577985ABA1168DF0DE95AFD3D6C7DF38DAAAD981",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第92条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 345
+      },
+      {
+        "TaskId": "L16-T0093",
+        "DeepSHA256": "DD2D0E08B7C0BDC1DECB3CD431663AD79A6AE20004DD0252166AC45DD45BAE68",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第93条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 340
+      },
+      {
+        "TaskId": "L16-T0094",
+        "DeepSHA256": "78893CB89F0781A442C9A6ECA39BDDB7FA6C250C7009F420D3B729E081225733",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第94条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L16-T0095",
+        "DeepSHA256": "D6E0C634958E433EF92BBA9A09DD63A5E8B26346915D7CEA642868EFB5AE1009",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第95条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L16-T0096",
+        "DeepSHA256": "7AD6CF8E04DA72AF78199FA8CAB178A5A9369A730F50605EC9FAC09D73764530",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第96条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L16-T0097",
+        "DeepSHA256": "567CBD29ADA95E299BED0E818379B261FD2FCEFCDFD2AD174107B26690EDB1D9",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第97条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 347
+      },
+      {
+        "TaskId": "L16-T0098",
+        "DeepSHA256": "83382ED38CC0E48C613CFEF8774F049F0B7F1B3609EB0219EA017E9B5D91DD86",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第98条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 341
+      },
+      {
+        "TaskId": "L16-T0099",
+        "DeepSHA256": "9E6F8AF502FD5306F9B07DB3F6263FC45726B3B72D38EDF601B2B83B70F4F63E",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第99条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L16-T0100",
+        "DeepSHA256": "EE3C14365392711F34E301998F0DB6D04B5CF449417695B22A61BBE006013466",
+        "OriginalTextSHA256": "F956F943FAC516C7FBD5FCCCC04F491EC69DC112C194D33FDD86978287D845E1",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库16第100条",
+          "SRC003、SRC027:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H008只采用新增开篇及统一构建顺序；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L17-T0001",
+        "DeepSHA256": "A04BB83C53747D4887FBC5FAE7381FFBA3DBF869236C12A26381B81FEBF3415B",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第1条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 375
+      },
+      {
+        "TaskId": "L17-T0002",
+        "DeepSHA256": "B6BDA430B65B9D79FECC43909133C223ABAA0DEAFF1CCEE4BDA76D82083BC935",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第2条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L17-T0003",
+        "DeepSHA256": "67967653F81B2DE5D70FFC3EC7E1B4EDF831EC7244816A51A6D61EA6D5ED356F",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第3条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L17-T0004",
+        "DeepSHA256": "F9E98EA6E2CA4CA74A49323AE70D05D1BFF2926BEB8517515B7F5F8D723D493C",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第4条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L17-T0005",
+        "DeepSHA256": "8DF731987BD1DF4C8EFEACB3A4297D99ED3DAAE4E56D11CB1E7EBE74FEE570E3",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第5条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 377
+      },
+      {
+        "TaskId": "L17-T0006",
+        "DeepSHA256": "31B358D84554DE860567CB055289BF220D5FE49A4EE2916C50A891293C7E7919",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第6条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L17-T0007",
+        "DeepSHA256": "BD69F7A068F2C210D38DA462FAD969E63531A4E1041476A147A16AEED3224D4F",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第7条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L17-T0008",
+        "DeepSHA256": "4E62A9CB1B5A393591F441CF949F0C59283A61B7979FBB16A07E2C0D7BCB8D1D",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第8条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 375
+      },
+      {
+        "TaskId": "L17-T0009",
+        "DeepSHA256": "0DB2838BA9BA816426A5E46B3D3883C309288B56A6AF858F0D24937928591760",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第9条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L17-T0010",
+        "DeepSHA256": "7FD2AC8BD427F95FB63E2CD4214F1EC020ED4942398A8EC9CCEF093E483AAFD9",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第10条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L17-T0011",
+        "DeepSHA256": "2CFB520FF1F93BA47B3A3D2CC29C4F7D0E237916D0D772B5FC06452E1DB32377",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第11条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L17-T0012",
+        "DeepSHA256": "0A80426AC529899B4667BE4467824036C51EB869526FC8371D0E91338EA401D9",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第12条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L17-T0013",
+        "DeepSHA256": "CEB7587E8C2FD3149B3D0B33F7D9A56957B8E903DB5150C74F268361186B84A4",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第13条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L17-T0014",
+        "DeepSHA256": "1D96EC10E3114872E1A1C6106A097A5ED0DC9AFD77D71F908E3D4C4270F22133",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第14条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L17-T0015",
+        "DeepSHA256": "2D1F7980D62DB24E290A6178387FBB121B3860D0D5B21A622B3A131415D7ACA0",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第15条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L17-T0016",
+        "DeepSHA256": "330FD257F0B082C01284E90F7A5F8D719AEA8FAB0A5DA7C973B04E65178581F5",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第16条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 388
+      },
+      {
+        "TaskId": "L17-T0017",
+        "DeepSHA256": "34AC092DF9510E8347153CE8853327B0B103BC2DB1E30E440D89B1ED2B2F5DD1",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第17条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 399
+      },
+      {
+        "TaskId": "L17-T0018",
+        "DeepSHA256": "164C7AEA7548C555B5D91E331F423DA5109C3FEEACEA5283327C9DC7C3DF680D",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第18条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L17-T0019",
+        "DeepSHA256": "FA525C96DC27A56E00DDD5EB70C5BFA0429351061319A4B1190A07452D86C82A",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第19条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L17-T0020",
+        "DeepSHA256": "B7440D9D031C4EC6A489D6F29034BFE86670C4E165643FE6F871D6F4DB75CCF0",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第20条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 382
+      },
+      {
+        "TaskId": "L17-T0021",
+        "DeepSHA256": "47B64911B7F0A8B297430FA60E40A6B33BA647F901FC2D2C03708F215EEE113D",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第21条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 389
+      },
+      {
+        "TaskId": "L17-T0022",
+        "DeepSHA256": "5362217A69D07D5704611B24BBB51B88A4174C6BE0718BD18C64273FEC98687C",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第22条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 398
+      },
+      {
+        "TaskId": "L17-T0023",
+        "DeepSHA256": "9E4246738BDBBDA7DCA751D32CF5C10537331E5C951FE458B8B8116E4D700B0D",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第23条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 391
+      },
+      {
+        "TaskId": "L17-T0024",
+        "DeepSHA256": "8245C342D46BE21AA456D516A98C3F203FE09BDFF9B4F580C335B4B7B57ECCFB",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第24条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 383
+      },
+      {
+        "TaskId": "L17-T0025",
+        "DeepSHA256": "ADC729B889C7F998FF123C71C7D51D422176BD4B75F9AB4263AD287511D6D18B",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第25条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 379
+      },
+      {
+        "TaskId": "L17-T0026",
+        "DeepSHA256": "92241B2E8C8B480062DD2D9289BB5BBDE64D364315B16FCA127495D29CC6771B",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第26条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L17-T0027",
+        "DeepSHA256": "443B744E941FF4218B1FA4F57A18B2359DA7FB952DB24840F137FC68837F0935",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第27条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L17-T0028",
+        "DeepSHA256": "EF210DA47531EEC478358A70240A36672F8CE5CCD4B047DECE774470C06258E9",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第28条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L17-T0029",
+        "DeepSHA256": "083229AA4590A8A7E4E066919A20AC51FFDA5CF4345DC5C7CEFB96E0B05675CE",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第29条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L17-T0030",
+        "DeepSHA256": "04601B8226A489B57EBEAC761B9FD5E58618D384077494027AE03A224BC76E34",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第30条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L17-T0031",
+        "DeepSHA256": "483C842FFD1CE9232BE8E6575B0A5E0D61E559711B99159A05F04601DADF40B0",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第31条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L17-T0032",
+        "DeepSHA256": "DC5856AA268C27BD0FA0BB4446F031E112C3995A45B6B77E3C525E1496214154",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第32条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L17-T0033",
+        "DeepSHA256": "593BF817E61E3A8F8465858BB346321F75B347C15D87FE43F93433043C57B2A4",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第33条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L17-T0034",
+        "DeepSHA256": "CBF0B48DFA0BD9123A9B6430A05534D7684EA900824B57A4727C5D8CC7745430",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第34条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L17-T0035",
+        "DeepSHA256": "7C97FC97A658F198962ADEA538A260C7E49290C32BBEBD9274EDB66B880F205D",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第35条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L17-T0036",
+        "DeepSHA256": "BD39EE66B5925CEE5CE484281FA5639A0358E62A5085389DAFF5D6E1793F62A8",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第36条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L17-T0037",
+        "DeepSHA256": "67A07995E40910246561EA0BB21286AC7E952FC1E2DD7ECC43C79B11015CB8C7",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第37条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L17-T0038",
+        "DeepSHA256": "FCBF7423B5DCE27C7AB40BEA67137D453FF08E8F90B3CEE7E183BCEDB595D1FD",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第38条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L17-T0039",
+        "DeepSHA256": "626EF34CDA3C6C8166146400195D9EB7A72CC0538A61CDC89D08C1F026F5BD89",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第39条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L17-T0040",
+        "DeepSHA256": "0BD16097654E4A837775BE4053E96A02D9A0F73CD2BEF0230CBAE45081EC9F7E",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第40条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L17-T0041",
+        "DeepSHA256": "B92C43B82A17519CF1DE8E7A6DC44E9A19997B2AABEC6F50CF99C6D03A2E92BE",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第41条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L17-T0042",
+        "DeepSHA256": "4237911B8B4D4D1BD5605E109FD2F5DF9D515737F9CBBD93057AD377CF9BC7B3",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第42条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L17-T0043",
+        "DeepSHA256": "3A2B6978D0626B78424211F513E8FFD72FB346A1D7DA78A6C578A1BB1BC42231",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第43条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L17-T0044",
+        "DeepSHA256": "E629E1DB5CFF6B45BD51EB50F12374F9BE060CAC5EDA8803DBC496D16A75C6C0",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第44条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L17-T0045",
+        "DeepSHA256": "E8339FBB6CFA52DB2BD839600230233A596388C80040577E7752E8913D431AB3",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第45条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 390
+      },
+      {
+        "TaskId": "L17-T0046",
+        "DeepSHA256": "8C5CB565A36366956C3648A23FB33BFA676D69F43A2CFC0945F7C7307FE0D2AE",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第46条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 386
+      },
+      {
+        "TaskId": "L17-T0047",
+        "DeepSHA256": "667A4C73BCDC4B582A3D0F74DF846C35241CCF9B325DF1B11FAFBCD30122F3E0",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第47条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L17-T0048",
+        "DeepSHA256": "21911F45F78E2355F708EF2DFA9EFB622D01420E12626CD899BF6BECD5580A69",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第48条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L17-T0049",
+        "DeepSHA256": "A25F50E0748AE7F6C89ED61578C426B27FFC381CD9D8BDF6EE0864D016F2DAED",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第49条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L17-T0050",
+        "DeepSHA256": "E050F4B24BBD4B9C6EAEB9B590AAD18ABFA4A58A54DF2C1036D173BF5B6F0E0C",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第50条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 379
+      },
+      {
+        "TaskId": "L17-T0051",
+        "DeepSHA256": "E4C60079DBCEAD41D11710B49E82DEBD814C7FDF64860FA91DFF9FC0FF173015",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第51条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L17-T0052",
+        "DeepSHA256": "1619BEAF3539B8E7DF7647E55AF067C10CDB648B9F6447824B10AB4992203EE5",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第52条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 377
+      },
+      {
+        "TaskId": "L17-T0053",
+        "DeepSHA256": "38F727444FB057C54ECA48FD3F75D58A61F8C2AA57CE2C2D8584B20877465816",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第53条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 391
+      },
+      {
+        "TaskId": "L17-T0054",
+        "DeepSHA256": "2BF8801FEE89F6C66B1F6CECB9FC0E61D37EEBE1AA854D7E416A1636B3800073",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第54条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L17-T0055",
+        "DeepSHA256": "DF571B1FA33C8EA994361D5054E7D4C54B103880623E2830B0AEAF6A43FBF533",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第55条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L17-T0056",
+        "DeepSHA256": "E44DA524BA4FBC9E7AD12EB3408B4EE57FB7E45894B983A6BF9FC9F2C47450DA",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第56条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L17-T0057",
+        "DeepSHA256": "179431CF136675633FE281E33213F6EA62A004606FD1D896D1E34F56DFD073CA",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第57条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L17-T0058",
+        "DeepSHA256": "11F7EB8D3454111BBFFE351080FEE8056926C9E563E27782FCFFDD83A561D517",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第58条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L17-T0059",
+        "DeepSHA256": "395C4C95CC3DB2E5C02548384F94AC1137BF86B5AB5071747C19FF8BAD5C5F4C",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第59条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 382
+      },
+      {
+        "TaskId": "L17-T0060",
+        "DeepSHA256": "1543DD6948DE8550964173F7E3395B4845992EDE494E08868A03CD991423B059",
+        "OriginalTextSHA256": "337F3C5AB0F8D1C5231E8BF2629BAB89BD4890C57FFB504F3420F3EDD54BF516",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库17第60条",
+          "SRC024:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿；模型名为来源版本，接口支持待具体版本确认"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L18-T0001",
+        "DeepSHA256": "117989E5D30BCDE3D359565A3CEAAD36E8F711B341D30EC0272B14EEBAE12EDF",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第1条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 410
+      },
+      {
+        "TaskId": "L18-T0002",
+        "DeepSHA256": "4D819C9ACC903D8E1C87578484A08E5FC995CF68A913ADF380908F7820152D53",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第2条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L18-T0003",
+        "DeepSHA256": "1968D366FB2DB36C25358F5C67B20215765D2326069FCFED5AF660260D100642",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第3条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 394
+      },
+      {
+        "TaskId": "L18-T0004",
+        "DeepSHA256": "73AEDC0E2CEE03184329377F65347F38ECA48592CFE38715A1BDDE6034AF442F",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第4条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L18-T0005",
+        "DeepSHA256": "F715D5816F92EFC494FFA330CDD59F198A215F877CCE3FFFE9387974ADDEFFA3",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第5条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0006",
+        "DeepSHA256": "93668D02B97F9A78FC72EE7529345499B1BE520D7941D526B455C6821B1BFF18",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第6条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L18-T0007",
+        "DeepSHA256": "85CA895458EFE755F870306ED3F4FE733AA11E76ACC4C3F98410DF6A56C6E5F2",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第7条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L18-T0008",
+        "DeepSHA256": "52F527CC0B0DBAED86A556420CB22F8F197AE5050C996DA81BEA6575DEDB1361",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第8条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 379
+      },
+      {
+        "TaskId": "L18-T0009",
+        "DeepSHA256": "EE101EA52711C5BE77E1A7C5DEF9DE61128A61E8478BF8707AEA59F63E7267DF",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第9条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L18-T0010",
+        "DeepSHA256": "E9B5ECD2967091CB87820D4F5F762B0B5C1BBB077C777D08404310D99DDB320F",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第10条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 382
+      },
+      {
+        "TaskId": "L18-T0011",
+        "DeepSHA256": "E1F081F46B99A89D1CCDF5FEC9CCBEF49959948E6EE194D26EDCD11FE64A4B76",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第11条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 377
+      },
+      {
+        "TaskId": "L18-T0012",
+        "DeepSHA256": "BF6488C986BA8DBDF0F1AF75728F9A5244CE27B5C35291798C567143E783DE3E",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第12条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 370
+      },
+      {
+        "TaskId": "L18-T0013",
+        "DeepSHA256": "EC3E13030ABD58C143830EA99E2A4E77B0DF81B60F964CAAC88A0AAAFD366F40",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第13条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0014",
+        "DeepSHA256": "94C36B5F4BD0A6686C3CB7BCDAB34714461DB124157E12DA26B6676F439C95F5",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第14条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0015",
+        "DeepSHA256": "A3E5E0AB0E672B26EEC574770D615003CEA9C63FDE6B3A83F24316B5A2961846",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第15条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 375
+      },
+      {
+        "TaskId": "L18-T0016",
+        "DeepSHA256": "FBFC153507E3475222FAFCE7C80824064EFFB38DB16643DCF54B4E300E15B015",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第16条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L18-T0017",
+        "DeepSHA256": "BACC14028E2A183018964F823308EDFA02977D74CDA3EF3FB0A8F20A794F3573",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第17条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0018",
+        "DeepSHA256": "AECCCF776A66E5D0D81D9EC4366231651DEAC11A8F069A6F8B3F58BF45342BB4",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第18条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L18-T0019",
+        "DeepSHA256": "7A2AD33CAEEA57DBDC29655F3F4D693B0113E779383939603485A88E7F8DB9CA",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第19条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L18-T0020",
+        "DeepSHA256": "91D82FE11F126E5EBAB936D5175ACF2F8FF4A04AC68EB0F1026B0687570E479F",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第20条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L18-T0021",
+        "DeepSHA256": "29852D4A8C48898A48BA5512B5D489A3E4079CF6FB8FA917A8E6D09AB6925778",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第21条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0022",
+        "DeepSHA256": "B0A75D6A0319B474BE6A9CDDF620F7928544C3B98DFD274F2C7FBA72A4DA3302",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第22条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L18-T0023",
+        "DeepSHA256": "09894CB95B982CC473470F6F4D02C4222C0C28FB8C5A54456FEBA0E841C2B885",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第23条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L18-T0024",
+        "DeepSHA256": "96CA3679BD0F55222874B6CCA34BDE9B2B27548BD1781D68187EA5AA95ED13BD",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第24条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L18-T0025",
+        "DeepSHA256": "5EA26C2323A594152D0A54C006D6867AC519D5203FE07A0B95B9E00EFC62831A",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第25条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L18-T0026",
+        "DeepSHA256": "E45C1C458C7E9ED709D1486F8ED56980463B94BA66C1DA24876419D3D37587D6",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第26条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L18-T0027",
+        "DeepSHA256": "1FD5EFEBD126270A97F921C2BDD38EE1381DB9F4D5C48DD6068D0B2029ECC46D",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第27条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L18-T0028",
+        "DeepSHA256": "DE51DF562040B0B4A4012FC9165F83B85CC4DE969FDD6C727282198B7B81E332",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第28条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L18-T0029",
+        "DeepSHA256": "7F072C64AE266D3B12DF37FBCC9015C9C361DDB03EC63C5450A730D70BAC7611",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第29条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L18-T0030",
+        "DeepSHA256": "E426CA7BCB29F2216F198795FA9AE21F89163CC23A0CC6A16A64336A46F79173",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第30条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L18-T0031",
+        "DeepSHA256": "EC78422166768223F10F823C490B08F0992354777CD51CAD6D3BDD4CE0273C5C",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第31条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0032",
+        "DeepSHA256": "F8B3877DEBE52964267AB3DA38DE80DAF6078C79C5053844ADBCD271FAD3A6E3",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第32条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L18-T0033",
+        "DeepSHA256": "643FD88623C873C74586AD25C04642D29DE7E4E25C30786F5E14723BABBD895B",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第33条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 388
+      },
+      {
+        "TaskId": "L18-T0034",
+        "DeepSHA256": "8711282F4C550482D42DDA8FBF86073A05DBAFC15E6017EB51B5EE07660ED463",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第34条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L18-T0035",
+        "DeepSHA256": "594931A1600333A1241CF6C358C4584D0BE6422B53F7D25BBB9705B1D1E39E4D",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第35条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L18-T0036",
+        "DeepSHA256": "DB41ACE0AC64FC1E44CFAA81364D20810ECF73D79F71603396C45DD66F0F0C65",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第36条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0037",
+        "DeepSHA256": "503DB97F54CED56C0AD422210D05960E297AD119B597A194572B58A960C5C870",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第37条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 381
+      },
+      {
+        "TaskId": "L18-T0038",
+        "DeepSHA256": "77B8262779587293096AE77FC1320E2CD35A138AA90085CD018468928508AD42",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第38条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L18-T0039",
+        "DeepSHA256": "7352CA99EB3D7189607E67578B0E110CECED2F16F7FBC50CCCC7A52FECAFFCC0",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第39条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L18-T0040",
+        "DeepSHA256": "A225AA0EF6473F869DCEB54527EB7956076B829CFF9B8DE936E9BD1CCEB56C18",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第40条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0041",
+        "DeepSHA256": "7DE805826023271A0D07A27E68856BF4C041420C440CFE80144AAC106C96826B",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第41条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L18-T0042",
+        "DeepSHA256": "A746717FA680E4CADA5C9C0689D23C76432D13D87B6EABC0A56E152E49EEE87D",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第42条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L18-T0043",
+        "DeepSHA256": "BFDF142539E633F2A84632090758C205248073D1E91E3515922E1A5DA2B62F87",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第43条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0044",
+        "DeepSHA256": "13395680E90DC1052FCEEB27708C92AEF89682B43AEC752F1129214880B75F03",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第44条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L18-T0045",
+        "DeepSHA256": "4EC08EA3B965CA4BEE43EF131A99C343A11B1EBB5FE80AB9554FF6F63228AF8C",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第45条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L18-T0046",
+        "DeepSHA256": "DCC9B3050472FC489857813E48B55CA2B8876509AFDCE5D113DCCB894336730D",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第46条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L18-T0047",
+        "DeepSHA256": "A06357C2A0ACCF1532D6613205D2EDE509F56F31389C912B443437845313882A",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第47条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0048",
+        "DeepSHA256": "E26C90792AD5E34F3E1AD42275191FCF35CD7DB25D640A6D7A7885B10273D453",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第48条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 376
+      },
+      {
+        "TaskId": "L18-T0049",
+        "DeepSHA256": "C03E387AF4F198F9FC7AAFD2BA2502B13895716847927B499E186F8D908C0F62",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第49条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L18-T0050",
+        "DeepSHA256": "BC11E6E078A80F8DC349A57C37A34B89A403117D03C891F1E6DE9D59DA70A655",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第50条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L18-T0051",
+        "DeepSHA256": "1BB3A9AD9A8A45F3A71A04E786A3129C10EE50E87ABC62BA8363B424EA4F6065",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第51条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0052",
+        "DeepSHA256": "3CF1CD4B1138A4E3A0891492D129689E0BB331E59013A67D632FF693E3A3FB8E",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第52条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L18-T0053",
+        "DeepSHA256": "745BBE39F06AC2C82056A413AF8A826019091BEB8EE79FDE3F4BB09A84CF08D6",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第53条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 373
+      },
+      {
+        "TaskId": "L18-T0054",
+        "DeepSHA256": "84CC7A655CF5E6CD1B1AC7D3D69C825EBE729DB452F49DD9B60FB6813BE37653",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第54条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L18-T0055",
+        "DeepSHA256": "2CCFC70051F259506AB39AEBFB9F07D74856B5FA8B55C10C64A515B852AADB8D",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第55条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0056",
+        "DeepSHA256": "E97906D304EBB5CB4252B45BDD39568FCB26E35D6B809CAF1848DDA63BD6C25B",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第56条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L18-T0057",
+        "DeepSHA256": "2A92E5FAC3583254BB0F0BDEEC87A9B0A4029AD8E2F16411DFF274245D3EB53F",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第57条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L18-T0058",
+        "DeepSHA256": "FAD6D0E88EC04AC74DEAB8B652588E61B418D7273A134D9B20FD45BC6A95995E",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第58条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L18-T0059",
+        "DeepSHA256": "ECCDB1A61A48045642F36127001EEF3C41765AA38C852B37F5086A7557425CC0",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第59条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L18-T0060",
+        "DeepSHA256": "428C5CA1178AFA1DE506AAC62B86A529E81B85D368961754D3628E229142F1A7",
+        "OriginalTextSHA256": "1B226D7237C7FF7A167F40DFC9C037B3FC4C98E324654FB6718ECFF95BE49770",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库18第60条",
+          "SRC021:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H023只采用新增开篇及A节输入解析/事件卡方法；场面调度及其余追加未纳入全文审核"
+        ],
+        "Characters": 377
+      },
+      {
+        "TaskId": "L19-T0001",
+        "DeepSHA256": "D922845B3EE91904E72D67CCD87D1759B538A97940D28E1774B9244D0AB5CCFC",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第1条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L19-T0002",
+        "DeepSHA256": "A64D5B0434AAC5185B1683ADF5F7E6C592DCB634A98D5F8B578DE0EF11C9FFF6",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第2条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L19-T0003",
+        "DeepSHA256": "4F0F5935997C25BA32274256C1DD158702163D0C58726EB52A3802E84ABCA3A6",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第3条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L19-T0004",
+        "DeepSHA256": "EB950F7733DE49FCFEE4753EE37ACEDF364E73A4F635E908C6F03082A100F940",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第4条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L19-T0005",
+        "DeepSHA256": "BD334D443E556BE5FE3026CCF67EB8B014BD82671149457B78CC5103C0437A52",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第5条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 352
+      },
+      {
+        "TaskId": "L19-T0006",
+        "DeepSHA256": "890CEC6611EBD09E09FEF991F825AD56FF6D36DD6C3912B92AD10FAE4BD5BF45",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第6条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 342
+      },
+      {
+        "TaskId": "L19-T0007",
+        "DeepSHA256": "6434025D40C8421439A27EFF13BDD7DC617B342D4A9A4B08AA61D78F5D9DE2B5",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第7条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0008",
+        "DeepSHA256": "90DEDFA21DE8912523BF6153764217177492D882530B7534842DA57A28F4E50B",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第8条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 361
+      },
+      {
+        "TaskId": "L19-T0009",
+        "DeepSHA256": "2065E66AEAC4D315B3B719C6186EDD98382B52B830042BC2F15EF52871787E9B",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第9条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L19-T0010",
+        "DeepSHA256": "A58EC0F9A67111E45638EC52BCFA6D4E6435CA9E85D040453E226273C17EB85D",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第10条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L19-T0011",
+        "DeepSHA256": "83A6DE18CCCD611548515336FA0772109006188F6EE3AAFCBF3E25825D10CF5E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第11条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L19-T0012",
+        "DeepSHA256": "1927ACC640A485198EF6D12CA1B541A647584F564A8708241ED683A90DAD592F",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第12条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0013",
+        "DeepSHA256": "30B7C156638788B500395FF26E974399D7D90350FC3CD55329F0FC69E0E2A671",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第13条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L19-T0014",
+        "DeepSHA256": "A96B2688FDB4932A6963FC5AED3E8E70081988F0B94B00A27F16591FA8E4F72E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第14条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 353
+      },
+      {
+        "TaskId": "L19-T0015",
+        "DeepSHA256": "22D90104112D5B4B06942C6238125890E4C2183F123C65A624C647F3C1286EB0",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第15条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L19-T0016",
+        "DeepSHA256": "CDA46CD8E818364CD453F87EDDE17AA8CFCCD8506105E29F28D7117D084EE3D6",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第16条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L19-T0017",
+        "DeepSHA256": "E9AD81C8B22D52CC20CEA80FB5209B36AD214A7C4FF78E850FE586131B93C2E8",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第17条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L19-T0018",
+        "DeepSHA256": "F2E0EDB836AE730A1622D1C816C3711BD98798770B55CA3D9AC9A320510322F2",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第18条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L19-T0019",
+        "DeepSHA256": "829DE474BA770B4526189380C3041B7B3BCF5C2A7A08785339D5F6B0D27651A5",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第19条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0020",
+        "DeepSHA256": "A28ECF84192506A9B4DF048A6BDCC2A03AE1F0D49E4BAC7557DCE18A0E4A4A9A",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第20条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L19-T0021",
+        "DeepSHA256": "A07F90A2D5E17DB1CA8BBC0FE5E0386BA165B9D320A45606183FD69491C0F8EF",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第21条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L19-T0022",
+        "DeepSHA256": "3B7A1FAB9858CCCAB4EBA67CB0154EA8F39D255D098DBA3B5F5097101C87FAD3",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第22条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0023",
+        "DeepSHA256": "AFA0B2B9B5CEF0E0AB01FD1BA0522486C944A96585A225C8EC0668ED83D69AB8",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第23条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L19-T0024",
+        "DeepSHA256": "7F4E4734CF19F15E174B783EB8AEE8F99BB47B0B406D0E9754FA1FD607042B14",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第24条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 375
+      },
+      {
+        "TaskId": "L19-T0025",
+        "DeepSHA256": "80FD7EE9DB279316DF7997A2DBF85A51950A25BD8DCA7BD60572B1AE98FBDB5F",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第25条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L19-T0026",
+        "DeepSHA256": "09541DF3AF8116F27E08E02267660BB9D79924385A92ACE2BE8D1761475B6402",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第26条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L19-T0027",
+        "DeepSHA256": "7F620EB6F5908FC762EDA58EEFB31C3318CE0540B7E34FC5EE54123964CE3C86",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第27条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L19-T0028",
+        "DeepSHA256": "2300E43D7B3569FFEF5F3E91EDF760C387E3EC733D0E7C2D24A117E805B3CD8A",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第28条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L19-T0029",
+        "DeepSHA256": "2A56C2A31566D60A69B3254C59637BE5B32B3C6B38A26F2A6588A689C1ED2F78",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第29条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 358
+      },
+      {
+        "TaskId": "L19-T0030",
+        "DeepSHA256": "0AC48523DFAAD992809B03D464FDDF6765B43B0CE40543AFF706C71CD46F61C6",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第30条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L19-T0031",
+        "DeepSHA256": "6B3E74942D13BC3B1C8FC6FB739D6D2205013D0E56BBEA01420C7E2F6B5E43D4",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第31条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 357
+      },
+      {
+        "TaskId": "L19-T0032",
+        "DeepSHA256": "73E59F47DEA235BAECC926A953BD1C4098BA8121397C98C9123494DBB8AB59EF",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第32条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L19-T0033",
+        "DeepSHA256": "0F0E3FF3A3A27EBB0CD93652BAA34D66854E551B957E0BBF897B687BD9C46B58",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第33条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 376
+      },
+      {
+        "TaskId": "L19-T0034",
+        "DeepSHA256": "AB5CEAFBD41B84091848CA115C82CB9543AC077FF2333ED48E6CA5145CEC8722",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第34条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L19-T0035",
+        "DeepSHA256": "2492210801A91EDDDAD6986E0CD0F9BA49654AC20BD523EB83C4A4DA88351C2D",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第35条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L19-T0036",
+        "DeepSHA256": "695CACC652933CD5FF48175A7879A20FD779D357E962B47D57ACBA0E1EB036AD",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第36条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L19-T0037",
+        "DeepSHA256": "0B3051952BF4ADB69F6EA8A864F2E4EDFF6E3275AB634F79AC48B1C95DE1971E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第37条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L19-T0038",
+        "DeepSHA256": "CFDEF59529D87B27B6C1798D065FEC7F4A161C54C8052EF73E57B8E1675CFCAC",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第38条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L19-T0039",
+        "DeepSHA256": "A6F8C91EDC0E43DFB8B17D97DEEE32E303B99E88EE0F124A83271EAC5B5A580E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第39条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L19-T0040",
+        "DeepSHA256": "F3B72675E3F1203B34AD2B76BD513E42DABAE08A02924BE450F404B595EA5869",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第40条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L19-T0041",
+        "DeepSHA256": "3F46C11FC6976CA00601846F3DA482F803F1931D54A7A25A1C34BB166C16BF7A",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第41条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 354
+      },
+      {
+        "TaskId": "L19-T0042",
+        "DeepSHA256": "4231538C6F6A4D83145B63E42C5B8CF760D635CF1061CCD0D52D04063729EAE7",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第42条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 356
+      },
+      {
+        "TaskId": "L19-T0043",
+        "DeepSHA256": "E6C9A74D40D13A73C085AC4032A3AE6795E0E9ACA494C92CDAB31DDBE940E5E8",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第43条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L19-T0044",
+        "DeepSHA256": "FD034ADD6A93C8D0A24903E348B943302D21DE66B69C41A77E918A008C8E2953",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第44条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L19-T0045",
+        "DeepSHA256": "DDB61C7434A059EFE4B8E9D17512518E61F531247FA3AC8BCD99FA22276F5F8D",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第45条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 367
+      },
+      {
+        "TaskId": "L19-T0046",
+        "DeepSHA256": "3D52D7469C86A6CC9D98BE880CBBDD83B38E6A324E2E16BA33B008389DA08E3D",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第46条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0047",
+        "DeepSHA256": "6AE67046999A32B3076FE6CE370E166AD8F37B23EAEA640E843ED8C00B825EC9",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第47条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 366
+      },
+      {
+        "TaskId": "L19-T0048",
+        "DeepSHA256": "9EDA7CD9243305D643AC2A84C163D82D933795FAAABD250F30E70CFB97F7AE11",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第48条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L19-T0049",
+        "DeepSHA256": "8C03F6292B1E50AAD8188B1ADD3FC2C3CE0E8FD64C0FB0CC28D82326836B966C",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第49条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L19-T0050",
+        "DeepSHA256": "14BAB912378E0AE4D4067E4B717B35CACF8E69E65B26CD927D342AC23E375C72",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第50条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L19-T0051",
+        "DeepSHA256": "3D82EF87AAADE6E3B73E89D30BB20E001E5BFA30DC554C108959F575DAF700F7",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第51条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 375
+      },
+      {
+        "TaskId": "L19-T0052",
+        "DeepSHA256": "C36053C9ED574ECE721EFCC4B05E7B270594586C4DE86CF779DD89A6FA5FB46E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第52条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0053",
+        "DeepSHA256": "E83BF16B5CF4186DD226639B768F1B44D50440F55FAF1C0AECC846ABF595DA32",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第53条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 359
+      },
+      {
+        "TaskId": "L19-T0054",
+        "DeepSHA256": "AA9D5F22261F557C4FD6436729265224A2E48E89E5A7154BFEA7E8C8D09D47E9",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第54条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L19-T0055",
+        "DeepSHA256": "9F700554CCD2C113DDD68ABF0DF3DBF1E8AE2A208336B13C09459B3BCE677430",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第55条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0056",
+        "DeepSHA256": "FC749EF46EF59F3E854E215A11FAEB54D4247624084164870655D65799548E0F",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第56条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L19-T0057",
+        "DeepSHA256": "96585A360941FE3E3A501062B7D9026EF2D042EAA66EE3C295063613B8C12F14",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第57条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 378
+      },
+      {
+        "TaskId": "L19-T0058",
+        "DeepSHA256": "6517C60E83421D495896DC4E2699976822B2D0733095F4EAA943F2232CC3D56A",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第58条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L19-T0059",
+        "DeepSHA256": "B451DF36664EED0D87221455AC7FF2FD42439A852828EBB55D368CA69D0E74E7",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第59条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0060",
+        "DeepSHA256": "846B19A0FB182B97D27921310519EFE6ECD0B196E657E903655406C28A42D0F7",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第60条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 360
+      },
+      {
+        "TaskId": "L19-T0061",
+        "DeepSHA256": "52C87ACEF4D199600B29EC873568DD551B0B437FF9001EC86A152D25906B61AB",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第61条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 362
+      },
+      {
+        "TaskId": "L19-T0062",
+        "DeepSHA256": "9DE4CAB061DC09124A02EA809D31D416EEFFFB69623E4CAC8FFE531EEBF690E0",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第62条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 376
+      },
+      {
+        "TaskId": "L19-T0063",
+        "DeepSHA256": "A67C5A4BA3F687A93049ECE03157EBD332AEB9A65C3082B0C4C58175B9066F8E",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第63条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L19-T0064",
+        "DeepSHA256": "96B6F172C5EC6DA43A631F08CA8C1147B38DE3A5F0A05F1EAB9A4A068F7F14B2",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第64条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L19-T0065",
+        "DeepSHA256": "3461B53E8B713929CD9CE1F1ADAEF15DC879470D3409A1C748C2FE615B6FDDC3",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第65条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 355
+      },
+      {
+        "TaskId": "L19-T0066",
+        "DeepSHA256": "4A78BC0CF7AFA6BD7767150B3A5E05DA5763C96691B801A28112AFF3407B1BA5",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第66条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L19-T0067",
+        "DeepSHA256": "10289C4190B103D377D8073BBDB31510262FF77EDECF4B90422561C6BFA64C62",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第67条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0068",
+        "DeepSHA256": "C6739C6C94DEDF72C60CEC68289B8EB67C523AE53FEA3E5A5ADE780FE7A38384",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第68条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 363
+      },
+      {
+        "TaskId": "L19-T0069",
+        "DeepSHA256": "DF2F146BF60032FE92B27512F6BD6980E1AAC9D9706C7FBAF616EA95596A5045",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第69条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 365
+      },
+      {
+        "TaskId": "L19-T0070",
+        "DeepSHA256": "1C73B0F2CEA159DE75E0C7027F698A5DA53E1BE66B48563BAADDA23DC4F15441",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第70条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0071",
+        "DeepSHA256": "336960A3C409B5E8367B7F2EADE6E057B1263AA69A909300939D0172BCDE49B4",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第71条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L19-T0072",
+        "DeepSHA256": "2A8B02FC7FA014702FC7D99DC46A2F94A47152A0A02335883980613A49F2FB8C",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第72条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 371
+      },
+      {
+        "TaskId": "L19-T0073",
+        "DeepSHA256": "058FFA5664A34F9B19BA7CE935E27D14E3E48CEECE77537521A2DCD614BD84E6",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第73条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 369
+      },
+      {
+        "TaskId": "L19-T0074",
+        "DeepSHA256": "56696655BB655A5AA8183C19DD9377EEA2DC863EEA7C9E1039363F7AC11C3411",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第74条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 364
+      },
+      {
+        "TaskId": "L19-T0075",
+        "DeepSHA256": "ECDE64D52EB5438D2FE77A47A03E086E2B35E458A9A1AD42E0F58BCBC9D5F133",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第75条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 372
+      },
+      {
+        "TaskId": "L19-T0076",
+        "DeepSHA256": "67D7B137773C6EF77CBB765127BBE49FF129BDDFFD3847E04EADD59B8931107A",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第76条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 368
+      },
+      {
+        "TaskId": "L19-T0077",
+        "DeepSHA256": "3F15433E52A6022EDEC8ACF265193CC2EA9413ABDCAA91DB46A56B67621086C2",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第77条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 385
+      },
+      {
+        "TaskId": "L19-T0078",
+        "DeepSHA256": "411689B053EAF2A71440DBC0CF85B4477039789609A5A1C406A1449E75524582",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第78条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 378
+      },
+      {
+        "TaskId": "L19-T0079",
+        "DeepSHA256": "C4451A0E563F30D9353974F3266708C31FFA39668F3A68CF41D1C8D0803E8B97",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第79条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 376
+      },
+      {
+        "TaskId": "L19-T0080",
+        "DeepSHA256": "60A5361B77C11E086BB5E0E7A3793CF650682C85A6A85BB0CFE85C422239D67D",
+        "OriginalTextSHA256": "1426EC1DB3BADB7CEB7EB2B6D447EDFEEF731D87AD361CD5ADF8B3ECE0F6D30C",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库19第80条",
+          "SRC018、SRC028:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "H010只采用新增开篇及使用前统一规则；其余历史追加未纳入全文审核"
+        ],
+        "Characters": 374
+      },
+      {
+        "TaskId": "L20-T0001",
+        "DeepSHA256": "496665E5B2117F7206AD0ABA2743F17DB667DB64036BECBB368E4B90BDAFD086",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第1条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 335
+      },
+      {
+        "TaskId": "L20-T0002",
+        "DeepSHA256": "C3C420B93F1647104A65BD575BDA57694A0C8B66B0E9DC716E9C1CE30DE5C73C",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第2条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 327
+      },
+      {
+        "TaskId": "L20-T0003",
+        "DeepSHA256": "1D3DC725E4558E6EF6711EB7DE41EF0AA0AFB23C97DCDD0C7D1F07B0433278DD",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第3条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 336
+      },
+      {
+        "TaskId": "L20-T0004",
+        "DeepSHA256": "07DAABB7B6DB26FEBB740FE184D05F1078331C37093445B1C74CCE0C0C4EAF18",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第4条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 326
+      },
+      {
+        "TaskId": "L20-T0005",
+        "DeepSHA256": "19C7D384E9D9AF26768083AD2E611F2E2E91781FEA85118FD96D14C8F69450C3",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第5条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 332
+      },
+      {
+        "TaskId": "L20-T0006",
+        "DeepSHA256": "BDC0A74EAA68A0557E2962A56A9090A6C57B3FC0372DF7B7395F447E635E11B7",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第6条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 344
+      },
+      {
+        "TaskId": "L20-T0007",
+        "DeepSHA256": "CA60B2FD819833D612646C3C2D7CFD6AE1E65AE3E4FAC2090DC3A1C2878A6CE4",
+        "OriginalTextSHA256": "E8C14A62E481696D0783E465BA80BCF36B8616B5BF3440B2073A68750E48F3CB",
+        "Review": "docs/深度扩写审查_P02-N01_334条.md",
+        "SingleSectionRetrievalPassed": true,
+        "SourceReferences": [
+          "SRC022:库20第7条",
+          "SRC005:同编号独立版字段对读",
+          "SRC045:本范围字段对读一致",
+          "无本点采用的同编号历史稿"
+        ],
+        "Characters": 336
+      }
+    ],
+    "AuditMethod": "所有1396单段实际CLI读取及来源/审查/哈希核验；334新段实际文本AI自审，前文承接既有审查"
+  }
+}

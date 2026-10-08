@@ -1,0 +1,7 @@
+{
+  "root": "references/knowledge_base",
+  "working": "91_创作小秘工作库",
+  "index": "91_创作小秘工作库/00_全量检索索引.json",
+  "original_index": "00_语言库检索索引.json",
+  "navigation": "00_分类导航.md"
+}

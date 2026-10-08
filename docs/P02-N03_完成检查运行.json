@@ -1,0 +1,67 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P02-N03",
+  "StageId": "P02",
+  "Checks": [
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python tools/refresh_index.py --dry-run",
+      "chunk_id": "e97674",
+      "wall_time_seconds": 2.05e-05,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python tools/check_project.py",
+      "chunk_id": "9df03d",
+      "wall_time_seconds": 3.17e-05,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 2062,\r\n  \"DeepSelfReviewedTasksWithRecords\": 2062,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python -m unittest discover -s tests -v",
+      "chunk_id": "98d8db",
+      "wall_time_seconds": 1.04e-05,
+      "original_token_count": 28,
+      "output": "test_copy_dry_run_refusal_and_backup (test_deployment.DeploymentTests.test_copy_dry_run_refusal_and_backup) ... ok\r\ntest_link_uses_single_live_source (test_deployment.DeploymentTests.test_link_uses_single_live_source) ... ok\r\ntest_all_fifteen_domains_route_and_read (test_library_lookup.LookupTests.test_all_fifteen_domains_route_and_read) ... ok\r\ntest_bad_paths_and_arguments_rejected (test_library_lookup.LookupTests.test_bad_paths_and_arguments_rejected) ... ok\r\ntest_corrupted_deep_offset_is_rejected_even_if_document_hash_matches (test_library_lookup.LookupTests.test_corrupted_deep_offset_is_rejected_even_if_document_hash_matches) ... ok\r\ntest_deep_lookup_returns_full_single_section_and_keeps_original (test_library_lookup.LookupTests.test_deep_lookup_returns_full_single_section_and_keeps_original) ... ok\r\ntest_fallback_for_unrecognized_request (test_library_lookup.LookupTests.test_fallback_for_unrecognized_request) ... ok\r\ntest_missing_index_and_stale_offset_are_explicit (test_library_lookup.LookupTests.test_missing_index_and_stale_offset_are_explicit) ... ok\r\ntest_targeted_content_search (test_library_lookup.LookupTests.test_targeted_content_search) ... ok\r\ntest_terms_really_read_original_content (test_library_lookup.LookupTests.test_terms_really_read_original_content) ... ok\r\ntest_unwritten_deep_topic_is_not_reported_as_finished (test_library_lookup.LookupTests.test_unwritten_deep_topic_is_not_reported_as_finished) ... ok\r\ntest_git_does_not_normalize_literal_source_newlines (test_portability.PortabilityTests.test_git_does_not_normalize_literal_source_newlines) ... ok\r\ntest_independent_skill_copy_and_unrelated_working_directory (test_portability.PortabilityTests.test_independent_skill_copy_and_unrelated_working_directory) ... ok\r\ntest_refresh_preserves_baseline_and_rejects_source_tampering (test_portability.PortabilityTests.test_refresh_preserves_baseline_and_rejects_source_tampering) ... ok\r\n\r\n----------------------------------------------------------------------\r\nRan 14 tests in 11.691s\r\n\r\nOK\r\n",
+      "exit_code": 0
+    },
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python .local/P02-N03_全点与阶段验证.py",
+      "chunk_id": "54a76a",
+      "wall_time_seconds": 9.3e-06,
+      "original_token_count": 242,
+      "output": "已检索与核验333/2062\r\n已检索与核验666/2062\r\n已检索与核验999/2062\r\n已检索与核验1332/2062\r\n已检索与核验1665/2062\r\n已检索与核验1998/2062\r\n{\r\n  \"TaskPointId\": \"P02-N03\",\r\n  \"Passed\": 2062,\r\n  \"DirectDeepReads\": 2062,\r\n  \"NewCompleteExamples\": 333,\r\n  \"PointResolved\": 333,\r\n  \"PointRemaining\": 0,\r\n  \"StageCoveragePassed\": 1000,\r\n  \"StageResolved\": 1000,\r\n  \"StageTarget\": 1000,\r\n  \"StageRemaining\": 0,\r\n  \"GlobalPending\": 1815,\r\n  \"NextPoint\": \"P03-N01\",\r\n  \"Next\": \"L31-T0042\",\r\n  \"MissingDeepNotMarkedComplete\": true,\r\n  \"OriginalBaselinesUnchanged\": true,\r\n  \"HistoricalFilesUnchanged\": true,\r\n  \"PriorReceiptsAndGitIndexUnchanged\": true,\r\n  \"PriorAcceptedStageUnchanged\": true,\r\n  \"PriorTwoTaskPointsUnchanged\": true,\r\n  \"CanonicalBytePrefixesPreserved\": true,\r\n  \"PreviousL25DeepTextsPreserved\": true,\r\n  \"FixedStageTargetsAndAtMostThreePoints\": true,\r\n  \"MathAuditCount\": 293,\r\n  \"PreservedManifestFiles\": 203,\r\n  \"CoverageReport\": \"docs/P02_阶段覆盖核验.json\",\r\n  \"ExternalGenerationPerformed\": false\r\n}\r\n",
+      "exit_code": 0
+    }
+  ],
+  "Scope": "实际命令输出：关闭前4项及关闭后3项全部通过；14测试、2062独立读取、333新项和阶段1000覆盖；未实际生成验证",
+  "PostClosureChecks": [
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python tools/refresh_index.py --dry-run",
+      "chunk_id": "c260c9",
+      "wall_time_seconds": 1.1215576,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python tools/check_project.py",
+      "chunk_id": "0afaca",
+      "wall_time_seconds": 2.4182119,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 2062,\r\n  \"DeepSelfReviewedTasksWithRecords\": 2062,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "$env:PYTHONIOENCODING='utf-8'; python .local/P02-N03_关闭后一致性.py",
+      "chunk_id": "0e581d",
+      "wall_time_seconds": 0.4241458,
+      "exit_code": 0,
+      "original_token_count": 101,
+      "output": "{\"Status\": \"passed\", \"PointComplete\": true, \"Resolved\": 333, \"Global\": 2062, \"Pending\": 1815, \"P02StageAccepted\": 1000, \"StageCoverageEntries\": 1000, \"NextPointPlanned\": \"P03-N01\", \"NextPointTarget\": 334, \"NextTask\": \"L31-T0042\", \"OriginalAndPriorReceiptsAndGitIndexPreservedFiles\": 203, \"PriorP01AcceptanceAndP02N01N02Unchanged\": true, \"FullTaskComplete\": false, \"ExternalGenerationPerformed\": false}\r\n"
+    }
+  ],
+  "AllApplicableChecksPassed": true
+}

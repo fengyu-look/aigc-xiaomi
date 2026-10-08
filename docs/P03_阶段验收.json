@@ -1,0 +1,492 @@
+{
+  "Date": "2026-10-06",
+  "StageId": "P03",
+  "Status": "completed",
+  "PlannedCandidateCount": 1000,
+  "InventoryReviewedCandidates": 1000,
+  "IncludedAndWrittenAndAISelfReviewed": 999,
+  "ExcludedWithEvidence": 1,
+  "ExcludedTaskIds": [
+    "L38-T0003"
+  ],
+  "RemainingCandidates": 0,
+  "FirstTaskId": "L31-T0042",
+  "LastTaskId": "L46-T0047",
+  "TaskPoints": [
+    {
+      "TaskPointId": "P03-N01",
+      "Status": "completed",
+      "Target": 334,
+      "Written": 334,
+      "Excluded": 0,
+      "Resolved": 334,
+      "Report": "docs/P03-N01_完成与检查.json"
+    },
+    {
+      "TaskPointId": "P03-N02",
+      "Status": "completed",
+      "Target": 333,
+      "Written": 332,
+      "Excluded": 1,
+      "Resolved": 333,
+      "Report": "docs/P03-N02_完成与检查.json"
+    },
+    {
+      "TaskPointId": "P03-N03",
+      "Status": "completed",
+      "Target": 333,
+      "Written": 333,
+      "Excluded": 0,
+      "Resolved": 333,
+      "Report": "docs/P03-N03_完成与检查.json"
+    }
+  ],
+  "BaselineCompletedOutsideStages": 62,
+  "PreviouslyAcceptedP01P02": 2000,
+  "CurrentGlobalWrittenAndSelfReviewed": 3061,
+  "CurrentGlobalExcludedWithEvidence": 1,
+  "FourStageWritten": 2999,
+  "FourStageResolved": 3000,
+  "RemainingGlobalCandidates": 815,
+  "NextStageId": "P04",
+  "NextStageStatus": "planned",
+  "NextTaskPointId": "P04-N01",
+  "NextTaskPointStatus": "planned",
+  "NextPointTarget": 272,
+  "NextTaskId": "L46-T0048",
+  "NextTitle": "情感静默",
+  "NextPointLastTaskId": "L51-T0049",
+  "CoverageReport": "docs/P03_阶段覆盖核验.json",
+  "CoverageReportSHA256": "87A1262A81370400BD3E88B808DEFACA107B05F8A021217C31D8DE8D16E062CC",
+  "CoverageEntries": 1000,
+  "ActualSingleDeepReadsInStage": 999,
+  "ReviewDocuments": [
+    "docs/深度扩写审查_P03-N01_334条.md",
+    "docs/深度扩写审查_P03-N02_333候选.md",
+    "docs/深度扩写审查_P03-N03_333条.md"
+  ],
+  "ChecksReport": "docs/P03-N03_完成检查运行.json",
+  "PointMathChecksPassed": 241,
+  "StageMathChecksByPoint": {
+    "P03-N01": 182,
+    "P03-N02": 197,
+    "P03-N03": 241
+  },
+  "Criteria": [
+    {
+      "Criterion": "候选决定、来源/版本及历史采用可追溯",
+      "Result": "passed",
+      "Evidence": "1000逐项纳入/排除依据；SRC045缺失及H016175与当前340版本区别如实记录"
+    },
+    {
+      "Criterion": "所有纳入项独立写作、自审及参数边界",
+      "Result": "passed",
+      "Evidence": "999独立段与三个点审查；1小数说明误编号排除不算写作；本点333五块内容与241参数关系/范围核对"
+    },
+    {
+      "Criterion": "稳定ID检索、原文历史保留与哈希正确",
+      "Result": "passed",
+      "Evidence": "3061实际单段读取、阶段999覆盖；112原文块、60TXT、38历史及698引用保持"
+    },
+    {
+      "Criterion": "适用项目检查与测试通过",
+      "Result": "passed",
+      "Evidence": "零错误、14测试、dry-run无变化；七库尾条双层、排除无深度及下一未写提示通过"
+    },
+    {
+      "Criterion": "验收和下一断点保存",
+      "Result": "passed",
+      "Evidence": "P04-N01固定272 planned，全球815待办；第四第三点同点最终收尾，最多3任务点不变"
+    }
+  ],
+  "PriorP01P02AndP03N01N02ReceiptsUnchanged": true,
+  "PreservedManifestFiles": 223,
+  "SourcesStillRequiringWorkflowCompletion": [
+    {
+      "SourceId": "SRC001",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC002",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC003",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC004",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC005",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC006",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC007",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC008",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC009",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC010",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC011",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC012",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC013",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC014",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC015",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC016",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC017",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC018",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC019",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC020",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC021",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC022",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC023",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC024",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC025",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC026",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC027",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC028",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC029",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC030",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC031",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC032",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC033",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC034",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC035",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC036",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC037",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC038",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC039",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC040",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC041",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC042",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC043",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC044",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC045",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC046",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC047",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC048",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC049",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC050",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC051",
+      "Status": "pending"
+    }
+  ],
+  "HistoricalPromptsStillRequiringOverallCompletion": [
+    {
+      "HistoryId": "H001",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H002",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H003",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H004",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H005",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H006",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H007",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H008",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H009",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H010",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H011",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H012",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H013",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H014",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H015",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H016",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H017",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H018",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H019",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H020",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H021",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H022",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H023",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H024",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H025",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H026",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H027",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H028",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H029",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H030",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H031",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H032",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H033",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H034",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H035",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H036",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H037",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H038",
+      "Status": "partial_review"
+    }
+  ],
+  "SourceWorkflowStatuses": {
+    "pending": 22,
+    "partial_review": 29
+  },
+  "HistoricalOverallStatuses": {
+    "partial_review": 19,
+    "pending": 19
+  },
+  "ConsultationModuleCount": 15,
+  "FullTaskComplete": false,
+  "ExternalGenerationPerformed": false,
+  "Scope": "阶段1000编号候选的文本写作/AI自审、实际已读来源方法、检索与适用检查验收，不宣称独立人工科学校勘或素材/模型效果验证",
+  "PostClosureChecksReport": "docs/P03-N03_关闭检查运行.json",
+  "PostClosureChecks": [
+    {
+      "Command": "python tools/refresh_index.py --dry-run",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python tools/check_project.py",
+      "ExitCode": 0
+    },
+    {
+      "Command": "python .local/P03-N03_关闭后一致性.py",
+      "ExitCode": 0
+    }
+  ],
+  "PostClosureConsistencyPassed": true
+}

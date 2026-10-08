@@ -1,0 +1,178 @@
+{
+  "SourceId": "SRC002",
+  "ReviewedOriginalTopics": 60,
+  "ComparedOriginalFields": 240,
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC002-S001",
+      "Title": "版本、类别与原字段",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "独立60全文及四字段/8类与库21StableID原末19/21编号",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "992D103702AD13EE52792B2EE3E977FABF71BC07B8197E8EEA23A4CDFC1795A5",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S002",
+      "Title": "三项独立稿补充怎样复用",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "钢铁/铝材/黑铁三实质补充与三版式差异已实际阅读",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "97E3BFB189C1A4704DEC3D325411CB18FDCDD321B77B1E611D11D1C870CBC5B3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S003",
+      "Title": "按对象状态选择材质",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "板.6×.02×.4和(0,0,1.2)中心/干旧木身份",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "4673CD492C6946F0033603A0E735578A65C10606ACD0B5BCA7C82F0C81711EB7",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S004",
+      "Title": "纹理尺度与渲染参数",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "裂纹世界固定/毫米米换算/条件性PBR不伪接口",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0BF5A26252ABC12F16CAE704115C4655E4F1F2D634CE6D1C9F1B84D3FF88E2B3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S005",
+      "Title": "灯光、摄影与材质识别",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "东南相机规避主体遮挡、85mm与sensor初算不冒可见保证",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "E97A240A309486BB9400A89F6172B12800CF7F1D762A15030179D0FE5716D356",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S006",
+      "Title": "完整8秒触摸旧木板交接",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整8秒4窗/指尖表面而非骨心/初末空手/三声/板无损",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "B5BA34FFE86620ED05A5506D9E57F1B67E6B18948FC3107CBE3D3F09CB259D63",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S007",
+      "Title": "物理事实、幻想与感情标签分层",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "NASA暗物质与幻想分开/全息泡沫鳞片血色皮肤矿物边界",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "5FD9AC4C1999BEA3C09EEF43A4264B355EA0FC5BF9A90618A66A34E3B23674D3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC002-S008",
+      "Title": "实际文件、失败复核与素材输出",
+      "SourceId": "SRC002",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/材质质感库_原文与应用扩写.md",
+      "ActualReviewObservation": "5候选资产无文件、完整制作核对顺序、文本与媒体分状态",
+      "Review": "实际读原60及新增8段、不同字段文本自审，不依赖长度/文件存在",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "7F85BDFEC081DB93C6AB2DE6AAF97B24704DB30684A35C3C2C73A9D0D3AC9A7F",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "Review": "docs/P04-N03_SRC002_逐字段与工作流审查.md",
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Relationships": [
+    {
+      "Relation": "板厚与正面",
+      "Calculated": 0.01,
+      "DesignedExpected": 0.01,
+      "Consistent": true
+    },
+    {
+      "Relation": "板高上下边",
+      "Calculated": 0.3999999999999999,
+      "DesignedExpected": 0.4,
+      "Consistent": true
+    },
+    {
+      "Relation": "横划速度",
+      "Calculated": 0.05,
+      "DesignedExpected": 0.05,
+      "Consistent": true
+    },
+    {
+      "Relation": "近板速度",
+      "Calculated": 0.05,
+      "DesignedExpected": 0.05,
+      "Consistent": true
+    },
+    {
+      "Relation": "离板速度",
+      "Calculated": 0.1,
+      "DesignedExpected": 0.1,
+      "Consistent": true
+    },
+    {
+      "Relation": "裂宽毫米米",
+      "Calculated": 0.0005,
+      "DesignedExpected": 0.0005,
+      "Consistent": true
+    },
+    {
+      "Relation": "裂深毫米米",
+      "Calculated": 0.0002,
+      "DesignedExpected": 0.0002,
+      "Consistent": true
+    },
+    {
+      "Relation": "斜视中心距",
+      "Calculated": 1.4142135623730951,
+      "DesignedExpected": 1.4142135623730951,
+      "Consistent": true
+    },
+    {
+      "Relation": "候选中心视宽",
+      "Calculated": 0.5989610381815462,
+      "DesignedExpected": 0.5989610381815462,
+      "Consistent": true
+    },
+    {
+      "Relation": "4阶段帧数",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    }
+  ],
+  "Retrieval": "8实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_SRC002_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false
+}

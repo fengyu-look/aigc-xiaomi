@@ -1,0 +1,45 @@
+{
+  "LocalWholeActuallyRead": [
+    "SRC009全文28条112字段及应用层",
+    "SRC010全文20条80字段及应用层"
+  ],
+  "MergedPartialActuallyRead": [
+    "SRC022-L03/L04",
+    "SRC045第03/04章"
+  ],
+  "PrimaryReferences": [
+    {
+      "URL": "https://static.nikonusa.com/pdf/nikonschool/sun.pdf",
+      "ReadScope": "搜索可见光源大小/距离/相对大小段；PDF打开34页元数据，但正文find失败，未完整阅读",
+      "Used": "硬柔条件，未依此测得1cm阴影"
+    },
+    {
+      "URL": "https://www.usa.canon.com/pro/rf-lens-world/features/depth-of-field",
+      "ReadScope": "实际正文262–263",
+      "Used": "景深共同条件，非本例公式数值的外部背书"
+    },
+    {
+      "URL": "https://www.nikonimgsupport.com/na/NSG_article?articleNo=000047395&configured=1&lang=en_SG",
+      "ReadScope": "搜索可见机位/透视说明；直接抓取502",
+      "Used": "锁住机位的换焦不改变距离比例"
+    },
+    {
+      "URL": "https://www.arri.com/en/learn/camera-systems/frequently-asked-questions/alexa-sxt-faq",
+      "ReadScope": "搜索可见6:5/1.195与2倍2.39说明；直接打开受限",
+      "Used": "画面输出与挤压/裁切数学条件，非所有当前ARRI设备能力"
+    },
+    {
+      "URL": "https://tiffen.com/products/4-x-5-65-linear-polarizer-filter",
+      "ReadScope": "实际正文495–498",
+      "Used": "减少非金属偏振反光及线/圆偏振条件，未为实际机身选购或报告实测"
+    }
+  ],
+  "OwnDerivations": [
+    "点光E=Icosγ/r²，无遮挡无反弹理想照度",
+    "门矩形体射线求交与9个平面点阈值",
+    "无畸变针孔画角/投影",
+    "薄透镜容许弥散圈0.03mm设计预算"
+  ],
+  "Unverified": "真实灯谱、自然光时段/色温、荧光绿偏/烛火闪烁未逐项事实校勘；rig/肤质/完整网格/镜头实测/曝光/音频未测试",
+  "FullTaskComplete": false
+}

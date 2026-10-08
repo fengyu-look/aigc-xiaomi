@@ -1,0 +1,19 @@
+{
+  "HistoryId": "H034",
+  "SourceId": "SRC046",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 1172,
+  "HistoricalOriginalNonemptyLines": 1174,
+  "DifferenceLines": [
+    "--- SRC046原文\n",
+    "+++ H034原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    " 用AI生成商业广告的提示词",
+    "+2026-09-25",
+    "+阅读需要33分钟",
+    " 灵犀·Seedance2.5一键商业广告工厂V5.0"
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">AIGC小秘 — 让每一次创作都有依据</title><desc id="desc">一站式内容创作辅助Skill：15类创作入口，61个语言库，3876条深度文本。</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#171c41"/></linearGradient><linearGradient id="accent"><stop stop-color="#55e6d3"/><stop offset="1" stop-color="#8a85ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#6e66eb" stop-opacity=".24"/><stop offset="1" stop-color="#6e66eb" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="380" rx="24" fill="url(#bg)"/>
+<circle cx="1100" cy="110" r="250" fill="url(#glow)"/>
+<path d="M890 46H1218M890 104H1218M890 162H1218M890 220H1218M930 38V244M1002 38V244M1074 38V244M1146 38V244" stroke="#c6ccff" stroke-opacity=".07"/>
+<rect x="52" y="48" width="204" height="28" rx="14" fill="#55e6d3" fill-opacity=".12" stroke="#55e6d3" stroke-opacity=".3"/>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+<text x="68" y="67" fill="#80ede0" font-size="13" letter-spacing="2">CREATIVE ASSISTANT SKILL</text>
+<text x="52" y="147" fill="#fff" font-size="61" font-weight="700">AIGC小秘</text>
+<text x="53" y="190" fill="#cbd5ed" font-size="23">让每一次创作，都有依据与方向。</text>
+<text x="53" y="225" fill="#929fbd" font-size="16">先查库 · 再分析 · 定方案 · 按你的决定推进</text>
+<g transform="translate(887,68)"><rect width="302" height="171" rx="16" fill="#ffffff" fill-opacity=".035" stroke="#a7b5d7" stroke-opacity=".17"/>
+<path d="M28 47H272M28 81H272M28 115H272" stroke="#a7b5d7" stroke-opacity=".15"/>
+<text x="25" y="33" fill="#8b9bbd" font-size="12" letter-spacing="2">FROM IDEA TO CREATION</text>
+<text x="26" y="70" fill="#eef3ff" font-size="16">灵感</text><text x="113" y="70" fill="#eef3ff" font-size="16">知识</text><text x="210" y="70" fill="#eef3ff" font-size="16">方案</text>
+<path d="M65 63H94M153 63H187" stroke="url(#accent)" stroke-width="2"/>
+<text x="26" y="104" fill="#b1bbd5" font-size="13">剧本 · 图片 · 分镜 · 音乐</text>
+<text x="26" y="140" fill="#75e0d1" font-size="13">你决定方向，小秘补齐方法。</text></g>
+<path d="M52 265H1228" stroke="#a7b5d7" stroke-opacity=".17"/>
+<text x="53" y="311" fill="#fff" font-size="30" font-weight="700">15</text><text x="105" y="310" fill="#adb9d5" font-size="16">类创作入口</text>
+<text x="350" y="311" fill="#fff" font-size="30" font-weight="700">61</text><text x="405" y="310" fill="#adb9d5" font-size="16">个语言库</text>
+<text x="650" y="311" fill="#fff" font-size="30" font-weight="700">3876</text><text x="748" y="310" fill="#adb9d5" font-size="16">条深度文本</text>
+<rect x="1068" y="286" width="160" height="36" rx="18" fill="url(#accent)" fill-opacity=".14"/><text x="1096" y="310" fill="#a7deda" font-size="14">中文 · v1.0.0</text>
+</g></svg>

@@ -1,0 +1,166 @@
+{
+  "SourceIds": [
+    "SRC007"
+  ],
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC007-S001",
+      "Title": "先确定非人身份、字段来源与可见数量",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "四组80条/四字段不削减；第6狮鹫四足双翼一尾固定，9狼人和63狼族分开，九命不等于九尾",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "8FD7A64B18390C95B81D47AA1ABE2AC214629B394FE55BC15211177CD846C228",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S002",
+      "Title": "保留原数值，并把比例与版本歧义分开确认",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "所有原始体型/比例/数量列明；半人马约数和跳跃并列/或版本差异保留；12实际字段差异有判断",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "AFBE7EC8637790275DC430829371E6DA76B9143224211EE3BC373F0DE4DE5CB3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S003",
+      "Title": "统一世界坐标、足底接触与六肢绑定",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "根是躯干中心非足底；四髋/四足/两翼坐标和镜像轴分开，伸展预算不是rig验收",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "FDFAA0B40929CC4B419851B2500E8959635DB4ED65607C195B0054271486D19F",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S004",
+      "Title": "把后腿蹬地、翼根发力与最后离地排出时序",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "后腿1s、翼1.25s、后足最后接触2s/f48、四足首正间隙f49；升高和北移连续，不宣称现实飞行",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "FA7C9F3448EABB14D13545CB09CA7003D75C3A081F69DD1CF3185CD48522CF6C",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S005",
+      "Title": "收足、地面影子与机位须共享同一高度",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "收足t2/t3连续；标称腿距连续最大1.160210<1.4；翼影不是根影，1737标称点投影不代表全网格",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "6D543C780C48C09823C14B48052B32C10D2FBF347F54D82D1AD7D1DB5598855F",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S006",
+      "Title": "用声轨表达接触与翼动，不补出不存在的对象",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "三个实际声轨/七下扑窗口、t2后无步声、7–8淡出；声音无音乐且无吼叫",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1174FF9CC0D83E98D9219639BCD75470D2ECC70E5DB0AFE993EF54F13E8E598E",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S007",
+      "Title": "给出能够独立复制的完整起飞指令",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整复制例包含六肢/尺寸/四足/翼根/分段根路径/声轨/光影/机位/末态/失败禁止项",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "65068B5C277CACC59C1C7F19278B0A51CF91509F5DD782EC0AE91F667B106960",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC007-S008",
+      "Title": "审核末状态，并区分文本完成与外部作品效果",
+      "SourceId": "SRC007",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/非人角色库_原文与应用扩写.md",
+      "ActualReviewObservation": "逐时刻验收、三版来源、幻想与科技文化未核边界明确；末态无落地，独立内容/媒体待验收",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "3CE58F165B4FA8D05D3014AA251E96BD55A7419BF95FEC7FD45AAA902BEFF1CF",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Review": "docs/P04-N03_SRC007_逐步骤审查.md",
+  "Retrieval": "8实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_SRC007_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false,
+  "ContentManifest": {
+    "BatchLabel": "SRC007",
+    "ActualTextReviewCompleted": true,
+    "FullTaskComplete": false,
+    "Scope": "SRC00780条全文320字段及应用层实际读完，三版320字段比较，12差异人工判断；8个新增源执行步骤逐项自审。",
+    "ReviewConclusion": "六肢身份、后足先蹬、接触48/49、升高/位移连续、收足、翼周期、根影和末状态已明确。193帧边界1737标称点投影通过，仅限公式/文本；真实资产和生成待验收。",
+    "Sources": [
+      {
+        "SourceId": "SRC007",
+        "Draft": ".local/P04-N03_SRC007_工作流草稿.md",
+        "ActualReviewObservations": [
+          "四组80条/四字段不削减；第6狮鹫四足双翼一尾固定，9狼人和63狼族分开，九命不等于九尾",
+          "所有原始体型/比例/数量列明；半人马约数和跳跃并列/或版本差异保留；12实际字段差异有判断",
+          "根是躯干中心非足底；四髋/四足/两翼坐标和镜像轴分开，伸展预算不是rig验收",
+          "后腿1s、翼1.25s、后足最后接触2s/f48、四足首正间隙f49；升高和北移连续，不宣称现实飞行",
+          "收足t2/t3连续；标称腿距连续最大1.160210<1.4；翼影不是根影，1737标称点投影不代表全网格",
+          "三个实际声轨/七下扑窗口、t2后无步声、7–8淡出；声音无音乐且无吼叫",
+          "完整复制例包含六肢/尺寸/四足/翼根/分段根路径/声轨/光影/机位/末态/失败禁止项",
+          "逐时刻验收、三版来源、幻想与科技文化未核边界明确；末态无落地，独立内容/媒体待验收"
+        ],
+        "CompletedScope": "完整本地原文/应用层阅读与80条四字段版本比较，8步起飞文本工作流深化及自审/实际检索/工程检查",
+        "VersionComparison": "docs/P04-N03_SRC007_80条三版字段对读.json",
+        "Limitations": "幻想六肢/魔法托举设计；历史宗教神话及现实科技能力未逐项外部考证；未建rig/出图出片/音频。标称点数学不等同生成效果。"
+      }
+    ],
+    "PartialScopeUpdates": [
+      {
+        "SourceId": "SRC022",
+        "Scope": "本批只L15原文80条/320字段与SRC007对读；不代表合集其他章节全文完成"
+      },
+      {
+        "SourceId": "SRC045",
+        "Scope": "本批只第15章80条/320字段与SRC007对读；不代表整个35库合集完成"
+      }
+    ],
+    "ExpectedCumulativeSourcesAndSteps": [
+      12,
+      92
+    ],
+    "NextWork": "继续SRC008构图库完整原文、三版字段及具体构图流程；其余来源、38历史稿、15演练、旧3053语义复审持续推进，P04-N03仍进行中"
+  },
+  "Corrections": [
+    {
+      "Before": "最大腿距1.15m",
+      "After": "连续最大1.1602095809794881m；193边界抽样最大1.159837962962963m",
+      "Reason": "2–3s后足收起与根继续上升叠加，reach(u)=1.15+0.2u-u²+0.2u³，求导0.2-2u+0.6u²=0，不用端点冒充上界",
+      "ChangedScope": "新增S005及本批审查记录；原文不变"
+    }
+  ],
+  "CorrectionValidation": "S005实际单节CLI/112原文保留/项目零错误/14tests通过，见docs/P04-N03_SRC007_腿距修正检查.json"
+}

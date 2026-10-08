@@ -1,0 +1,165 @@
+{
+  "SourceIds": [
+    "SRC008"
+  ],
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC008-S001",
+      "Title": "先写信息优先级，再选择互相兼容的构图",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "八组64原条不删；闭门等待/读册叙事选2+40+8，居中/负空间/满幅不能混用",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "164A0CFA4539D294B9B627E0EE9FAF9ECEF54AB9E564F25BB5B005A766FF106B",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S002",
+      "Title": "把面积、身高、器官裁切和前后景口径拆开",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "面积mask与包围高度、盒面积3.75%不是人物mask；全部百分比列明口径，12%用远景专用非一般41",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "7BA8EDE50A7C5267B615A8CD43A16207A05C0A9C98B5D07ADB0C9C2DD6AA5DCF",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S003",
+      "Title": "保留地平线原句，并明确新增坐标纠错",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "39高低原位置相反保留，新v向下纠错；单位与角度/机高分开，无墙顶冒充地平线",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "FAD27C69794369730A5DBA515A07161604CDD5AD9F84B73E9F60B0BE3A99BB88",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S004",
+      "Title": "用针孔投影设计远景，同时说明镜头条件",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "针孔求解主镜头顶12/脚57/高45/躯干u35、门四角内；f8不代表全距离清晰，主源边界已列",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "3FDA95C64345CC8580A62A9679C2D8DC683DF56CED5182F9FED2E363C3D30538",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S005",
+      "Title": "插入镜头须继承道具、握持与知识状态",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "蓝册左手闭合、右手空；2s插入96–143与返回低头状态继承，册心80%与封面约81.254%另量",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "BA32292C4A222DA81AFD2CB4F8862740DA166F2DB07B262227A4FE9158DA030F",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S006",
+      "Title": "光线与声轨服务当前信息，不混用剪影和可读细节",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "非剪影需要青衣/蓝册/四字可读；一条低风贯穿切镜，未做门动作故无锁声脚步翻页声",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0C450D9412868E9085016F11DEEC9F69A2141C46C42B2193C853D61A7AEBD84B",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S007",
+      "Title": "可独立复制的三镜构图方案",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整三镜指令含对象、身体/道具状态、两机位、光源、帧窗、声轨与知识边界",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "770685F48DB7DAC9AECC315F5681034CCDDE77CC41F7D83916B415C28E6D577F",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC008-S008",
+      "Title": "核算、失败修正与跨镜继承分别留证",
+      "SourceId": "SRC008",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/构图语言库_原文与应用扩写.md",
+      "ActualReviewObservation": "20版本差异实际判断；192帧/像素/投影/透视比例核对；竖屏中心裁会丢门需重构图，未报实图通过",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "3D5FDBD409C34C7CB8CF1BFB1205F07FECB78C4610F90C71CC888BCCFC575981",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Review": "docs/P04-N03_SRC008_逐步骤审查.md",
+  "Retrieval": "8实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_SRC008_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false,
+  "ContentManifest": {
+    "BatchLabel": "SRC008",
+    "ActualTextReviewCompleted": true,
+    "FullTaskComplete": false,
+    "Scope": "64条全文及应用层、三版256字段实际对读；20差异语义判断、八步构图深化实际自审。",
+    "ReviewConclusion": "主体面积/高度/封面与中心平面分开，地平线原句冲突新增纠错；主镜远景12%头留白/45%身高及门点投影、三镜192帧与跨镜状态明确。无rig/图像mask/实图/真实镜头或音频验收。",
+    "Sources": [
+      {
+        "SourceId": "SRC008",
+        "Draft": ".local/P04-N03_SRC008_工作流草稿.md",
+        "ActualReviewObservations": [
+          "八组64原条不删；闭门等待/读册叙事选2+40+8，居中/负空间/满幅不能混用",
+          "面积mask与包围高度、盒面积3.75%不是人物mask；全部百分比列明口径，12%用远景专用非一般41",
+          "39高低原位置相反保留，新v向下纠错；单位与角度/机高分开，无墙顶冒充地平线",
+          "针孔求解主镜头顶12/脚57/高45/躯干u35、门四角内；f8不代表全距离清晰，主源边界已列",
+          "蓝册左手闭合、右手空；2s插入96–143与返回低头状态继承，册心80%与封面约81.254%另量",
+          "非剪影需要青衣/蓝册/四字可读；一条低风贯穿切镜，未做门动作故无锁声脚步翻页声",
+          "完整三镜指令含对象、身体/道具状态、两机位、光源、帧窗、声轨与知识边界",
+          "20版本差异实际判断；192帧/像素/投影/透视比例核对；竖屏中心裁会丢门需重构图，未报实图通过"
+        ],
+        "CompletedScope": "完整本地原文与应用层、三版256字段对读，八步构图工作流深化、自审/实际检索/工程验证",
+        "VersionComparison": "docs/P04-N03_SRC008_64条三版字段对读.json",
+        "Limitations": "仅标称点针孔投影和文本方案。没有实际图像mask、姿态遮挡、实拍近摄/景深/字形、rig或音频；Nikon只搜索可见段落未读完整网页。"
+      }
+    ],
+    "PartialScopeUpdates": [
+      {
+        "SourceId": "SRC022",
+        "Scope": "本批只L02原文64条256字段对读，不代表61库合集整体完成"
+      },
+      {
+        "SourceId": "SRC045",
+        "Scope": "本批只第2章64条256字段对读，不代表35库合集整体完成"
+      }
+    ],
+    "ExpectedCumulativeSourcesAndSteps": [
+      13,
+      100
+    ],
+    "NextWork": "继续SRC009光影/SRC010光学源全文、版本差异与具体布光镜头流程；剩余源/38历史/15演练/旧3053复审持续推进，P04-N03仍进行中",
+    "DraftCorrections": [
+      {
+        "Before": "门高2.2m/中心1.1m同时声称完整可见",
+        "After": "门高2.0m/中心1.0m，四角投影在画内",
+        "ActualFailingProjection_v": -0.028956558229700113,
+        "Reason": "t0静态门楣出画2.90%，接入前实际投影发现；调整原创设计门高，未改原文"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "AIGC创作小秘"
+  short_description: "依据本地语言库分析创作想法、提出方案与有理由的异议，协助你决定和推进各类内容创作"
+  default_prompt: "使用 $film-creation-library，依据我的想法和本地资料库帮我分析创作方向、提出方案；先与我讨论关键选择，再推进我指定的阶段。"
+policy:
+  allow_implicit_invocation: true

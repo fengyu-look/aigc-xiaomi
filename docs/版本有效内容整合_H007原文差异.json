@@ -1,0 +1,18 @@
+{
+  "HistoryId": "H007",
+  "SourceId": "SRC049",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 30,
+  "HistoricalOriginalNonemptyLines": 32,
+  "DifferenceLines": [
+    "--- SRC049原文\n",
+    "+++ H007原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    "-AI生成BGM/音乐提示词",
+    "+**AI生成BGM/背景音乐/歌曲提示词**",
+    "+2026-09-08",
+    "+阅读需要2分钟",
+    " #角色设定"
+  ],
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

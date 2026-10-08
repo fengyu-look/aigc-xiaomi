@@ -1,0 +1,8 @@
+# Literal source text and hashes must survive a Windows/Linux round trip.
+* -text
+*.py text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

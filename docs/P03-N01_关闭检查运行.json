@@ -1,0 +1,21 @@
+{
+  "TaskPointId": "P03-N01",
+  "Date": "2026-10-06",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "exit_code": 0,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "exit_code": 0,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 2396,\r\n  \"DeepSelfReviewedTasksWithRecords\": 2396,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python .local/P03-N01_关闭后一致性.py",
+      "exit_code": 0,
+      "output": "{\"Status\": \"passed\", \"PointComplete\": true, \"Resolved\": 334, \"Global\": 2396, \"Pending\": 1481, \"P03StageResolved\": 334, \"StageRemaining\": 666, \"NextPointPlanned\": \"P03-N02\", \"NextTask\": \"L36-T0138\", \"OriginalAndPriorReceiptsAndGitIndexPreservedFiles\": 212, \"PriorP01P02AcceptanceUnchanged\": true, \"FullTaskComplete\": false, \"ExternalGenerationPerformed\": false}\r\n"
+    }
+  ]
+}

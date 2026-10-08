@@ -1,0 +1,19 @@
+{
+  "HistoryId": "H009",
+  "SourceId": "SRC033",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 140,
+  "HistoricalOriginalNonemptyLines": 142,
+  "DifferenceLines": [
+    "--- SRC033原文\n",
+    "+++ H009原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    "-电商带货视频提示词",
+    "+AI生成电商带货视频的提示词（通用版）",
+    "+2026-09-13",
+    "+阅读需要13分钟",
+    " 【角色】"
+  ],
+  "FormattingNormalization": true,
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

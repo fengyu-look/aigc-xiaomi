@@ -1,0 +1,31 @@
+{
+  "Date": "2026-10-06",
+  "TaskPointId": "P03-N03",
+  "StageId": "P03",
+  "Checks": [
+    {
+      "cmd": "python tools/refresh_index.py --dry-run",
+      "chunk_id": "6a30c1",
+      "wall_time_seconds": 1.0099932,
+      "exit_code": 0,
+      "original_token_count": 33,
+      "output": "{\r\n  \"DryRun\": true,\r\n  \"ChangedDocuments\": [],\r\n  \"OriginalBaselinesChanged\": false,\r\n  \"DeepExpansionStatusChanged\": false\r\n}\r\n"
+    },
+    {
+      "cmd": "python tools/check_project.py",
+      "chunk_id": "31efd0",
+      "wall_time_seconds": 2.8478596,
+      "exit_code": 0,
+      "original_token_count": 178,
+      "output": "{\r\n  \"OriginalTXTFiles\": 60,\r\n  \"Coverage\": {\r\n    \"UniqueOriginalFiles\": 51,\r\n    \"LibraryChapters\": 61,\r\n    \"ConsultationModules\": 15,\r\n    \"HistoricalPrompts\": 38\r\n  },\r\n  \"LookupValidation\": {\r\n    \"CheckedOriginalBlocks\": 112,\r\n    \"Modes\": 15,\r\n    \"Libraries\": 61,\r\n    \"HistoricalPrompts\": 38,\r\n    \"CheckedLinks\": 698,\r\n    \"Errors\": [],\r\n    \"Warnings\": [],\r\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\r\n  },\r\n  \"DeepIndexedSections\": 3061,\r\n  \"DeepSelfReviewedTasksWithRecords\": 3061,\r\n  \"Errors\": [],\r\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\r\n}\r\n"
+    },
+    {
+      "cmd": "python .local/P03-N03_关闭后一致性.py",
+      "chunk_id": "ec21db",
+      "wall_time_seconds": 0.487743,
+      "exit_code": 0,
+      "original_token_count": 143,
+      "output": "{\"Status\": \"passed\", \"PointComplete\": true, \"Resolved\": 333, \"Written\": 333, \"ExcludedInPoint\": 0, \"GlobalWritten\": 3061, \"GlobalExcluded\": 1, \"Pending\": 815, \"P03StageAccepted\": 1000, \"P03StageWritten\": 999, \"P03StageExcluded\": 1, \"StageRemaining\": 0, \"FourStageResolved\": 3000, \"NextPointPlanned\": \"P04-N01\", \"NextPointTarget\": 272, \"NextTask\": \"L46-T0048\", \"OriginalAndPriorReceiptsAndGitIndexPreservedFiles\": 223, \"PriorP01P02AcceptanceAndP03N01N02Unchanged\": true, \"StageCoverageHashPassed\": true, \"FullTaskComplete\": false, \"ExternalGenerationPerformed\": false}\r\n"
+    }
+  ]
+}

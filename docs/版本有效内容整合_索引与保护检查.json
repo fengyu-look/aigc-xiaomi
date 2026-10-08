@@ -1,0 +1,210 @@
+{
+  "DryRun": {
+    "ExitCode": 0,
+    "Output": "{\n  \"DryRun\": true,\n  \"ChangedDocuments\": [\n    \"91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/GPT故事原文转影视剧本提示词_原文与应用扩写.md\"\n  ],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n",
+    "Stderr": ""
+  },
+  "Refresh": {
+    "ExitCode": 0,
+    "Output": "{\n  \"DryRun\": false,\n  \"ChangedDocuments\": [\n    \"91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/GPT故事原文转影视剧本提示词_原文与应用扩写.md\"\n  ],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n",
+    "Stderr": ""
+  },
+  "Protection": {
+    "HistoryFiles": 38,
+    "LibraryMDs": 61,
+    "PriorSourceSteps": 221,
+    "OriginalSourcePrefixesIntact": true,
+    "NewSectionRetrieval": [
+      {
+        "TaskId": "SRC003-S009",
+        "ReturnedSingleSection": true,
+        "SHA256": "4C536DE92E1C9589F02FF1502D8B46C44E6EAD1336B2FB859DB7D45874654506"
+      },
+      {
+        "TaskId": "SRC008-S009",
+        "ReturnedSingleSection": true,
+        "SHA256": "98E71BB03C5F1C8258CB1629F4342B43C6BF2EA2A3BFE7BA0B3ACDA7DEAA7DD3"
+      },
+      {
+        "TaskId": "SRC012-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "608098339B21539F21F5D12481E190EA6AA5BF5EC8E0DEE8B253DB12837F1003"
+      },
+      {
+        "TaskId": "SRC012-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "643CE860C6D14B982BF04F5DA6B6D4E43BD816777EFDC9C5D0C050CD32E4D15C"
+      },
+      {
+        "TaskId": "SRC012-S005",
+        "ReturnedSingleSection": true,
+        "SHA256": "000036EAFBE868E70EAA87F43FEC852BE161C9A875C642F2A94DF0FBEEE21A4F"
+      },
+      {
+        "TaskId": "SRC016-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "8007F030A8A2F6CFC11B7710427F646ACEB292B5205875800E4BB588CDF11049"
+      },
+      {
+        "TaskId": "SRC018-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "1BFA5FCCA9FDE0064F82A08221FD5D76BF2962BCDC040ECA76330E094DE6DA87"
+      },
+      {
+        "TaskId": "SRC020-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "B874DFE542B359B0B22A77FB8F418F0A3B47EC601E6FE120C788EA3D265258D3"
+      },
+      {
+        "TaskId": "SRC020-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "73C9C4803CCBFED9EA0B50B3B520B584396CA1433314B6F68CA67F380AC4C107"
+      },
+      {
+        "TaskId": "SRC021-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "4A712FCFB79B3E1D8E738B0037CCFD668F4D8D88485628707790B7C679C9E473"
+      },
+      {
+        "TaskId": "SRC023-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "AC3F0BC6481E75314E80D3C9727A1A39509F245BEC555A25ACFCD0D1799F8C26"
+      },
+      {
+        "TaskId": "SRC023-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "4FB0EC1320F2614D6AF337C9D5B0DD981C667B44AE14D4F4A1C28854E5ED64B9"
+      },
+      {
+        "TaskId": "SRC024-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "23EFE5F00C7AFBB443753D1BADE21F2A43FF9DBF296E5F46047AC2C4DCF5C5FB"
+      },
+      {
+        "TaskId": "SRC026-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "0592A1F886B012B0F4D56AECF190C645DB3E970C106CA77EAE06765C114F90BC"
+      },
+      {
+        "TaskId": "SRC029-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "5851687DD8D664D068F77936A60966F91316538052ECB94D137E992E23AD9C15"
+      },
+      {
+        "TaskId": "SRC030-S007",
+        "ReturnedSingleSection": true,
+        "SHA256": "87DF668CB0F809F136FEF4D72569909655376C7EEE23F7729689D0A531413D7A"
+      },
+      {
+        "TaskId": "SRC031-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "601546F90D9436662A58A6823B8B6924509D92B8A35EDACFAE8AA1148BD1B808"
+      },
+      {
+        "TaskId": "SRC032-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "66E112ED80FD388D230EEF65995182B8856AF28606EA33A5E6027D9E307A633A"
+      },
+      {
+        "TaskId": "SRC032-S005",
+        "ReturnedSingleSection": true,
+        "SHA256": "4335313FDF92B3FA040155A64277844424BB9051370751B8A9AE97DAF10EB5E6"
+      },
+      {
+        "TaskId": "SRC033-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "CB6F66A269FD0568CE5EB17E4C5E528A58BCB4C030AEFECD29DC74AAF874B4AE"
+      },
+      {
+        "TaskId": "SRC034-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "6F91DDDBF80D171E5BCF66981D513B1DB200220A05FAD329D506C7695446442F"
+      },
+      {
+        "TaskId": "SRC035-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "74990F8573CBA17BE815A505D5403D5B61FE308A3F602ABF0CB0D20F31B51972"
+      },
+      {
+        "TaskId": "SRC037-S007",
+        "ReturnedSingleSection": true,
+        "SHA256": "BDE5CCE25D649B8B4D2083555AC837C8602F8BC500A9AC091012A5088D0E1395"
+      },
+      {
+        "TaskId": "SRC039-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "AD6971E8E11546B656DC0CE9F77420F68F9D17FD97D9D9F069D373F785C2DCFF"
+      },
+      {
+        "TaskId": "SRC040-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "0D834C0B6757E7D8A7807712E03701E22A28DB59581798BB3F7B07811E22C655"
+      },
+      {
+        "TaskId": "SRC041-S005",
+        "ReturnedSingleSection": true,
+        "SHA256": "5BA63632F8C42D0937ABC688BC817A20D018C0DE44A2396C45CF16D7ACB5DA2E"
+      },
+      {
+        "TaskId": "SRC042-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "053301BDD0074B37BEC32A34E9BD8D46DA2CCB19AE7127F735C9A4FCABDBA6F1"
+      },
+      {
+        "TaskId": "SRC043-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "853B5AD3988857D6E325768A836CD7E48956F0ED77A751F9E8BF16E98E7A0443"
+      },
+      {
+        "TaskId": "SRC043-S005",
+        "ReturnedSingleSection": true,
+        "SHA256": "4909BA19E36E4EE5F430A6E01650BFAC1CCD8F165462483ED85191F1E602638C"
+      },
+      {
+        "TaskId": "SRC044-S003",
+        "ReturnedSingleSection": true,
+        "SHA256": "788A4FFC21468E5E2EBE20722C9A7698DE8B73CA2CBDC917A9F0CD3B4DC1B2B4"
+      },
+      {
+        "TaskId": "SRC045-S004",
+        "ReturnedSingleSection": true,
+        "SHA256": "DF7A67FA4088AEB66A4B30086E06859B4CA0B5616FD806574C0ADB3896252784"
+      },
+      {
+        "TaskId": "SRC046-S006",
+        "ReturnedSingleSection": true,
+        "SHA256": "EE0D3D939E376A6ED7D5D08DAE2CA98B9C14A2E7D09178F97FF132BDDE306DCA"
+      },
+      {
+        "TaskId": "SRC047-S005",
+        "ReturnedSingleSection": true,
+        "SHA256": "FA065B556E9B6B5AB547CE4DB9432266E38EF72DE27E174D76A754C62CC314E7"
+      },
+      {
+        "TaskId": "SRC047-S006",
+        "ReturnedSingleSection": true,
+        "SHA256": "36DCF6BC24F98E269360C03A9179B41B33FED91773989960EE05FC9365A6B830"
+      },
+      {
+        "TaskId": "SRC049-S007",
+        "ReturnedSingleSection": true,
+        "SHA256": "F7192E98652B0DBAA2B79A40CF46A80BD5344494254CD0E2934E56427CA44489"
+      },
+      {
+        "TaskId": "SRC050-S006",
+        "ReturnedSingleSection": true,
+        "SHA256": "C667C374D00332A0C3B7D51AF3C07DC2220E41DD53E03F363B379F76B7658ACD"
+      },
+      {
+        "TaskId": "SRC050-S007",
+        "ReturnedSingleSection": true,
+        "SHA256": "FC64282FA6A58A0A738502791BD44DA6460C9306417E7D81DA3DFD8E9A004ADD"
+      },
+      {
+        "TaskId": "SRC051-S006",
+        "ReturnedSingleSection": true,
+        "SHA256": "F1E8442874D8D2171CC6D5DFA06B330DAE1E6E0F0C7E97E44073C675F40B582E"
+      }
+    ]
+  }
+}

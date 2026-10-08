@@ -1,0 +1,498 @@
+{
+  "Item": 3,
+  "Status": "independently_accepted",
+  "CompletedModules": 15,
+  "RemainingModules": 0,
+  "ChecksComplete": true,
+  "IndependentReview": "passed",
+  "Items": [
+    {
+      "ModuleId": "strategy",
+      "File": "91_创作小秘工作库/03_咨询模块/01_创作策划与想法分析.md",
+      "EntryLine": 44,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC048-S001",
+        "SRC025-S001",
+        "SRC044-S001",
+        "SRC044-S002"
+      ],
+      "ConditionalHistoryIds": [
+        "H030",
+        "H023"
+      ],
+      "AuxiliaryTaskIds": [
+        "L18-T0001",
+        "L48-T0001",
+        "L49-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "outline",
+      "File": "91_创作小秘工作库/03_咨询模块/02_小说、题材与大纲.md",
+      "EntryLine": 43,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC044-S001",
+        "SRC044-S002",
+        "SRC048-S001",
+        "SRC048-S002",
+        "SRC048-S003",
+        "SRC048-S004"
+      ],
+      "ConditionalHistoryIds": [
+        "H030",
+        "H023"
+      ],
+      "AuxiliaryTaskIds": [
+        "L18-T0001",
+        "L48-T0001",
+        "L27-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "screenplay",
+      "File": "91_创作小秘工作库/03_咨询模块/03_影视剧本与改编.md",
+      "EntryLine": 43,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC050-S001",
+        "SRC050-S002",
+        "SRC050-S003",
+        "SRC050-S004",
+        "SRC050-S005",
+        "SRC025-S001",
+        "SRC025-S002",
+        "SRC025-S003",
+        "SRC025-S004",
+        "SRC025-S005"
+      ],
+      "ConditionalHistoryIds": [
+        "H029",
+        "H027",
+        "H024"
+      ],
+      "AuxiliaryTaskIds": [
+        "L27-T0001",
+        "L48-T0001",
+        "L49-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "images",
+      "File": "91_创作小秘工作库/03_咨询模块/04_图片、封面与视觉资产.md",
+      "EntryLine": 53,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC019-S001",
+        "SRC019-S002",
+        "SRC019-S003",
+        "SRC019-S004",
+        "SRC019-S005",
+        "SRC035-S001",
+        "SRC035-S002",
+        "SRC035-S003",
+        "SRC038-S001",
+        "SRC038-S002",
+        "SRC038-S003",
+        "SRC013-S001",
+        "SRC013-S002",
+        "SRC013-S003",
+        "SRC013-S004",
+        "SRC013-S005",
+        "SRC013-S006",
+        "SRC013-S007",
+        "SRC013-S008",
+        "SRC013-S009",
+        "SRC013-S010",
+        "SRC013-S011",
+        "SRC013-S012",
+        "SRC013-S013",
+        "SRC013-S014",
+        "SRC036-S001",
+        "SRC036-S002"
+      ],
+      "ConditionalHistoryIds": [
+        "H037",
+        "H025",
+        "H011",
+        "H020",
+        "H032",
+        "H008",
+        "H033"
+      ],
+      "AuxiliaryTaskIds": [
+        "L14-T0001",
+        "L02-T0002",
+        "L04-T0002",
+        "L52-T0003"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "storyboard",
+      "File": "91_创作小秘工作库/03_咨询模块/05_分镜、导演与POV.md",
+      "EntryLine": 52,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC032-S001",
+        "SRC032-S002",
+        "SRC032-S003",
+        "SRC043-S001",
+        "SRC043-S002",
+        "SRC043-S003",
+        "SRC051-S001",
+        "SRC051-S002",
+        "SRC051-S003",
+        "SRC051-S004",
+        "SRC051-S005"
+      ],
+      "ConditionalHistoryIds": [
+        "H019",
+        "H031",
+        "H026",
+        "H028",
+        "H015",
+        "H023",
+        "H038"
+      ],
+      "AuxiliaryTaskIds": [
+        "L01-T0002",
+        "L06-T0003",
+        "L37-T0002",
+        "L08-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "video",
+      "File": "91_创作小秘工作库/03_咨询模块/06_视频生成提示词与一致性.md",
+      "EntryLine": 46,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC047-S001",
+        "SRC047-S002",
+        "SRC047-S003",
+        "SRC047-S004",
+        "SRC041-S001",
+        "SRC041-S002",
+        "SRC041-S003",
+        "SRC041-S004"
+      ],
+      "ConditionalHistoryIds": [
+        "H004",
+        "H005",
+        "H017"
+      ],
+      "AuxiliaryTaskIds": [
+        "L51-T0001",
+        "L52-T0001",
+        "L53-T0001",
+        "L17-T0003"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "performance",
+      "File": "91_创作小秘工作库/03_咨询模块/07_表演、微表情与群体动作.md",
+      "EntryLine": 45,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC016-S001",
+        "SRC016-S002",
+        "SRC026-S001",
+        "SRC026-S002",
+        "SRC020-S001",
+        "SRC020-S002",
+        "SRC029-S001",
+        "SRC029-S002",
+        "SRC041-S001",
+        "SRC041-S002",
+        "SRC041-S004"
+      ],
+      "ConditionalHistoryIds": [
+        "H012",
+        "H013",
+        "H003",
+        "H014",
+        "H036",
+        "H024"
+      ],
+      "AuxiliaryTaskIds": [
+        "L11-T0001",
+        "L12-T0001",
+        "L13-T0002",
+        "L25-T0003"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "effects",
+      "File": "91_创作小秘工作库/03_咨询模块/08_打斗、仙侠与特效.md",
+      "EntryLine": 47,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC042-S001",
+        "SRC042-S002",
+        "SRC031-S001",
+        "SRC031-S002",
+        "SRC039-S001",
+        "SRC039-S002",
+        "SRC041-S002",
+        "SRC041-S004"
+      ],
+      "ConditionalHistoryIds": [
+        "H002",
+        "H016",
+        "H006",
+        "H017"
+      ],
+      "AuxiliaryTaskIds": [
+        "L09-T0001",
+        "L10-T0002",
+        "L19-T0002",
+        "L21-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "sound",
+      "File": "91_创作小秘工作库/03_咨询模块/09_声音设计、对白与声画关系.md",
+      "EntryLine": 44,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC018-S001",
+        "SRC018-S002",
+        "SRC017-S001",
+        "SRC017-S002",
+        "SRC030-S001",
+        "SRC030-S002",
+        "SRC030-S003",
+        "SRC030-S004",
+        "SRC030-S005",
+        "SRC030-S006"
+      ],
+      "ConditionalHistoryIds": [
+        "H010",
+        "H024"
+      ],
+      "AuxiliaryTaskIds": [
+        "L08-T0001",
+        "L19-T0001",
+        "L44-T0001",
+        "L45-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "music",
+      "File": "91_创作小秘工作库/03_咨询模块/10_音乐、BGM与歌曲.md",
+      "EntryLine": 43,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC049-S001",
+        "SRC049-S002",
+        "SRC049-S003",
+        "SRC049-S004",
+        "SRC049-S005",
+        "SRC049-S006",
+        "SRC037-S001",
+        "SRC037-S002",
+        "SRC037-S003",
+        "SRC037-S004",
+        "SRC037-S005",
+        "SRC037-S006"
+      ],
+      "ConditionalHistoryIds": [
+        "H007",
+        "H018"
+      ],
+      "AuxiliaryTaskIds": [
+        "L43-T0002",
+        "L43-T0003",
+        "L46-T0001",
+        "L44-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "commerce",
+      "File": "91_创作小秘工作库/03_咨询模块/11_电商、品牌与商业广告.md",
+      "EntryLine": 49,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC034-S001",
+        "SRC034-S002",
+        "SRC034-S003",
+        "SRC033-S001",
+        "SRC033-S002",
+        "SRC033-S003",
+        "SRC046-S001",
+        "SRC046-S002",
+        "SRC046-S003",
+        "SRC046-S004",
+        "SRC046-S005"
+      ],
+      "ConditionalHistoryIds": [
+        "H035",
+        "H009",
+        "H034"
+      ],
+      "AuxiliaryTaskIds": [
+        "L02-T0002",
+        "L04-T0002",
+        "L21-T0001",
+        "L52-T0003"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "post",
+      "File": "91_创作小秘工作库/03_咨询模块/12_剪辑、修复与成片复盘.md",
+      "EntryLine": 45,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC011-S001",
+        "SRC011-S002",
+        "SRC041-S001",
+        "SRC041-S004",
+        "SRC017-S001",
+        "SRC017-S002"
+      ],
+      "ConditionalHistoryIds": [
+        "H017",
+        "H010"
+      ],
+      "AuxiliaryTaskIds": [
+        "L07-T0003",
+        "L41-T0002",
+        "L44-T0001",
+        "L55-T0001",
+        "L55-T0002"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "advanced",
+      "File": "91_创作小秘工作库/03_咨询模块/13_3D、虚拟制片与交互创作.md",
+      "EntryLine": 47,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "L57-T0001",
+        "L56-T0002",
+        "L56-T0003",
+        "L58-T0001",
+        "L58-T0002",
+        "L58-T0003",
+        "SRC003-S002",
+        "SRC003-S005",
+        "SRC019-S001",
+        "SRC019-S002",
+        "SRC019-S003",
+        "SRC019-S004",
+        "SRC019-S005"
+      ],
+      "ConditionalHistoryIds": [
+        "H008",
+        "H011",
+        "H023"
+      ],
+      "AuxiliaryTaskIds": [
+        "L57-T0002",
+        "L53-T0002",
+        "L52-T0003"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "analysis",
+      "File": "91_创作小秘工作库/03_咨询模块/14_素材解读与提示词反推.md",
+      "EntryLine": 51,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC024-S003",
+        "SRC023-S003"
+      ],
+      "ConditionalHistoryIds": [
+        "H021",
+        "H022",
+        "H038",
+        "H033"
+      ],
+      "AuxiliaryTaskIds": [
+        "L03-T0002",
+        "L01-T0002",
+        "L08-T0001",
+        "L51-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    },
+    {
+      "ModuleId": "framework",
+      "File": "91_创作小秘工作库/03_咨询模块/15_提示词框架扩写与知识讲解.md",
+      "EntryLine": 40,
+      "Status": "independently_accepted_item3",
+      "MainTaskIds": [
+        "SRC014-S001",
+        "SRC014-S002",
+        "SRC014-S003",
+        "SRC014-S004",
+        "SRC014-S005",
+        "SRC014-S006",
+        "SRC014-S007",
+        "SRC014-S008",
+        "SRC014-S009",
+        "SRC045-S001",
+        "SRC045-S002",
+        "SRC045-S003"
+      ],
+      "ConditionalHistoryIds": [
+        "H001"
+      ],
+      "AuxiliaryTaskIds": [
+        "L51-T0001",
+        "L51-T0002",
+        "L17-T0003",
+        "L52-T0001"
+      ],
+      "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+    }
+  ],
+  "ChangedFiles": [
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/01_创作策划与想法分析.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/02_小说、题材与大纲.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/03_影视剧本与改编.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/04_图片、封面与视觉资产.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/05_分镜、导演与POV.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/06_视频生成提示词与一致性.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/07_表演、微表情与群体动作.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/08_打斗、仙侠与特效.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/09_声音设计、对白与声画关系.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/10_音乐、BGM与歌曲.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/11_电商、品牌与商业广告.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/12_剪辑、修复与成片复盘.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/13_3D、虚拟制片与交互创作.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/14_素材解读与提示词反推.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/03_咨询模块/15_提示词框架扩写与知识讲解.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/00_工作入口.md",
+    "skills/film-creation-library/references/consultation.md",
+    "skills/film-creation-library/references/project_state.md",
+    "skills/film-creation-library/references/knowledge_base/91_创作小秘工作库/00_全量检索索引.json",
+    "skills/film-creation-library/scripts/library_lookup.py",
+    "tests/test_library_lookup.py"
+  ],
+  "PreservedSkill": true,
+  "ContentSelfReviewCorrection": "H017为12表演通道、12接触反馈、八攻防、八反提示层；已核当前条件层并修正入口文字。",
+  "ExecutionComplete": true,
+  "SubmissionReport": "docs/咨询入口接入_完成报告.md",
+  "UpdatedAtLocal": "2026-10-07T23:23:03.911859+08:00",
+  "ReportLinksChecked": 371,
+  "PreviousSubmissionStatus": {
+    "Status": "formally_submitted_executor_complete",
+    "IndependentReview": "pending"
+  },
+  "AcceptanceReport": "docs/咨询入口接入_独立验收报告.md"
+}

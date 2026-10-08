@@ -1,0 +1,17 @@
+{
+  "WholeLocalSourcesActuallyRead": [
+    "SRC00670条/280字段/应用层全文",
+    "SRC03070条/280字段/应用层全文"
+  ],
+  "MergedChapterOnly": [
+    "SRC022L27字段",
+    "SRC04527章字段"
+  ],
+  "ExternalSource": {
+    "URL": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder",
+    "ActualScope": "搜索结果可见谱系特征/需求/优势/挑战范围说明，非整份医疗指南或诊断",
+    "Use": "限制原21近乎不说话的统一角色刻画，不作诊断建议"
+  },
+  "Design": "两个成人原创虚构版本，台词/机位/手持资产与语速为设计预算，非实际录音",
+  "IndependentContentReview": "pending"
+}

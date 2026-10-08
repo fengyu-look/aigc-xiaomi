@@ -1,0 +1,412 @@
+{
+  "RelationshipCount": 58,
+  "Relations": [
+    {
+      "TaskId": "L57-T0022",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0023",
+      "Relation": "6树首末距",
+      "Calculated": 15.0,
+      "DesignedExpected": 15,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0023",
+      "Relation": "五间距×3米",
+      "Calculated": 15,
+      "DesignedExpected": 15,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0024",
+      "Relation": "车路6+双侧各3",
+      "Calculated": 12,
+      "DesignedExpected": 12,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0025",
+      "Relation": "圆岛半径",
+      "Calculated": 10.0,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0028",
+      "Relation": "两批五粒",
+      "Calculated": 10,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0029",
+      "Relation": "90度/8秒",
+      "Calculated": 11.25,
+      "DesignedExpected": 11.25,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0029",
+      "Relation": "45度/8秒",
+      "Calculated": 5.625,
+      "DesignedExpected": 5.625,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0031",
+      "Relation": "册底桌面",
+      "Calculated": 0.75,
+      "DesignedExpected": 0.75,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0031",
+      "Relation": "桌与身体净距",
+      "Calculated": 0.35,
+      "DesignedExpected": 0.35,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0032",
+      "Relation": "卡通册中心",
+      "Calculated": 0.51,
+      "DesignedExpected": 0.51,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0035",
+      "Relation": "机器人册中心",
+      "Calculated": 0.66,
+      "DesignedExpected": 0.66,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0036",
+      "Relation": "两组三足",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0042",
+      "Relation": "192采样帧",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0043",
+      "Relation": "帧预算毫秒",
+      "Calculated": 41.666666666666664,
+      "DesignedExpected": 41.666666666666664,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0049",
+      "Relation": "厘米转毫米21",
+      "Calculated": 210,
+      "DesignedExpected": 210,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0049",
+      "Relation": "厘米转毫米14",
+      "Calculated": 140,
+      "DesignedExpected": 140,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0049",
+      "Relation": "厘米转毫米2",
+      "Calculated": 20,
+      "DesignedExpected": 20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0001",
+      "Relation": "观看媒体时长",
+      "Calculated": 14,
+      "DesignedExpected": 14,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0003",
+      "Relation": "自动门匀角",
+      "Calculated": 60.0,
+      "DesignedExpected": 60,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0003",
+      "Relation": "门南身体净距",
+      "Calculated": 0.25,
+      "DesignedExpected": 0.25,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0009",
+      "Relation": "升序锁码",
+      "Calculated": 134,
+      "DesignedExpected": 134,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0021",
+      "Relation": "等距矩形2:1",
+      "Calculated": 2.0,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0025",
+      "Relation": "四2分钟",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L58-T0026",
+      "Relation": "三区各建议2分钟",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0004",
+      "Relation": "7坐1立",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0024",
+      "Relation": "1驼8人实体",
+      "Calculated": 9,
+      "DesignedExpected": 9,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0025",
+      "Relation": "汝窑一致高度米",
+      "Calculated": 0.129,
+      "DesignedExpected": 0.129,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0025",
+      "Relation": "汝窑一致口径米",
+      "Calculated": 0.18,
+      "DesignedExpected": 0.18,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0027",
+      "Relation": "雍正碗高度米",
+      "Calculated": 0.057,
+      "DesignedExpected": 0.057,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L60-T0027",
+      "Relation": "雍正口径米",
+      "Calculated": 0.114,
+      "DesignedExpected": 0.114,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0006",
+      "Relation": "音乐16四分拍",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0021",
+      "Relation": "选源2+2+4",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0022",
+      "Relation": "偶数抽帧个数",
+      "Calculated": 96,
+      "DesignedExpected": 96,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0022",
+      "Relation": "96帧24fps",
+      "Calculated": 4.0,
+      "DesignedExpected": 4,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0024",
+      "Relation": "合成权重和",
+      "Calculated": 1.0,
+      "DesignedExpected": 1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0026",
+      "Relation": "双屏半宽",
+      "Calculated": 1920,
+      "DesignedExpected": 1920,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0027",
+      "Relation": "三屏总帧",
+      "Calculated": 576,
+      "DesignedExpected": 576,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0028",
+      "Relation": "两96循环",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0030",
+      "Relation": "全源变速总10",
+      "Calculated": 10.0,
+      "DesignedExpected": 10,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0030",
+      "Relation": "裁源变速总8",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0031",
+      "Relation": "8秒48k样本",
+      "Calculated": 384000,
+      "DesignedExpected": 384000,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0031",
+      "Relation": "峰幅.1分贝",
+      "Calculated": -20.0,
+      "DesignedExpected": -20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0036",
+      "Relation": "2秒样本",
+      "Calculated": 96000,
+      "DesignedExpected": 96000,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0036",
+      "Relation": "整数周期",
+      "Calculated": 440,
+      "DesignedExpected": 440,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0038",
+      "Relation": "峰幅.05分贝",
+      "Calculated": -26.020599913279625,
+      "DesignedExpected": -26.020599913279625,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0039",
+      "Relation": "密集事件总数",
+      "Calculated": 20,
+      "DesignedExpected": 20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0054",
+      "Relation": "主相机3D速度",
+      "Calculated": 0.3535533905932738,
+      "DesignedExpected": 0.3535533905932738,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0083",
+      "Relation": "局部8×8",
+      "Calculated": 64,
+      "DesignedExpected": 64,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0083",
+      "Relation": "四组各16",
+      "Calculated": 64,
+      "DesignedExpected": 64,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0083",
+      "Relation": "格点极值跨度",
+      "Calculated": 7.0,
+      "DesignedExpected": 7,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0083",
+      "Relation": "剑尖下落速度",
+      "Calculated": 4.0,
+      "DesignedExpected": 4,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0083",
+      "Relation": "人物根到最近落点y差",
+      "Calculated": 2.5,
+      "DesignedExpected": 2.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0085",
+      "Relation": "五阶段帧数",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0085",
+      "Relation": "末帧采样时",
+      "Calculated": 7.958333333333333,
+      "DesignedExpected": 7.958333333333333,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0086",
+      "Relation": "4小节音乐秒",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0086",
+      "Relation": "双声道标量样本",
+      "Calculated": 768000,
+      "DesignedExpected": 768000,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L61-T0091",
+      "Relation": "L0至L7层数",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    }
+  ],
+  "Scope": "实际设计的数值关系核对，不等成片/人体/器物测量或独立语义验收"
+}

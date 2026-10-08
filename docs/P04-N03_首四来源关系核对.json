@@ -1,0 +1,108 @@
+{
+  "RelationshipCount": 17,
+  "Relations": [
+    {
+      "Relation": "源013画布",
+      "Calculated": 3072,
+      "DesignedExpected": 3072,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013窗长宽比",
+      "Calculated": 1.5,
+      "DesignedExpected": 1.5,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013圆缸内径",
+      "Calculated": 0.84,
+      "DesignedExpected": 0.84,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013半开活动域",
+      "Calculated": 1440.0,
+      "DesignedExpected": 1440,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013CG粒子设计数",
+      "Calculated": 2880,
+      "DesignedExpected": 2880,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013对角视轴距",
+      "Calculated": 14.142135623730951,
+      "DesignedExpected": 14.142135623730951,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013实际墙角距",
+      "Calculated": 18.027756377319946,
+      "DesignedExpected": 18.027756377319946,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013纵FOV度",
+      "Calculated": 45.74733038125343,
+      "DesignedExpected": 45.74733038125343,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013下缘平地距",
+      "Calculated": 2.3209854318370655,
+      "DesignedExpected": 2.3209854318370655,
+      "Consistent": true
+    },
+    {
+      "Relation": "源013低30%顶平地距",
+      "Calculated": 4.217514683304023,
+      "DesignedExpected": 4.217514683304023,
+      "Consistent": true
+    },
+    {
+      "Relation": "源014帧数",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    },
+    {
+      "Relation": "源014练习帧数",
+      "Calculated": 96,
+      "DesignedExpected": 96,
+      "Consistent": true
+    },
+    {
+      "Relation": "源01415分钟",
+      "Calculated": 15,
+      "DesignedExpected": 15,
+      "Consistent": true
+    },
+    {
+      "Relation": "源04916小节秒",
+      "Calculated": 32.0,
+      "DesignedExpected": 32,
+      "Consistent": true
+    },
+    {
+      "Relation": "源049有词8小节秒",
+      "Calculated": 16.0,
+      "DesignedExpected": 16,
+      "Consistent": true
+    },
+    {
+      "Relation": "源049C3终释放",
+      "Calculated": 32,
+      "DesignedExpected": 32,
+      "Consistent": true
+    },
+    {
+      "Relation": "源049末E4释放",
+      "Calculated": 32.0,
+      "DesignedExpected": 32,
+      "Consistent": true
+    }
+  ],
+  "Scope": "设计数值关系，非图像/空气/音乐实测或教学效果验证"
+}

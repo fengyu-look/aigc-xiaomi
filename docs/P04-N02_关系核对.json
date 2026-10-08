@@ -1,0 +1,293 @@
+{
+  "RelationshipCount": 41,
+  "Relations": [
+    {
+      "TaskId": "L51-T0050",
+      "Relation": "3组×4总人数",
+      "Calculated": 12,
+      "DesignedExpected": 12,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L51-T0050",
+      "Relation": "4小节×4拍×60/120秒",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0015",
+      "Relation": "17:00:00+4+4秒",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0017",
+      "Relation": "2桌上+1手持道具",
+      "Calculated": 3,
+      "DesignedExpected": 3,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0019",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0019",
+      "Relation": "身体左界.85减桌.5",
+      "Calculated": 0.35,
+      "DesignedExpected": 0.35,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0029",
+      "Relation": "16拍×60/120",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L52-T0040",
+      "Relation": "8实际环节",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L53-T0035",
+      "Relation": "3档×2seed",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L53-T0046",
+      "Relation": "512/768=2/3",
+      "Calculated": 0.6666666666666666,
+      "DesignedExpected": 0.6666666666666666,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L53-T0049",
+      "Relation": "4消融版本",
+      "Calculated": 4,
+      "DesignedExpected": 4,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0006",
+      "Relation": "8秒×24fps",
+      "Calculated": 192,
+      "DesignedExpected": 192,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0006",
+      "Relation": "末采样191/24",
+      "Calculated": 7.958333333333333,
+      "DesignedExpected": 7.958333333333333,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0011",
+      "Relation": "2米/8秒",
+      "Calculated": 0.25,
+      "DesignedExpected": 0.25,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0014",
+      "Relation": "半径3×90度弧度",
+      "Calculated": 4.71238898038469,
+      "DesignedExpected": 4.71238898038469,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0017",
+      "Relation": "35毫米变化/8秒",
+      "Calculated": 4.375,
+      "DesignedExpected": 4.375,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0018",
+      "Relation": "4米/8秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0028",
+      "Relation": "4秒发射+2寿命",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0030",
+      "Relation": "6人两列三排",
+      "Calculated": 6,
+      "DesignedExpected": 6,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0034",
+      "Relation": "桌.75+册半厚.01",
+      "Calculated": 0.76,
+      "DesignedExpected": 0.76,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0035",
+      "Relation": "两速度三角面积",
+      "Calculated": 2.0,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0036",
+      "Relation": "16秒/2倍",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0037",
+      "Relation": "4秒/.5倍",
+      "Calculated": 8.0,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0038",
+      "Relation": "4秒×24fps",
+      "Calculated": 96,
+      "DesignedExpected": 96,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0040",
+      "Relation": "源6秒+2秒冻结",
+      "Calculated": 8,
+      "DesignedExpected": 8,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0041",
+      "Relation": "8秒×48fps",
+      "Calculated": 384,
+      "DesignedExpected": 384,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0042",
+      "Relation": "768×2.5/432×2.5",
+      "Calculated": 1920.0,
+      "DesignedExpected": 1920,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L54-T0042",
+      "Relation": "432×2.5",
+      "Calculated": 1080.0,
+      "DesignedExpected": 1080,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L55-T0011",
+      "Relation": "1280×2",
+      "Calculated": 2560,
+      "DesignedExpected": 2560,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L55-T0020",
+      "Relation": "1920×.9",
+      "Calculated": 1728.0,
+      "DesignedExpected": 1728,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L55-T0020",
+      "Relation": "1080×.9",
+      "Calculated": 972.0,
+      "DesignedExpected": 972,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L55-T0035",
+      "Relation": "320×6",
+      "Calculated": 1920,
+      "DesignedExpected": 1920,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L55-T0035",
+      "Relation": "180×6",
+      "Calculated": 1080,
+      "DesignedExpected": 1080,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L56-T0002",
+      "Relation": "1000ms/24",
+      "Calculated": 41.666666666666664,
+      "DesignedExpected": 41.666666666666664,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L56-T0038",
+      "Relation": "10/s×2秒活期",
+      "Calculated": 20,
+      "DesignedExpected": 20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L56-T0048",
+      "Relation": "端点t8位置",
+      "Calculated": 2,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L56-T0049",
+      "Relation": "4/3米斜径",
+      "Calculated": 5.0,
+      "DesignedExpected": 5,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0007",
+      "Relation": "顶点两权归一",
+      "Calculated": 1.0,
+      "DesignedExpected": 1,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0018",
+      "Relation": "3米往返光时纳秒",
+      "Calculated": 20.0,
+      "DesignedExpected": 20,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0019",
+      "Relation": "f像素×B米/d像素",
+      "Calculated": 2.0,
+      "DesignedExpected": 2,
+      "Consistent": true
+    },
+    {
+      "TaskId": "L57-T0021",
+      "Relation": "3米/6秒",
+      "Calculated": 0.5,
+      "DesignedExpected": 0.5,
+      "Consistent": true
+    }
+  ],
+  "Scope": "实际设计关系而非完成总量自比较；不等素材实测"
+}

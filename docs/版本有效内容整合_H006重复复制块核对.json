@@ -1,0 +1,1927 @@
+{
+  "HistoryId": "H006",
+  "SHA256": "96C667DAD2DDA10E149480E77E6E06E547CD33CBA92112CEBAFAF6BF64A889E8",
+  "Rows": [
+    {
+      "Number": 1,
+      "HeadingLine": 1302,
+      "FieldLines": [
+        1304,
+        1306,
+        1308,
+        1310,
+        1312,
+        1314,
+        1316
+      ],
+      "DuplicatePositiveLine": 1321,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1316
+    },
+    {
+      "Number": 2,
+      "HeadingLine": 1324,
+      "FieldLines": [
+        1326,
+        1328,
+        1330,
+        1332,
+        1334,
+        1336,
+        1338
+      ],
+      "DuplicatePositiveLine": 1343,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1338
+    },
+    {
+      "Number": 3,
+      "HeadingLine": 1346,
+      "FieldLines": [
+        1348,
+        1350,
+        1352,
+        1354,
+        1356,
+        1358,
+        1360
+      ],
+      "DuplicatePositiveLine": 1365,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1360
+    },
+    {
+      "Number": 4,
+      "HeadingLine": 1368,
+      "FieldLines": [
+        1370,
+        1372,
+        1374,
+        1376,
+        1378,
+        1380,
+        1382
+      ],
+      "DuplicatePositiveLine": 1387,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1382
+    },
+    {
+      "Number": 5,
+      "HeadingLine": 1390,
+      "FieldLines": [
+        1392,
+        1394,
+        1396,
+        1398,
+        1400,
+        1402,
+        1404
+      ],
+      "DuplicatePositiveLine": 1409,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1404
+    },
+    {
+      "Number": 6,
+      "HeadingLine": 1412,
+      "FieldLines": [
+        1414,
+        1416,
+        1418,
+        1420,
+        1422,
+        1424,
+        1426
+      ],
+      "DuplicatePositiveLine": 1431,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1426
+    },
+    {
+      "Number": 7,
+      "HeadingLine": 1434,
+      "FieldLines": [
+        1436,
+        1438,
+        1440,
+        1442,
+        1444,
+        1446,
+        1448
+      ],
+      "DuplicatePositiveLine": 1453,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1448
+    },
+    {
+      "Number": 8,
+      "HeadingLine": 1456,
+      "FieldLines": [
+        1458,
+        1460,
+        1462,
+        1464,
+        1466,
+        1468,
+        1470
+      ],
+      "DuplicatePositiveLine": 1475,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1470
+    },
+    {
+      "Number": 9,
+      "HeadingLine": 1478,
+      "FieldLines": [
+        1480,
+        1482,
+        1484,
+        1486,
+        1488,
+        1490,
+        1492
+      ],
+      "DuplicatePositiveLine": 1497,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1492
+    },
+    {
+      "Number": 10,
+      "HeadingLine": 1500,
+      "FieldLines": [
+        1502,
+        1504,
+        1506,
+        1508,
+        1510,
+        1512,
+        1514
+      ],
+      "DuplicatePositiveLine": 1519,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1514
+    },
+    {
+      "Number": 11,
+      "HeadingLine": 1522,
+      "FieldLines": [
+        1524,
+        1526,
+        1528,
+        1530,
+        1532,
+        1534,
+        1536
+      ],
+      "DuplicatePositiveLine": 1541,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1536
+    },
+    {
+      "Number": 12,
+      "HeadingLine": 1544,
+      "FieldLines": [
+        1546,
+        1548,
+        1550,
+        1552,
+        1554,
+        1556,
+        1558
+      ],
+      "DuplicatePositiveLine": 1563,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1558
+    },
+    {
+      "Number": 13,
+      "HeadingLine": 1566,
+      "FieldLines": [
+        1568,
+        1570,
+        1572,
+        1574,
+        1576,
+        1578,
+        1580
+      ],
+      "DuplicatePositiveLine": 1585,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1580
+    },
+    {
+      "Number": 14,
+      "HeadingLine": 1588,
+      "FieldLines": [
+        1590,
+        1592,
+        1594,
+        1596,
+        1598,
+        1600,
+        1602
+      ],
+      "DuplicatePositiveLine": 1607,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1602
+    },
+    {
+      "Number": 15,
+      "HeadingLine": 1610,
+      "FieldLines": [
+        1612,
+        1614,
+        1616,
+        1618,
+        1620,
+        1622,
+        1624
+      ],
+      "DuplicatePositiveLine": 1629,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1624
+    },
+    {
+      "Number": 16,
+      "HeadingLine": 1632,
+      "FieldLines": [
+        1634,
+        1636,
+        1638,
+        1640,
+        1642,
+        1644,
+        1646
+      ],
+      "DuplicatePositiveLine": 1651,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1646
+    },
+    {
+      "Number": 17,
+      "HeadingLine": 1654,
+      "FieldLines": [
+        1656,
+        1658,
+        1660,
+        1662,
+        1664,
+        1666,
+        1668
+      ],
+      "DuplicatePositiveLine": 1673,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1668
+    },
+    {
+      "Number": 18,
+      "HeadingLine": 1676,
+      "FieldLines": [
+        1678,
+        1680,
+        1682,
+        1684,
+        1686,
+        1688,
+        1690
+      ],
+      "DuplicatePositiveLine": 1695,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1690
+    },
+    {
+      "Number": 19,
+      "HeadingLine": 1698,
+      "FieldLines": [
+        1700,
+        1702,
+        1704,
+        1706,
+        1708,
+        1710,
+        1712
+      ],
+      "DuplicatePositiveLine": 1717,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1712
+    },
+    {
+      "Number": 20,
+      "HeadingLine": 1720,
+      "FieldLines": [
+        1722,
+        1724,
+        1726,
+        1728,
+        1730,
+        1732,
+        1734
+      ],
+      "DuplicatePositiveLine": 1739,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1734
+    },
+    {
+      "Number": 21,
+      "HeadingLine": 1745,
+      "FieldLines": [
+        1747,
+        1749,
+        1751,
+        1753,
+        1755,
+        1757,
+        1759
+      ],
+      "DuplicatePositiveLine": 1764,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1759
+    },
+    {
+      "Number": 22,
+      "HeadingLine": 1767,
+      "FieldLines": [
+        1769,
+        1771,
+        1773,
+        1775,
+        1777,
+        1779,
+        1781
+      ],
+      "DuplicatePositiveLine": 1786,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1781
+    },
+    {
+      "Number": 23,
+      "HeadingLine": 1789,
+      "FieldLines": [
+        1791,
+        1793,
+        1795,
+        1797,
+        1799,
+        1801,
+        1803
+      ],
+      "DuplicatePositiveLine": 1808,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1803
+    },
+    {
+      "Number": 24,
+      "HeadingLine": 1811,
+      "FieldLines": [
+        1813,
+        1815,
+        1817,
+        1819,
+        1821,
+        1823,
+        1825
+      ],
+      "DuplicatePositiveLine": 1830,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1825
+    },
+    {
+      "Number": 25,
+      "HeadingLine": 1833,
+      "FieldLines": [
+        1835,
+        1837,
+        1839,
+        1841,
+        1843,
+        1845,
+        1847
+      ],
+      "DuplicatePositiveLine": 1852,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1847
+    },
+    {
+      "Number": 26,
+      "HeadingLine": 1855,
+      "FieldLines": [
+        1857,
+        1859,
+        1861,
+        1863,
+        1865,
+        1867,
+        1869
+      ],
+      "DuplicatePositiveLine": 1874,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1869
+    },
+    {
+      "Number": 27,
+      "HeadingLine": 1877,
+      "FieldLines": [
+        1879,
+        1881,
+        1883,
+        1885,
+        1887,
+        1889,
+        1891
+      ],
+      "DuplicatePositiveLine": 1896,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1891
+    },
+    {
+      "Number": 28,
+      "HeadingLine": 1899,
+      "FieldLines": [
+        1901,
+        1903,
+        1905,
+        1907,
+        1909,
+        1911,
+        1913
+      ],
+      "DuplicatePositiveLine": 1918,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1913
+    },
+    {
+      "Number": 29,
+      "HeadingLine": 1921,
+      "FieldLines": [
+        1923,
+        1925,
+        1927,
+        1929,
+        1931,
+        1933,
+        1935
+      ],
+      "DuplicatePositiveLine": 1940,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1935
+    },
+    {
+      "Number": 30,
+      "HeadingLine": 1943,
+      "FieldLines": [
+        1945,
+        1947,
+        1949,
+        1951,
+        1953,
+        1955,
+        1957
+      ],
+      "DuplicatePositiveLine": 1962,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1957
+    },
+    {
+      "Number": 31,
+      "HeadingLine": 1965,
+      "FieldLines": [
+        1967,
+        1969,
+        1971,
+        1973,
+        1975,
+        1977,
+        1979
+      ],
+      "DuplicatePositiveLine": 1984,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 1979
+    },
+    {
+      "Number": 32,
+      "HeadingLine": 1987,
+      "FieldLines": [
+        1989,
+        1991,
+        1993,
+        1995,
+        1997,
+        1999,
+        2001
+      ],
+      "DuplicatePositiveLine": 2006,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2001
+    },
+    {
+      "Number": 33,
+      "HeadingLine": 2009,
+      "FieldLines": [
+        2011,
+        2013,
+        2015,
+        2017,
+        2019,
+        2021,
+        2023
+      ],
+      "DuplicatePositiveLine": 2028,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2023
+    },
+    {
+      "Number": 34,
+      "HeadingLine": 2031,
+      "FieldLines": [
+        2033,
+        2035,
+        2037,
+        2039,
+        2041,
+        2043,
+        2045
+      ],
+      "DuplicatePositiveLine": 2050,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2045
+    },
+    {
+      "Number": 35,
+      "HeadingLine": 2053,
+      "FieldLines": [
+        2055,
+        2057,
+        2059,
+        2061,
+        2063,
+        2065,
+        2067
+      ],
+      "DuplicatePositiveLine": 2072,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2067
+    },
+    {
+      "Number": 36,
+      "HeadingLine": 2075,
+      "FieldLines": [
+        2077,
+        2079,
+        2081,
+        2083,
+        2085,
+        2087,
+        2089
+      ],
+      "DuplicatePositiveLine": 2094,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2089
+    },
+    {
+      "Number": 37,
+      "HeadingLine": 2097,
+      "FieldLines": [
+        2099,
+        2101,
+        2103,
+        2105,
+        2107,
+        2109,
+        2111
+      ],
+      "DuplicatePositiveLine": 2116,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2111
+    },
+    {
+      "Number": 38,
+      "HeadingLine": 2119,
+      "FieldLines": [
+        2121,
+        2123,
+        2125,
+        2127,
+        2129,
+        2131,
+        2133
+      ],
+      "DuplicatePositiveLine": 2138,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2133
+    },
+    {
+      "Number": 39,
+      "HeadingLine": 2141,
+      "FieldLines": [
+        2143,
+        2145,
+        2147,
+        2149,
+        2151,
+        2153,
+        2155
+      ],
+      "DuplicatePositiveLine": 2160,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2155
+    },
+    {
+      "Number": 40,
+      "HeadingLine": 2163,
+      "FieldLines": [
+        2165,
+        2167,
+        2169,
+        2171,
+        2173,
+        2175,
+        2177
+      ],
+      "DuplicatePositiveLine": 2182,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2177
+    },
+    {
+      "Number": 41,
+      "HeadingLine": 2188,
+      "FieldLines": [
+        2190,
+        2192,
+        2194,
+        2196,
+        2198,
+        2200,
+        2202
+      ],
+      "DuplicatePositiveLine": 2207,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2202
+    },
+    {
+      "Number": 42,
+      "HeadingLine": 2210,
+      "FieldLines": [
+        2212,
+        2214,
+        2216,
+        2218,
+        2220,
+        2222,
+        2224
+      ],
+      "DuplicatePositiveLine": 2229,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2224
+    },
+    {
+      "Number": 43,
+      "HeadingLine": 2232,
+      "FieldLines": [
+        2234,
+        2236,
+        2238,
+        2240,
+        2242,
+        2244,
+        2246
+      ],
+      "DuplicatePositiveLine": 2251,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2246
+    },
+    {
+      "Number": 44,
+      "HeadingLine": 2254,
+      "FieldLines": [
+        2256,
+        2258,
+        2260,
+        2262,
+        2264,
+        2266,
+        2268
+      ],
+      "DuplicatePositiveLine": 2273,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2268
+    },
+    {
+      "Number": 45,
+      "HeadingLine": 2276,
+      "FieldLines": [
+        2278,
+        2280,
+        2282,
+        2284,
+        2286,
+        2288,
+        2290
+      ],
+      "DuplicatePositiveLine": 2295,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2290
+    },
+    {
+      "Number": 46,
+      "HeadingLine": 2298,
+      "FieldLines": [
+        2300,
+        2302,
+        2304,
+        2306,
+        2308,
+        2310,
+        2312
+      ],
+      "DuplicatePositiveLine": 2317,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2312
+    },
+    {
+      "Number": 47,
+      "HeadingLine": 2320,
+      "FieldLines": [
+        2322,
+        2324,
+        2326,
+        2328,
+        2330,
+        2332,
+        2334
+      ],
+      "DuplicatePositiveLine": 2339,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2334
+    },
+    {
+      "Number": 48,
+      "HeadingLine": 2342,
+      "FieldLines": [
+        2344,
+        2346,
+        2348,
+        2350,
+        2352,
+        2354,
+        2356
+      ],
+      "DuplicatePositiveLine": 2361,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2356
+    },
+    {
+      "Number": 49,
+      "HeadingLine": 2364,
+      "FieldLines": [
+        2366,
+        2368,
+        2370,
+        2372,
+        2374,
+        2376,
+        2378
+      ],
+      "DuplicatePositiveLine": 2383,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2378
+    },
+    {
+      "Number": 50,
+      "HeadingLine": 2386,
+      "FieldLines": [
+        2388,
+        2390,
+        2392,
+        2394,
+        2396,
+        2398,
+        2400
+      ],
+      "DuplicatePositiveLine": 2405,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2400
+    },
+    {
+      "Number": 51,
+      "HeadingLine": 2408,
+      "FieldLines": [
+        2410,
+        2412,
+        2414,
+        2416,
+        2418,
+        2420,
+        2422
+      ],
+      "DuplicatePositiveLine": 2427,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2422
+    },
+    {
+      "Number": 52,
+      "HeadingLine": 2430,
+      "FieldLines": [
+        2432,
+        2434,
+        2436,
+        2438,
+        2440,
+        2442,
+        2444
+      ],
+      "DuplicatePositiveLine": 2449,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2444
+    },
+    {
+      "Number": 53,
+      "HeadingLine": 2452,
+      "FieldLines": [
+        2454,
+        2456,
+        2458,
+        2460,
+        2462,
+        2464,
+        2466
+      ],
+      "DuplicatePositiveLine": 2471,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2466
+    },
+    {
+      "Number": 54,
+      "HeadingLine": 2474,
+      "FieldLines": [
+        2476,
+        2478,
+        2480,
+        2482,
+        2484,
+        2486,
+        2488
+      ],
+      "DuplicatePositiveLine": 2493,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2488
+    },
+    {
+      "Number": 55,
+      "HeadingLine": 2496,
+      "FieldLines": [
+        2498,
+        2500,
+        2502,
+        2504,
+        2506,
+        2508,
+        2510
+      ],
+      "DuplicatePositiveLine": 2515,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2510
+    },
+    {
+      "Number": 56,
+      "HeadingLine": 2518,
+      "FieldLines": [
+        2520,
+        2522,
+        2524,
+        2526,
+        2528,
+        2530,
+        2532
+      ],
+      "DuplicatePositiveLine": 2537,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2532
+    },
+    {
+      "Number": 57,
+      "HeadingLine": 2540,
+      "FieldLines": [
+        2542,
+        2544,
+        2546,
+        2548,
+        2550,
+        2552,
+        2554
+      ],
+      "DuplicatePositiveLine": 2559,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2554
+    },
+    {
+      "Number": 58,
+      "HeadingLine": 2562,
+      "FieldLines": [
+        2564,
+        2566,
+        2568,
+        2570,
+        2572,
+        2574,
+        2576
+      ],
+      "DuplicatePositiveLine": 2581,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2576
+    },
+    {
+      "Number": 59,
+      "HeadingLine": 2584,
+      "FieldLines": [
+        2586,
+        2588,
+        2590,
+        2592,
+        2594,
+        2596,
+        2598
+      ],
+      "DuplicatePositiveLine": 2603,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2598
+    },
+    {
+      "Number": 60,
+      "HeadingLine": 2606,
+      "FieldLines": [
+        2608,
+        2610,
+        2612,
+        2614,
+        2616,
+        2618,
+        2620
+      ],
+      "DuplicatePositiveLine": 2625,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2620
+    },
+    {
+      "Number": 61,
+      "HeadingLine": 2631,
+      "FieldLines": [
+        2633,
+        2635,
+        2637,
+        2639,
+        2641,
+        2643,
+        2645
+      ],
+      "DuplicatePositiveLine": 2650,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2645
+    },
+    {
+      "Number": 62,
+      "HeadingLine": 2653,
+      "FieldLines": [
+        2655,
+        2657,
+        2659,
+        2661,
+        2663,
+        2665,
+        2667
+      ],
+      "DuplicatePositiveLine": 2672,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2667
+    },
+    {
+      "Number": 63,
+      "HeadingLine": 2675,
+      "FieldLines": [
+        2677,
+        2679,
+        2681,
+        2683,
+        2685,
+        2687,
+        2689
+      ],
+      "DuplicatePositiveLine": 2694,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2689
+    },
+    {
+      "Number": 64,
+      "HeadingLine": 2697,
+      "FieldLines": [
+        2699,
+        2701,
+        2703,
+        2705,
+        2707,
+        2709,
+        2711
+      ],
+      "DuplicatePositiveLine": 2716,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2711
+    },
+    {
+      "Number": 65,
+      "HeadingLine": 2719,
+      "FieldLines": [
+        2721,
+        2723,
+        2725,
+        2727,
+        2729,
+        2731,
+        2733
+      ],
+      "DuplicatePositiveLine": 2738,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2733
+    },
+    {
+      "Number": 66,
+      "HeadingLine": 2741,
+      "FieldLines": [
+        2743,
+        2745,
+        2747,
+        2749,
+        2751,
+        2753,
+        2755
+      ],
+      "DuplicatePositiveLine": 2760,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2755
+    },
+    {
+      "Number": 67,
+      "HeadingLine": 2763,
+      "FieldLines": [
+        2765,
+        2767,
+        2769,
+        2771,
+        2773,
+        2775,
+        2777
+      ],
+      "DuplicatePositiveLine": 2782,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2777
+    },
+    {
+      "Number": 68,
+      "HeadingLine": 2785,
+      "FieldLines": [
+        2787,
+        2789,
+        2791,
+        2793,
+        2795,
+        2797,
+        2799
+      ],
+      "DuplicatePositiveLine": 2804,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2799
+    },
+    {
+      "Number": 69,
+      "HeadingLine": 2807,
+      "FieldLines": [
+        2809,
+        2811,
+        2813,
+        2815,
+        2817,
+        2819,
+        2821
+      ],
+      "DuplicatePositiveLine": 2826,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2821
+    },
+    {
+      "Number": 70,
+      "HeadingLine": 2829,
+      "FieldLines": [
+        2831,
+        2833,
+        2835,
+        2837,
+        2839,
+        2841,
+        2843
+      ],
+      "DuplicatePositiveLine": 2848,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2843
+    },
+    {
+      "Number": 71,
+      "HeadingLine": 2851,
+      "FieldLines": [
+        2853,
+        2855,
+        2857,
+        2859,
+        2861,
+        2863,
+        2865
+      ],
+      "DuplicatePositiveLine": 2870,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2865
+    },
+    {
+      "Number": 72,
+      "HeadingLine": 2873,
+      "FieldLines": [
+        2875,
+        2877,
+        2879,
+        2881,
+        2883,
+        2885,
+        2887
+      ],
+      "DuplicatePositiveLine": 2892,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2887
+    },
+    {
+      "Number": 73,
+      "HeadingLine": 2895,
+      "FieldLines": [
+        2897,
+        2899,
+        2901,
+        2903,
+        2905,
+        2907,
+        2909
+      ],
+      "DuplicatePositiveLine": 2914,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2909
+    },
+    {
+      "Number": 74,
+      "HeadingLine": 2917,
+      "FieldLines": [
+        2919,
+        2921,
+        2923,
+        2925,
+        2927,
+        2929,
+        2931
+      ],
+      "DuplicatePositiveLine": 2936,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2931
+    },
+    {
+      "Number": 75,
+      "HeadingLine": 2939,
+      "FieldLines": [
+        2941,
+        2943,
+        2945,
+        2947,
+        2949,
+        2951,
+        2953
+      ],
+      "DuplicatePositiveLine": 2958,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2953
+    },
+    {
+      "Number": 76,
+      "HeadingLine": 2961,
+      "FieldLines": [
+        2963,
+        2965,
+        2967,
+        2969,
+        2971,
+        2973,
+        2975
+      ],
+      "DuplicatePositiveLine": 2980,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2975
+    },
+    {
+      "Number": 77,
+      "HeadingLine": 2983,
+      "FieldLines": [
+        2985,
+        2987,
+        2989,
+        2991,
+        2993,
+        2995,
+        2997
+      ],
+      "DuplicatePositiveLine": 3002,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 2997
+    },
+    {
+      "Number": 78,
+      "HeadingLine": 3005,
+      "FieldLines": [
+        3007,
+        3009,
+        3011,
+        3013,
+        3015,
+        3017,
+        3019
+      ],
+      "DuplicatePositiveLine": 3024,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3019
+    },
+    {
+      "Number": 79,
+      "HeadingLine": 3027,
+      "FieldLines": [
+        3029,
+        3031,
+        3033,
+        3035,
+        3037,
+        3039,
+        3041
+      ],
+      "DuplicatePositiveLine": 3046,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3041
+    },
+    {
+      "Number": 80,
+      "HeadingLine": 3049,
+      "FieldLines": [
+        3051,
+        3053,
+        3055,
+        3057,
+        3059,
+        3061,
+        3063
+      ],
+      "DuplicatePositiveLine": 3068,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3063
+    },
+    {
+      "Number": 81,
+      "HeadingLine": 3074,
+      "FieldLines": [
+        3076,
+        3078,
+        3080,
+        3082,
+        3084,
+        3086,
+        3088
+      ],
+      "DuplicatePositiveLine": 3093,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3088
+    },
+    {
+      "Number": 82,
+      "HeadingLine": 3096,
+      "FieldLines": [
+        3098,
+        3100,
+        3102,
+        3104,
+        3106,
+        3108,
+        3110
+      ],
+      "DuplicatePositiveLine": 3115,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3110
+    },
+    {
+      "Number": 83,
+      "HeadingLine": 3118,
+      "FieldLines": [
+        3120,
+        3122,
+        3124,
+        3126,
+        3128,
+        3130,
+        3132
+      ],
+      "DuplicatePositiveLine": 3137,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3132
+    },
+    {
+      "Number": 84,
+      "HeadingLine": 3140,
+      "FieldLines": [
+        3142,
+        3144,
+        3146,
+        3148,
+        3150,
+        3152,
+        3154
+      ],
+      "DuplicatePositiveLine": 3159,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3154
+    },
+    {
+      "Number": 85,
+      "HeadingLine": 3162,
+      "FieldLines": [
+        3164,
+        3166,
+        3168,
+        3170,
+        3172,
+        3174,
+        3176
+      ],
+      "DuplicatePositiveLine": 3181,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3176
+    },
+    {
+      "Number": 86,
+      "HeadingLine": 3184,
+      "FieldLines": [
+        3186,
+        3188,
+        3190,
+        3192,
+        3194,
+        3196,
+        3198
+      ],
+      "DuplicatePositiveLine": 3203,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3198
+    },
+    {
+      "Number": 87,
+      "HeadingLine": 3206,
+      "FieldLines": [
+        3208,
+        3210,
+        3212,
+        3214,
+        3216,
+        3218,
+        3220
+      ],
+      "DuplicatePositiveLine": 3225,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3220
+    },
+    {
+      "Number": 88,
+      "HeadingLine": 3228,
+      "FieldLines": [
+        3230,
+        3232,
+        3234,
+        3236,
+        3238,
+        3240,
+        3242
+      ],
+      "DuplicatePositiveLine": 3247,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3242
+    },
+    {
+      "Number": 89,
+      "HeadingLine": 3250,
+      "FieldLines": [
+        3252,
+        3254,
+        3256,
+        3258,
+        3260,
+        3262,
+        3264
+      ],
+      "DuplicatePositiveLine": 3269,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3264
+    },
+    {
+      "Number": 90,
+      "HeadingLine": 3272,
+      "FieldLines": [
+        3274,
+        3276,
+        3278,
+        3280,
+        3282,
+        3284,
+        3286
+      ],
+      "DuplicatePositiveLine": 3291,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3286
+    },
+    {
+      "Number": 91,
+      "HeadingLine": 3294,
+      "FieldLines": [
+        3296,
+        3298,
+        3300,
+        3302,
+        3304,
+        3306,
+        3308
+      ],
+      "DuplicatePositiveLine": 3313,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3308
+    },
+    {
+      "Number": 92,
+      "HeadingLine": 3316,
+      "FieldLines": [
+        3318,
+        3320,
+        3322,
+        3324,
+        3326,
+        3328,
+        3330
+      ],
+      "DuplicatePositiveLine": 3335,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3330
+    },
+    {
+      "Number": 93,
+      "HeadingLine": 3338,
+      "FieldLines": [
+        3340,
+        3342,
+        3344,
+        3346,
+        3348,
+        3350,
+        3352
+      ],
+      "DuplicatePositiveLine": 3357,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3352
+    },
+    {
+      "Number": 94,
+      "HeadingLine": 3360,
+      "FieldLines": [
+        3362,
+        3364,
+        3366,
+        3368,
+        3370,
+        3372,
+        3374
+      ],
+      "DuplicatePositiveLine": 3379,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3374
+    },
+    {
+      "Number": 95,
+      "HeadingLine": 3382,
+      "FieldLines": [
+        3384,
+        3386,
+        3388,
+        3390,
+        3392,
+        3394,
+        3396
+      ],
+      "DuplicatePositiveLine": 3401,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3396
+    },
+    {
+      "Number": 96,
+      "HeadingLine": 3404,
+      "FieldLines": [
+        3406,
+        3408,
+        3410,
+        3412,
+        3414,
+        3416,
+        3418
+      ],
+      "DuplicatePositiveLine": 3423,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3418
+    },
+    {
+      "Number": 97,
+      "HeadingLine": 3426,
+      "FieldLines": [
+        3428,
+        3430,
+        3432,
+        3434,
+        3436,
+        3438,
+        3440
+      ],
+      "DuplicatePositiveLine": 3445,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3440
+    },
+    {
+      "Number": 98,
+      "HeadingLine": 3448,
+      "FieldLines": [
+        3450,
+        3452,
+        3454,
+        3456,
+        3458,
+        3460,
+        3462
+      ],
+      "DuplicatePositiveLine": 3467,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3462
+    },
+    {
+      "Number": 99,
+      "HeadingLine": 3470,
+      "FieldLines": [
+        3472,
+        3474,
+        3476,
+        3478,
+        3480,
+        3482,
+        3484
+      ],
+      "DuplicatePositiveLine": 3489,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3484
+    },
+    {
+      "Number": 100,
+      "HeadingLine": 3492,
+      "FieldLines": [
+        3494,
+        3496,
+        3498,
+        3500,
+        3502,
+        3504,
+        3506
+      ],
+      "DuplicatePositiveLine": 3511,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3506
+    },
+    {
+      "Number": 101,
+      "HeadingLine": 3517,
+      "FieldLines": [
+        3519,
+        3521,
+        3523,
+        3525,
+        3527,
+        3529,
+        3531
+      ],
+      "DuplicatePositiveLine": 3536,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3531
+    },
+    {
+      "Number": 102,
+      "HeadingLine": 3539,
+      "FieldLines": [
+        3541,
+        3543,
+        3545,
+        3547,
+        3549,
+        3551,
+        3553
+      ],
+      "DuplicatePositiveLine": 3558,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3553
+    },
+    {
+      "Number": 103,
+      "HeadingLine": 3561,
+      "FieldLines": [
+        3563,
+        3565,
+        3567,
+        3569,
+        3571,
+        3573,
+        3575
+      ],
+      "DuplicatePositiveLine": 3580,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3575
+    },
+    {
+      "Number": 104,
+      "HeadingLine": 3583,
+      "FieldLines": [
+        3585,
+        3587,
+        3589,
+        3591,
+        3593,
+        3595,
+        3597
+      ],
+      "DuplicatePositiveLine": 3602,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3597
+    },
+    {
+      "Number": 105,
+      "HeadingLine": 3605,
+      "FieldLines": [
+        3607,
+        3609,
+        3611,
+        3613,
+        3615,
+        3617,
+        3619
+      ],
+      "DuplicatePositiveLine": 3624,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3619
+    },
+    {
+      "Number": 106,
+      "HeadingLine": 3627,
+      "FieldLines": [
+        3629,
+        3631,
+        3633,
+        3635,
+        3637,
+        3639,
+        3641
+      ],
+      "DuplicatePositiveLine": 3646,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3641
+    },
+    {
+      "Number": 107,
+      "HeadingLine": 3649,
+      "FieldLines": [
+        3651,
+        3653,
+        3655,
+        3657,
+        3659,
+        3661,
+        3663
+      ],
+      "DuplicatePositiveLine": 3668,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3663
+    },
+    {
+      "Number": 108,
+      "HeadingLine": 3671,
+      "FieldLines": [
+        3673,
+        3675,
+        3677,
+        3679,
+        3681,
+        3683,
+        3685
+      ],
+      "DuplicatePositiveLine": 3690,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3685
+    },
+    {
+      "Number": 109,
+      "HeadingLine": 3693,
+      "FieldLines": [
+        3695,
+        3697,
+        3699,
+        3701,
+        3703,
+        3705,
+        3707
+      ],
+      "DuplicatePositiveLine": 3712,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3707
+    },
+    {
+      "Number": 110,
+      "HeadingLine": 3715,
+      "FieldLines": [
+        3717,
+        3719,
+        3721,
+        3723,
+        3725,
+        3727,
+        3729
+      ],
+      "DuplicatePositiveLine": 3734,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3729
+    },
+    {
+      "Number": 111,
+      "HeadingLine": 3737,
+      "FieldLines": [
+        3739,
+        3741,
+        3743,
+        3745,
+        3747,
+        3749,
+        3751
+      ],
+      "DuplicatePositiveLine": 3756,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3751
+    },
+    {
+      "Number": 112,
+      "HeadingLine": 3759,
+      "FieldLines": [
+        3761,
+        3763,
+        3765,
+        3767,
+        3769,
+        3771,
+        3773
+      ],
+      "DuplicatePositiveLine": 3778,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3773
+    },
+    {
+      "Number": 113,
+      "HeadingLine": 3781,
+      "FieldLines": [
+        3783,
+        3785,
+        3787,
+        3789,
+        3791,
+        3793,
+        3795
+      ],
+      "DuplicatePositiveLine": 3800,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3795
+    },
+    {
+      "Number": 114,
+      "HeadingLine": 3803,
+      "FieldLines": [
+        3805,
+        3807,
+        3809,
+        3811,
+        3813,
+        3815,
+        3817
+      ],
+      "DuplicatePositiveLine": 3822,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3817
+    },
+    {
+      "Number": 115,
+      "HeadingLine": 3825,
+      "FieldLines": [
+        3827,
+        3829,
+        3831,
+        3833,
+        3835,
+        3837,
+        3839
+      ],
+      "DuplicatePositiveLine": 3844,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3839
+    },
+    {
+      "Number": 116,
+      "HeadingLine": 3847,
+      "FieldLines": [
+        3849,
+        3851,
+        3853,
+        3855,
+        3857,
+        3859,
+        3861
+      ],
+      "DuplicatePositiveLine": 3866,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3861
+    },
+    {
+      "Number": 117,
+      "HeadingLine": 3869,
+      "FieldLines": [
+        3871,
+        3873,
+        3875,
+        3877,
+        3879,
+        3881,
+        3883
+      ],
+      "DuplicatePositiveLine": 3888,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3883
+    },
+    {
+      "Number": 118,
+      "HeadingLine": 3891,
+      "FieldLines": [
+        3893,
+        3895,
+        3897,
+        3899,
+        3901,
+        3903,
+        3905
+      ],
+      "DuplicatePositiveLine": 3910,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3905
+    },
+    {
+      "Number": 119,
+      "HeadingLine": 3913,
+      "FieldLines": [
+        3915,
+        3917,
+        3919,
+        3921,
+        3923,
+        3925,
+        3927
+      ],
+      "DuplicatePositiveLine": 3932,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3927
+    },
+    {
+      "Number": 120,
+      "HeadingLine": 3935,
+      "FieldLines": [
+        3937,
+        3939,
+        3941,
+        3943,
+        3945,
+        3947,
+        3949
+      ],
+      "DuplicatePositiveLine": 3954,
+      "PositiveCopiesAllSixFieldsVerbatim": true,
+      "DefenseLine": 3949
+    }
+  ],
+  "Boundary": "逐条展示七字段实际阅读；复制块逐字包含六正向字段机器核对，可复用已读字段。该核对不是语义审核或生成效果证明。"
+}

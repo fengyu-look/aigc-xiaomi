@@ -1,0 +1,25 @@
+{
+  "WholeLocalDocumentsActuallyRead": [
+    "SRC00317354原文字符+应用层",
+    "SRC02714267原文字符+应用层"
+  ],
+  "ChapterOnly": [
+    "SRC022-L16四字段",
+    "SRC045-16四字段"
+  ],
+  "ExternalSources": [
+    {
+      "URL": "https://www.nps.gov/subjects/caves/park-resources.htm",
+      "ActualScope": "open94lines可见正文28—31引言/32—46分类，不含下级页面与完整海报",
+      "Use": "洞穴类型多样，先类型后装饰"
+    },
+    {
+      "URL": "https://www.weather.gov/fgz/Rainbow",
+      "ActualScope": "可见彩虹形成/日光雨滴说明，search可见背太阳前雨滴条件；没有气象现场验证",
+      "Use": "条件可选而非雨后必有"
+    }
+  ],
+  "Design": "虚构ENV-COURT-V1/成年原创角色，所有尺寸/速度/光色/相机为设计值",
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed"
+}

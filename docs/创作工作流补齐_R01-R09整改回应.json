@@ -1,0 +1,309 @@
+{
+  "Date": "2026-10-07",
+  "Scope": "第一项R01—R09及直接依赖集中整改",
+  "Status": "resubmitted_executor_self_reviewed",
+  "IndependentReview": "pending_recheck",
+  "FullTaskComplete": false,
+  "Issues": [
+    {
+      "IssueId": "R01",
+      "Positions": [
+        "SRC043-S002",
+        "SRC043-S003"
+      ],
+      "ActualChange": "三镜分别写起始齿轮位置、目光和声音。镜1盘空、旧齿在右手，2.5秒接盘响一次；镜2旧齿在盘、1—4秒九字承认；镜3起始已看季明、1—3秒点头且无对白。",
+      "DependencyReview": "首帧、模式一和模式二的三组状态逐镜核对；S003的D/K及末态同步，未沿用条件式共用拟音。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC043-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/小说剧情转分镜提示词v1.0_原文与应用扩写.md",
+          "Line": 467,
+          "SHA256": "041E3491D978D3FEF44E592CA7F5713E582F64B2DC6E2D1DBC33A4E473B94CD6"
+        },
+        {
+          "TaskId": "SRC043-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/小说剧情转分镜提示词v1.0_原文与应用扩写.md",
+          "Line": 542,
+          "SHA256": "D5D77DA34A7D0803BD7629513F5B6729AA05E32AA7CC40E0FC4D36F8DB9CBDC8"
+        }
+      ]
+    },
+    {
+      "IssueId": "R02",
+      "Positions": [
+        "SRC046-S003"
+      ],
+      "ActualChange": "15/10/6秒九块均在块内给全片映射及本段0起点；动作、旁白和接触音使用本段时间。三版分别3+8+4、2+5+3、2+2+2。",
+      "DependencyReview": "取写归收在8秒内、提放收在5秒内、轻触撤手在2秒内；各段旁白窗和触碰点在段长内，中间硬切、终镜淡出。九块拟音按实际动作逐块展开。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC046-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2424,
+          "SHA256": "DFE139C18E46C3E77169A7BBE54796C83EC4677A51CE722EA43A930D4810B31D"
+        }
+      ]
+    },
+    {
+      "IssueId": "R03",
+      "Positions": [
+        "SRC051-S002",
+        "SRC051-S003",
+        "SRC051-S004",
+        "SRC051-S005"
+      ],
+      "ActualChange": "两段首/尾及四关键帧共12块均确定单一时点0/3/6/9/12秒，独立写杯/手/视线/口型、世界坐标、十物支撑和可见性。第二段从持杯开始，全程同事闭口无对白；6.5—9秒回看实际2.5秒。",
+      "DependencyReview": "两段七类输出和12+10+9校验保留；尾12秒与次首0秒杯位/握持/42度视线/气口一致。提杯0.364米/2.5秒约0.146米每秒、落杯0.364米/3秒约0.121；回看54→0度、右偏0→15.7度分别21.6及6.28度每秒。逐静帧检查布中央遮挡和当时杯影，回看后的杯/手在视野外但世界态保留。音轨只第一段0—1.5秒有同事声。正向417/446字符、反向各205字符，24fps每段288帧。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC051-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/POV第一人称模拟真实人物视角分镜提示词_原文与应用扩写.md",
+          "Line": 1184,
+          "SHA256": "62F7FA99C2A9636FB0DB0AD66E6225B997F76D4AEB7B35468235CE58F904A305"
+        },
+        {
+          "TaskId": "SRC051-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/POV第一人称模拟真实人物视角分镜提示词_原文与应用扩写.md",
+          "Line": 1205,
+          "SHA256": "B2BFF5C0DA51EBCFEFBB58C2C08DFFB6429C1A4FC35442DFCE72F7E6AC6DC07D"
+        },
+        {
+          "TaskId": "SRC051-S004",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/POV第一人称模拟真实人物视角分镜提示词_原文与应用扩写.md",
+          "Line": 1399,
+          "SHA256": "164F99B1A5DC742475AE58DD224F240ACCB5F112B46F4E3ECB00CCE6B434204F"
+        },
+        {
+          "TaskId": "SRC051-S005",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/POV第一人称模拟真实人物视角分镜提示词_原文与应用扩写.md",
+          "Line": 1593,
+          "SHA256": "D81CB29261EFAEB132874B31BF243C8D97A484537B615CEA3B48845201888A8E"
+        }
+      ]
+    },
+    {
+      "IssueId": "R04",
+      "Positions": [
+        "SRC037-S001",
+        "SRC037-S003",
+        "SRC037-S006"
+      ],
+      "ActualChange": "九字副歌两句和假设V7修句均逐字给音高与时值，补齐“以/很”E4/D4半拍；六个一拍加三个半拍与末半拍休止，合8拍/两小节。",
+      "DependencyReview": "S001的级进/三度跳进描述与实际音列一致，S006同音型修句独立完整。未改整首歌词、40小节/80BPM/120秒或登记试唱通过。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC037-S001",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/全类型歌曲创作提示词_原文与应用扩写.md",
+          "Line": 1889,
+          "SHA256": "9FDA842B201D28B70CCD97E503BD72D2822068590CBD3B9E6AD46B9CF92FFE86"
+        },
+        {
+          "TaskId": "SRC037-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/全类型歌曲创作提示词_原文与应用扩写.md",
+          "Line": 1903,
+          "SHA256": "CA2E2E90322E0BA7C176484CCE8A4E5849346B8BBF199F46545A2152BE44BF13"
+        },
+        {
+          "TaskId": "SRC037-S006",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/全类型歌曲创作提示词_原文与应用扩写.md",
+          "Line": 1967,
+          "SHA256": "7F384177A5BFEE97EC079036DBD4832B853A97E7D6E84B4D9DB94E040F317908"
+        }
+      ]
+    },
+    {
+      "IssueId": "R05",
+      "Positions": [
+        "SRC031-S002"
+      ],
+      "ActualChange": "五套模板分别定位L36-T0288/L36-T0299/L36-T0296/L36-T0224/L36-T0300，给实际文件链接、稳定ID、选择条件及破损/飞行/离界终态。",
+      "DependencyReview": "已读五个既有深度段，核对8/12/8/16/12秒和终态。模板三12把为前景采样，不替换原万剑总数；模板一和300条原映射保留，未再造五长例。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC031-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/08_特效与仙侠打斗/36、仙侠手诀法术库_原文与应用扩写.md",
+          "Line": 2623,
+          "SHA256": "C82008A26B41986712545558CF38C6E1714CE746E8B40C394F450020805686A6"
+        }
+      ]
+    },
+    {
+      "IssueId": "R06",
+      "Positions": [
+        "SRC034-S001",
+        "SRC034-S002",
+        "SRC034-S003"
+      ],
+      "ActualChange": "十三图逐块落实通用缺陷、电商视觉、排版、用户自定义原四层；排版含字体/字号/对齐/出界/主次，用户层禁止虚构商品事实。",
+      "DependencyReview": "逐图核十三个用途与布局、四层相同完整防护及商品真值，5主图/8详情和各比例保留。详情06的唯一右手五指另列，其他无人物图不用人体词顶替排版。S003对位自审同步。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC034-S001",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商平台商品全套图提示词_原文与应用扩写.md",
+          "Line": 220,
+          "SHA256": "C7DF808778B7D2F79E5034057AF82A0CB888F81D07E4C24D3B31BC2170FF25D7"
+        },
+        {
+          "TaskId": "SRC034-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商平台商品全套图提示词_原文与应用扩写.md",
+          "Line": 226,
+          "SHA256": "C1A7C345C4C4F7475187F9AAB1179211D486C6D6EB981BA2A2DA367FB313B5D8"
+        },
+        {
+          "TaskId": "SRC034-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商平台商品全套图提示词_原文与应用扩写.md",
+          "Line": 295,
+          "SHA256": "255C7F628217FE7923009AACAA331EB94038410D2EB31D920779E5E289ADC6BD"
+        }
+      ]
+    },
+    {
+      "IssueId": "R07",
+      "Positions": [
+        "SRC048-S003",
+        "SRC048-S004",
+        "SRC044-S002"
+      ],
+      "ActualChange": "末段明确邵砺从裤袋取出号码便条，与拼好收条一起放进备注袋，消除无动作回到杯底。",
+      "DependencyReview": "便条杯底→交邵砺→裤袋→取出→备注袋；概要/大纲与归袋结果不变。重算正文4055汉字、4774去空白字符、对白1541汉字/38.0025%；简介214汉字、大纲113/116/110/112汉字不变。SRC048交接与SRC044字数引用同步。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC048-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/AI生成小说提示词_原文与应用扩写.md",
+          "Line": 350,
+          "SHA256": "73C32E1A7DE91113B1022446C8DCF08676EC0C8629A6293135609080DBF5CE1F"
+        },
+        {
+          "TaskId": "SRC048-S004",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/AI生成小说提示词_原文与应用扩写.md",
+          "Line": 588,
+          "SHA256": "7ADCFFA047BC625E7D6BF095B9090314539AF8D95F41EBC6D4F9C2ED2D85FF57"
+        },
+        {
+          "TaskId": "SRC044-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/小说题材参考_原文与应用扩写.md",
+          "Line": 194,
+          "SHA256": "8F3D96B5609892E51D9197D72F0157E9FFA21218A685B92B18B113B4EFD733CE"
+        }
+      ]
+    },
+    {
+      "IssueId": "R08",
+      "Positions": [
+        "SRC046-S001",
+        "SRC046-S002",
+        "SRC046-S005"
+      ],
+      "ActualChange": "原0—67全部68节按实际章节名重做覆盖分组，18节五创意矩阵、19—22差异/压力/选择/命题、50—52多版本/画幅/平台等对位明确。五方向各给开头—中段—结尾情绪过程。",
+      "DependencyReview": "覆盖68节无漏组，与S001五案13字段、S002选择和文本评估、S005交付门实际位置核对；平台/模型能力保留未核实条件，不冒称外部执行。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC046-S001",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2383,
+          "SHA256": "BA313CFDACDDA6F38369F1D5DBAE748A4F4BAD7496BB05CD86D8C2EB30FAC95C"
+        },
+        {
+          "TaskId": "SRC046-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2418,
+          "SHA256": "88D8E902FD11BAB7E011FD7237CF78E0039A967F8BE0EDB9C31C90841C003457"
+        },
+        {
+          "TaskId": "SRC046-S005",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2483,
+          "SHA256": "3E8D3E75295F969C555ED1BBDC90BB2874F918B9E6286739045D69B113E3AC27"
+        }
+      ]
+    },
+    {
+      "IssueId": "R09",
+      "Positions": [
+        "SRC033-S003",
+        "SRC046-S002",
+        "SRC046-S003"
+      ],
+      "ActualChange": "30秒镜05段内3—5秒/全片28—30秒画面与音乐淡出至结束；短版三终镜分别在15/10/6秒结束，不再硬切不存在的下一镜。",
+      "DependencyReview": "30秒前四镜及短版前两镜才硬切；各终镜保持三笔左区便签右区，收尾后没有新镜头。终镜没有取放动作，不加笔盘接触声；SRC046主版复用描述同步。",
+      "ExecutorStatus": "revised_and_self_reviewed",
+      "IndependentReview": "pending_recheck",
+      "UnresolvedRequestedChanges": [],
+      "IndexedPositions": [
+        {
+          "TaskId": "SRC033-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商带货视频提示词_原文与应用扩写.md",
+          "Line": 246,
+          "SHA256": "F5FF9DFFC90D85D1AD111FB04B2E34E8D26E13F93DE19418D123D6F05233A41F"
+        },
+        {
+          "TaskId": "SRC046-S002",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2418,
+          "SHA256": "88D8E902FD11BAB7E011FD7237CF78E0039A967F8BE0EDB9C31C90841C003457"
+        },
+        {
+          "TaskId": "SRC046-S003",
+          "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+          "Line": 2424,
+          "SHA256": "DFE139C18E46C3E77169A7BBE54796C83EC4677A51CE722EA43A930D4810B31D"
+        }
+      ]
+    }
+  ],
+  "CopiedBlockVerification": {
+    "POVStaticFrames": 12,
+    "POVObjectsPerStaticFrame": 10,
+    "ProductBlocksWithFourOriginalLayers": 13,
+    "LocalTimeAdvertisementBlocks": 9,
+    "NovelCountsRecomputed": true
+  },
+  "ExecutionComplete": true,
+  "EngineeringChecks": "docs/工作流补齐_整改R01-R09_工程检查.json",
+  "PreservationAudit": "docs/创作工作流补齐_提交核对.json",
+  "FinalReportAndStatusChecks": [
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/refresh_index.py",
+        "--dry-run"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"DryRun\": true,\n  \"ChangedDocuments\": [],\n  \"OriginalBaselinesChanged\": false,\n  \"DeepExpansionStatusChanged\": false\n}\n",
+      "Stderr": ""
+    },
+    {
+      "Command": [
+        "C:\\Program Files\\Python313\\python.exe",
+        "tools/check_project.py"
+      ],
+      "ExitCode": 0,
+      "Stdout": "{\n  \"OriginalTXTFiles\": 60,\n  \"Coverage\": {\n    \"UniqueOriginalFiles\": 51,\n    \"LibraryChapters\": 61,\n    \"ConsultationModules\": 15,\n    \"HistoricalPrompts\": 38\n  },\n  \"LookupValidation\": {\n    \"CheckedOriginalBlocks\": 112,\n    \"Modes\": 15,\n    \"Libraries\": 61,\n    \"HistoricalPrompts\": 38,\n    \"CheckedLinks\": 860,\n    \"Errors\": [],\n    \"Warnings\": [],\n    \"Scope\": \"仅验证文件、原文保留和引用；不代表内容科学准确或模型效果已验证。\"\n  },\n  \"DeepIndexedSections\": 3876,\n  \"DeepSelfReviewedTasksWithRecords\": 3876,\n  \"Errors\": [],\n  \"Scope\": \"结构、文件、原文、引用、可迁移路径；未测试外部生成模型或完成逐条事实校勘\"\n}\n",
+      "Stderr": ""
+    }
+  ]
+}

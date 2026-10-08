@@ -1,0 +1,1404 @@
+{
+  "ProtectedFilesChecked": 211,
+  "ChangedProtectedFiles": [],
+  "OriginalMetadataUnchanged": true,
+  "ExistingDeepSectionsUnchanged": true,
+  "LibraryDeepSectionsPreserved": 3876,
+  "SourceDeepSectionsPreserved": 259,
+  "CheckedModules": [
+    {
+      "ModuleId": "strategy",
+      "EntryLine": 44,
+      "TotalLines": 81,
+      "ResourceReferences": 9,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "outline",
+      "EntryLine": 43,
+      "TotalLines": 80,
+      "ResourceReferences": 11,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "screenplay",
+      "EntryLine": 43,
+      "TotalLines": 81,
+      "ResourceReferences": 16,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "images",
+      "EntryLine": 53,
+      "TotalLines": 99,
+      "ResourceReferences": 38,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "storyboard",
+      "EntryLine": 52,
+      "TotalLines": 96,
+      "ResourceReferences": 22,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "video",
+      "EntryLine": 46,
+      "TotalLines": 85,
+      "ResourceReferences": 15,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "performance",
+      "EntryLine": 45,
+      "TotalLines": 90,
+      "ResourceReferences": 21,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "effects",
+      "EntryLine": 47,
+      "TotalLines": 89,
+      "ResourceReferences": 16,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "sound",
+      "EntryLine": 44,
+      "TotalLines": 83,
+      "ResourceReferences": 16,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "music",
+      "EntryLine": 43,
+      "TotalLines": 81,
+      "ResourceReferences": 18,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "commerce",
+      "EntryLine": 49,
+      "TotalLines": 89,
+      "ResourceReferences": 18,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "post",
+      "EntryLine": 45,
+      "TotalLines": 85,
+      "ResourceReferences": 13,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "advanced",
+      "EntryLine": 47,
+      "TotalLines": 85,
+      "ResourceReferences": 19,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "analysis",
+      "EntryLine": 51,
+      "TotalLines": 91,
+      "ResourceReferences": 10,
+      "ReadDefault160CoversCompleteModule": true
+    },
+    {
+      "ModuleId": "framework",
+      "EntryLine": 40,
+      "TotalLines": 77,
+      "ResourceReferences": 17,
+      "ReadDefault160CoversCompleteModule": true
+    }
+  ],
+  "ResourceReferences": 259,
+  "UniqueDeepIds": 207,
+  "ConditionalHistoryIds": [
+    "H001",
+    "H002",
+    "H003",
+    "H004",
+    "H005",
+    "H006",
+    "H007",
+    "H008",
+    "H009",
+    "H010",
+    "H011",
+    "H012",
+    "H013",
+    "H014",
+    "H015",
+    "H016",
+    "H017",
+    "H018",
+    "H019",
+    "H020",
+    "H021",
+    "H022",
+    "H023",
+    "H024",
+    "H025",
+    "H026",
+    "H027",
+    "H028",
+    "H029",
+    "H030",
+    "H031",
+    "H032",
+    "H033",
+    "H034",
+    "H035",
+    "H036",
+    "H037",
+    "H038"
+  ],
+  "DeepLookupChecks": [
+    {
+      "TaskId": "L01-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L01-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L02-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L02-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L03-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L03-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L04-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L04-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L06-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L06-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L07-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L07-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L08-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L08-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L09-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L09-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L10-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L10-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L11-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L11-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L12-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L12-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L13-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L13-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L14-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L14-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L17-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L17-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L18-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L18-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L19-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L19-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L19-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L19-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L21-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L21-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L25-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L25-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L27-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L27-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L37-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L37-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L41-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L41-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L43-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L43-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L43-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L43-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L44-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L44-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L45-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L45-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L46-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L46-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L48-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L48-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L49-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L49-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L51-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L51-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L51-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L51-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L52-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L52-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L52-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L52-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L53-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L53-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L53-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L53-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L55-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L55-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L55-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L55-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L56-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L56-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L56-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L56-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L57-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L57-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L57-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L57-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L58-T0001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L58-T0001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L58-T0002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L58-T0002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "L58-T0003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/L58-T0003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC003-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC003-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC003-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC003-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC003-S009",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC003-S009.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC008-S009",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC008-S009.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC011-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC011-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC011-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC011-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC012-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC012-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC012-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC012-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC012-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC012-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S008",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S008.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S009",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S009.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S010",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S010.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S011",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S011.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S012",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S012.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S013",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S013.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC013-S014",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC013-S014.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S008",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S008.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC014-S009",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC014-S009.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC016-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC016-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC016-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC016-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC016-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC016-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC017-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC017-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC017-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC017-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC018-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC018-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC018-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC018-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC018-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC018-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC019-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC019-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC019-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC019-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC019-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC019-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC019-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC019-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC019-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC019-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC020-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC020-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC020-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC020-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC020-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC020-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC020-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC020-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC021-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC021-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC023-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC023-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC023-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC023-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC024-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC024-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC025-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC025-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC025-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC025-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC025-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC025-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC025-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC025-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC025-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC025-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC026-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC026-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC026-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC026-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC026-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC026-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC029-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC029-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC029-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC029-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC029-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC029-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC030-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC030-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC031-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC031-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC031-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC031-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC031-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC031-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC032-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC032-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC032-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC032-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC032-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC032-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC032-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC032-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC032-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC032-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC033-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC033-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC033-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC033-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC033-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC033-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC033-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC033-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC034-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC034-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC034-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC034-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC034-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC034-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC034-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC034-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC035-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC035-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC035-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC035-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC035-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC035-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC035-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC035-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC036-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC036-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC036-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC036-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC037-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC037-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC038-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC038-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC038-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC038-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC038-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC038-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC039-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC039-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC039-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC039-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC039-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC039-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC040-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC040-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC041-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC041-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC041-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC041-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC041-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC041-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC041-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC041-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC041-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC041-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC042-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC042-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC042-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC042-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC042-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC042-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC043-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC043-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC043-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC043-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC043-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC043-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC043-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC043-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC043-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC043-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC044-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC044-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC044-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC044-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC044-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC044-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC045-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC045-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC045-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC045-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC045-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC045-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC045-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC045-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC046-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC046-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC047-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC047-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC048-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC048-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC048-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC048-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC048-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC048-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC048-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC048-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC049-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC049-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC050-S007",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC050-S007.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S001",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S001.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S002",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S002.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S003",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S003.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S004",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S004.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S005",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S005.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    },
+    {
+      "TaskId": "SRC051-S006",
+      "ExitCode": 0,
+      "Log": ".local/第三项咨询入口检查/SRC051-S006.txt",
+      "ReusedAfterProtectedSourceHashCheck": true
+    }
+  ],
+  "DeepLookupLogsReusedAfterUnchangedContentCheck": true,
+  "Errors": [],
+  "Scope": "引用/位置/内容保护和检索，非创作演练、媒体生成或全部词条独立内容验收"
+}

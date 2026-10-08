@@ -1,0 +1,23 @@
+{
+  "HistoryId": "H031",
+  "SourceId": "SRC032",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 483,
+  "HistoricalOriginalNonemptyLines": 484,
+  "DifferenceLines": [
+    "--- SRC032原文\n",
+    "+++ H031原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    "-把剧本转成分镜的提示词",
+    "+影视剧本→AI分镜提示词",
+    "+2026-09-24",
+    "+阅读需要13分钟",
+    " 灵犀·剧本→AI视频分镜",
+    "@@ -482,2 +484 @@\n",
+    " 但绝不为了省事而偷偷改变用户的剧本。",
+    "-END"
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

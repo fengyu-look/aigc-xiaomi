@@ -1,0 +1,527 @@
+{
+  "Date": "2026-10-06",
+  "StageId": "P01",
+  "Status": "completed",
+  "PlannedCandidateCount": 1000,
+  "InventoryReviewedCandidates": 1000,
+  "IncludedAndWrittenAndAISelfReviewed": 1000,
+  "ExcludedWithEvidence": 0,
+  "RemainingCandidates": 0,
+  "FirstTaskId": "L01-T0063",
+  "LastTaskId": "L15-T0053",
+  "TaskPoints": [
+    {
+      "TaskPointId": "P01-N01",
+      "Status": "completed",
+      "Target": 334,
+      "Resolved": 334,
+      "Report": "docs/P01-N01_完成与检查.json"
+    },
+    {
+      "TaskPointId": "P01-N02",
+      "Status": "completed",
+      "Target": 333,
+      "Resolved": 333,
+      "Report": "docs/P01-N02_完成与检查.json"
+    },
+    {
+      "TaskPointId": "P01-N03",
+      "Status": "completed",
+      "Target": 333,
+      "Resolved": 333,
+      "Report": "docs/P01-N03_完成与检查.json"
+    }
+  ],
+  "BaselineCompletedOutsideStage": 62,
+  "CurrentGlobalWrittenAndSelfReviewed": 1062,
+  "RemainingGlobalCandidates": 2815,
+  "NextStageId": "P02",
+  "NextStageStatus": "planned",
+  "NextTaskPointId": "P02-N01",
+  "NextTaskPointStatus": "planned",
+  "NextPointTarget": 334,
+  "NextTaskId": "L15-T0054",
+  "NextTitle": "龙裔（Dragonborn）",
+  "NextPointLastTaskId": "L20-T0007",
+  "CoverageReport": "docs/P01_阶段覆盖核验.json",
+  "CoverageReportSHA256": "6E35789F30AF54770DB2DD7ED35535DCBC93C3DBACEEA243B07630B32C687214",
+  "CoverageEntries": 1000,
+  "ReviewDocuments": [
+    {
+      "Path": "docs/深度扩写审查_P01-N01_L01_0063-0120.md",
+      "SHA256": "aee0250b2f5d66cd87e6b3041b5997d07d05bcd3e3ea3258098b5461080c1961"
+    },
+    {
+      "Path": "docs/深度扩写审查_P01-N01_L02_0001-0064.md",
+      "SHA256": "a02807c488934a22b3e8a6b8be2ed929efbb6cbdd0f6ed2cb6e092b2696fd53a"
+    },
+    {
+      "Path": "docs/深度扩写审查_P01-N01_L03-L09_剩余212条.md",
+      "SHA256": "8ce54126927a86f0cc98e4fd9b99c70c0a4fa3b67632ac1eb30fa084bce8106b"
+    },
+    {
+      "Path": "docs/深度扩写审查_P01-N02_333条.md",
+      "SHA256": "91c3c4785b781de18c413c9ee0469a0dd697ce38d48acbb6e84199ef5767cc54"
+    },
+    {
+      "Path": "docs/深度扩写审查_P01-N03_333条.md",
+      "SHA256": "aafaba04dd032af351423d8435ffabe12fda0fa8c605370f9e4feaa9a59fa3f3"
+    }
+  ],
+  "ChecksReport": "docs/P01-N03_完成检查运行.json",
+  "Criteria": [
+    {
+      "Criterion": "固定1000候选纳入和版本/历史来源可追溯",
+      "Result": "passed",
+      "Evidence": "覆盖清单1000纳入，0排除；各任务点对读及逐条来源记录"
+    },
+    {
+      "Criterion": "独立内容、AI逐条审查与准确参数边界",
+      "Result": "passed",
+      "Evidence": "1000逐条内容/审查证据核验；本点333新五块和73关系计算，前两点采用原审查证据"
+    },
+    {
+      "Criterion": "稳定ID检索、原文与历史保持、索引准确",
+      "Result": "passed",
+      "Evidence": "1062逐条独立单段读取、112原文块、60TXT、38历史稿、698引用与SHA；原12库旧11段文字保留"
+    },
+    {
+      "Criterion": "适用项目检查与测试完成",
+      "Result": "passed",
+      "Evidence": "project无错误、14 tests通过、refresh dry-run零变更、全点与阶段覆盖通过"
+    },
+    {
+      "Criterion": "验收记录、剩余任务与断点保存",
+      "Result": "passed",
+      "Evidence": "下一P02-N01 planned；全局2815待办；源/历史全项目任务与实际生成边界独立记录"
+    }
+  ],
+  "LegacyInventoryEvidenceFieldsBackfilled": {
+    "Count": 58,
+    "TaskIds": [
+      "L01-T0063",
+      "L01-T0064",
+      "L01-T0065",
+      "L01-T0066",
+      "L01-T0067",
+      "L01-T0068",
+      "L01-T0069",
+      "L01-T0070",
+      "L01-T0071",
+      "L01-T0072",
+      "L01-T0073",
+      "L01-T0074",
+      "L01-T0075",
+      "L01-T0076",
+      "L01-T0077",
+      "L01-T0078",
+      "L01-T0079",
+      "L01-T0080",
+      "L01-T0081",
+      "L01-T0082",
+      "L01-T0083",
+      "L01-T0084",
+      "L01-T0085",
+      "L01-T0086",
+      "L01-T0087",
+      "L01-T0088",
+      "L01-T0089",
+      "L01-T0090",
+      "L01-T0091",
+      "L01-T0092",
+      "L01-T0093",
+      "L01-T0094",
+      "L01-T0095",
+      "L01-T0096",
+      "L01-T0097",
+      "L01-T0098",
+      "L01-T0099",
+      "L01-T0100",
+      "L01-T0101",
+      "L01-T0102",
+      "L01-T0103",
+      "L01-T0104",
+      "L01-T0105",
+      "L01-T0106",
+      "L01-T0107",
+      "L01-T0108",
+      "L01-T0109",
+      "L01-T0110",
+      "L01-T0111",
+      "L01-T0112",
+      "L01-T0113",
+      "L01-T0114",
+      "L01-T0115",
+      "L01-T0116",
+      "L01-T0117",
+      "L01-T0118",
+      "L01-T0119",
+      "L01-T0120"
+    ],
+    "Basis": "已有明确纳入理由、原逐条审查及本阶段全量来源/哈希/检索核验；未改旧内容或旧审查"
+  },
+  "SourcesStillRequiringWorkflowCompletion": [
+    {
+      "SourceId": "SRC001",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC002",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC003",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC004",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC005",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC006",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC007",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC008",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC009",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC010",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC011",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC012",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC013",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC014",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC015",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC016",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC017",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC018",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC019",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC020",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC021",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC022",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC023",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC024",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC025",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC026",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC027",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC028",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC029",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC030",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC031",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC032",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC033",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC034",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC035",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC036",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC037",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC038",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC039",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC040",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC041",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC042",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC043",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC044",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC045",
+      "Status": "partial_review"
+    },
+    {
+      "SourceId": "SRC046",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC047",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC048",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC049",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC050",
+      "Status": "pending"
+    },
+    {
+      "SourceId": "SRC051",
+      "Status": "pending"
+    }
+  ],
+  "HistoricalPromptsStillRequiringOverallCompletion": [
+    {
+      "HistoryId": "H001",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H002",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H003",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H004",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H005",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H006",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H007",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H008",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H009",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H010",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H011",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H012",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H013",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H014",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H015",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H016",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H017",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H018",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H019",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H020",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H021",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H022",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H023",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H024",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H025",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H026",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H027",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H028",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H029",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H030",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H031",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H032",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H033",
+      "Status": "partial_review"
+    },
+    {
+      "HistoryId": "H034",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H035",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H036",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H037",
+      "Status": "pending"
+    },
+    {
+      "HistoryId": "H038",
+      "Status": "partial_review"
+    }
+  ],
+  "ConsultationModuleCount": 15,
+  "FullTaskComplete": false,
+  "ExternalGenerationPerformed": false,
+  "Scope": "完成第一阶段1000编号候选的文本扩写、AI自审、来源相关采用、检索与适用检查；不宣称1000唯一术语、独立人工科学审定或实际模型效果验证"
+}

@@ -1,0 +1,291 @@
+{
+  "Date": "2026-10-06",
+  "Stage": "P04-N03 drafting",
+  "ReadScope": "57T22—50、58/59/60各50、61全部92原字段实际已读；57应用层在N02读，58—61应用层本点读。歴史稿仍按既有实际部分不冒全38。",
+  "Sources": [
+    {
+      "Key": "ART01",
+      "URL": "https://artsandculture.google.com/asset/silk-painting-featuring-figure-dragon-and-phoenix-unknown/HwG6Zd5DLqw31Q?hl=zh-cn",
+      "ActuallyReadAndUsedScope": "馆藏方供稿文字检索段，战国帛画/1949长沙陈家大山楚墓；open为90行元数据，find未命中中文，不冒实际看图"
+    },
+    {
+      "Key": "ART02",
+      "URL": "https://www.metmuseum.org/perspectives/terracotta-warriors-age-of-empires",
+      "ActuallyReadAndUsedScope": "馆方全文可见段，秦陶俑/文官将军图注/制作方法有不同观点；未观看展览或研究复制"
+    },
+    {
+      "Key": "ART03",
+      "URL": "https://www.dpm.org.cn/journal/257041.html",
+      "ActuallyReadAndUsedScope": "研究摘要及年代段，宫山墓南朝5世纪可能性与图像传播；未读完整PDF/未看拓片"
+    },
+    {
+      "Key": "ART04",
+      "URL": "https://www.sxhm.com/collections/detail/509.html",
+      "ActuallyReadAndUsedScope": "藏品介绍可见文字，1驼8人/7男坐1女立/高束腰长裙/舞台艺术处理；未看实物或图像细部"
+    },
+    {
+      "Key": "ART05",
+      "URL": "https://www.dpm.org.cn/collection/paint/228226.html",
+      "ActuallyReadAndUsedScope": "藏品开头与三段描述，北宋张择端/新00087177/汴京汴河；未遍览全画或精量"
+    },
+    {
+      "Key": "ART05B",
+      "URL": "https://minghuaji.dpm.org.cn/paint/detail?id=592d80e225aac624977fee2e19452c1f&topicType=12",
+      "ActuallyReadAndUsedScope": "馆方正文可见，木虹桥/城门/店牌形制描述；不是已逐像素辨认全部衣帽"
+    },
+    {
+      "Key": "ART06",
+      "URL": "https://www.metmuseum.org/ja/essays/ming-dynasty-1368-1644",
+      "ActuallyReadAndUsedScope": "概述首段及对象卡可见，15世纪狮纹补子；不冒完整明官服品级考据"
+    },
+    {
+      "Key": "ART07",
+      "URL": "https://www.metmuseum.org/art/collection/search/50487",
+      "ActuallyReadAndUsedScope": "find shou实际返回11—12行，17世纪宫廷袍、龙寿字与庆寿语境，颈袖后加；未复原裁片"
+    },
+    {
+      "Key": "ART08",
+      "URL": "https://www.metmuseum.org/exhibitions/listings/2015/china-through-the-looking-glass/exhibition-galleries",
+      "ActuallyReadAndUsedScope": "展区文字可见，1930年代胡蝶旗袍；未逐件核衣年代或观看展览"
+    },
+    {
+      "Key": "ART09",
+      "URL": "https://www.metmuseum.org/art/collection/search/463023",
+      "ActuallyReadAndUsedScope": "对象详情可见，卢卡14世纪丝金线织锦07.243.4；碎片不等整衣版型"
+    },
+    {
+      "Key": "ART10",
+      "URL": "https://www.uffizi.it/en/artworks/men-s-suite-cerimonial-dress",
+      "ActuallyReadAndUsedScope": "检索可见对象名/1860—69/羊毛燕尾服，不冒看详细制版图"
+    },
+    {
+      "Key": "ART11",
+      "URL": "https://whc.unesco.org/en/list/1114",
+      "ActuallyReadAndUsedScope": "可见简介与综述，晚商安阳夯土基址/木构遗存；未读全提名卷或测绘"
+    },
+    {
+      "Key": "ART12",
+      "URL": "https://www.metmuseum.org/art/collection/search/44320",
+      "ActuallyReadAndUsedScope": "藏品说明与对象字段，东汉陶磨明器1994.605.19/绿铅釉/尺寸12.1×22.1×18.4cm；实屋比例未知"
+    },
+    {
+      "Key": "ART13",
+      "URL": "https://whc.unesco.org/en/list/1039",
+      "ActuallyReadAndUsedScope": "简介/综述可见，北魏云冈5世纪中至6世纪初；未看具体窟像或全提名PDF"
+    },
+    {
+      "Key": "ART14",
+      "URL": "https://www.dpm.org.cn/explore/building/236465.html",
+      "ActuallyReadAndUsedScope": "可见建筑正文，1420奉天殿/1562皇极殿/1645太和殿/1695后形制；补查重建页见下条"
+    },
+    {
+      "Key": "ART14B",
+      "URL": "https://www.dpm.org.cn/subject_600/buildingdetails/253792.html",
+      "ActuallyReadAndUsedScope": "重建正文实际可见，1695动工两年完成；不把1695当竣工准确日"
+    },
+    {
+      "Key": "ART15",
+      "URL": "https://whc.unesco.org/en/list/880",
+      "ActuallyReadAndUsedScope": "find1750实际可见法/西/俄摘要1750、1860、1886及英文综述1750—1764；同页日文/阿文年代不一致需另核，未用全部语种当一致结论"
+    },
+    {
+      "Key": "ART16",
+      "URL": "https://whc.unesco.org/en/list/404/",
+      "ActuallyReadAndUsedScope": "简介与综述检索可见，雅典卫城前5世纪伯里克利建筑项目；未读柱色/尺寸专项"
+    },
+    {
+      "Key": "ART17",
+      "URL": "https://whc.unesco.org/en/list/81",
+      "ActuallyReadAndUsedScope": "正文可见，沙特尔1145/1194后26年重建与12—13世纪玻璃；未核每扇窗"
+    },
+    {
+      "Key": "ART18",
+      "URL": "https://publications.parliament.uk/pa/jt201617/jtselect/jtpow/41/4103.htm",
+      "ActuallyReadAndUsedScope": "官方委员会开头可见，今日宫多1834火后、保留中世纪部分；原报告历史材料非2026维修状态"
+    },
+    {
+      "Key": "ART19",
+      "URL": "https://www.chnmuseum.cn/zp/zpml/csp/202008/t20200826_247355.shtml",
+      "ActuallyReadAndUsedScope": "馆藏正文可见，晚商圆鼎/铭在内壁近口/传出土；身份推测不冒确证"
+    },
+    {
+      "Key": "ART19B",
+      "URL": "https://www.chnmuseum.cn/zl/zlhg/201812/t20181220_32171.shtml",
+      "ActuallyReadAndUsedScope": "商西周鼎展正文可见，用鼎等级与图案年代不同；未查具体某贵族全组合"
+    },
+    {
+      "Key": "ART20",
+      "URL": "https://www.dpm.org.cn/collection/ceramic/226752.html",
+      "ActuallyReadAndUsedScope": "故00145444正文可见，高12.9/口18/底17.8cm/三足直口淡天青开片；底径与展览记录冲突"
+    },
+    {
+      "Key": "ART20B",
+      "URL": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=9404",
+      "ActuallyReadAndUsedScope": "可见高12.9/口18/底12.8cm，与ART20底径不一；保留冲突未强统一"
+    },
+    {
+      "Key": "ART21",
+      "URL": "https://www.metmuseum.org/fr/art/collection/search/39666",
+      "ActuallyReadAndUsedScope": "对象字段检索可见，宣德款期1426—35龙罐/钴蓝釉下；未查完整尺寸或实际看纹"
+    },
+    {
+      "Key": "ART22",
+      "URL": "https://www.metmuseum.org/art/collection/search/50776",
+      "ActuallyReadAndUsedScope": "对象全文字段可见，65.86.5雍正1723—35粉彩碗5.7cm高11.4口；未建模"
+    },
+    {
+      "Key": "ART23",
+      "URL": "https://www.metmuseum.org/art/collection/search/247493",
+      "ActuallyReadAndUsedScope": "对象正文及字段可见，阿提卡油瓶06.1075前440—430、兔解释不确定；未浏览全器图"
+    },
+    {
+      "Key": "ART24",
+      "URL": "https://www.metmuseum.org/art/collection/search/468622",
+      "ActuallyReadAndUsedScope": "对象全文可见，早14世纪法绣袋64.101.1364/丝麻金箔/赠花或戒指不确定/14×15.2cm"
+    },
+    {
+      "Key": "ART25",
+      "URL": "https://www.metmuseum.org/art/collection/search/202166",
+      "ActuallyReadAndUsedScope": "对象正文可见，法国约1770音乐座钟与MARTRE A BORDEAUX签款；未听原乐"
+    },
+    {
+      "Key": "ART25B",
+      "URL": "https://www.metmuseum.org/art/collection/search/345621",
+      "ActuallyReadAndUsedScope": "对象全文可见约1781—85设计稿，非实体尺寸或当代产品规格"
+    },
+    {
+      "Key": "ART26",
+      "URL": "https://postalmuseum.si.edu/exhibition/pacific-exchange-china-and-us-mail-commerce/commerce-the-qing-dynasty",
+      "ActuallyReadAndUsedScope": "馆方简介可见商贸通信与1849封件标题，未读封内信件"
+    },
+    {
+      "Key": "ART27",
+      "URL": "https://www.britishmuseum.org/blog/historical-city-travel-guide-athens-5th-century-bc",
+      "ActuallyReadAndUsedScope": "可见市民集会资格段，前5世纪雅典排除女性/外来居民/奴隶；未推罗马共和同制"
+    },
+    {
+      "Key": "ETH01",
+      "URL": "https://www.ncac.gov.cn/xxfb/flfg/flfg_532/202103/t20210309_50530.html",
+      "ActuallyReadAndUsedScope": "实际open189—315行重点24/26/29条范围和许可字段；不把个人教育研究用途自动认证免责"
+    },
+    {
+      "Key": "ETH02",
+      "URL": "https://www.cac.gov.cn/2021-08/20/c_1631050028355286.htm",
+      "ActuallyReadAndUsedScope": "实际open76—169行、3—23条范围/最小必要/13多种基础/同意撤回等；未核所有个人数据跨境/敏感条款"
+    },
+    {
+      "Key": "ETH03",
+      "URL": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+      "ActuallyReadAndUsedScope": "实际open60—114行2—10条，服务与平台/用户发布职责、显隐标识分开；14生效日先前检索可见，未发布本例"
+    },
+    {
+      "Key": "ETH04",
+      "URL": "https://www.who.int/publications/i/item/preventing-suicide-a-resource-for-filmmakers-and-others-working-on-stage-and-screen",
+      "ActuallyReadAndUsedScope": "2019影视资源概述实际可见，求助与度过危机/不准确描写风险；28页PDF未全读，不冒临床或全指南验收"
+    },
+    {
+      "Key": "ETH05",
+      "URL": "https://www.who.int/news/item/12-09-2023-who-launches-new-resources-on-prevention-and-decriminalization-of-suicide",
+      "ActuallyReadAndUsedScope": "可见2023新闻说明避免方法细节/煽情/正常化、恢复希望；不变医疗处置指南"
+    },
+    {
+      "Key": "TECH01",
+      "URL": "https://help.autodesk.com/cloudhelp/2026/ENU/NETF/files/GUID-CCEA9C88-4647-4598-9F4D-07454389F34F.htm",
+      "ActuallyReadAndUsedScope": "打印网格条件检索可见，封闭/方向/自交/非流形检查；未运行打印软件"
+    },
+    {
+      "Key": "TECH02",
+      "URL": "https://www.media.mit.edu/spi/scrap_holovideo/holovideo.html",
+      "ActuallyReadAndUsedScope": "历史研究概述可见，3D数值到全息条纹，不用普通转台片冒全息、不是当代设备规格"
+    },
+    {
+      "Key": "TECH03",
+      "URL": "https://registry.khronos.org/OpenXR/specs/1.1-khr/pdf/xrspec.pdf",
+      "ActuallyReadAndUsedScope": "仅搜索节12.30.3实际可见，眼动支持旗标/追踪有效位/+Y上+X右-Z前；未整本读取/未测试SDK"
+    },
+    {
+      "Key": "TECH04",
+      "URL": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=5560",
+      "ActuallyReadAndUsedScope": "仅特定疼痛行为疗法VR器械分类正文可见，不推出全部VR治病；本片非医疗产品"
+    },
+    {
+      "Key": "FILM01",
+      "URL": "https://www.bfi.org.uk/news/michael-snow-obituary-canadian-giant-experimental-cinema",
+      "ActuallyReadAndUsedScope": "作者/structural film与若干运镜形式段检索可见；不把结构电影等同哲学结构主义，不冒看片"
+    },
+    {
+      "Key": "FILM02",
+      "URL": "https://www.moma.org/explore/inside_out/2010/04/13/the-french-avant-garde-of-the-1920s/",
+      "ActuallyReadAndUsedScope": "全文可见Entr'acte1924达达场景、Buñuel/Dali合作超现实主义、非叙事诗性；未看片"
+    },
+    {
+      "Key": "FILM03",
+      "URL": "https://assets.moma.org/documents/moma_catalogue_2748_300086869.pdf",
+      "ActuallyReadAndUsedScope": "仅检索页167段Eggeling/Richter及抽象电影两类，不冒全书阅读或绝对电影均需音乐"
+    },
+    {
+      "Key": "FILM11",
+      "URL": "https://www.bfi.org.uk/features/love-longing-through-lens-french-new-wave",
+      "ActuallyReadAndUsedScope": "Breathless1960小节跳切与长室内段可见，不把所有新浪潮统一技术"
+    },
+    {
+      "Key": "FILM12",
+      "URL": "https://www.bfi.org.uk/features/100-years-cabinet-dr-caligari",
+      "ActuallyReadAndUsedScope": "正文可见1920表现主义、主观情绪与外部造型/框架歧义；未看片"
+    },
+    {
+      "Key": "FILM13",
+      "URL": "https://www.bfi.org.uk/film/594f7408-2fdd-55a0-a347-79370e42e0ed/bicycle-thieves",
+      "ActuallyReadAndUsedScope": "馆方片页全文可见，1948新现实主义/非职业演员/街头社会题材；不冒所有此流派纯自然光"
+    },
+    {
+      "Key": "FILM14",
+      "URL": "https://www.bfi.org.uk/news/japanese-master-nagisa-oshima-dies",
+      "ActuallyReadAndUsedScope": "可见大岛1960s日本新浪潮及1976感官世界、后续作品；只借社会形式探索不生成露骨镜头"
+    },
+    {
+      "Key": "FILM16",
+      "URL": "https://www.bfi.org.uk/film/a3bddf65-080f-5e6e-885c-3d6333deb813/momma-dont-allow",
+      "ActuallyReadAndUsedScope": "全文可见1956自由电影首节目/1959结束/后来英国新浪潮分开，使用Momma Don't Allow明确例"
+    },
+    {
+      "Key": "FILM17",
+      "URL": "https://www.bfi.org.uk/lists/10-great-cinema-novo-films",
+      "ActuallyReadAndUsedScope": "可见首段及1962—71例，1960s运动与黑神白魔1964；城市之神2002在另BFI2024榜单，不改原文而补分类边界"
+    },
+    {
+      "Key": "FILM17B",
+      "URL": "https://www.bfi.org.uk/lists/10-great-brazilian-films",
+      "ActuallyReadAndUsedScope": "可见首段城市之神2002和1960—70sCinemaNovo区分；不冒整片分析"
+    },
+    {
+      "Key": "FILM18",
+      "URL": "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time/all-voters/nicola-marzano",
+      "ActuallyReadAndUsedScope": "投票人原文观点段可见Solanas/Getino与The Hour of Furnaces1968/第三电影概念；不是该宣言全文"
+    },
+    {
+      "Key": "FILM19",
+      "URL": "https://www.bfi.org.uk/sight-and-sound/features/greatest-film-all-time-jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
+      "ActuallyReadAndUsedScope": "可见论Jeanne Dielman与日常形式/影响片段，未完整看片或全性别理论评价"
+    },
+    {
+      "Key": "FILM20",
+      "URL": "https://shop.bfi.org.uk/frantz-fanon-black-skin-white-mask-dual-format-edition/",
+      "ActuallyReadAndUsedScope": "正文及字段可见Julien/Nash、重现/采访/档案，1995与BFIPlayer1997字段有差异，记录不硬统一"
+    },
+    {
+      "Key": "ACCESS01",
+      "URL": "https://www.w3.org/WAI/WCAG22/Techniques/general/G15",
+      "ActuallyReadAndUsedScope": "实际可见闪光阈值需工具检查/告示不替代修正；仅网页技术指南不保证所有观众医学安全"
+    }
+  ],
+  "Unresolved": [
+    "ART20/20B底径冲突",
+    "ART15同页语种年代差异",
+    "FILM20制作/发行年份字段差异",
+    "多数礼仪手型与历史官制未专项考证、示例已标设计/待核",
+    "新草稿尚未完整自审/接入/登记",
+    "51源/38历史/15演练/旧3053扩大内容审仍在任务范围"
+  ],
+  "ScopeLimit": "逐项可见段阅读；不是整网站/整PDF/所有历史细节已验或媒体效果已验"
+}

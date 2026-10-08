@@ -1,0 +1,810 @@
+{
+  "Date": "2026-10-07",
+  "Scope": "固定36份来源工作流/版本映射",
+  "FixedSourceIds": [
+    "SRC011",
+    "SRC012",
+    "SRC015",
+    "SRC016",
+    "SRC017",
+    "SRC018",
+    "SRC019",
+    "SRC020",
+    "SRC021",
+    "SRC022",
+    "SRC023",
+    "SRC024",
+    "SRC025",
+    "SRC026",
+    "SRC028",
+    "SRC029",
+    "SRC031",
+    "SRC032",
+    "SRC033",
+    "SRC034",
+    "SRC035",
+    "SRC036",
+    "SRC037",
+    "SRC038",
+    "SRC039",
+    "SRC040",
+    "SRC041",
+    "SRC042",
+    "SRC043",
+    "SRC044",
+    "SRC045",
+    "SRC046",
+    "SRC047",
+    "SRC048",
+    "SRC050",
+    "SRC051"
+  ],
+  "Items": [
+    {
+      "SourceId": "SRC011",
+      "Name": "剪辑与蒙太奇库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/07_剪辑与后期/剪辑与蒙太奇库_原文与应用扩写.md",
+      "Sections": [
+        "SRC011-S001",
+        "SRC011-S002"
+      ],
+      "Coverage": "20条×四字段逐条映射；应用层输入/选择/参数/例子/异议/联动见S001—S002",
+      "Example": "SRC011-S002及映射表深度实例",
+      "Comparison": "docs\\P04-N03_SRC011_20条三版字段对读.json",
+      "ActualSemanticReview": "实际核对20条80字段、9处三版差异及端点矛盾；完整实例复用L07-T0001并补足出入点、声轨、末态及下游饮水交接。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC015",
+      "Name": "色彩与色调库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/色彩与色调库_原文与应用扩写.md",
+      "Sections": [
+        "SRC015-S001",
+        "SRC015-S002"
+      ],
+      "Coverage": "18条×四字段逐条映射；应用层输入/选择/参数/例子/异议/联动见S001—S002",
+      "Example": "SRC015-S002及映射表深度实例",
+      "Comparison": "docs\\P04-N03_SRC015_18条三版字段对读.json",
+      "ActualSemanticReview": "实际审读18条72字段及4处差异，发现并显式纠正复用L05-T0013的105%占比；采用暖色完整例子时核对动作/配色/单位和WB边界。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC012",
+      "Name": "角色设计库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/角色设计库_原文与应用扩写.md",
+      "Sections": [
+        "SRC012-S001",
+        "SRC012-S002"
+      ],
+      "Coverage": "80条、320个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC012-S002（既有L14-T0071全文已读）",
+      "Comparison": "docs/工作流补齐_SRC012_版本覆盖.json",
+      "ActualSemanticReview": "独立稿80条四字段共320项。第2条桃花眼“多情”在合集省略，只保留为作者的造型联想，不能由眼形断定人格。第9条合集“矮小于150cm”表述不清，采用独立稿矮小<150cm；150/160/175/190/210端点应在项目身份卡明确，不能改变实际厘米值。儿童头身1:4—1:5和各年龄分组保留为原文设计范围。疤痕、耳型、发型的斜杠表示备选，不要求同时叠加。第13条位置/形状选项按独立稿拆开。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC016",
+      "Name": "身体语言库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/05_人物表演与动作/身体语言库_原文与应用扩写.md",
+      "Sections": [
+        "SRC016-S001",
+        "SRC016-S002"
+      ],
+      "Coverage": "100条、400个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC016-S002（既有L11-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC016_版本覆盖.json",
+      "ActualSemanticReview": "100条四字段400项。独立稿闭合姿态的非完全正面朝向、权力站姿肘向外、前倾站姿不贴身体、战斗侧身一前一后等被简写；采用独立稿完整动作条件作为可选细化。第17条握拳“不是包在手指里”、第19条掌面接触等不能被简写吞掉。第44条5—15的移位只是语序变化。第55条关节部位仍是肘/膝/髋。生理、中毒、临终等只是表演文本，不作为医疗判断或真实动作实验。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC017",
+      "Name": "声画关系库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/07_剪辑与后期/声画关系库_原文与应用扩写.md",
+      "Sections": [
+        "SRC017-S001",
+        "SRC017-S002"
+      ],
+      "Coverage": "20条、80个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC017-S002（既有L08-T0004全文已读）",
+      "Comparison": "docs/工作流补齐_SRC017_版本覆盖.json",
+      "ActualSemanticReview": "20条四字段80项。独立稿同步误差<0.1秒在合集省略，本次保留为验收设计目标；24fps若整帧对齐，2帧≈0.083秒满足、3帧0.125秒不满足，未实测口型不得标通过。第20条对话重叠的“默契打断”被略去，按关系语境采用，不能将所有重叠都解释成争吵。声音前后置0.5—2秒不改变归属场景。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC018",
+      "Name": "声音设计库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/声音设计库_原文与应用扩写.md",
+      "Sections": [
+        "SRC018-S001",
+        "SRC018-S002"
+      ],
+      "Coverage": "80条、320个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC018-S002（既有L19-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC018_版本覆盖.json",
+      "ActualSemanticReview": "80条四字段320项；独立稿括号中风/脚步/动作材质等主要改成“为”，保持对象对应关系。第16条“机器异常”情绪功能在合集缺失，需有剧情中的异常依据才能使用，不把任何机械声都做故障音。声音层、节奏、声音母题和收尾仍由作品事件决定；所有音量要注明轨道相对增益、声压或目标响度，不能互换。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC020",
+      "Name": "微表情库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/05_人物表演与动作/微表情库_原文与应用扩写.md",
+      "Sections": [
+        "SRC020-S001",
+        "SRC020-S002"
+      ],
+      "Coverage": "106条、424个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC020-S002（既有L13-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC020_版本覆盖.json",
+      "ActualSemanticReview": "106条四字段424项。真实微笑的≥在合集变为“高于等于”的文字，本新增层保留数学符号意义；原文无法伪装等绝对心理判断不作执行事实。独立稿第38条自然表情0.3秒对照、第48条正常强度20—40%、第66条头部左右3—5°、第80条嘴角3°残留在简写中省略，参数照原文保存为表演标尺。第104条觉醒/信息处理/准备说话三段需与对白顺序绑定；97—106无同编号旧历史项不伪称已历史对读。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC021",
+      "Name": "叙事结构库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/叙事结构库_原文与应用扩写.md",
+      "Sections": [
+        "SRC021-S001",
+        "SRC021-S002"
+      ],
+      "Coverage": "60条、240个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC021-S002（既有L18-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC021_版本覆盖.json",
+      "ActualSemanticReview": "60条四字段240项。三幕Act1—3与第一—三幕同义；英雄旅程序号虽被改成叙述，十二阶段顺序保留。独立稿多线相遇/事件关联、时间码/色调标记和《罗生门》举例被略，作为备选保留，影视作品标题不作完整作品分析。第23条合集“䏻”是原字形异常，新增层用“能”表达，不改原文。叙事阶段需事件造成下一状态，不能只按时长贴标签。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC023",
+      "Name": "运镜语言库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/运镜语言库_原文与应用扩写.md",
+      "Sections": [
+        "SRC023-S001",
+        "SRC023-S002"
+      ],
+      "Coverage": "120条、480个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC023-S002（既有L01-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC023_版本覆盖.json",
+      "ActualSemanticReview": "120条四字段480项。±改正负、度数改“度”不更改方向范围；第44条“高于等于”沿用≥口径。第105条合集漏掉“虚拟”，本例按虚拟机位设计，不能当成现实相机能穿透对象的设备能力。其余动作/时长/速度的括号简化不删数值，镜头运动、焦距变化、主体位移分开记。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC024",
+      "Name": "AI反题示词库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/04_视频生成提示词/AI反题示词库_原文与应用扩写.md",
+      "Sections": [
+        "SRC024-S001",
+        "SRC024-S002"
+      ],
+      "Coverage": "60条、300个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC024-S002（既有L17-T0003全文已读）",
+      "Comparison": "docs/工作流补齐_SRC024_版本覆盖.json",
+      "ActualSemanticReview": "60条每条五字段：定义、反提示词、适用模型、严重程度、典型场景，共300项。其“所有AI模型”只记来源覆盖说法，不宣称今天每个接口都支持独立负提示。第4条异常瞳孔的过大/过小/形状怪异、第28条招牌标签例子在简写中省略，按独立稿保留；第27条不对称、第56条瞬移都带“除非有意”，不得把剧情需要和固定左颊痣当失败。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC026",
+      "Name": "12、眼睛语言库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/05_人物表演与动作/12、眼睛语言库_原文与应用扩写.md",
+      "Sections": [
+        "SRC026-S001",
+        "SRC026-S002"
+      ],
+      "Coverage": "105条、420个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC026-S002（既有L12-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC026_版本覆盖.json",
+      "ActualSemanticReview": "105条四字段420项与当前库逐字一致。无新增版本参数，直接复用L12稳定ID，保留直视、偏视、眨眼、湿润与复合动作区分。原文眼神情绪只是表演选择，不凭单次瞳孔/眨眼诊断真实人物。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC028",
+      "Name": "19、声音设计库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/19、声音设计库_原文与应用扩写.md",
+      "Sections": [
+        "SRC028-S001",
+        "SRC028-S002"
+      ],
+      "Coverage": "80条、320个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC028-S002（既有L19-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC028_版本覆盖.json",
+      "ActualSemanticReview": "80条四字段320项与当前L19逐字一致；与SRC018为同库不同文本版本。SRC018第16条独有机器异常用途已明确条件；当前本源没有该追加语，不自行补成所有机械音必异常。全部声音制作复用同一现有深度层，避免重复维护。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC029",
+      "Name": "25、群体行为与人群调度库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/05_人物表演与动作/25、群体行为与人群调度库_原文与应用扩写.md",
+      "Sections": [
+        "SRC029-S001",
+        "SRC029-S002"
+      ],
+      "Coverage": "60条、240个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC029-S002（既有L25-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC029_版本覆盖.json",
+      "ActualSemanticReview": "60条四字段240项与当前库逐字一致。人群入口、分组、避碰、情绪传播是条件，不把人群全部移到一个点。计数与组别ID随分镜保持，不能用同一密度词替代实际站位。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC031",
+      "Name": "36、仙侠手诀法术库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/08_特效与仙侠打斗/36、仙侠手诀法术库_原文与应用扩写.md",
+      "Sections": [
+        "SRC031-S001",
+        "SRC031-S002"
+      ],
+      "Coverage": "300条、1500个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC031-S002（既有L36-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC031_版本覆盖.json",
+      "ActualSemanticReview": "300个有定义条目、每条五字段1500项与当前库一致；另30条反提示、6套中英模板、10个继续扩展建议须单独识别。索引340候选=300词条+30负提示+10建议；6套模板不在这340内。结构总览列40+50+60+50+40+40+30+30=400，与实际编号1—300不一致，保留原总览，执行按实际300条，不声称已添100条。模板只是组合入口，十子库为建议，不冒称已另建十库；现实文化名称仅虚构视觉参考。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。\nR01—R09集中整改依赖核对：R05: 已读五个既有深度段，核对8/12/8/16/12秒和终态。模板三12把为前景采样，不替换原万剑总数；模板一和300条原映射保留，未再造五长例。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R05": {
+          "Positions": [
+            "SRC031-S002"
+          ],
+          "ActualChange": "五套模板分别定位L36-T0288/L36-T0299/L36-T0296/L36-T0224/L36-T0300，给实际文件链接、稳定ID、选择条件及破损/飞行/离界终态。",
+          "DependencyReview": "已读五个既有深度段，核对8/12/8/16/12秒和终态。模板三12把为前景采样，不替换原万剑总数；模板一和300条原映射保留，未再造五长例。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC039",
+      "Name": "特效库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/08_特效与仙侠打斗/特效库_原文与应用扩写.md",
+      "Sections": [
+        "SRC039-S001",
+        "SRC039-S002"
+      ],
+      "Coverage": "200条、800个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC039-S002（既有L10-T0001全文已读）",
+      "Comparison": "docs/工作流补齐_SRC039_版本覆盖.json",
+      "ActualSemanticReview": "200条四字段800项。独立稿水幕“阻力”和界面例子在合集省略，选用相应条目时保留条件；1/4=四分之一、公里/h=每小时不更换速度单位。气劲5—10m/s、护体1—5cm、蓄力1—5秒均为虚构效果设计，不借数值宣称现实法术。全部类型由已有L10深度例子承担，不再造200个流程。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC042",
+      "Name": "武学打斗库",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/08_特效与仙侠打斗/武学打斗库_原文与应用扩写.md",
+      "Sections": [
+        "SRC042-S001",
+        "SRC042-S002"
+      ],
+      "Coverage": "108条、432个实际字段；逐条深度映射S001，既有应用使用闭环与完整例S002",
+      "Example": "SRC042-S002（既有L09-T0076全文已读）",
+      "Comparison": "docs/工作流补齐_SRC042_版本覆盖.json",
+      "ActualSemanticReview": "108条四字段432项。独立稿大量动作、武器尺寸和表现被合集省略，采用完整独立字段作为条件补充：轻功3—10m、点穴0.1—0.3秒、虚影0.5—2秒、迷踪5—15步；匕首10—30cm、锤10—50kg、杖2—2.5m、短笔20—30cm、枪2—4m；对峙2—5m、试探30—50%、蓄势0.5—2秒、同出招差<0.5秒、阵型18人或变体均保留为本稿设计标尺。枪/矛/拳法和穴位功效不是现实能力认证。第24条挥剑与合集挥刀是实质武器差异，按项目锁定武器选一，不在同镜切换；第79条合集增加决定战局、第81条增加镜头和轻音乐，不强制每次都如此。 完整复用例已核对输入/选择/执行/声音/末态/下游，数值为设计，不冒充实际素材。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC019",
+      "Name": "提取故事剧本中的人物场景道具的提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/提取故事剧本中的人物场景道具的提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC019-S001",
+        "SRC019-S002",
+        "SRC019-S003",
+        "SRC019-S004",
+        "SRC019-S005"
+      ],
+      "Coverage": "12成功标准、15提取规则、三实体字段及三层防护→S001—S005逐项对应",
+      "Example": "SRC019-S001—S005完整原创石院输入及输出",
+      "Comparison": "SRC036/SRC040共用实例，版本决策见其S001",
+      "ActualSemanticReview": "三份完整原文实际读取；识别5/10视角、阶段条件、纯固定场景、实体代码块与四视排版差异。例逐项核对9维人物/地图/5视图/6维道具；纠正原点标记、净距、视角焦距与补设事实边界。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC036",
+      "Name": "角色场景道具提取",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/角色场景道具提取_原文与应用扩写.md",
+      "Sections": [
+        "SRC036-S001",
+        "SRC036-S002"
+      ],
+      "Coverage": "6成功标准、11规则/三实体字段/10视图三字段/三层防护→S001—S002及SRC019完整卡；9宫格与第10视图矛盾已处理",
+      "Example": "SRC036-S002与SRC019-S001—S005准确相容复用",
+      "Comparison": "三源5/10视角、阶段拆分、纯净场景差异见各S001",
+      "ActualSemanticReview": "三份完整原文实际读取；识别5/10视角、阶段条件、纯固定场景、实体代码块与四视排版差异。例逐项核对9维人物/地图/5视图/6维道具；纠正原点标记、净距、视角焦距与补设事实边界。 6成功标准、11规则/三实体字段/10视图三字段/三层防护→S001—S002及SRC019完整卡；9宫格与第10视图矛盾已处理",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC040",
+      "Name": "提取角色场景道具生成提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/提取角色场景道具生成提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC040-S001",
+        "SRC040-S002"
+      ],
+      "Coverage": "10成功标准、13提取规则及三实体全字段→本源S001—S002和SRC019-S001—S005；5视图/两排版完整复用",
+      "Example": "SRC040-S002与SRC019-S001—S005准确相容复用",
+      "Comparison": "三源5/10视角、阶段拆分、纯净场景差异见各S001",
+      "ActualSemanticReview": "三份完整原文实际读取；识别5/10视角、阶段条件、纯固定场景、实体代码块与四视排版差异。例逐项核对9维人物/地图/5视图/6维道具；纠正原点标记、净距、视角焦距与补设事实边界。 10成功标准、13提取规则及三实体全字段→本源S001—S002和SRC019-S001—S005；5视图/两排版完整复用",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC025",
+      "Name": "AI生成优质剧本提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/AI生成优质剧本提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC025-S001",
+        "SRC025-S002",
+        "SRC025-S003",
+        "SRC025-S004",
+        "SRC025-S005"
+      ],
+      "Coverage": "需求/六步/6成功标准/6格式字段/12自检/篇幅/迭代→S001—S005",
+      "Example": "SRC025-S001—S005完整原创输入、两小传、三场正文和交接",
+      "Comparison": "SRC050事实改编与本源原创剧本目的不同，相容例共用但权限分开",
+      "ActualSemanticReview": "完整来源已读，A/B与完整/正文开关、六步调用、12项自检等已映射；实际例完整三场、实数38个汉字对白、伏笔及五道具末态，120秒为设计叙事、加工明示省略。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC050",
+      "Name": "GPT故事原文转影视剧本提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/GPT故事原文转影视剧本提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC050-S001",
+        "SRC050-S002",
+        "SRC050-S003",
+        "SRC050-S004",
+        "SRC050-S005"
+      ],
+      "Coverage": "46节逐组对应S005覆盖表；十数据库实际字段S002、双轨S001、QA/修改S004",
+      "Example": "SRC050-S001原创原著+SRC025-S004完整三场正文（适配120秒）",
+      "Comparison": "原创与改编区别；SRC025提供成品，不继承其默认忽略原著权限",
+      "ActualSemanticReview": "完整46节实际读完；十数据库含未知字段不编造、A/B轨与F0—5/P0—3分开，四事件三场五道具逐项有账；原著承认句保持，QA15项及局部传播具体可查。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC032",
+      "Name": "把剧本转成分镜的提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/把剧本转成分镜的提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC032-S001",
+        "SRC032-S002",
+        "SRC032-S003"
+      ],
+      "Coverage": "32节原文逐组映射S001；生成/约束/连续性和交接S002—S003",
+      "Example": "SRC032-S001—S003完整单场输入、提示和交接",
+      "Comparison": "复用SRC025已写小传和正文，原文仅输入启动协议",
+      "ActualSemanticReview": "32节完整原文已读，启动协议落实A—G/四缺失类型和当前单镜范围；实际给一独立5秒镜头、9字对白/120帧/双人坐标/停钟道具末态，不虚构参考或能力。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC041",
+      "Name": "微调分镜脚本的提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/微调分镜脚本的提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC041-S001",
+        "SRC041-S002",
+        "SRC041-S003",
+        "SRC041-S004"
+      ],
+      "Coverage": "15原则/4阶段/6输出/两引擎/八层约束/自检→S001—S004",
+      "Example": "SRC041-S001输入→S002完整中文优化→S003四映射→S004交接",
+      "Comparison": "复用SRC032同事件；旧型号仅来源名，未核实能力不填默认支持",
+      "ActualSemanticReview": "完整原文含12微表情/6曲线/12打击反馈/8攻防均已读；识别不适用强泪汗/尘/火花与固定推进冲突。六输出实给、四文本适配不冒称平台能力，9字对白/5秒末态一致。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC043",
+      "Name": "小说剧情转分镜提示词v1.0",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/小说剧情转分镜提示词v1.0_原文与应用扩写.md",
+      "Sections": [
+        "SRC043-S001",
+        "SRC043-S002",
+        "SRC043-S003"
+      ],
+      "Coverage": "24原则/速度剧情反馈三表/跨镜人设/模式二13字段/A—L检查→S001—S003",
+      "Example": "SRC043-S001三句完整小说→S002九个实际文本框→S003末态",
+      "Comparison": "SRC025只提供相容角色卡，原小说小片段不冒称全片缩写",
+      "ActualSemanticReview": "完整原文已读；三句完整输入全部对应3×5秒，每镜三独立输出、模式一无数值和反词、详细模式全部字段；24原则及A—L自审有适用/不适用判断，关键9字不删。\nR01—R09集中整改依赖核对：R01: 首帧、模式一和模式二的三组状态逐镜核对；S003的D/K及末态同步，未沿用条件式共用拟音。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R01": {
+          "Positions": [
+            "SRC043-S002",
+            "SRC043-S003"
+          ],
+          "ActualChange": "三镜分别写起始齿轮位置、目光和声音。镜1盘空、旧齿在右手，2.5秒接盘响一次；镜2旧齿在盘、1—4秒九字承认；镜3起始已看季明、1—3秒点头且无对白。",
+          "DependencyReview": "首帧、模式一和模式二的三组状态逐镜核对；S003的D/K及末态同步，未沿用条件式共用拟音。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC047",
+      "Name": "AI生成分镜脚本提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/04_视频生成提示词/AI生成分镜脚本提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC047-S001",
+        "SRC047-S002",
+        "SRC047-S003",
+        "SRC047-S004"
+      ],
+      "Coverage": "全部命名模块、A模式字段/B六段/28自检项→S001—S004，题材子模块不适用条件明确",
+      "Example": "SRC047-S001输入→S002角色/A→S003完整B与负条件→S004交接",
+      "Comparison": "旧平台名仅来源文本；4秒一镜建议与2—4强制选兼容两镜，不冒称能力",
+      "ActualSemanticReview": "V8.2完整已读，按需角色与自包含矛盾、固定推进、平台默认支持均明确处理；A/B/角色/负条件实际齐全、2×4秒/两级景别/各12技术项/每镜六段/对白9字与帧192关系核对。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC033",
+      "Name": "电商带货视频提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商带货视频提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC033-S001",
+        "SRC033-S002",
+        "SRC033-S003"
+      ],
+      "Coverage": "15输入/7微库/3模式/7输出顺序及每镜声音负约束",
+      "Example": "SRC033-S002三套资产；S003五个独立镜头",
+      "Comparison": "原创30秒虚构样例；无实图；源平台语法不直接认定可用",
+      "ActualSemanticReview": "实际逐镜核对三笔、便签、纸与手的取放；五镜合计30秒；没有把画面展示当商品实验；人物原字段与原皮肤段保留，三模式结构分别解释。\nR01—R09集中整改依赖核对：R09: 30秒前四镜及短版前两镜才硬切；各终镜保持三笔左区便签右区，收尾后没有新镜头。终镜没有取放动作，不加笔盘接触声；SRC046主版复用描述同步。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R09": {
+          "Positions": [
+            "SRC033-S003"
+          ],
+          "ActualChange": "30秒镜05段内3—5秒/全片28—30秒画面与音乐淡出至结束；短版三终镜分别在15/10/6秒结束，不再硬切不存在的下一镜。",
+          "DependencyReview": "30秒前四镜及短版前两镜才硬切；各终镜保持三笔左区便签右区，收尾后没有新镜头。终镜没有取放动作，不加笔盘接触声；SRC046主版复用描述同步。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC034",
+      "Name": "电商平台商品全套图提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/电商平台商品全套图提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC034-S001",
+        "SRC034-S002",
+        "SRC034-S003"
+      ],
+      "Coverage": "四阶段20需求项/确认汇总/5+8逐图字段/七项检查和交付",
+      "Example": "SRC034-S002十三完整商品图提示",
+      "Comparison": "与SRC033虚构产品设计相容；图片版式独立于视频，不依赖未知工具语法",
+      "ActualSemanticReview": "逐图实际读回十三布局、产品锁与四层负约束；检查主图5/详情8、画幅、文案边界；没有捏造测试或成交证据。\nR01—R09集中整改依赖核对：R06: 逐图核十三个用途与布局、四层相同完整防护及商品真值，5主图/8详情和各比例保留。详情06的唯一右手五指另列，其他无人物图不用人体词顶替排版。S003对位自审同步。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R06": {
+          "Positions": [
+            "SRC034-S001",
+            "SRC034-S002",
+            "SRC034-S003"
+          ],
+          "ActualChange": "十三图逐块落实通用缺陷、电商视觉、排版、用户自定义原四层；排版含字体/字号/对齐/出界/主次，用户层禁止虚构商品事实。",
+          "DependencyReview": "逐图核十三个用途与布局、四层相同完整防护及商品真值，5主图/8详情和各比例保留。详情06的唯一右手五指另列，其他无人物图不用人体词顶替排版。S003对位自审同步。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC046",
+      "Name": "用AI生成商业广告的提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/09_电商与商业广告/用AI生成商业广告的提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC046-S001",
+        "SRC046-S002",
+        "SRC046-S003",
+        "SRC046-S004",
+        "SRC046-S005"
+      ],
+      "Coverage": "原0—67节68节覆盖；五方向/压力评估/镜头全字段/声音/九失效/4时长/2画幅/28生产包/检查门",
+      "Example": "SRC046-S001五完整方向；S003短版九段；SRC033-S002—S003完整30秒",
+      "Comparison": "明确通用提示与历史模型能力未核实；同商品30秒可复用，不编造商家事实",
+      "ActualSemanticReview": "五方向逐13字段读回；短版9段时长和旁白窗口明确；音乐10秒非整小节已解释；30秒资产/提示复用精确ID且相同真值；只将文字检查记PASS。\nR01—R09集中整改依赖核对：R02: 取写归收在8秒内、提放收在5秒内、轻触撤手在2秒内；各段旁白窗和触碰点在段长内，中间硬切、终镜淡出。九块拟音按实际动作逐块展开。；R08: 覆盖68节无漏组，与S001五案13字段、S002选择和文本评估、S005交付门实际位置核对；平台/模型能力保留未核实条件，不冒称外部执行。；R09: 30秒前四镜及短版前两镜才硬切；各终镜保持三笔左区便签右区，收尾后没有新镜头。终镜没有取放动作，不加笔盘接触声；SRC046主版复用描述同步。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R02": {
+          "Positions": [
+            "SRC046-S003"
+          ],
+          "ActualChange": "15/10/6秒九块均在块内给全片映射及本段0起点；动作、旁白和接触音使用本段时间。三版分别3+8+4、2+5+3、2+2+2。",
+          "DependencyReview": "取写归收在8秒内、提放收在5秒内、轻触撤手在2秒内；各段旁白窗和触碰点在段长内，中间硬切、终镜淡出。九块拟音按实际动作逐块展开。"
+        },
+        "R08": {
+          "Positions": [
+            "SRC046-S001",
+            "SRC046-S002",
+            "SRC046-S005"
+          ],
+          "ActualChange": "原0—67全部68节按实际章节名重做覆盖分组，18节五创意矩阵、19—22差异/压力/选择/命题、50—52多版本/画幅/平台等对位明确。五方向各给开头—中段—结尾情绪过程。",
+          "DependencyReview": "覆盖68节无漏组，与S001五案13字段、S002选择和文本评估、S005交付门实际位置核对；平台/模型能力保留未核实条件，不冒称外部执行。"
+        },
+        "R09": {
+          "Positions": [
+            "SRC046-S002",
+            "SRC046-S003"
+          ],
+          "ActualChange": "30秒镜05段内3—5秒/全片28—30秒画面与音乐淡出至结束；短版三终镜分别在15/10/6秒结束，不再硬切不存在的下一镜。",
+          "DependencyReview": "30秒前四镜及短版前两镜才硬切；各终镜保持三笔左区便签右区，收尾后没有新镜头。终镜没有取放动作，不加笔盘接触声；SRC046主版复用描述同步。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC035",
+      "Name": "封面图提示词v1.0",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/封面图提示词v1.0_原文与应用扩写.md",
+      "Sections": [
+        "SRC035-S001",
+        "SRC035-S002",
+        "SRC035-S003"
+      ],
+      "Coverage": "原九阶段/五关键输入/角色全部字段/三方案九维/每维三点/三层防护",
+      "Example": "SRC035-S001完整输入角色；S002三套中英提示",
+      "Comparison": "复用SRC019人物和资产，新增封面取景；旧模型排名未采用",
+      "ActualSemanticReview": "三方向实际全文核对9维、全部角色关键特征、每维三点和三层负约束，中英数字一致、色比合100%，概念影非真实投影。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC038",
+      "Name": "生成全套图片提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/生成全套图片提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC038-S001",
+        "SRC038-S002",
+        "SRC038-S003"
+      ],
+      "Coverage": "原0—8框架/7推荐项/三分调用/6真实感/形态锁/5接触问/每图3框/5翻译核查/6输出步骤",
+      "Example": "SRC038-S001圣经矩阵；S002三图完整中英十段",
+      "Comparison": "角色资产兼容SRC019；构图复用SRC035但移除概念影，不复制其2:3目标",
+      "ActualSemanticReview": "逐图检查中英十段数字及状态；三图九代码块、圣经矩阵检查三块；静帧不强制运镜；六真实感不伪造粒径或皮肤物理常数。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC037",
+      "Name": "全类型歌曲创作提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/06_声音与音乐/全类型歌曲创作提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC037-S001",
+        "SRC037-S002",
+        "SRC037-S003",
+        "SRC037-S004",
+        "SRC037-S005",
+        "SRC037-S006"
+      ],
+      "Coverage": "原00—49全流程/项目24字段/DNA九维/Hook六类/和声编曲人声/三层防护/十诊断/十自问/版本回退",
+      "Example": "SRC037-S001输入；S003完整歌词旋律；S004完整编曲；S005字段；S006修订",
+      "Comparison": "没有外部参考或歌曲音频；源零默认与当前普通AI参数建议分层",
+      "ActualSemanticReview": "完整16句歌词及前后奏；核对40小节/80BPM=120秒、32唱词小节；Hook逐音和九字型8拍；原50节映射、修订和V6未生成明确。\nR01—R09集中整改依赖核对：R04: S001的级进/三度跳进描述与实际音列一致，S006同音型修句独立完整。未改整首歌词、40小节/80BPM/120秒或登记试唱通过。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R04": {
+          "Positions": [
+            "SRC037-S001",
+            "SRC037-S003",
+            "SRC037-S006"
+          ],
+          "ActualChange": "九字副歌两句和假设V7修句均逐字给音高与时值，补齐“以/很”E4/D4半拍；六个一拍加三个半拍与末半拍休止，合8拍/两小节。",
+          "DependencyReview": "S001的级进/三度跳进描述与实际音列一致，S006同音型修句独立完整。未改整首歌词、40小节/80BPM/120秒或登记试唱通过。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC048",
+      "Name": "AI生成小说提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/AI生成小说提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC048-S001",
+        "SRC048-S002",
+        "SRC048-S003",
+        "SRC048-S004"
+      ],
+      "Coverage": "12输入/3频/9铁律/7流畅/7吸引/6命名/去AI七维/10类型/6输出/16成功/13必要反提示",
+      "Example": "SRC048-S001全输入人物；S002完整简介大纲；S003整章；S004逐16标准观察",
+      "Comparison": "本例虚构现实职业；没有复刻作家或将审美目标登记读者实测",
+      "ActualSemanticReview": "逐段读回完整一章；两种字数均4000—5000、对白约38%；原三频与10类型采用有边界；限知不透内心，缺件、两误导、旧损和桌腿因果闭合。\nR01—R09集中整改依赖核对：R07: 便条杯底→交邵砺→裤袋→取出→备注袋；概要/大纲与归袋结果不变。重算正文4055汉字、4774去空白字符、对白1541汉字/38.0025%；简介214汉字、大纲113/116/110/112汉字不变。SRC048交接与SRC044字数引用同步。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R07": {
+          "Positions": [
+            "SRC048-S003",
+            "SRC048-S004"
+          ],
+          "ActualChange": "末段明确邵砺从裤袋取出号码便条，与拼好收条一起放进备注袋，消除无动作回到杯底。",
+          "DependencyReview": "便条杯底→交邵砺→裤袋→取出→备注袋；概要/大纲与归袋结果不变。重算正文4055汉字、4774去空白字符、对白1541汉字/38.0025%；简介214汉字、大纲113/116/110/112汉字不变。SRC048交接与SRC044字数引用同步。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC044",
+      "Name": "小说题材参考",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/02_剧本与大纲制作/小说题材参考_原文与应用扩写.md",
+      "Sections": [
+        "SRC044-S001",
+        "SRC044-S002"
+      ],
+      "Coverage": "原16类和细分的作用/跨类关系/选择问题/实用流程接续",
+      "Example": "SRC044-S002实际需求三方向；完整例子SRC048-S001—S004",
+      "Comparison": "源“全覆盖无重复/热门偏好”未视为市场事实，选题目录不是创作流程",
+      "ActualSemanticReview": "实际读完整16类和细分；区分题材、环境、机制、受众不同轴；三选题有真实取舍，A例子精确复用SRC048完整章而非另造流程。\nR01—R09集中整改依赖核对：R07: 便条杯底→交邵砺→裤袋→取出→备注袋；概要/大纲与归袋结果不变。重算正文4055汉字、4774去空白字符、对白1541汉字/38.0025%；简介214汉字、大纲113/116/110/112汉字不变。SRC048交接与SRC044字数引用同步。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R07": {
+          "Positions": [
+            "SRC044-S002"
+          ],
+          "ActualChange": "末段明确邵砺从裤袋取出号码便条，与拼好收条一起放进备注袋，消除无动作回到杯底。",
+          "DependencyReview": "便条杯底→交邵砺→裤袋→取出→备注袋；概要/大纲与归袋结果不变。重算正文4055汉字、4774去空白字符、对白1541汉字/38.0025%；简介214汉字、大纲113/116/110/112汉字不变。SRC048交接与SRC044字数引用同步。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC051",
+      "Name": "POV第一人称模拟真实人物视角分镜提示词",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/03_分镜制作/POV第一人称模拟真实人物视角分镜提示词_原文与应用扩写.md",
+      "Sections": [
+        "SRC051-S001",
+        "SRC051-S002",
+        "SRC051-S003",
+        "SRC051-S004",
+        "SRC051-S005"
+      ],
+      "Coverage": "15步/20原则/12逻辑/10POV/9收尾/11补丁/3细节/10宏观字段/十物及人物全字段/七输出区/跨批状态",
+      "Example": "SRC051-S001完整小说输入；S002十物坐标；S003—S004完整24秒两段；S005实际交接",
+      "Comparison": "来源默认模型及生理绝对句不直接断言成立；完整保留原数值，新增艺术设计与未测项",
+      "ActualSemanticReview": "整篇原资料分段读完；两个12秒外框与各7类独立区、4关键帧；每段31项校验具体观察，十物世界/投影区分；杯移动2.5与3秒均核速度；正负字长实测。\nR01—R09集中整改依赖核对：R03: 两段七类输出和12+10+9校验保留；尾12秒与次首0秒杯位/握持/42度视线/气口一致。提杯0.364米/2.5秒约0.146米每秒、落杯0.364米/3秒约0.121；回看54→0度、右偏0→15.7度分别21.6及6.28度每秒。逐静帧检查布中央遮挡和当时杯影，回看后的杯/手在视野外但世界态保留。音轨只第一段0—1.5秒有同事声。正向417/446字符、反向各205字符，24fps每段288帧。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "RevisionReview": {
+        "R03": {
+          "Positions": [
+            "SRC051-S002",
+            "SRC051-S003",
+            "SRC051-S004",
+            "SRC051-S005"
+          ],
+          "ActualChange": "两段首/尾及四关键帧共12块均确定单一时点0/3/6/9/12秒，独立写杯/手/视线/口型、世界坐标、十物支撑和可见性。第二段从持杯开始，全程同事闭口无对白；6.5—9秒回看实际2.5秒。",
+          "DependencyReview": "两段七类输出和12+10+9校验保留；尾12秒与次首0秒杯位/握持/42度视线/气口一致。提杯0.364米/2.5秒约0.146米每秒、落杯0.364米/3秒约0.121；回看54→0度、右偏0→15.7度分别21.6及6.28度每秒。逐静帧检查布中央遮挡和当时杯影，回看后的杯/手在视野外但世界态保留。音轨只第一段0—1.5秒有同事声。正向417/446字符、反向各205字符，24fps每段288帧。"
+        }
+      },
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC022",
+      "Name": "影视AI创作语言库全集",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/90_完整合集与学习资料/影视AI创作语言库全集_原文与应用扩写.md",
+      "Sections": [
+        "SRC022-S001",
+        "SRC022-S002",
+        "SRC022-S003"
+      ],
+      "Coverage": "61库完整字符/14536实际字段/3876已有深度TaskId；原额外规则采用见新增S002—S003",
+      "Example": "SRC022-S003八步子午诀完整中英例",
+      "Comparison": "docs/工作流补齐_SRC022_合集覆盖.json",
+      "ActualSemanticReview": "完整分库字符/字段对比实际完成；SRC02261原块完全相等，SRC045所有差异实际审读、仅L10T111重复词及排版。联合规则10部与8步实例/35库虚拟界面例逐状态自审，未冒称重审3876语义。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    },
+    {
+      "SourceId": "SRC045",
+      "Name": "影视AI创作语言库全集（35库完整合并版）",
+      "File": "91_创作小秘工作库/01_工作流与原文映射/90_完整合集与学习资料/影视AI创作语言库全集（35库完整合并版）_原文与应用扩写.md",
+      "Sections": [
+        "SRC045-S001",
+        "SRC045-S002",
+        "SRC045-S003"
+      ],
+      "Coverage": "35库完整字符/9096实际字段/2259已有深度TaskId；原额外规则采用见新增S002—S003",
+      "Example": "SRC045-S002七秒虚拟界面独立完整例",
+      "Comparison": "docs/工作流补齐_SRC045_合集覆盖.json",
+      "ActualSemanticReview": "完整分库字符/字段对比实际完成；SRC02261原块完全相等，SRC045所有差异实际审读、仅L10T111重复词及排版。联合规则10部与8步实例/35库虚拟界面例逐状态自审，未冒称重审3876语义。",
+      "Status": "independently_accepted_item1",
+      "IndependentReview": "passed",
+      "OriginalPrefixPreserved": true,
+      "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md"
+    }
+  ],
+  "IndependentReview": "passed",
+  "FullTaskComplete": false,
+  "ExecutionComplete": true,
+  "Status": "independently_accepted",
+  "SubmittedReport": "docs/创作工作流补齐_完成报告.md",
+  "RemainingSourceIds": [],
+  "NewSections": 105,
+  "RevisionResponses": "docs/创作工作流补齐_R01-R09整改回应.json",
+  "PreviousSubmissionStatus": {
+    "Status": "resubmitted_executor_self_reviewed",
+    "IndependentReview": "pending_recheck"
+  },
+  "AcceptanceReport": "docs/创作工作流补齐_独立验收报告.md",
+  "UpdatedAtLocal": "2026-10-07T23:23:03.907898+08:00"
+}

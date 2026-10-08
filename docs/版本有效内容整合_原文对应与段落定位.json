@@ -1,0 +1,5292 @@
+[
+  {
+    "HistoryId": "H001",
+    "Name": "35个AI技术执行语言库作用解释_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      91
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 92,
+        "Heading": "## 第二部分：完整扩写与实际调用说明"
+      },
+      {
+        "Line": 96,
+        "Heading": "### 1. 先分清语言库、创作流程和最终提示词"
+      },
+      {
+        "Line": 106,
+        "Heading": "### 2. “35 个库”怎样理解，怎样核对"
+      },
+      {
+        "Line": 114,
+        "Heading": "### 3. 第一项作用扩写：把感觉转成可见、可听、可计时的变化"
+      },
+      {
+        "Line": 124,
+        "Heading": "### 4. 第二项作用扩写：让镜头的专业性来自目的与空间"
+      },
+      {
+        "Line": 136,
+        "Heading": "### 5. 第三项作用扩写：角色一致性需要身份与状态两套记录"
+      },
+      {
+        "Line": 146,
+        "Heading": "### 6. 第四项作用扩写：情绪服务于叙事，而不是表情表演独立炫技"
+      },
+      {
+        "Line": 156,
+        "Heading": "### 7. 第五项作用扩写：反提示词要针对当段风险"
+      },
+      {
+        "Line": 168,
+        "Heading": "### 8. 第六项作用扩写：效率来自有顺序的选库"
+      },
+      {
+        "Line": 183,
+        "Heading": "### 9. 第七项作用扩写：团队需要术语之外的共同版本"
+      },
+      {
+        "Line": 191,
+        "Heading": "### 10. 第八项作用扩写：组合创意要有主次与因果"
+      },
+      {
+        "Line": 199,
+        "Heading": "### 11. 让 AI 根据原文自动反馈精确数据"
+      },
+      {
+        "Line": 213,
+        "Heading": "### 12. 一份词条怎样扩成可调用的执行单元"
+      },
+      {
+        "Line": 232,
+        "Heading": "### 13. 已保存资料的查找入口"
+      },
+      {
+        "Line": 246,
+        "Heading": "### 14. 完整示范一：雨夜人物反应，怎样从念头走到参数"
+      },
+      {
+        "Line": 277,
+        "Heading": "### 15. 完整示范二：双人递信，为什么只堆术语不够"
+      },
+      {
+        "Line": 289,
+        "Heading": "### 16. 三种常见输入，分别怎么调用"
+      },
+      {
+        "Line": 299,
+        "Heading": "### 17. 哪些组合需要提前消解冲突"
+      },
+      {
+        "Line": 314,
+        "Heading": "### 18. 可直接复制的“语言库调用助手”提示词"
+      },
+      {
+        "Line": 346,
+        "Heading": "### 19. 建立自己的语言库使用习惯"
+      },
+      {
+        "Line": 354,
+        "Heading": "### 20. 本篇对应的内部核对要点"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H002",
+    "Name": "AI影视打斗提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      207
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 212,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 214,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 216,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 224,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 234,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 244,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 254,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 262,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 268,
+        "Heading": "## 专项扩写：AI影视打斗与复合动作"
+      },
+      {
+        "Line": 270,
+        "Heading": "### 1. 原文动作与状态全过程"
+      },
+      {
+        "Line": 278,
+        "Heading": "### 2. 预动与响应的精确安排"
+      },
+      {
+        "Line": 288,
+        "Heading": "### 3. 坐标与速度的自动求解"
+      },
+      {
+        "Line": 296,
+        "Heading": "### 4. 人物生理与累积状态"
+      },
+      {
+        "Line": 304,
+        "Heading": "### 5. 碰撞模型与接触数据"
+      },
+      {
+        "Line": 312,
+        "Heading": "### 6. 特效八项及材料参数"
+      },
+      {
+        "Line": 320,
+        "Heading": "### 7. 阵法的几何与能量账户"
+      },
+      {
+        "Line": 328,
+        "Heading": "### 8. 法相映射与耦合"
+      },
+      {
+        "Line": 336,
+        "Heading": "### 9. 摄影、灯光、对白与拟音"
+      },
+      {
+        "Line": 344,
+        "Heading": "### 10. 每镜真实自检"
+      },
+      {
+        "Line": 350,
+        "Heading": "## 精确参数版附加扩写：自动求解、采样与数据闭环"
+      },
+      {
+        "Line": 354,
+        "Heading": "### 1. PARAM参数索引"
+      },
+      {
+        "Line": 360,
+        "Heading": "### 2. 运动曲线与关键帧"
+      },
+      {
+        "Line": 368,
+        "Heading": "### 3. 接触工作模型"
+      },
+      {
+        "Line": 374,
+        "Heading": "### 4. 特效数据与材料工作值"
+      },
+      {
+        "Line": 380,
+        "Heading": "### 5. 精确资源账目"
+      },
+      {
+        "Line": 390,
+        "Heading": "### 6. 镜头与灯光数值闭环"
+      },
+      {
+        "Line": 396,
+        "Heading": "### 7. 默认精确附录"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H003",
+    "Name": "AI微表情提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      175
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 180,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 182,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 184,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 192,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 202,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 212,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 222,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 230,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 236,
+        "Heading": "## 专项扩写：微表情原有十三项补充"
+      },
+      {
+        "Line": 241,
+        "Heading": "### 一、AI自动生成精确数据"
+      },
+      {
+        "Line": 253,
+        "Heading": "### 二、基线状态与测量约定"
+      },
+      {
+        "Line": 267,
+        "Heading": "### 三、每次表情变化的四阶段"
+      },
+      {
+        "Line": 284,
+        "Heading": "### 四、眼睛与注视的完整参数"
+      },
+      {
+        "Line": 300,
+        "Heading": "### 五、短时微表情与帧对齐"
+      },
+      {
+        "Line": 312,
+        "Heading": "### 六、潜台词与表演选择"
+      },
+      {
+        "Line": 322,
+        "Heading": "### 七、口型、对白、呼吸与表情协同"
+      },
+      {
+        "Line": 336,
+        "Heading": "### 八、头颈、肢体与双侧差异"
+      },
+      {
+        "Line": 346,
+        "Heading": "### 九、摄像机的精确扩写"
+      },
+      {
+        "Line": 365,
+        "Heading": "### 十、多角色同一时间线"
+      },
+      {
+        "Line": 375,
+        "Heading": "### 十一、片段独立复制与首尾连续"
+      },
+      {
+        "Line": 387,
+        "Heading": "### 十二、最终输出结构的具体执行"
+      },
+      {
+        "Line": 399,
+        "Heading": "### 十三、内部核验与长文本输出"
+      },
+      {
+        "Line": 409,
+        "Heading": "## 编写参考（非生成输出要求）"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H004",
+    "Name": "AI漫剧分镜脚本提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      838
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 839,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 843,
+        "Heading": "### 1. 任务启动与输入补全"
+      },
+      {
+        "Line": 851,
+        "Heading": "### 2. 平台能力与创作约束分开"
+      },
+      {
+        "Line": 859,
+        "Heading": "### 3. 小说与剧本逐句映射"
+      },
+      {
+        "Line": 867,
+        "Heading": "### 4. 角色档案、出场与参考素材的精细化"
+      },
+      {
+        "Line": 879,
+        "Heading": "### 5. 自包含提示词的执行边界"
+      },
+      {
+        "Line": 887,
+        "Heading": "### 6. 4—12 秒单元的精确组合"
+      },
+      {
+        "Line": 897,
+        "Heading": "### 7. 景别、构图和轴线的细化"
+      },
+      {
+        "Line": 905,
+        "Heading": "### 8. 宏观锚点与漫剧风格"
+      },
+      {
+        "Line": 913,
+        "Heading": "### 9. 技术分层与精确数据反馈"
+      },
+      {
+        "Line": 923,
+        "Heading": "### 10. 场景运动锚点的触发、维持与收束"
+      },
+      {
+        "Line": 931,
+        "Heading": "### 11. 人物运动锚点与表演的精细化"
+      },
+      {
+        "Line": 941,
+        "Heading": "### 12. 背景人物分层与数量连续"
+      },
+      {
+        "Line": 949,
+        "Heading": "### 13. 条件模块逐类扩写"
+      },
+      {
+        "Line": 973,
+        "Heading": "### 14. 台词、原生声音与时间码"
+      },
+      {
+        "Line": 981,
+        "Heading": "### 15. 两种输出模式与独立负面提示词"
+      },
+      {
+        "Line": 989,
+        "Heading": "### 16. 局部修改与跨批次管理"
+      },
+      {
+        "Line": 997,
+        "Heading": "### 17. 完整示范：同一 12 秒单元的模式 A 与模式 B"
+      },
+      {
+        "Line": 1003,
+        "Heading": "#### 17.1 全片角色档案：只输出一次"
+      },
+      {
+        "Line": 1015,
+        "Heading": "#### 17.2 模式 A：完整结构化技术稿"
+      },
+      {
+        "Line": 1107,
+        "Heading": "#### 17.3 模式 B：独立可复制的六段融合稿"
+      },
+      {
+        "Line": 1163,
+        "Heading": "#### 17.4 全片通用负面提示词：独立输出一次"
+      },
+      {
+        "Line": 1171,
+        "Heading": "### 18. 可追加到原稿末尾的统一执行指令"
+      },
+      {
+        "Line": 1205,
+        "Heading": "### 19. 新增内部检查：与原稿 28 项并行执行"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H005",
+    "Name": "AI漫剧分镜脚本模板参考_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      305
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 306,
+        "Heading": "## 第二部分：统一执行底座与精确参数推导"
+      },
+      {
+        "Line": 308,
+        "Heading": "### 任务边界与原稿保留"
+      },
+      {
+        "Line": 316,
+        "Heading": "### 数值来源与计算规则"
+      },
+      {
+        "Line": 327,
+        "Heading": "### 坐标、朝向和可见性约定"
+      },
+      {
+        "Line": 335,
+        "Heading": "### 参考职责与独立生成"
+      },
+      {
+        "Line": 341,
+        "Heading": "## 第三部分：23个部分逐项扩写"
+      },
+      {
+        "Line": 343,
+        "Heading": "### 01｜镜头基础信息"
+      },
+      {
+        "Line": 349,
+        "Heading": "### 02｜参考资产"
+      },
+      {
+        "Line": 355,
+        "Heading": "### 03｜当前镜头世界状态"
+      },
+      {
+        "Line": 361,
+        "Heading": "### 04｜实体数量"
+      },
+      {
+        "Line": 367,
+        "Heading": "### 05｜镜头核心事件"
+      },
+      {
+        "Line": 373,
+        "Heading": "### 06｜动作执行链"
+      },
+      {
+        "Line": 379,
+        "Heading": "### 07｜人物表演"
+      },
+      {
+        "Line": 387,
+        "Heading": "### 08｜人物朝向与运动"
+      },
+      {
+        "Line": 393,
+        "Heading": "### 09｜道具状态"
+      },
+      {
+        "Line": 399,
+        "Heading": "### 10｜空间关系"
+      },
+      {
+        "Line": 405,
+        "Heading": "### 11｜景别执行锁"
+      },
+      {
+        "Line": 411,
+        "Heading": "### 12｜摄影机"
+      },
+      {
+        "Line": 417,
+        "Heading": "### 13｜画面构图"
+      },
+      {
+        "Line": 423,
+        "Heading": "### 14｜光线与色彩"
+      },
+      {
+        "Line": 429,
+        "Heading": "### 15｜物理与环境表现"
+      },
+      {
+        "Line": 435,
+        "Heading": "### 16｜对白"
+      },
+      {
+        "Line": 441,
+        "Heading": "### 17｜声音"
+      },
+      {
+        "Line": 447,
+        "Heading": "### 18｜视听同步"
+      },
+      {
+        "Line": 453,
+        "Heading": "### 19｜剧情因果"
+      },
+      {
+        "Line": 459,
+        "Heading": "### 20｜镜头结束状态"
+      },
+      {
+        "Line": 465,
+        "Heading": "### 21｜Pavo生成提示词"
+      },
+      {
+        "Line": 471,
+        "Heading": "### 22｜镜头生成约束"
+      },
+      {
+        "Line": 477,
+        "Heading": "### 23｜镜头自检"
+      },
+      {
+        "Line": 483,
+        "Heading": "## 第四部分：完整填写示范（8秒单镜头）"
+      },
+      {
+        "Line": 489,
+        "Heading": "### 【镜头001｜00:00—00:08】"
+      },
+      {
+        "Line": 491,
+        "Heading": "#### 【一、镜头基础信息】"
+      },
+      {
+        "Line": 503,
+        "Heading": "#### 【二、参考资产】"
+      },
+      {
+        "Line": 513,
+        "Heading": "#### 【三、当前镜头世界状态】"
+      },
+      {
+        "Line": 531,
+        "Heading": "#### 【四、实体数量】"
+      },
+      {
+        "Line": 539,
+        "Heading": "#### 【五、镜头核心事件】"
+      },
+      {
+        "Line": 547,
+        "Heading": "#### 【六、动作执行链】"
+      },
+      {
+        "Line": 557,
+        "Heading": "#### 【七、人物表演】"
+      },
+      {
+        "Line": 570,
+        "Heading": "#### 【八、人物朝向与运动】"
+      },
+      {
+        "Line": 581,
+        "Heading": "#### 【九、道具状态】"
+      },
+      {
+        "Line": 593,
+        "Heading": "#### 【十、空间关系】"
+      },
+      {
+        "Line": 606,
+        "Heading": "#### 【十一、景别执行锁】"
+      },
+      {
+        "Line": 619,
+        "Heading": "#### 【十二、摄影机】"
+      },
+      {
+        "Line": 632,
+        "Heading": "#### 【十三、画面构图】"
+      },
+      {
+        "Line": 644,
+        "Heading": "#### 【十四、光线与色彩】"
+      },
+      {
+        "Line": 656,
+        "Heading": "#### 【十五、物理与环境表现】"
+      },
+      {
+        "Line": 667,
+        "Heading": "#### 【十六、对白】"
+      },
+      {
+        "Line": 681,
+        "Heading": "#### 【十七、声音】"
+      },
+      {
+        "Line": 696,
+        "Heading": "#### 【十八、视听同步】"
+      },
+      {
+        "Line": 706,
+        "Heading": "#### 【十九、剧情因果】"
+      },
+      {
+        "Line": 715,
+        "Heading": "#### 【二十、镜头结束状态】"
+      },
+      {
+        "Line": 734,
+        "Heading": "#### 【二十一、Pavo生成提示词】"
+      },
+      {
+        "Line": 760,
+        "Heading": "#### 【二十二、镜头生成约束】"
+      },
+      {
+        "Line": 782,
+        "Heading": "#### 【二十三、镜头自检】"
+      },
+      {
+        "Line": 823,
+        "Heading": "## 第五部分：可追加到原模板末尾的扩写执行指令"
+      },
+      {
+        "Line": 841,
+        "Heading": "## 第六部分：扩写版附加交叉核对"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H006",
+    "Name": "AI特效提示词库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      12,
+      1227
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1230,
+        "Heading": "## 第二部分：特效库通用扩写规范"
+      },
+      {
+        "Line": 1234,
+        "Heading": "### 一、参数由AI自动设计"
+      },
+      {
+        "Line": 1240,
+        "Heading": "### 二、每条的完整结构"
+      },
+      {
+        "Line": 1246,
+        "Heading": "### 三、时间线与尺度一致"
+      },
+      {
+        "Line": 1254,
+        "Heading": "### 四、真实环境与幻想规则"
+      },
+      {
+        "Line": 1260,
+        "Heading": "### 五、接触、反馈与持续状态"
+      },
+      {
+        "Line": 1266,
+        "Heading": "### 六、摄像机、灯光与可读性"
+      },
+      {
+        "Line": 1272,
+        "Heading": "### 七、粒子、透明度与材质"
+      },
+      {
+        "Line": 1278,
+        "Heading": "### 八、音效同步"
+      },
+      {
+        "Line": 1284,
+        "Heading": "### 九、反向约束与有意效果"
+      },
+      {
+        "Line": 1290,
+        "Heading": "### 十、调用时的完整核对"
+      },
+      {
+        "Line": 1296,
+        "Heading": "## 第三部分：120条逐项扩写与独立复制区块"
+      },
+      {
+        "Line": 1300,
+        "Heading": "## 一、能量与气劲特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 1302,
+        "Heading": "### 001｜气劲爆发（Qi Burst）"
+      },
+      {
+        "Line": 1324,
+        "Heading": "### 002｜能量波（Energy Wave）"
+      },
+      {
+        "Line": 1346,
+        "Heading": "### 003｜护体罡气（Protective Aura）"
+      },
+      {
+        "Line": 1368,
+        "Heading": "### 004｜气刃斩击（Qi Blade Slash）"
+      },
+      {
+        "Line": 1390,
+        "Heading": "### 005｜蓄力发光（Charging Glow）"
+      },
+      {
+        "Line": 1412,
+        "Heading": "### 006｜残影（Afterimage）"
+      },
+      {
+        "Line": 1434,
+        "Heading": "### 007｜能量碰撞（Energy Clash）"
+      },
+      {
+        "Line": 1456,
+        "Heading": "### 008｜能量轨迹（Energy Trail）"
+      },
+      {
+        "Line": 1478,
+        "Heading": "### 009｜气息可视化（Breath/Aura Visualization）"
+      },
+      {
+        "Line": 1500,
+        "Heading": "### 010｜气旋（Qi Vortex）"
+      },
+      {
+        "Line": 1522,
+        "Heading": "### 011｜内力传导（Chi Conduction）"
+      },
+      {
+        "Line": 1544,
+        "Heading": "### 012｜能量分身（Energy Clone）"
+      },
+      {
+        "Line": 1566,
+        "Heading": "### 013｜能量爆炸（Energy Explosion）"
+      },
+      {
+        "Line": 1588,
+        "Heading": "### 014｜能量护盾（Energy Shield）"
+      },
+      {
+        "Line": 1610,
+        "Heading": "### 015｜气劲震地（Qi Ground Slam）"
+      },
+      {
+        "Line": 1632,
+        "Heading": "### 016｜能量丝线（Energy Threads）"
+      },
+      {
+        "Line": 1654,
+        "Heading": "### 017｜气场压制（Aura Suppression）"
+      },
+      {
+        "Line": 1676,
+        "Heading": "### 018｜能量治愈（Energy Healing）"
+      },
+      {
+        "Line": 1698,
+        "Heading": "### 019｜能量燃烧（Energy Combustion）"
+      },
+      {
+        "Line": 1720,
+        "Heading": "### 020｜能量光翼（Energy Wings）"
+      },
+      {
+        "Line": 1743,
+        "Heading": "## 二、元素特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 1745,
+        "Heading": "### 021｜火焰爆发（Flame Burst）"
+      },
+      {
+        "Line": 1767,
+        "Heading": "### 022｜火焰龙卷（Fire Tornado）"
+      },
+      {
+        "Line": 1789,
+        "Heading": "### 023｜火焰弹（Fireball）"
+      },
+      {
+        "Line": 1811,
+        "Heading": "### 024｜冰晶冻结（Crystal Freezing）"
+      },
+      {
+        "Line": 1833,
+        "Heading": "### 025｜冰锥突刺（Ice Spike）"
+      },
+      {
+        "Line": 1855,
+        "Heading": "### 026｜冰墙（Ice Wall）"
+      },
+      {
+        "Line": 1877,
+        "Heading": "### 027｜暴风雪（Blizzard）"
+      },
+      {
+        "Line": 1899,
+        "Heading": "### 028｜雷电劈落（Lightning Strike）"
+      },
+      {
+        "Line": 1921,
+        "Heading": "### 029｜电弧环绕（Electric Aura）"
+      },
+      {
+        "Line": 1943,
+        "Heading": "### 030｜雷电铠甲（Lightning Armor）"
+      },
+      {
+        "Line": 1965,
+        "Heading": "### 031｜水龙卷（Water Spout）"
+      },
+      {
+        "Line": 1987,
+        "Heading": "### 032｜水幕（Water Curtain）"
+      },
+      {
+        "Line": 2009,
+        "Heading": "### 033｜水龙（Water Dragon）"
+      },
+      {
+        "Line": 2031,
+        "Heading": "### 034｜冰霜蔓延（Frost Spread）"
+      },
+      {
+        "Line": 2053,
+        "Heading": "### 035｜沙暴（Sandstorm）"
+      },
+      {
+        "Line": 2075,
+        "Heading": "### 036｜风刃（Wind Blade）"
+      },
+      {
+        "Line": 2097,
+        "Heading": "### 037｜旋风（Whirlwind）"
+      },
+      {
+        "Line": 2119,
+        "Heading": "### 038｜藤蔓缠绕（Vine Entanglement）"
+      },
+      {
+        "Line": 2141,
+        "Heading": "### 039｜岩石突刺（Rock Spike）"
+      },
+      {
+        "Line": 2163,
+        "Heading": "### 040｜陨石坠落（Meteor Fall）"
+      },
+      {
+        "Line": 2186,
+        "Heading": "## 三、战斗特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 2188,
+        "Heading": "### 041｜冲击波（Shockwave）"
+      },
+      {
+        "Line": 2210,
+        "Heading": "### 042｜斩击闪光（Slash Flash）"
+      },
+      {
+        "Line": 2232,
+        "Heading": "### 043｜火花飞溅（Spark Impact）"
+      },
+      {
+        "Line": 2254,
+        "Heading": "### 044｜烟尘效果（Dust Effect）"
+      },
+      {
+        "Line": 2276,
+        "Heading": "### 045｜高速移动模糊（Speed Blur）"
+      },
+      {
+        "Line": 2298,
+        "Heading": "### 046｜武器强化发光（Weapon Enhancement Glow）"
+      },
+      {
+        "Line": 2320,
+        "Heading": "### 047｜格挡震退（Block Recoil）"
+      },
+      {
+        "Line": 2342,
+        "Heading": "### 048｜破甲效果（Armor Break）"
+      },
+      {
+        "Line": 2364,
+        "Heading": "### 049｜地面碎裂（Ground Shatter）"
+      },
+      {
+        "Line": 2386,
+        "Heading": "### 050｜击飞效果（Launch Effect）"
+      },
+      {
+        "Line": 2408,
+        "Heading": "### 051｜连击特效（Combo Effect）"
+      },
+      {
+        "Line": 2430,
+        "Heading": "### 052｜蓄力震地（Charge Stomp）"
+      },
+      {
+        "Line": 2452,
+        "Heading": "### 053｜时间减缓（Time Slow）"
+      },
+      {
+        "Line": 2474,
+        "Heading": "### 054｜致命一击（Critical Hit）"
+      },
+      {
+        "Line": 2496,
+        "Heading": "### 055｜弹反（Parry/Counter）"
+      },
+      {
+        "Line": 2518,
+        "Heading": "### 056｜无敌帧闪避（Invincible Dodge）"
+      },
+      {
+        "Line": 2540,
+        "Heading": "### 057｜战斗损坏累积（Battle Damage Accumulation）"
+      },
+      {
+        "Line": 2562,
+        "Heading": "### 058｜战场破坏（Battlefield Destruction）"
+      },
+      {
+        "Line": 2584,
+        "Heading": "### 059｜招式名显现（Technique Name Display）"
+      },
+      {
+        "Line": 2606,
+        "Heading": "### 060｜状态爆发（State Burst）"
+      },
+      {
+        "Line": 2629,
+        "Heading": "## 四、自然与环境特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 2631,
+        "Heading": "### 061｜暴雨（Heavy Rain）"
+      },
+      {
+        "Line": 2653,
+        "Heading": "### 062｜闪电风暴（Thunderstorm）"
+      },
+      {
+        "Line": 2675,
+        "Heading": "### 063｜浓雾（Fog）"
+      },
+      {
+        "Line": 2697,
+        "Heading": "### 064｜雪景（Snowscape）"
+      },
+      {
+        "Line": 2719,
+        "Heading": "### 065｜地震（Earthquake）"
+      },
+      {
+        "Line": 2741,
+        "Heading": "### 066｜火山喷发（Volcanic Eruption）"
+      },
+      {
+        "Line": 2763,
+        "Heading": "### 067｜海啸（Tsunami）"
+      },
+      {
+        "Line": 2785,
+        "Heading": "### 068｜极光（Aurora）"
+      },
+      {
+        "Line": 2807,
+        "Heading": "### 069｜龙卷风（Tornado）"
+      },
+      {
+        "Line": 2829,
+        "Heading": "### 070｜日食（Eclipse）"
+      },
+      {
+        "Line": 2851,
+        "Heading": "### 071｜沙尘暴（Dust Storm）"
+      },
+      {
+        "Line": 2873,
+        "Heading": "### 072｜森林火灾（Forest Fire）"
+      },
+      {
+        "Line": 2895,
+        "Heading": "### 073｜流星雨（Meteor Shower）"
+      },
+      {
+        "Line": 2917,
+        "Heading": "### 074｜台风或飓风（Typhoon/Hurricane）"
+      },
+      {
+        "Line": 2939,
+        "Heading": "### 075｜极光暴（Aurora Storm）"
+      },
+      {
+        "Line": 2961,
+        "Heading": "### 076｜晨光破晓（Dawn Breaking）"
+      },
+      {
+        "Line": 2983,
+        "Heading": "### 077｜暮色降临（Dusk Falling）"
+      },
+      {
+        "Line": 3005,
+        "Heading": "### 078｜月光穿透（Moonlight Penetration）"
+      },
+      {
+        "Line": 3027,
+        "Heading": "### 079｜云海（Sea of Clouds）"
+      },
+      {
+        "Line": 3049,
+        "Heading": "### 080｜日晕（Solar Halo）"
+      },
+      {
+        "Line": 3072,
+        "Heading": "## 五、超自然与魔法特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 3074,
+        "Heading": "### 081｜传送门开启（Portal Opening）"
+      },
+      {
+        "Line": 3096,
+        "Heading": "### 082｜召唤法阵（Summoning Circle）"
+      },
+      {
+        "Line": 3118,
+        "Heading": "### 083｜变身（Transformation）"
+      },
+      {
+        "Line": 3140,
+        "Heading": "### 084｜治疗魔法（Healing Magic）"
+      },
+      {
+        "Line": 3162,
+        "Heading": "### 085｜诅咒效果（Curse Effect）"
+      },
+      {
+        "Line": 3184,
+        "Heading": "### 086｜灵魂出窍（Astral Projection）"
+      },
+      {
+        "Line": 3206,
+        "Heading": "### 087｜时间停止（Time Stop）"
+      },
+      {
+        "Line": 3228,
+        "Heading": "### 088｜空间扭曲（Space Distortion）"
+      },
+      {
+        "Line": 3250,
+        "Heading": "### 089｜魔法弹幕（Magic Barrage）"
+      },
+      {
+        "Line": 3272,
+        "Heading": "### 090｜幻象（Illusion）"
+      },
+      {
+        "Line": 3294,
+        "Heading": "### 091｜命数特效（Fate/Destiny Effect）"
+      },
+      {
+        "Line": 3316,
+        "Heading": "### 092｜封印或解封（Sealing/Unsealing）"
+      },
+      {
+        "Line": 3338,
+        "Heading": "### 093｜魔法领域（Magic Domain）"
+      },
+      {
+        "Line": 3360,
+        "Heading": "### 094｜灵魂汲取（Soul Drain）"
+      },
+      {
+        "Line": 3382,
+        "Heading": "### 095｜魔法阵启动（Magic Circle Activation）"
+      },
+      {
+        "Line": 3404,
+        "Heading": "### 096｜魔眼（Magic Eye）"
+      },
+      {
+        "Line": 3426,
+        "Heading": "### 097｜图腾显灵（Totem Manifestation）"
+      },
+      {
+        "Line": 3448,
+        "Heading": "### 098｜灵魂锁链（Soul Chains）"
+      },
+      {
+        "Line": 3470,
+        "Heading": "### 099｜圣光降临（Holy Light Descent）"
+      },
+      {
+        "Line": 3492,
+        "Heading": "### 100｜魔气弥漫（Demonic Aura）"
+      },
+      {
+        "Line": 3515,
+        "Heading": "## 六、科技与科幻特效（20条）｜逐条扩写"
+      },
+      {
+        "Line": 3517,
+        "Heading": "### 101｜全息投影（Holographic Projection）"
+      },
+      {
+        "Line": 3539,
+        "Heading": "### 102｜能量护盾（Energy Shield）"
+      },
+      {
+        "Line": 3561,
+        "Heading": "### 103｜激光武器（Laser Weapon）"
+      },
+      {
+        "Line": 3583,
+        "Heading": "### 104｜粒子炮（Particle Cannon）"
+      },
+      {
+        "Line": 3605,
+        "Heading": "### 105｜等离子光束（Plasma Beam）"
+      },
+      {
+        "Line": 3627,
+        "Heading": "### 106｜机械合体（Mech Combination）"
+      },
+      {
+        "Line": 3649,
+        "Heading": "### 107｜变形（Transformation）"
+      },
+      {
+        "Line": 3671,
+        "Heading": "### 108｜时间隧道（Time Tunnel）"
+      },
+      {
+        "Line": 3693,
+        "Heading": "### 109｜空间跳跃（Space Jump）"
+      },
+      {
+        "Line": 3715,
+        "Heading": "### 110｜数据流（Data Stream）"
+      },
+      {
+        "Line": 3737,
+        "Heading": "### 111｜虚拟界面（Virtual Interface）"
+      },
+      {
+        "Line": 3759,
+        "Heading": "### 112｜无人机群（Drone Swarm）"
+      },
+      {
+        "Line": 3781,
+        "Heading": "### 113｜隐形效果（Cloaking Effect）"
+      },
+      {
+        "Line": 3803,
+        "Heading": "### 114｜纳米技术（Nanotechnology）"
+      },
+      {
+        "Line": 3825,
+        "Heading": "### 115｜能量核心（Power Core）"
+      },
+      {
+        "Line": 3847,
+        "Heading": "### 116｜机械手臂（Mechanical Arm）"
+      },
+      {
+        "Line": 3869,
+        "Heading": "### 117｜脑机接口（Brain-Computer Interface）"
+      },
+      {
+        "Line": 3891,
+        "Heading": "### 118｜反重力特效（Anti-Gravity Effect）"
+      },
+      {
+        "Line": 3913,
+        "Heading": "### 119｜轨道炮（Railgun）"
+      },
+      {
+        "Line": 3935,
+        "Heading": "### 120｜AI具象化（AI Manifestation）"
+      },
+      {
+        "Line": 3957,
+        "Heading": "## 第四部分：多特效组合与调用方法"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H007",
+    "Name": "AI生成BGM背景音乐歌曲提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      42
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 45,
+        "Heading": "## 第二部分：完整扩写执行规范"
+      },
+      {
+        "Line": 49,
+        "Heading": "### 一、平台工作方式与字段边界"
+      },
+      {
+        "Line": 57,
+        "Heading": "### 二、需求分流与最少必要询问"
+      },
+      {
+        "Line": 71,
+        "Heading": "### 三、AI自动生成音乐设计参数"
+      },
+      {
+        "Line": 92,
+        "Heading": "### 四、BPM、拍号与时长的推导"
+      },
+      {
+        "Line": 104,
+        "Heading": "### 五、影视BGM专用设计"
+      },
+      {
+        "Line": 118,
+        "Heading": "### 六、乐器编配与奏法细化"
+      },
+      {
+        "Line": 130,
+        "Heading": "### 七、纯音乐的无词规则深化"
+      },
+      {
+        "Line": 142,
+        "Heading": "### 八、歌曲与人声类型深化"
+      },
+      {
+        "Line": 154,
+        "Heading": "### 九、歌词创作、结构与可唱性"
+      },
+      {
+        "Line": 168,
+        "Heading": "### 十、Styles长串标签的组织方法"
+      },
+      {
+        "Line": 180,
+        "Heading": "### 十一、过渡、收尾与循环"
+      },
+      {
+        "Line": 188,
+        "Heading": "### 十二、负面要求与可用字段"
+      },
+      {
+        "Line": 198,
+        "Heading": "### 十三、三框输出模板与完整示例"
+      },
+      {
+        "Line": 204,
+        "Heading": "#### 示例A：用户授权AI决定的治愈钢琴纯音乐"
+      },
+      {
+        "Line": 225,
+        "Heading": "#### 示例B：以“告别后继续生活”为主题的中文歌曲"
+      },
+      {
+        "Line": 281,
+        "Heading": "### 十四、内部自检扩充"
+      },
+      {
+        "Line": 298,
+        "Heading": "### 十五、收到修改反馈时的执行"
+      },
+      {
+        "Line": 306,
+        "Heading": "## 第三部分：平台说明核对资料"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H008",
+    "Name": "AI生成场景环境提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      1021
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1024,
+        "Heading": "## 第二部分：在原稿基础上的逐条完整扩写"
+      },
+      {
+        "Line": 1028,
+        "Heading": "### 0. 场景的统一构建顺序"
+      },
+      {
+        "Line": 1034,
+        "Heading": "### 1. 自然场景01—20的逐条扩写"
+      },
+      {
+        "Line": 1076,
+        "Heading": "### 2. 城市与建筑场景21—40的逐条扩写"
+      },
+      {
+        "Line": 1118,
+        "Heading": "### 3. 室内场景41—60的逐条扩写"
+      },
+      {
+        "Line": 1160,
+        "Heading": "### 4. 幻想与特殊场景61—80的逐条扩写"
+      },
+      {
+        "Line": 1204,
+        "Heading": "### 5. 时间与天气变体81—100的逐条扩写"
+      },
+      {
+        "Line": 1248,
+        "Heading": "### 6. 将库条目组合成单个场景提示词的工作流"
+      },
+      {
+        "Line": 1260,
+        "Heading": "### 7. 可复用的提示词调用句式"
+      },
+      {
+        "Line": 1264,
+        "Heading": "### 8. 最终交付自检"
+      },
+      {
+        "Line": 1268,
+        "Heading": "### 9. 两个组合示例：精确值由AI生成，不留空白槽位"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H009",
+    "Name": "AI生成电商带货视频提示词_通用版完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      287
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 290,
+        "Heading": "## 第二部分：在原稿基础上的执行扩写"
+      },
+      {
+        "Line": 294,
+        "Heading": "### 1. 输入采集从15项扩展为可执行商品档案"
+      },
+      {
+        "Line": 300,
+        "Heading": "### 2. 商品事实与卖点到可见证据的映射"
+      },
+      {
+        "Line": 306,
+        "Heading": "### 3. 参考图、商品文字与外观锁定"
+      },
+      {
+        "Line": 314,
+        "Heading": "### 4. 产品档案图提示词的排版扩写"
+      },
+      {
+        "Line": 320,
+        "Heading": "### 5. 人物与多人关系的稳定设定"
+      },
+      {
+        "Line": 328,
+        "Heading": "### 6. 场景四宫格和视频空间的对应"
+      },
+      {
+        "Line": 334,
+        "Heading": "### 7. 五步与三模式的时长计算"
+      },
+      {
+        "Line": 342,
+        "Heading": "### 8. 每镜的一体化视频提示词怎么写"
+      },
+      {
+        "Line": 350,
+        "Heading": "### 9. 三种模式各自补充的镜头逻辑"
+      },
+      {
+        "Line": 358,
+        "Heading": "### 10. 口播、拟音与音乐逐秒嵌入"
+      },
+      {
+        "Line": 366,
+        "Heading": "### 11. 转场、尾帧延续和首尾一致性"
+      },
+      {
+        "Line": 372,
+        "Heading": "### 12. 品类自适应进一步落到实物动作"
+      },
+      {
+        "Line": 378,
+        "Heading": "### 13. 行动呼吁与画面文字的边界"
+      },
+      {
+        "Line": 384,
+        "Heading": "### 14. 五层反提示词逐镜应用"
+      },
+      {
+        "Line": 390,
+        "Heading": "### 15. 最终栏目填充顺序"
+      },
+      {
+        "Line": 396,
+        "Heading": "### 16. 输出前的内部逐项核对"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H010",
+    "Name": "AI生成视频声音提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      821
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 824,
+        "Heading": "## 第二部分：80 条声音技法的执行扩写"
+      },
+      {
+        "Line": 828,
+        "Heading": "### 使用前的统一规则"
+      },
+      {
+        "Line": 840,
+        "Heading": "### 一、音效类型：逐条扩写"
+      },
+      {
+        "Line": 882,
+        "Heading": "### 二、配乐风格：逐条扩写"
+      },
+      {
+        "Line": 926,
+        "Heading": "### 三、声音空间与混音：逐条扩写"
+      },
+      {
+        "Line": 958,
+        "Heading": "### 四、声音与画面关系：逐条扩写"
+      },
+      {
+        "Line": 990,
+        "Heading": "### 五、特殊声音效果：逐条扩写"
+      },
+      {
+        "Line": 1012,
+        "Heading": "## 第三部分：自动推导精确参数的方法"
+      },
+      {
+        "Line": 1014,
+        "Heading": "### 1. 时间、节拍与声源路径"
+      },
+      {
+        "Line": 1022,
+        "Heading": "### 2. 传播延迟与剪辑桥接分开"
+      },
+      {
+        "Line": 1028,
+        "Heading": "### 3. 音量、响度与峰值的分工"
+      },
+      {
+        "Line": 1036,
+        "Heading": "### 4. 混响、滤波与格式的建议值"
+      },
+      {
+        "Line": 1044,
+        "Heading": "## 第四部分：交付结构与跨镜管理"
+      },
+      {
+        "Line": 1054,
+        "Heading": "## 第五部分：可直接复制的声音时间线示例"
+      },
+      {
+        "Line": 1056,
+        "Heading": "### 示例 1：脚步、敲门、对白与雨声"
+      },
+      {
+        "Line": 1074,
+        "Heading": "### 示例 2：为上例提供一版可选配乐"
+      },
+      {
+        "Line": 1082,
+        "Heading": "### 示例 3：由 AI 给出后期混音建议"
+      },
+      {
+        "Line": 1090,
+        "Heading": "## 第六部分：完整可调用扩写指令"
+      },
+      {
+        "Line": 1113,
+        "Heading": "## 第七部分：交付前的补充核对"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H011",
+    "Name": "AI生成角色形象图提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      819
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 822,
+        "Heading": "## 第二部分：80条逐项扩写与角色一致性协议"
+      },
+      {
+        "Line": 826,
+        "Heading": "### 全库统一使用方式"
+      },
+      {
+        "Line": 837,
+        "Heading": "### 1—20：基础外貌参数逐条补充"
+      },
+      {
+        "Line": 879,
+        "Heading": "### 21—40：服装设计逐条补充"
+      },
+      {
+        "Line": 921,
+        "Heading": "### 41—60：角色类型与风格逐条补充"
+      },
+      {
+        "Line": 963,
+        "Heading": "### 61—80：角色一致性描述模板逐条补充"
+      },
+      {
+        "Line": 1005,
+        "Heading": "### 把条目组合成完整角色形象图提示词"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H012",
+    "Name": "AI生成身体动作提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      1027
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1030,
+        "Heading": "## 第二部分：100条逐项扩写与可执行动作协议"
+      },
+      {
+        "Line": 1034,
+        "Heading": "### 全库统一动作建模流程"
+      },
+      {
+        "Line": 1046,
+        "Heading": "### 1—15：基本姿态与站姿逐条补充"
+      },
+      {
+        "Line": 1078,
+        "Heading": "### 16—35：手势与手部动作逐条补充"
+      },
+      {
+        "Line": 1120,
+        "Heading": "### 36—45：头部与颈部动作逐条补充"
+      },
+      {
+        "Line": 1142,
+        "Heading": "### 46—60：行走步态与移动模式逐条补充"
+      },
+      {
+        "Line": 1174,
+        "Heading": "### 61—75：情感身体表达逐条补充"
+      },
+      {
+        "Line": 1206,
+        "Heading": "### 76—85：社交身体信号逐条补充"
+      },
+      {
+        "Line": 1228,
+        "Heading": "### 86—100：特殊状态身体语言逐条补充"
+      },
+      {
+        "Line": 1260,
+        "Heading": "### 最终调用与自检"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H013",
+    "Name": "AI眼部描述提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      1081
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1084,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 1088,
+        "Heading": "### 0. 先区分可见动作、摄影效果与医学推断"
+      },
+      {
+        "Line": 1096,
+        "Heading": "### 1. 视线方向01—10的逐条扩写"
+      },
+      {
+        "Line": 1118,
+        "Heading": "### 2. 眼睑与眼皮11—20的逐条扩写"
+      },
+      {
+        "Line": 1140,
+        "Heading": "### 3. 瞳孔与光照21—30的逐条扩写"
+      },
+      {
+        "Line": 1162,
+        "Heading": "### 4. 眼周肌肉31—40的逐条扩写"
+      },
+      {
+        "Line": 1184,
+        "Heading": "### 5. 眨眼与闭眼41—50的逐条扩写"
+      },
+      {
+        "Line": 1206,
+        "Heading": "### 6. 流泪与泪光51—60的逐条扩写"
+      },
+      {
+        "Line": 1228,
+        "Heading": "### 7. 眼球运动61—70的逐条扩写"
+      },
+      {
+        "Line": 1250,
+        "Heading": "### 8. 眼部情绪表达71—85的逐条扩写"
+      },
+      {
+        "Line": 1284,
+        "Heading": "### 9. 视线交互86—95的逐条扩写"
+      },
+      {
+        "Line": 1306,
+        "Heading": "### 10. 经典眼技模板96—105的逐条扩写"
+      },
+      {
+        "Line": 1328,
+        "Heading": "### 11. 把105条库转为镜头提示词的执行流程"
+      },
+      {
+        "Line": 1342,
+        "Heading": "### 12. 输出前自检"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H014",
+    "Name": "AI表情微表情提示词库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      993
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 996,
+        "Heading": "## 第二部分：逐条扩写与可执行生成规则"
+      },
+      {
+        "Line": 1000,
+        "Heading": "### 使用这套库的统一执行协议"
+      },
+      {
+        "Line": 1011,
+        "Heading": "### 1—8：基础情绪表情的逐条补充"
+      },
+      {
+        "Line": 1029,
+        "Heading": "### 9—18：核心微表情的逐条补充"
+      },
+      {
+        "Line": 1051,
+        "Heading": "### 19—33：复杂与复合情绪的逐条补充"
+      },
+      {
+        "Line": 1083,
+        "Heading": "### 34—42：欺骗与伪装表情的逐条补充"
+      },
+      {
+        "Line": 1103,
+        "Heading": "### 43—50：动态与时间性特征的逐条补充"
+      },
+      {
+        "Line": 1121,
+        "Heading": "### 51—58：特殊状态与极端表情的逐条补充"
+      },
+      {
+        "Line": 1139,
+        "Heading": "### 59—66：微妙与社交表情的逐条补充"
+      },
+      {
+        "Line": 1157,
+        "Heading": "### 67—71：文化与情境变体的逐条补充"
+      },
+      {
+        "Line": 1169,
+        "Heading": "### 72—81：与运镜及叙事整合的逐条补充"
+      },
+      {
+        "Line": 1191,
+        "Heading": "### 82—94：组合与特殊应用的逐条补充"
+      },
+      {
+        "Line": 1219,
+        "Heading": "### 95—96：电影与文学模板的逐条补充"
+      },
+      {
+        "Line": 1225,
+        "Heading": "### 逐条调用时的输出补全指令"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H015",
+    "Name": "POV第一人称模拟真实人物视角分镜提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      1780
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1783,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 1789,
+        "Heading": "### 1. 先做原文逐句映射，再设计第一人称视角"
+      },
+      {
+        "Line": 1797,
+        "Heading": "### 2. 三层输出：完整工作稿、可复制生成区、跨批次状态"
+      },
+      {
+        "Line": 1805,
+        "Heading": "### 3. 主观视角的几何约束与画面可见度"
+      },
+      {
+        "Line": 1815,
+        "Heading": "### 4. 生理反馈的具体化与适用边界"
+      },
+      {
+        "Line": 1823,
+        "Heading": "### 5. 12条逻辑链的检验方法与修复动作"
+      },
+      {
+        "Line": 1839,
+        "Heading": "### 6. 10条POV约束的实用判定"
+      },
+      {
+        "Line": 1851,
+        "Heading": "### 7. 9条收尾与切镜校验的执行顺序"
+      },
+      {
+        "Line": 1865,
+        "Heading": "### 8. 七个独立生成区的填写规则"
+      },
+      {
+        "Line": 1881,
+        "Heading": "### 9. 声音、沉默与主观感知的同步"
+      },
+      {
+        "Line": 1887,
+        "Heading": "### 10. 宏观提示词与微观画面的连接"
+      },
+      {
+        "Line": 1893,
+        "Heading": "### 11. 物体与人物清单的动态扩展"
+      },
+      {
+        "Line": 1899,
+        "Heading": "### 12. 分批与交接单的最低完备条件"
+      },
+      {
+        "Line": 1905,
+        "Heading": "### 13. 两个短例子：参数由AI推导"
+      },
+      {
+        "Line": 1911,
+        "Heading": "### 14. 最终交付自检"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H016",
+    "Name": "仙侠手诀法术库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      375
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 376,
+        "Heading": "## 第二部分：条目数量与执行底座"
+      },
+      {
+        "Line": 378,
+        "Heading": "### 原稿与新增的边界"
+      },
+      {
+        "Line": 384,
+        "Heading": "### 参数自动生成"
+      },
+      {
+        "Line": 402,
+        "Heading": "## 第三部分：原稿175条逐项扩写"
+      },
+      {
+        "Line": 404,
+        "Heading": "### 一、基础手诀与指印｜O001—O040"
+      },
+      {
+        "Line": 406,
+        "Heading": "### O001｜子午诀"
+      },
+      {
+        "Line": 410,
+        "Heading": "### O002｜太极印"
+      },
+      {
+        "Line": 414,
+        "Heading": "### O003｜两仪诀"
+      },
+      {
+        "Line": 418,
+        "Heading": "### O004｜三清诀"
+      },
+      {
+        "Line": 422,
+        "Heading": "### O005｜四象诀"
+      },
+      {
+        "Line": 426,
+        "Heading": "### O006｜五行诀"
+      },
+      {
+        "Line": 430,
+        "Heading": "### O007｜六合诀"
+      },
+      {
+        "Line": 434,
+        "Heading": "### O008｜七星诀"
+      },
+      {
+        "Line": 438,
+        "Heading": "### O009｜八卦诀"
+      },
+      {
+        "Line": 442,
+        "Heading": "### O010｜九宫诀"
+      },
+      {
+        "Line": 446,
+        "Heading": "### O011｜莲花印"
+      },
+      {
+        "Line": 450,
+        "Heading": "### O012｜金刚伏魔印"
+      },
+      {
+        "Line": 454,
+        "Heading": "### O013｜施无畏印"
+      },
+      {
+        "Line": 458,
+        "Heading": "### O014｜禅定印"
+      },
+      {
+        "Line": 462,
+        "Heading": "### O015｜触地印"
+      },
+      {
+        "Line": 466,
+        "Heading": "### O016｜说法印"
+      },
+      {
+        "Line": 470,
+        "Heading": "### O017｜合十印"
+      },
+      {
+        "Line": 474,
+        "Heading": "### O018｜降魔印"
+      },
+      {
+        "Line": 478,
+        "Heading": "### O019｜与愿印"
+      },
+      {
+        "Line": 482,
+        "Heading": "### O020｜智拳印"
+      },
+      {
+        "Line": 486,
+        "Heading": "### O021｜剑指诀"
+      },
+      {
+        "Line": 490,
+        "Heading": "### O022｜御剑诀"
+      },
+      {
+        "Line": 494,
+        "Heading": "### O023｜万剑诀"
+      },
+      {
+        "Line": 498,
+        "Heading": "### O024｜剑心通明印"
+      },
+      {
+        "Line": 502,
+        "Heading": "### O025｜刀诀"
+      },
+      {
+        "Line": 506,
+        "Heading": "### O026｜枪诀"
+      },
+      {
+        "Line": 510,
+        "Heading": "### O027｜弓诀"
+      },
+      {
+        "Line": 514,
+        "Heading": "### O028｜鞭诀"
+      },
+      {
+        "Line": 518,
+        "Heading": "### O029｜暗器诀"
+      },
+      {
+        "Line": 522,
+        "Heading": "### O030｜点穴诀"
+      },
+      {
+        "Line": 526,
+        "Heading": "### O031｜双手结印"
+      },
+      {
+        "Line": 530,
+        "Heading": "### O032｜单手瞬诀"
+      },
+      {
+        "Line": 534,
+        "Heading": "### O033｜空中画符"
+      },
+      {
+        "Line": 538,
+        "Heading": "### O034｜血诀"
+      },
+      {
+        "Line": 542,
+        "Heading": "### O035｜魂诀"
+      },
+      {
+        "Line": 546,
+        "Heading": "### O036｜心诀"
+      },
+      {
+        "Line": 550,
+        "Heading": "### O037｜眼神诀"
+      },
+      {
+        "Line": 554,
+        "Heading": "### O038｜口吐真言"
+      },
+      {
+        "Line": 558,
+        "Heading": "### O039｜足踏罡步"
+      },
+      {
+        "Line": 562,
+        "Heading": "### O040｜收诀归元"
+      },
+      {
+        "Line": 566,
+        "Heading": "### 二、五行基础法术｜O041—O090"
+      },
+      {
+        "Line": 568,
+        "Heading": "### O041｜金刃术"
+      },
+      {
+        "Line": 572,
+        "Heading": "### O042｜金钟罩"
+      },
+      {
+        "Line": 576,
+        "Heading": "### O043｜万剑归宗（五行基础条目）"
+      },
+      {
+        "Line": 580,
+        "Heading": "### O044｜金丝缚"
+      },
+      {
+        "Line": 584,
+        "Heading": "### O045｜金刚不坏"
+      },
+      {
+        "Line": 588,
+        "Heading": "### O046｜金乌焚天"
+      },
+      {
+        "Line": 592,
+        "Heading": "### O047｜金刚杵"
+      },
+      {
+        "Line": 596,
+        "Heading": "### O048｜金鳞甲"
+      },
+      {
+        "Line": 600,
+        "Heading": "### O049｜金针渡穴"
+      },
+      {
+        "Line": 604,
+        "Heading": "### O050｜金蝉脱壳"
+      },
+      {
+        "Line": 608,
+        "Heading": "### O051｜藤蔓缠绕"
+      },
+      {
+        "Line": 612,
+        "Heading": "### O052｜万木回春"
+      },
+      {
+        "Line": 616,
+        "Heading": "### O053｜木龙破"
+      },
+      {
+        "Line": 620,
+        "Heading": "### O054｜花雨疗愈"
+      },
+      {
+        "Line": 624,
+        "Heading": "### O055｜荆棘牢"
+      },
+      {
+        "Line": 628,
+        "Heading": "### O056｜生命之种"
+      },
+      {
+        "Line": 632,
+        "Heading": "### O057｜树界降临"
+      },
+      {
+        "Line": 636,
+        "Heading": "### O058｜花毒瘴"
+      },
+      {
+        "Line": 640,
+        "Heading": "### O059｜木遁术"
+      },
+      {
+        "Line": 644,
+        "Heading": "### O060｜青木长生诀"
+      },
+      {
+        "Line": 648,
+        "Heading": "### O061｜水龙吟"
+      },
+      {
+        "Line": 652,
+        "Heading": "### O062｜寒冰诀"
+      },
+      {
+        "Line": 656,
+        "Heading": "### O063｜冰封千里"
+      },
+      {
+        "Line": 660,
+        "Heading": "### O064｜水镜术"
+      },
+      {
+        "Line": 664,
+        "Heading": "### O065｜雨幕"
+      },
+      {
+        "Line": 668,
+        "Heading": "### O066｜水牢"
+      },
+      {
+        "Line": 672,
+        "Heading": "### O067｜潮汐术"
+      },
+      {
+        "Line": 676,
+        "Heading": "### O068｜冰锥术"
+      },
+      {
+        "Line": 680,
+        "Heading": "### O069｜寒冰甲"
+      },
+      {
+        "Line": 684,
+        "Heading": "### O070｜弱水三千"
+      },
+      {
+        "Line": 688,
+        "Heading": "### O071｜火球术"
+      },
+      {
+        "Line": 692,
+        "Heading": "### O072｜烈焰掌"
+      },
+      {
+        "Line": 696,
+        "Heading": "### O073｜三昧真火"
+      },
+      {
+        "Line": 700,
+        "Heading": "### O074｜火凤燎原"
+      },
+      {
+        "Line": 704,
+        "Heading": "### O075｜焚天诀"
+      },
+      {
+        "Line": 708,
+        "Heading": "### O076｜火墙"
+      },
+      {
+        "Line": 712,
+        "Heading": "### O077｜炎龙咆哮"
+      },
+      {
+        "Line": 716,
+        "Heading": "### O078｜凤凰涅槃"
+      },
+      {
+        "Line": 720,
+        "Heading": "### O079｜火雨"
+      },
+      {
+        "Line": 724,
+        "Heading": "### O080｜太阳真火"
+      },
+      {
+        "Line": 728,
+        "Heading": "### O081｜土墙术"
+      },
+      {
+        "Line": 732,
+        "Heading": "### O082｜地刺阵"
+      },
+      {
+        "Line": 736,
+        "Heading": "### O083｜流沙陷"
+      },
+      {
+        "Line": 740,
+        "Heading": "### O084｜山岳镇压"
+      },
+      {
+        "Line": 744,
+        "Heading": "### O085｜大地回春"
+      },
+      {
+        "Line": 748,
+        "Heading": "### O086｜石傀儡"
+      },
+      {
+        "Line": 752,
+        "Heading": "### O087｜地龙翻身"
+      },
+      {
+        "Line": 756,
+        "Heading": "### O088｜重力术"
+      },
+      {
+        "Line": 760,
+        "Heading": "### O089｜化石为泥"
+      },
+      {
+        "Line": 764,
+        "Heading": "### O090｜黄龙翻江"
+      },
+      {
+        "Line": 768,
+        "Heading": "### 三、高阶仙法｜O091—O140"
+      },
+      {
+        "Line": 770,
+        "Heading": "### O091｜御剑术"
+      },
+      {
+        "Line": 774,
+        "Heading": "### O092｜万剑归宗（高阶条目）"
+      },
+      {
+        "Line": 778,
+        "Heading": "### O093｜剑气纵横"
+      },
+      {
+        "Line": 782,
+        "Heading": "### O094｜剑心通明"
+      },
+      {
+        "Line": 786,
+        "Heading": "### O095｜一剑开天"
+      },
+      {
+        "Line": 790,
+        "Heading": "### O096｜心剑"
+      },
+      {
+        "Line": 794,
+        "Heading": "### O097｜剑域"
+      },
+      {
+        "Line": 798,
+        "Heading": "### O098｜葬剑"
+      },
+      {
+        "Line": 802,
+        "Heading": "### O099｜剑来"
+      },
+      {
+        "Line": 806,
+        "Heading": "### O100｜人剑合一"
+      },
+      {
+        "Line": 810,
+        "Heading": "### O101｜雷法天罚"
+      },
+      {
+        "Line": 814,
+        "Heading": "### O102｜九天神雷"
+      },
+      {
+        "Line": 818,
+        "Heading": "### O103｜五雷轰顶"
+      },
+      {
+        "Line": 822,
+        "Heading": "### O104｜雷龙"
+      },
+      {
+        "Line": 826,
+        "Heading": "### O105｜雷劫"
+      },
+      {
+        "Line": 830,
+        "Heading": "### O106｜雷遁"
+      },
+      {
+        "Line": 834,
+        "Heading": "### O107｜雷铠"
+      },
+      {
+        "Line": 838,
+        "Heading": "### O108｜雷域"
+      },
+      {
+        "Line": 842,
+        "Heading": "### O109｜天雷勾地火"
+      },
+      {
+        "Line": 846,
+        "Heading": "### O110｜紫霄神雷"
+      },
+      {
+        "Line": 850,
+        "Heading": "### O111｜空间折叠"
+      },
+      {
+        "Line": 854,
+        "Heading": "### O112｜瞬移"
+      },
+      {
+        "Line": 858,
+        "Heading": "### O113｜缩地成寸"
+      },
+      {
+        "Line": 862,
+        "Heading": "### O114｜空间牢笼"
+      },
+      {
+        "Line": 866,
+        "Heading": "### O115｜空间撕裂"
+      },
+      {
+        "Line": 870,
+        "Heading": "### O116｜时间停滞"
+      },
+      {
+        "Line": 874,
+        "Heading": "### O117｜时光倒流"
+      },
+      {
+        "Line": 878,
+        "Heading": "### O118｜时间加速"
+      },
+      {
+        "Line": 882,
+        "Heading": "### O119｜因果线"
+      },
+      {
+        "Line": 886,
+        "Heading": "### O120｜轮回印"
+      },
+      {
+        "Line": 890,
+        "Heading": "### O121｜元神出窍"
+      },
+      {
+        "Line": 894,
+        "Heading": "### O122｜灵魂锁链"
+      },
+      {
+        "Line": 898,
+        "Heading": "### O123｜夺舍"
+      },
+      {
+        "Line": 902,
+        "Heading": "### O124｜搜魂"
+      },
+      {
+        "Line": 906,
+        "Heading": "### O125｜魂飞魄散"
+      },
+      {
+        "Line": 910,
+        "Heading": "### O126｜元神法相"
+      },
+      {
+        "Line": 914,
+        "Heading": "### O127｜魂域"
+      },
+      {
+        "Line": 918,
+        "Heading": "### O128｜借尸还魂"
+      },
+      {
+        "Line": 922,
+        "Heading": "### O129｜魂灯"
+      },
+      {
+        "Line": 926,
+        "Heading": "### O130｜轮回眼"
+      },
+      {
+        "Line": 930,
+        "Heading": "### O131｜法天象地"
+      },
+      {
+        "Line": 934,
+        "Heading": "### O132｜金身法相"
+      },
+      {
+        "Line": 938,
+        "Heading": "### O133｜万法归一"
+      },
+      {
+        "Line": 942,
+        "Heading": "### O134｜言出法随"
+      },
+      {
+        "Line": 946,
+        "Heading": "### O135｜一念花开"
+      },
+      {
+        "Line": 950,
+        "Heading": "### O136｜一念成魔"
+      },
+      {
+        "Line": 954,
+        "Heading": "### O137｜一念成佛"
+      },
+      {
+        "Line": 958,
+        "Heading": "### O138｜大道无形"
+      },
+      {
+        "Line": 962,
+        "Heading": "### O139｜天机术"
+      },
+      {
+        "Line": 966,
+        "Heading": "### O140｜逆天改命"
+      },
+      {
+        "Line": 970,
+        "Heading": "### 四、符箓、阵法与禁术｜O141—O175"
+      },
+      {
+        "Line": 972,
+        "Heading": "### O141｜符箓绘制"
+      },
+      {
+        "Line": 976,
+        "Heading": "### O142｜符箓激发"
+      },
+      {
+        "Line": 980,
+        "Heading": "### O143｜镇魂符"
+      },
+      {
+        "Line": 984,
+        "Heading": "### O144｜驱邪符"
+      },
+      {
+        "Line": 988,
+        "Heading": "### O145｜爆裂符"
+      },
+      {
+        "Line": 992,
+        "Heading": "### O146｜封印符"
+      },
+      {
+        "Line": 996,
+        "Heading": "### O147｜传送符"
+      },
+      {
+        "Line": 1000,
+        "Heading": "### O148｜护身符"
+      },
+      {
+        "Line": 1004,
+        "Heading": "### O149｜召雷符"
+      },
+      {
+        "Line": 1008,
+        "Heading": "### O150｜冰封符"
+      },
+      {
+        "Line": 1012,
+        "Heading": "### O151｜聚灵阵"
+      },
+      {
+        "Line": 1016,
+        "Heading": "### O152｜传送阵"
+      },
+      {
+        "Line": 1020,
+        "Heading": "### O153｜护山阵"
+      },
+      {
+        "Line": 1024,
+        "Heading": "### O154｜杀阵"
+      },
+      {
+        "Line": 1028,
+        "Heading": "### O155｜幻阵"
+      },
+      {
+        "Line": 1032,
+        "Heading": "### O156｜锁魂阵"
+      },
+      {
+        "Line": 1036,
+        "Heading": "### O157｜五行阵"
+      },
+      {
+        "Line": 1040,
+        "Heading": "### O158｜北斗阵"
+      },
+      {
+        "Line": 1044,
+        "Heading": "### O159｜八卦阵"
+      },
+      {
+        "Line": 1048,
+        "Heading": "### O160｜周天星斗阵"
+      },
+      {
+        "Line": 1052,
+        "Heading": "### O161｜血阵"
+      },
+      {
+        "Line": 1056,
+        "Heading": "### O162｜献祭阵"
+      },
+      {
+        "Line": 1060,
+        "Heading": "### O163｜困仙阵"
+      },
+      {
+        "Line": 1064,
+        "Heading": "### O164｜时间阵"
+      },
+      {
+        "Line": 1068,
+        "Heading": "### O165｜空间阵"
+      },
+      {
+        "Line": 1072,
+        "Heading": "### O166｜焚天禁术"
+      },
+      {
+        "Line": 1076,
+        "Heading": "### O167｜血祭禁术"
+      },
+      {
+        "Line": 1080,
+        "Heading": "### O168｜献祭禁术"
+      },
+      {
+        "Line": 1084,
+        "Heading": "### O169｜魂祭禁术"
+      },
+      {
+        "Line": 1088,
+        "Heading": "### O170｜轮回禁术"
+      },
+      {
+        "Line": 1092,
+        "Heading": "### O171｜时间禁术"
+      },
+      {
+        "Line": 1096,
+        "Heading": "### O172｜空间禁术"
+      },
+      {
+        "Line": 1100,
+        "Heading": "### O173｜天劫禁术"
+      },
+      {
+        "Line": 1104,
+        "Heading": "### O174｜魔化禁术"
+      },
+      {
+        "Line": 1108,
+        "Heading": "### O175｜尸解禁术"
+      },
+      {
+        "Line": 1112,
+        "Heading": "## 第四部分：单独补充25条（全部为新增影视创作条目）"
+      },
+      {
+        "Line": 1116,
+        "Heading": "### 高阶仙法补充｜N001—N010"
+      },
+      {
+        "Line": 1118,
+        "Heading": "### N001｜星桥引渡"
+      },
+      {
+        "Line": 1122,
+        "Heading": "### N002｜风印回旋"
+      },
+      {
+        "Line": 1126,
+        "Heading": "### N003｜星砂护幕"
+      },
+      {
+        "Line": 1130,
+        "Heading": "### N004｜月影分身"
+      },
+      {
+        "Line": 1134,
+        "Heading": "### N005｜灵息寻踪"
+      },
+      {
+        "Line": 1138,
+        "Heading": "### N006｜封声结界"
+      },
+      {
+        "Line": 1142,
+        "Heading": "### N007｜灵纹修补"
+      },
+      {
+        "Line": 1146,
+        "Heading": "### N008｜云阶登临"
+      },
+      {
+        "Line": 1150,
+        "Heading": "### N009｜影缚术"
+      },
+      {
+        "Line": 1154,
+        "Heading": "### N010｜灵域共鸣"
+      },
+      {
+        "Line": 1158,
+        "Heading": "### 符箓、阵法与禁术补充｜N011—N025"
+      },
+      {
+        "Line": 1160,
+        "Heading": "### N011｜静息符"
+      },
+      {
+        "Line": 1164,
+        "Heading": "### N012｜照影符"
+      },
+      {
+        "Line": 1168,
+        "Heading": "### N013｜留声符"
+      },
+      {
+        "Line": 1172,
+        "Heading": "### N014｜引路符"
+      },
+      {
+        "Line": 1176,
+        "Heading": "### N015｜断灵符"
+      },
+      {
+        "Line": 1180,
+        "Heading": "### N016｜回风阵"
+      },
+      {
+        "Line": 1184,
+        "Heading": "### N017｜澄水阵"
+      },
+      {
+        "Line": 1188,
+        "Heading": "### N018｜镇器阵"
+      },
+      {
+        "Line": 1192,
+        "Heading": "### N019｜观星阵"
+      },
+      {
+        "Line": 1196,
+        "Heading": "### N020｜合阵引流"
+      },
+      {
+        "Line": 1200,
+        "Heading": "### N021｜破阵归痕"
+      },
+      {
+        "Line": 1204,
+        "Heading": "### N022｜借灵禁术"
+      },
+      {
+        "Line": 1208,
+        "Heading": "### N023｜记忆封存禁术"
+      },
+      {
+        "Line": 1212,
+        "Heading": "### N024｜灵脉逆流禁术"
+      },
+      {
+        "Line": 1216,
+        "Heading": "### N025｜界门封闭禁术"
+      },
+      {
+        "Line": 1220,
+        "Heading": "## 第五部分：完整镜头调用与模板"
+      },
+      {
+        "Line": 1222,
+        "Heading": "### 01｜每次调用都实际填写的参数卡"
+      },
+      {
+        "Line": 1247,
+        "Heading": "### 02｜完整示范：剑指释放与收诀"
+      },
+      {
+        "Line": 1281,
+        "Heading": "### 03｜完整例外示范：局部时停"
+      },
+      {
+        "Line": 1291,
+        "Heading": "### 04｜时间与结果继承模板"
+      },
+      {
+        "Line": 1307,
+        "Heading": "## 第六部分：统一调用指令"
+      },
+      {
+        "Line": 1325,
+        "Heading": "## 第七部分：扩写核对清单"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H017",
+    "Name": "优化分镜提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      471
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 474,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 478,
+        "Heading": "### 1. 一句话输入也能启动的完整流程"
+      },
+      {
+        "Line": 488,
+        "Heading": "### 2. 精确参数由 AI 自动反馈的规则"
+      },
+      {
+        "Line": 506,
+        "Heading": "### 3. 从诊断到自然语言成稿的衔接"
+      },
+      {
+        "Line": 514,
+        "Heading": "### 4. 单镜头连续性的细化"
+      },
+      {
+        "Line": 522,
+        "Heading": "### 5. 光源、阴影与倒影的细化"
+      },
+      {
+        "Line": 532,
+        "Heading": "### 6. 微表情的共同执行约定"
+      },
+      {
+        "Line": 540,
+        "Heading": "#### 6.1 十二类表演通道的逐项扩写"
+      },
+      {
+        "Line": 566,
+        "Heading": "#### 6.2 六种情绪过渡曲线的逐项扩写"
+      },
+      {
+        "Line": 582,
+        "Heading": "### 7. 打斗质感的共同执行约定"
+      },
+      {
+        "Line": 592,
+        "Heading": "#### 7.1 十二种打击反馈的逐项扩写"
+      },
+      {
+        "Line": 618,
+        "Heading": "#### 7.2 八种攻防逻辑的逐项扩写"
+      },
+      {
+        "Line": 636,
+        "Heading": "### 8. 八层反提示词的场景化执行"
+      },
+      {
+        "Line": 656,
+        "Heading": "### 9. 音频与对白的时序补全"
+      },
+      {
+        "Line": 664,
+        "Heading": "### 10. 跨镜连续性与长文本分批"
+      },
+      {
+        "Line": 672,
+        "Heading": "### 11. 多模型映射的扩写口径"
+      },
+      {
+        "Line": 686,
+        "Heading": "### 12. 一个普通动作的完整扩写示范"
+      },
+      {
+        "Line": 698,
+        "Heading": "### 13. 一个打斗事件的完整扩写示范"
+      },
+      {
+        "Line": 708,
+        "Heading": "### 14. 可直接复制使用的完整扩写指令"
+      },
+      {
+        "Line": 737,
+        "Heading": "### 15. 最终核验的补充标准"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H018",
+    "Name": "全类型歌曲创作提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      1885
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1886,
+        "Heading": "## 第二部分：原稿00—49模块逐项扩写"
+      },
+      {
+        "Line": 1888,
+        "Heading": "### 00｜系统身份：把各项音乐能力落到成果"
+      },
+      {
+        "Line": 1894,
+        "Heading": "### 01｜最高原则：尊重授权并完成创作"
+      },
+      {
+        "Line": 1900,
+        "Heading": "### 02｜零默认：区分核心选择与专业推导"
+      },
+      {
+        "Line": 1906,
+        "Heading": "### 03｜输入优先级：建立冲突清单"
+      },
+      {
+        "Line": 1912,
+        "Heading": "### 04｜核心灵感锁：逐句记录权限"
+      },
+      {
+        "Line": 1918,
+        "Heading": "### 05｜项目锁：来源、状态和依赖齐全"
+      },
+      {
+        "Line": 1924,
+        "Heading": "### 06｜创作自由度：明确允许变化范围"
+      },
+      {
+        "Line": 1930,
+        "Heading": "### 07｜模糊审美翻译：形容词对应听感与参数"
+      },
+      {
+        "Line": 1936,
+        "Heading": "### 08｜任务识别：范围决定交付"
+      },
+      {
+        "Line": 1942,
+        "Heading": "### 09｜歌曲类型：表达机制与音乐流派分开"
+      },
+      {
+        "Line": 1948,
+        "Heading": "### 10｜歌曲DNA：九个维度形成闭环"
+      },
+      {
+        "Line": 1954,
+        "Heading": "### 11｜语义世界：建立意象职责"
+      },
+      {
+        "Line": 1960,
+        "Heading": "### 12｜歌词人格：让每段像同一个人在说话"
+      },
+      {
+        "Line": 1966,
+        "Heading": "### 13｜叙事密度：让0—100可解释"
+      },
+      {
+        "Line": 1972,
+        "Heading": "### 14｜直白度：观点与说明量分别控制"
+      },
+      {
+        "Line": 1978,
+        "Heading": "### 15｜展示而非宣告：物象有真实动作"
+      },
+      {
+        "Line": 1984,
+        "Heading": "### 16｜句式：按音乐呼吸分配音节"
+      },
+      {
+        "Line": 1990,
+        "Heading": "### 17｜旋律优先：给可演奏的落拍草案"
+      },
+      {
+        "Line": 1996,
+        "Heading": "### 18｜押韵：韵母、位置与语义同时记录"
+      },
+      {
+        "Line": 2002,
+        "Heading": "### 19｜Hook地图：主记忆点与辅助记忆分工"
+      },
+      {
+        "Line": 2008,
+        "Heading": "### 20｜副歌：升级具体发生在哪里"
+      },
+      {
+        "Line": 2014,
+        "Heading": "### 21｜结构：小节、时码与功能三者一致"
+      },
+      {
+        "Line": 2020,
+        "Heading": "### 22｜旋律DNA：数值与动机共存"
+      },
+      {
+        "Line": 2026,
+        "Heading": "### 23｜和声DNA：功能、色彩与段落对应"
+      },
+      {
+        "Line": 2032,
+        "Heading": "### 24｜编曲DNA：每个声部有职责"
+      },
+      {
+        "Line": 2038,
+        "Heading": "### 25｜人声DNA：音色、音域、技巧和字清晰"
+      },
+      {
+        "Line": 2044,
+        "Heading": "### 26｜动态：能量不等于音量"
+      },
+      {
+        "Line": 2050,
+        "Heading": "### 27｜歌词生成：一次给可读可唱的完整稿"
+      },
+      {
+        "Line": 2056,
+        "Heading": "### 28｜通用AI歌词检测：这是编辑审查"
+      },
+      {
+        "Line": 2062,
+        "Heading": "### 29｜类型专属缺陷：按项目加载"
+      },
+      {
+        "Line": 2068,
+        "Heading": "### 30｜用户缺陷锁：把抽象禁项可操作化"
+      },
+      {
+        "Line": 2074,
+        "Heading": "### 31｜参考DNA：只报告实际可获取内容"
+      },
+      {
+        "Line": 2080,
+        "Heading": "### 32｜原创性：具体身份，不保证绝无重合"
+      },
+      {
+        "Line": 2086,
+        "Heading": "### 33｜模型适配：字段独立，能力按入口确认"
+      },
+      {
+        "Line": 2092,
+        "Heading": "### 34｜AI音乐提示：主次清楚而非标签拥挤"
+      },
+      {
+        "Line": 2098,
+        "Heading": "### 35｜三层防护：防具体问题，不防合法风格"
+      },
+      {
+        "Line": 2104,
+        "Heading": "### 36｜生成结果诊断：听到什么才诊断什么"
+      },
+      {
+        "Line": 2110,
+        "Heading": "### 37｜定点修复：保护好部分，评估依赖"
+      },
+      {
+        "Line": 2116,
+        "Heading": "### 38｜版本：阶段编号与修订编号分开"
+      },
+      {
+        "Line": 2122,
+        "Heading": "### 39｜回退：恢复内容并检查适配"
+      },
+      {
+        "Line": 2128,
+        "Heading": "### 40｜多方向：七字段与机制差异"
+      },
+      {
+        "Line": 2134,
+        "Heading": "### 41｜反馈翻译：先指出可修改变量"
+      },
+      {
+        "Line": 2140,
+        "Heading": "### 42｜质量闸门：分层给状态和证据"
+      },
+      {
+        "Line": 2146,
+        "Heading": "### 43｜S级自检：10项保留，删减只是评估"
+      },
+      {
+        "Line": 2152,
+        "Heading": "### 44｜最终输出：复制块与制作记录分开"
+      },
+      {
+        "Line": 2158,
+        "Heading": "### 45｜启动：已有信息优先，避免重复审批"
+      },
+      {
+        "Line": 2164,
+        "Heading": "### 46｜快速启动：可用简报不再抄问"
+      },
+      {
+        "Line": 2170,
+        "Heading": "### 47｜用户控制：作用域要明确"
+      },
+      {
+        "Line": 2176,
+        "Heading": "### 48｜绝对规则：硬锁与授权边界"
+      },
+      {
+        "Line": 2182,
+        "Heading": "### 49｜创作哲学：每项技术服务一处表达"
+      },
+      {
+        "Line": 2188,
+        "Heading": "## 第三部分：精确参数及记录模板"
+      },
+      {
+        "Line": 2190,
+        "Heading": "### 01｜统一时间与音高底座"
+      },
+      {
+        "Line": 2198,
+        "Heading": "### 02｜项目锁与来源记录"
+      },
+      {
+        "Line": 2214,
+        "Heading": "### 03｜行级歌词与音乐对齐"
+      },
+      {
+        "Line": 2229,
+        "Heading": "### 04｜编曲与诊断记录"
+      },
+      {
+        "Line": 2244,
+        "Heading": "## 第四部分：完整歌曲生产方案示范"
+      },
+      {
+        "Line": 2246,
+        "Heading": "### 01｜教学简报与授权假设"
+      },
+      {
+        "Line": 2250,
+        "Heading": "### 02｜需求分析与五个可比较方向"
+      },
+      {
+        "Line": 2260,
+        "Heading": "### 03｜项目锁与歌曲DNA"
+      },
+      {
+        "Line": 2281,
+        "Heading": "### 04｜结构、小节与时间"
+      },
+      {
+        "Line": 2299,
+        "Heading": "### 05｜完整歌词（复唱已展开）"
+      },
+      {
+        "Line": 2355,
+        "Heading": "### 06｜歌词DNA与韵脚安排"
+      },
+      {
+        "Line": 2361,
+        "Heading": "### 07｜Hook Map与旋律DNA"
+      },
+      {
+        "Line": 2399,
+        "Heading": "### 08｜Harmony DNA"
+      },
+      {
+        "Line": 2411,
+        "Heading": "### 09｜Arrangement DNA与能量曲线"
+      },
+      {
+        "Line": 2427,
+        "Heading": "### 10｜Vocal DNA与制作起点"
+      },
+      {
+        "Line": 2435,
+        "Heading": "### 11｜平台中性完整生成说明"
+      },
+      {
+        "Line": 2446,
+        "Heading": "### 12｜Suno字段拆分示范"
+      },
+      {
+        "Line": 2476,
+        "Heading": "### 13｜三层防护与质量闸门"
+      },
+      {
+        "Line": 2488,
+        "Heading": "### 14｜S级10项自检与定点修复示例"
+      },
+      {
+        "Line": 2503,
+        "Heading": "## 第五部分：全类型执行扩展索引"
+      },
+      {
+        "Line": 2521,
+        "Heading": "## 第六部分：追加统一执行指令"
+      },
+      {
+        "Line": 2541,
+        "Heading": "## 第七部分：扩写交叉核对清单"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H019",
+    "Name": "剧本转分镜_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      131
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 136,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 138,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 140,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 148,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 158,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 168,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 178,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 186,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 192,
+        "Heading": "## 专项扩写：剧本转分镜"
+      },
+      {
+        "Line": 194,
+        "Heading": "### 1. 与上游剧本的编号连接"
+      },
+      {
+        "Line": 200,
+        "Heading": "### 2. 表情参数的逐项扩写"
+      },
+      {
+        "Line": 208,
+        "Heading": "### 3. 身体运动与接触"
+      },
+      {
+        "Line": 214,
+        "Heading": "### 4. 10秒排时的完整实现"
+      },
+      {
+        "Line": 222,
+        "Heading": "### 5. 摄影与空间精确参数"
+      },
+      {
+        "Line": 228,
+        "Heading": "### 6. 一体化提示词的丰富度"
+      },
+      {
+        "Line": 236,
+        "Heading": "### 7. 首末状态与汇总"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H020",
+    "Name": "十版角色三视图提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      72
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 77,
+        "Heading": "## 第二部分：十版共同扩写规则"
+      },
+      {
+        "Line": 79,
+        "Heading": "### 1. 输入图片与身份锁定"
+      },
+      {
+        "Line": 87,
+        "Heading": "### 2. 画布、坐标与精确排版"
+      },
+      {
+        "Line": 99,
+        "Heading": "### 3. 三视图的结构一致性"
+      },
+      {
+        "Line": 111,
+        "Heading": "### 4. 头部特写与静态表情数据"
+      },
+      {
+        "Line": 121,
+        "Heading": "### 5. 服装与皮肤材质的丰富细节"
+      },
+      {
+        "Line": 131,
+        "Heading": "### 6. 文字、背景与光照"
+      },
+      {
+        "Line": 139,
+        "Heading": "### 7. 生成与核验"
+      },
+      {
+        "Line": 147,
+        "Heading": "## 第三部分：十版独立可复制扩写提示词"
+      },
+      {
+        "Line": 149,
+        "Heading": "## 扩写模板01｜古代｜16:9｜经典人物档案"
+      },
+      {
+        "Line": 208,
+        "Heading": "## 扩写模板02｜古代｜9:16｜竖版角色海报"
+      },
+      {
+        "Line": 265,
+        "Heading": "## 扩写模板03｜古代｜16:9｜电影海报式档案"
+      },
+      {
+        "Line": 326,
+        "Heading": "## 扩写模板04｜古代｜9:16｜画册式双栏"
+      },
+      {
+        "Line": 383,
+        "Heading": "## 扩写模板05｜古代｜16:9｜网格拼图与材质长栏"
+      },
+      {
+        "Line": 440,
+        "Heading": "## 扩写模板06｜现代｜9:16｜现代时尚杂志封面"
+      },
+      {
+        "Line": 498,
+        "Heading": "## 扩写模板07｜现代｜16:9｜规整引导线角色档案"
+      },
+      {
+        "Line": 554,
+        "Heading": "## 扩写模板08｜现代｜9:16｜粉白上下分栏"
+      },
+      {
+        "Line": 611,
+        "Heading": "## 扩写模板09｜现代｜16:9｜左侧超大特写"
+      },
+      {
+        "Line": 664,
+        "Heading": "## 扩写模板10｜现代｜9:16｜拍立得画册拼贴"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H021",
+    "Name": "反推图片视频提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      110
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 113,
+        "Heading": "## 第二部分：完整扩写执行规范"
+      },
+      {
+        "Line": 119,
+        "Heading": "### 一、任务边界与素材类型自动识别"
+      },
+      {
+        "Line": 129,
+        "Heading": "### 二、元数据、观察证据与参数来源"
+      },
+      {
+        "Line": 144,
+        "Heading": "### 三、精确数据与自然语言双层对应"
+      },
+      {
+        "Line": 154,
+        "Heading": "### 四、单次生成协议的具体执行"
+      },
+      {
+        "Line": 164,
+        "Heading": "### 五、图片布局的坐标化复刻"
+      },
+      {
+        "Line": 178,
+        "Heading": "### 六、文字识别、样式与冲突消解"
+      },
+      {
+        "Line": 192,
+        "Heading": "### 七、主体、服装、道具与空间绑定"
+      },
+      {
+        "Line": 202,
+        "Heading": "### 八、光影、材质、色彩与镜头的解耦复刻"
+      },
+      {
+        "Line": 212,
+        "Heading": "### 九、视频镜头检测与连续时间线"
+      },
+      {
+        "Line": 224,
+        "Heading": "### 十、运镜与主体运动的分离"
+      },
+      {
+        "Line": 234,
+        "Heading": "### 十一、音频反推与视听同步"
+      },
+      {
+        "Line": 250,
+        "Heading": "### 十二、模板融合与分析角色协同"
+      },
+      {
+        "Line": 260,
+        "Heading": "### 十三、目标模型绑定与反提示词"
+      },
+      {
+        "Line": 274,
+        "Heading": "### 十四、单代码框输出骨架"
+      },
+      {
+        "Line": 293,
+        "Heading": "### 十五、内部核验与完整性检查"
+      },
+      {
+        "Line": 312,
+        "Heading": "### 十六、收到用户修改后的复现一致性"
+      },
+      {
+        "Line": 320,
+        "Heading": "## 第三部分：适配说明核对资料"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H022",
+    "Name": "反推视频提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      63
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 68,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 70,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 72,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 80,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 90,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 100,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 110,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 118,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 124,
+        "Heading": "## 专项扩写：视频逐镜反推"
+      },
+      {
+        "Line": 126,
+        "Heading": "### 1. 观看、采样与切点记录"
+      },
+      {
+        "Line": 134,
+        "Heading": "### 2. 首帧静态描述的构图数据"
+      },
+      {
+        "Line": 142,
+        "Heading": "### 3. 主体动态与运镜的数值方案"
+      },
+      {
+        "Line": 152,
+        "Heading": "### 4. 光色数据与叙事信息"
+      },
+      {
+        "Line": 160,
+        "Heading": "### 5. 纯画面无文字的完整落实"
+      },
+      {
+        "Line": 166,
+        "Heading": "### 6. 原输出格式内的扩写"
+      },
+      {
+        "Line": 174,
+        "Heading": "### 7. 跨镜逻辑与检查"
+      },
+      {
+        "Line": 180,
+        "Heading": "### 8. 源片测量与复现设计双记录"
+      },
+      {
+        "Line": 190,
+        "Heading": "### 9. I2V素材与成片检查"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H023",
+    "Name": "场面调度库_叙事结构库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      825
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 828,
+        "Heading": "## 第二部分：基于原稿的逐条扩写与使用规程"
+      },
+      {
+        "Line": 832,
+        "Heading": "### A. 先建立统一的输入解析和坐标体系"
+      },
+      {
+        "Line": 840,
+        "Heading": "### B. 场面调度库20条：原条目后的可执行补充"
+      },
+      {
+        "Line": 882,
+        "Heading": "### C. 叙事结构库60条：逐条增加可检验的设计动作"
+      },
+      {
+        "Line": 884,
+        "Heading": "#### C1. 故事结构框架15条"
+      },
+      {
+        "Line": 916,
+        "Heading": "#### C2. 情节类型与模式15条"
+      },
+      {
+        "Line": 948,
+        "Heading": "#### C3. 叙事节奏10条"
+      },
+      {
+        "Line": 970,
+        "Heading": "#### C4. 情绪弧线10条"
+      },
+      {
+        "Line": 994,
+        "Heading": "#### C5. 悬念与伏笔10条"
+      },
+      {
+        "Line": 1016,
+        "Heading": "### D. 从素材到输出的组合工作流"
+      },
+      {
+        "Line": 1030,
+        "Heading": "### E. 可直接复用的调用模板"
+      },
+      {
+        "Line": 1036,
+        "Heading": "### F. 最终自检清单"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H024",
+    "Name": "对话与台词技巧提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      721
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 724,
+        "Heading": "## 第二部分：70 条技法的执行扩写"
+      },
+      {
+        "Line": 728,
+        "Heading": "### 一、对话功能类型：逐条扩写"
+      },
+      {
+        "Line": 760,
+        "Heading": "### 二、对白风格：逐条扩写"
+      },
+      {
+        "Line": 792,
+        "Heading": "### 三、潜台词技巧：逐条扩写"
+      },
+      {
+        "Line": 814,
+        "Heading": "### 四、对话节奏：逐条扩写"
+      },
+      {
+        "Line": 836,
+        "Heading": "### 五、独白与旁白：逐条扩写"
+      },
+      {
+        "Line": 858,
+        "Heading": "### 六、特定场景台词：逐条扩写"
+      },
+      {
+        "Line": 880,
+        "Heading": "## 第三部分：把资料库变成可直接调用的提示词"
+      },
+      {
+        "Line": 905,
+        "Heading": "### 两种常用调用方式"
+      },
+      {
+        "Line": 911,
+        "Heading": "### 交付前的核对口径"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H025",
+    "Name": "封面图生成提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      322
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 325,
+        "Heading": "## 第二部分：完整扩写执行规范"
+      },
+      {
+        "Line": 331,
+        "Heading": "### 一、执行范围与输入识别"
+      },
+      {
+        "Line": 339,
+        "Heading": "### 二、逐项询问与自动默认值"
+      },
+      {
+        "Line": 351,
+        "Heading": "### 三、长剧情选景与核心瞬间"
+      },
+      {
+        "Line": 361,
+        "Heading": "### 四、剧情核心提炼与事实层次"
+      },
+      {
+        "Line": 374,
+        "Heading": "### 五、角色锚定与参考图冲突"
+      },
+      {
+        "Line": 388,
+        "Heading": "### 六、AI像素级制作参数卡"
+      },
+      {
+        "Line": 408,
+        "Heading": "### 七、比例、画布与安全区域"
+      },
+      {
+        "Line": 420,
+        "Heading": "### 八、标题留白与排版的精确设计"
+      },
+      {
+        "Line": 434,
+        "Heading": "### 九、多角色空间关系与表情姿态"
+      },
+      {
+        "Line": 448,
+        "Heading": "### 十、光影、配色与材质细化"
+      },
+      {
+        "Line": 462,
+        "Heading": "### 十一、三个方向的差异化扩写"
+      },
+      {
+        "Line": 474,
+        "Heading": "### 十二、完整描述与短版投喂的联动"
+      },
+      {
+        "Line": 484,
+        "Heading": "### 十三、模型适配与反提示词存放"
+      },
+      {
+        "Line": 498,
+        "Heading": "### 十四、扩展输出模板"
+      },
+      {
+        "Line": 536,
+        "Heading": "### 十五、缩略图、裁切和跨方案核验"
+      },
+      {
+        "Line": 554,
+        "Heading": "### 十六、制作使用建议的扩写"
+      },
+      {
+        "Line": 562,
+        "Heading": "## 第三部分：模型字段核对资料"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H026",
+    "Name": "小说剧情转分镜脚本_双模式完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      290
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 293,
+        "Heading": "## 第二部分：完整扩写执行规范"
+      },
+      {
+        "Line": 297,
+        "Heading": "### 一、适用阶段与双模式协同"
+      },
+      {
+        "Line": 305,
+        "Heading": "### 二、全量解析与覆盖账本"
+      },
+      {
+        "Line": 317,
+        "Heading": "### 三、精确数据的自动推导与存放位置"
+      },
+      {
+        "Line": 342,
+        "Heading": "### 四、单核心事件的分镜切分"
+      },
+      {
+        "Line": 352,
+        "Heading": "### 五、时长预算与速度锚点深化"
+      },
+      {
+        "Line": 364,
+        "Heading": "### 六、空间参照系、朝向与站位"
+      },
+      {
+        "Line": 374,
+        "Heading": "### 七、打斗完整链条与同步反应"
+      },
+      {
+        "Line": 390,
+        "Heading": "### 八、物理痕迹与持续状态的细化"
+      },
+      {
+        "Line": 402,
+        "Heading": "### 九、跨镜状态账本与继承规则"
+      },
+      {
+        "Line": 414,
+        "Heading": "### 十、微表情、呼吸与对白融合"
+      },
+      {
+        "Line": 426,
+        "Heading": "### 十一、摄影、构图与首帧一致性"
+      },
+      {
+        "Line": 440,
+        "Heading": "### 十二、声音与全中文执行"
+      },
+      {
+        "Line": 450,
+        "Heading": "### 十三、双模式完整输出模板"
+      },
+      {
+        "Line": 454,
+        "Heading": "#### 分镜S01｜首帧图片提示词"
+      },
+      {
+        "Line": 461,
+        "Heading": "#### 分镜S01｜模式一：一体化视频提示词"
+      },
+      {
+        "Line": 467,
+        "Heading": "#### 分镜S01｜模式二：详细分镜档案"
+      },
+      {
+        "Line": 497,
+        "Heading": "### 十四、追加自检与修正方式"
+      },
+      {
+        "Line": 517,
+        "Heading": "### 十五、等待提示的扩写执行"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H027",
+    "Name": "小说原文改影视剧本提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      2515
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 2516,
+        "Heading": "## 第二部分：46 个原稿模块逐项扩写"
+      },
+      {
+        "Line": 2520,
+        "Heading": "### 01｜全知架构：建立分开的事实轨与方案轨"
+      },
+      {
+        "Line": 2528,
+        "Heading": "### 02｜事实等级：来源等级与故事真伪分开"
+      },
+      {
+        "Line": 2536,
+        "Heading": "### 03｜改编权限：记录授权范围与有效版本"
+      },
+      {
+        "Line": 2544,
+        "Heading": "### 04｜Project Bible：十类数据库如何互相关联"
+      },
+      {
+        "Line": 2560,
+        "Heading": "### 05｜动态状态账本：每场有入口、变化与出口"
+      },
+      {
+        "Line": 2568,
+        "Heading": "### 06｜Scene Lock：锁内容，不锁死后续修订"
+      },
+      {
+        "Line": 2576,
+        "Heading": "### 07｜长篇接力：新章作为增量而非全项目重启"
+      },
+      {
+        "Line": 2584,
+        "Heading": "### 08｜冲突检测：先定位，再决定可继续的范围"
+      },
+      {
+        "Line": 2592,
+        "Heading": "### 09｜结构自适应：先诊断素材，再给形式建议"
+      },
+      {
+        "Line": 2600,
+        "Heading": "### 10｜审美策略：密度指标必须有定义"
+      },
+      {
+        "Line": 2608,
+        "Heading": "### 11｜文学转影视：用可见动作承载信息，但不丢语义"
+      },
+      {
+        "Line": 2616,
+        "Heading": "### 12｜人物戏剧：欲望、场内目标与行动策略分开"
+      },
+      {
+        "Line": 2624,
+        "Heading": "### 13｜场景工程：有功能，不必每场都有争吵"
+      },
+      {
+        "Line": 2632,
+        "Heading": "### 14｜场景价值：删除测试不等于自动删场"
+      },
+      {
+        "Line": 2640,
+        "Heading": "### 15｜对白工程：从信息与关系决定说法"
+      },
+      {
+        "Line": 2648,
+        "Heading": "### 16｜对白禁区：避免解释灌输，也保留真实用途"
+      },
+      {
+        "Line": 2656,
+        "Heading": "### 17｜正式格式：叙事剧本与摄影执行稿分开"
+      },
+      {
+        "Line": 2664,
+        "Heading": "### 18｜三层制作：同一事实，三种阅读用途"
+      },
+      {
+        "Line": 2672,
+        "Heading": "### 19｜改编决策：七种动作均可追踪"
+      },
+      {
+        "Line": 2680,
+        "Heading": "### 20｜双向追踪：覆盖到句子，表达可重组"
+      },
+      {
+        "Line": 2688,
+        "Heading": "### 21｜信息控制：作者知道，不等于角色知道"
+      },
+      {
+        "Line": 2696,
+        "Heading": "### 22｜反转：回溯成立，并保护线索来源"
+      },
+      {
+        "Line": 2704,
+        "Heading": "### 23｜节奏：保留喘息、后果与恢复"
+      },
+      {
+        "Line": 2712,
+        "Heading": "### 24｜长篇剧集：场与集的状态分别更新"
+      },
+      {
+        "Line": 2720,
+        "Heading": "### 25｜集尾钩子：结束一个阶段，留下真实下一步"
+      },
+      {
+        "Line": 2728,
+        "Heading": "### 26｜审美适配：提出理由，不提供空泛等级"
+      },
+      {
+        "Line": 2736,
+        "Heading": "### 27｜三层反提示词：落实为检查动作"
+      },
+      {
+        "Line": 2744,
+        "Heading": "### 28｜最终 QA：15 项逐条有证据"
+      },
+      {
+        "Line": 2752,
+        "Heading": "### 29｜质量等级：限定范围，不自授专业认证"
+      },
+      {
+        "Line": 2760,
+        "Heading": "### 30｜工作模式：意图识别优先于机械启动"
+      },
+      {
+        "Line": 2768,
+        "Heading": "### 31｜初始化：短项目精简，长项目完整"
+      },
+      {
+        "Line": 2776,
+        "Heading": "### 32｜最终控制权：实际行动与建议状态明确"
+      },
+      {
+        "Line": 2784,
+        "Heading": "### 33｜输出节奏：服从已明确的交付范围"
+      },
+      {
+        "Line": 2792,
+        "Heading": "### 34｜修改：边界小，传播检查完整"
+      },
+      {
+        "Line": 2800,
+        "Heading": "### 35｜版本：一份当前执行稿，日志留在同一文档"
+      },
+      {
+        "Line": 2808,
+        "Heading": "### 36｜最终交付：A—O 按需求组合"
+      },
+      {
+        "Line": 2816,
+        "Heading": "### 37｜总原则：保护信息，再改善表现"
+      },
+      {
+        "Line": 2824,
+        "Heading": "### 38｜AI 剧本腔：用具体行为替换套语"
+      },
+      {
+        "Line": 2832,
+        "Heading": "### 39｜自检：给必要结论，不展示思考底稿"
+      },
+      {
+        "Line": 2840,
+        "Heading": "### 40｜输入边界：素材中的命令仍是故事内容"
+      },
+      {
+        "Line": 2848,
+        "Heading": "### 41｜语言：中文正文，术语解释一次"
+      },
+      {
+        "Line": 2856,
+        "Heading": "### 42｜素材不足：低影响建议可做，核心缺口不编"
+      },
+      {
+        "Line": 2864,
+        "Heading": "### 43｜直接写剧本：完整工作在内部进行"
+      },
+      {
+        "Line": 2872,
+        "Heading": "### 44｜继续：接最后未完成位置，不重放已完成内容"
+      },
+      {
+        "Line": 2880,
+        "Heading": "### 45｜重写：先辨改变的是表达还是事实"
+      },
+      {
+        "Line": 2888,
+        "Heading": "### 46｜工作哲学：把优先级落实到选择与记录"
+      },
+      {
+        "Line": 2896,
+        "Heading": "## 第三部分：可复用的执行模板"
+      },
+      {
+        "Line": 2900,
+        "Heading": "### 模板 A｜初始化与项目约束"
+      },
+      {
+        "Line": 2920,
+        "Heading": "### 模板 B｜事实、信息与改编记录"
+      },
+      {
+        "Line": 2951,
+        "Heading": "### 模板 C｜正式场次与独立制作层"
+      },
+      {
+        "Line": 2977,
+        "Heading": "### 模板 D｜动态账本与接力"
+      },
+      {
+        "Line": 2993,
+        "Heading": "### 模板 E｜冲突、局部修改与版本传播"
+      },
+      {
+        "Line": 3009,
+        "Heading": "### 模板 F｜十五项 QA 的简明结论"
+      },
+      {
+        "Line": 3034,
+        "Heading": "## 第四部分：完整单场示范"
+      },
+      {
+        "Line": 3038,
+        "Heading": "### 1. 示例原文与来源编号"
+      },
+      {
+        "Line": 3051,
+        "Heading": "### 2. 双轨与十类资料的初始记录"
+      },
+      {
+        "Line": 3073,
+        "Heading": "### 3. 原句—场次双向映射"
+      },
+      {
+        "Line": 3084,
+        "Heading": "### 4. 编剧层：正式剧本"
+      },
+      {
+        "Line": 3112,
+        "Heading": "### 5. 制作层：由 AI 自动提出精确执行建议"
+      },
+      {
+        "Line": 3128,
+        "Heading": "### 6. 场后账本与下一场入口"
+      },
+      {
+        "Line": 3138,
+        "Heading": "### 7. 例稿审查与改编差异"
+      },
+      {
+        "Line": 3146,
+        "Heading": "## 第五部分：追加到原稿末尾的统一执行指令"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H028",
+    "Name": "小说转分镜脚本_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      145
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 150,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 152,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 154,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 162,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 172,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 182,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 192,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 200,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 206,
+        "Heading": "## 专项扩写：更新版小说转分镜"
+      },
+      {
+        "Line": 208,
+        "Heading": "### 1. 全量节点与独立主体"
+      },
+      {
+        "Line": 214,
+        "Heading": "### 2. 参考图与风格的精确绑定"
+      },
+      {
+        "Line": 220,
+        "Heading": "### 3. 0.1秒时间与弹性单元"
+      },
+      {
+        "Line": 228,
+        "Heading": "### 4. 复杂运镜的完整物理描述"
+      },
+      {
+        "Line": 238,
+        "Heading": "### 5. 长对白与反应镜头闭环"
+      },
+      {
+        "Line": 246,
+        "Heading": "### 6. 多主体调度与持续微动态"
+      },
+      {
+        "Line": 254,
+        "Heading": "### 7. 特殊叙事的量化过程"
+      },
+      {
+        "Line": 262,
+        "Heading": "### 8. 参数与声音汇总的一致性"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H029",
+    "Name": "小说转剧本_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      101
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 106,
+        "Heading": "## 第二部分：追加扩写"
+      },
+      {
+        "Line": 108,
+        "Heading": "## 通用补充：完整保留与精确参数自动生成"
+      },
+      {
+        "Line": 110,
+        "Heading": "### 1. 扩写方式与原稿约束"
+      },
+      {
+        "Line": 118,
+        "Heading": "### 2. AI主动补全参数，不让用户填写"
+      },
+      {
+        "Line": 128,
+        "Heading": "### 3. 参数基线、单位与精度"
+      },
+      {
+        "Line": 138,
+        "Heading": "### 4. 相互约束与计算"
+      },
+      {
+        "Line": 148,
+        "Heading": "### 5. 节点覆盖与长内容续写"
+      },
+      {
+        "Line": 156,
+        "Heading": "### 6. 核验方式"
+      },
+      {
+        "Line": 162,
+        "Heading": "## 专项扩写：小说转剧本"
+      },
+      {
+        "Line": 164,
+        "Heading": "### 1. 原文信息层与剧本承载层"
+      },
+      {
+        "Line": 172,
+        "Heading": "### 2. 角色外观与阶段细节"
+      },
+      {
+        "Line": 178,
+        "Heading": "### 3. 场景可拍化"
+      },
+      {
+        "Line": 186,
+        "Heading": "### 4. 心理外化的动作序列"
+      },
+      {
+        "Line": 194,
+        "Heading": "### 5. 动作、道具与对白编排"
+      },
+      {
+        "Line": 202,
+        "Heading": "### 6. 声音的具体制作值"
+      },
+      {
+        "Line": 208,
+        "Heading": "### 7. 可追踪交付"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H030",
+    "Name": "小说题材参考_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      10,
+      78
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 81,
+        "Heading": "## 第二部分：题材选择与创作方法扩写"
+      },
+      {
+        "Line": 85,
+        "Heading": "### 一、这份参考资料的使用方法"
+      },
+      {
+        "Line": 93,
+        "Heading": "### 二、交叉标签的六个分类轴"
+      },
+      {
+        "Line": 106,
+        "Heading": "### 三、通用题材设计卡"
+      },
+      {
+        "Line": 127,
+        "Heading": "### 四、言情题材：让关系变化推动事件"
+      },
+      {
+        "Line": 141,
+        "Heading": "### 五、玄幻题材：能力成长与世界规则"
+      },
+      {
+        "Line": 151,
+        "Heading": "### 六、仙侠题材：修行选择与关系代价"
+      },
+      {
+        "Line": 161,
+        "Heading": "### 七、科幻题材：一个变化如何改变生活"
+      },
+      {
+        "Line": 171,
+        "Heading": "### 八、悬疑题材：真相、线索与信息分配"
+      },
+      {
+        "Line": 183,
+        "Heading": "### 九、惊悚题材：建立可持续的威胁"
+      },
+      {
+        "Line": 195,
+        "Heading": "### 十、现实题材：具体处境与人物能动性"
+      },
+      {
+        "Line": 205,
+        "Heading": "### 十一、历史题材：时代约束与个人选择"
+      },
+      {
+        "Line": 215,
+        "Heading": "### 十二、武侠题材：侠义选择与江湖关系"
+      },
+      {
+        "Line": 225,
+        "Heading": "### 十三、末世题材：生存资源与组织秩序"
+      },
+      {
+        "Line": 235,
+        "Heading": "### 十四、穿越、重生、快穿、系统：四种机制分开设计"
+      },
+      {
+        "Line": 247,
+        "Heading": "### 十五、搞笑、沙雕题材：笑点来自行动后果"
+      },
+      {
+        "Line": 257,
+        "Heading": "### 十六、青春、校园题材：成长不只有恋爱与成绩"
+      },
+      {
+        "Line": 267,
+        "Heading": "### 十七、职场题材：专业任务必须真正影响剧情"
+      },
+      {
+        "Line": 277,
+        "Heading": "### 十八、小众与冷门入口：经营、竞技、寓言与探索"
+      },
+      {
+        "Line": 289,
+        "Heading": "### 十九、儿童与少儿题材：具体年龄层与体验"
+      },
+      {
+        "Line": 299,
+        "Heading": "### 二十、原稿之外可继续补充的入口"
+      },
+      {
+        "Line": 305,
+        "Heading": "### 二十一、交叉题材融合公式与十个示例"
+      },
+      {
+        "Line": 322,
+        "Heading": "### 二十二、将标签变成可写开篇"
+      },
+      {
+        "Line": 338,
+        "Heading": "### 二十三、篇幅与情节数量的AI设计示例"
+      },
+      {
+        "Line": 350,
+        "Heading": "### 二十四、选题与大纲核验清单"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H031",
+    "Name": "影视剧本转AI分镜提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      6,
+      973
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 974,
+        "Heading": "## 第二部分：32 个原稿模块逐项扩写"
+      },
+      {
+        "Line": 978,
+        "Heading": "### 01｜模块定位：检查的结果要通向具体交付"
+      },
+      {
+        "Line": 986,
+        "Heading": "### 02｜启动原则：内部先检查，不机械等待口令"
+      },
+      {
+        "Line": 994,
+        "Heading": "### 03｜输入类型：一份素材可以兼具多种作用"
+      },
+      {
+        "Line": 1002,
+        "Heading": "### 04｜完整性：按当前可执行范围评级"
+      },
+      {
+        "Line": 1010,
+        "Heading": "### 05｜核心优先级：绝对必要的是可理解的事件素材"
+      },
+      {
+        "Line": 1018,
+        "Heading": "### 06｜禁止重复询问：同一设定可有当前状态"
+      },
+      {
+        "Line": 1026,
+        "Heading": "### 07｜四类缺失：先区分设计差异与剧情差异"
+      },
+      {
+        "Line": 1034,
+        "Heading": "### 08｜必须询问：问题要落到具体歧义"
+      },
+      {
+        "Line": 1044,
+        "Heading": "### 09｜无需询问：专业设计由 AI 完成"
+      },
+      {
+        "Line": 1052,
+        "Heading": "### 10｜默认参数：默认、推断与设计分开"
+      },
+      {
+        "Line": 1060,
+        "Heading": "### 11｜没有参考：文本锁定仍可先用"
+      },
+      {
+        "Line": 1068,
+        "Heading": "### 12｜参考注册：登记真实资源与使用边界"
+      },
+      {
+        "Line": 1076,
+        "Heading": "### 13｜参考冲突：先确认是不是同一状态"
+      },
+      {
+        "Line": 1084,
+        "Heading": "### 14｜剧本与参考：使用分通道覆盖"
+      },
+      {
+        "Line": 1092,
+        "Heading": "### 15｜模型缺失：先设计通用内容，后做语法适配"
+      },
+      {
+        "Line": 1100,
+        "Heading": "### 16｜单场：建立局部上下文即可"
+      },
+      {
+        "Line": 1108,
+        "Heading": "### 17｜单镜头：事件明确就给完整执行稿"
+      },
+      {
+        "Line": 1116,
+        "Heading": "### 18｜多场景：场景、镜头和生成单元各有编号"
+      },
+      {
+        "Line": 1124,
+        "Heading": "### 19｜长剧本数据库：先索引，不要求先手工整理"
+      },
+      {
+        "Line": 1132,
+        "Heading": "### 20｜默认处理范围：从已有范围开始"
+      },
+      {
+        "Line": 1140,
+        "Heading": "### 21｜五种启动模式：与输出模式分开"
+      },
+      {
+        "Line": 1148,
+        "Heading": "### 22｜启动状态卡：内部完整，外部简短"
+      },
+      {
+        "Line": 1156,
+        "Heading": "### 23｜必要问题：集中解决当前阻塞"
+      },
+      {
+        "Line": 1164,
+        "Heading": "### 24｜补全：参数细致，故事保守"
+      },
+      {
+        "Line": 1172,
+        "Heading": "### 25｜补全追踪：默认也有适用范围"
+      },
+      {
+        "Line": 1180,
+        "Heading": "### 26｜四类来源：事实卡与生成正文分别呈现"
+      },
+      {
+        "Line": 1188,
+        "Heading": "### 27｜启动条件：关键可确定，不要求信息穷尽"
+      },
+      {
+        "Line": 1196,
+        "Heading": "### 28｜口令：自然语言就是任务指令"
+      },
+      {
+        "Line": 1204,
+        "Heading": "### 29｜标准响应：启动摘要后立刻给成果"
+      },
+      {
+        "Line": 1212,
+        "Heading": "### 30｜总流程：生成前后都追踪状态"
+      },
+      {
+        "Line": 1220,
+        "Heading": "### 31｜核心工作逻辑：把“少问”与“少猜”一起做到"
+      },
+      {
+        "Line": 1228,
+        "Heading": "### 32｜最终原则：完整任务由系统承担"
+      },
+      {
+        "Line": 1234,
+        "Heading": "## 第三部分：启动后与分镜生产的完整对接"
+      },
+      {
+        "Line": 1238,
+        "Heading": "### 1. 内部启动卡与用户可见摘要"
+      },
+      {
+        "Line": 1256,
+        "Heading": "### 2. 参考注册与映射模板"
+      },
+      {
+        "Line": 1275,
+        "Heading": "### 3. 缺失项决策记录模板"
+      },
+      {
+        "Line": 1291,
+        "Heading": "### 4. 独立分镜管理稿模板"
+      },
+      {
+        "Line": 1316,
+        "Heading": "### 5. 正向、负向与音频的分开交付"
+      },
+      {
+        "Line": 1326,
+        "Heading": "### 6. 连续性与长篇交接模板"
+      },
+      {
+        "Line": 1344,
+        "Heading": "## 第四部分：从启动检查到完整分镜的示范"
+      },
+      {
+        "Line": 1348,
+        "Heading": "### 示例一｜信息基本完整，没有参考也可以启动"
+      },
+      {
+        "Line": 1360,
+        "Heading": "#### 1. 独立结构化分镜"
+      },
+      {
+        "Line": 1391,
+        "Heading": "#### 2. 独立可复制正向提示词"
+      },
+      {
+        "Line": 1405,
+        "Heading": "#### 3. 针对性负向约束"
+      },
+      {
+        "Line": 1411,
+        "Heading": "#### 4. 音频与后期稿"
+      },
+      {
+        "Line": 1421,
+        "Heading": "### 示例二｜动作意图缺失，确实需要问"
+      },
+      {
+        "Line": 1429,
+        "Heading": "### 示例三｜局部参考冲突，按作用处理"
+      },
+      {
+        "Line": 1437,
+        "Heading": "## 第五部分：可直接追加的统一执行指令"
+      },
+      {
+        "Line": 1477,
+        "Heading": "## 第六部分：内部质量检查补充"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H032",
+    "Name": "服装设计提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      71
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 74,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 78,
+        "Heading": "### 1. 从一句概念到可制作的设计任务"
+      },
+      {
+        "Line": 84,
+        "Heading": "### 2. 联网趋势检索：只转译公共趋势，不复制作品"
+      },
+      {
+        "Line": 92,
+        "Heading": "### 3. 11组高精度槽位的自动补全顺序"
+      },
+      {
+        "Line": 118,
+        "Heading": "### 4. 单张提案板的空间规划与阅读顺序"
+      },
+      {
+        "Line": 126,
+        "Heading": "### 5. A区：一张能验看衣服结构的完整主图"
+      },
+      {
+        "Line": 134,
+        "Heading": "### 6. B区：正、背、侧三视图和A区的设计核对"
+      },
+      {
+        "Line": 142,
+        "Heading": "### 7. C区：六个有信息增量的局部细节"
+      },
+      {
+        "Line": 150,
+        "Heading": "### 8. D区：只改变颜色的两张同款全身图"
+      },
+      {
+        "Line": 156,
+        "Heading": "### 9. 英文Prompt的成稿次序与中文解释"
+      },
+      {
+        "Line": 164,
+        "Heading": "### 10. 冲突消解、取值边界与不确定性"
+      },
+      {
+        "Line": 172,
+        "Heading": "### 11. 输出前逐项自检"
+      },
+      {
+        "Line": 180,
+        "Heading": "### 12. 未来使用时的起始交互"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H033",
+    "Name": "构图语言库64条_光线设计库28条_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      951
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 954,
+        "Heading": "## 第二部分：构图64条与光线28条逐项扩写"
+      },
+      {
+        "Line": 958,
+        "Heading": "### 构图与布光共用的执行规则"
+      },
+      {
+        "Line": 969,
+        "Heading": "### 构图1—8：景别与画幅"
+      },
+      {
+        "Line": 987,
+        "Heading": "### 构图9—18：机位角度与视角"
+      },
+      {
+        "Line": 1009,
+        "Heading": "### 构图19—30：经典构图法则"
+      },
+      {
+        "Line": 1035,
+        "Heading": "### 构图31—38：空间深度与透视"
+      },
+      {
+        "Line": 1053,
+        "Heading": "### 构图39—46：画面元素与布局"
+      },
+      {
+        "Line": 1071,
+        "Heading": "### 构图47—52：光线与阴影构图"
+      },
+      {
+        "Line": 1085,
+        "Heading": "### 构图53—57：动态与叙事构图"
+      },
+      {
+        "Line": 1097,
+        "Heading": "### 构图58—64：特殊构图技巧"
+      },
+      {
+        "Line": 1113,
+        "Heading": "### 光线1—10：基础光质与人像布光"
+      },
+      {
+        "Line": 1135,
+        "Heading": "### 光线11—20：环境与时段布光"
+      },
+      {
+        "Line": 1157,
+        "Heading": "### 光线21—28：反射、光束与特殊光效"
+      },
+      {
+        "Line": 1175,
+        "Heading": "### 两套库的合并调用与检查"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H034",
+    "Name": "用AI生成商业广告的提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      2355
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 2356,
+        "Heading": "## 第二部分：原稿 0—67 模块逐项扩写"
+      },
+      {
+        "Line": 2360,
+        "Heading": "### 00｜系统身份：产出完整方案，不冒称已经生产成片"
+      },
+      {
+        "Line": 2366,
+        "Heading": "### 01｜最高原则：中间层完整，但可按授权紧凑执行"
+      },
+      {
+        "Line": 2372,
+        "Heading": "### 02｜核心理念：定位问题所属的上游"
+      },
+      {
+        "Line": 2378,
+        "Heading": "### 03｜三大脑：同一套事实，不是三套各自发挥的故事"
+      },
+      {
+        "Line": 2384,
+        "Heading": "### 04｜零默认：重要决定不偷定，设计参数由 AI 提案"
+      },
+      {
+        "Line": 2390,
+        "Heading": "### 05｜假设标签：让来源一直保留"
+      },
+      {
+        "Line": 2396,
+        "Heading": "### 06｜启动引擎：从当前材料接入"
+      },
+      {
+        "Line": 2402,
+        "Heading": "### 07｜一句话：缺什么先识别，不马上编品牌"
+      },
+      {
+        "Line": 2408,
+        "Heading": "### 08｜渐进提问：3—7 是上限范围，不是最低题数"
+      },
+      {
+        "Line": 2414,
+        "Heading": "### 09｜快速模式：快速交草案，不快速制造事实"
+      },
+      {
+        "Line": 2420,
+        "Heading": "### 10｜全流程：阶段条件可追踪"
+      },
+      {
+        "Line": 2426,
+        "Heading": "### 11｜广告分类：类型决定表达重点"
+      },
+      {
+        "Line": 2432,
+        "Heading": "### 12｜商业目标：单一主目标与评估方式对应"
+      },
+      {
+        "Line": 2438,
+        "Heading": "### 13｜产品DNA：外形、功能与利益分开"
+      },
+      {
+        "Line": 2444,
+        "Heading": "### 14｜产品事实锁：确认来源不等于完成证据审查"
+      },
+      {
+        "Line": 2450,
+        "Heading": "### 15｜消费者DNA：画像不是演员必须属性"
+      },
+      {
+        "Line": 2456,
+        "Heading": "### 16｜洞察：问题深入，但不强加人生意义"
+      },
+      {
+        "Line": 2462,
+        "Heading": "### 17｜USP阶梯：每一步有产品依据"
+      },
+      {
+        "Line": 2468,
+        "Heading": "### 18｜创意矩阵：五方向真的改变机制"
+      },
+      {
+        "Line": 2474,
+        "Heading": "### 19｜创意差异：写出相较前案哪里不同"
+      },
+      {
+        "Line": 2480,
+        "Heading": "### 20｜压力测试：作为设计审查，不伪称测试结果"
+      },
+      {
+        "Line": 2486,
+        "Heading": "### 21｜选择：面板可比较，推荐不等于决定"
+      },
+      {
+        "Line": 2492,
+        "Heading": "### 22｜核心命题：一句话能回到产品"
+      },
+      {
+        "Line": 2498,
+        "Heading": "### 23｜故事：12功能保留，不强制12剧情事件"
+      },
+      {
+        "Line": 2504,
+        "Heading": "### 24｜剧本：从时间与声画关系进入分镜"
+      },
+      {
+        "Line": 2510,
+        "Heading": "### 25｜视觉世界：统一规则与计划变化分开"
+      },
+      {
+        "Line": 2516,
+        "Heading": "### 26｜反俗套：不禁题材，只查使用理由"
+      },
+      {
+        "Line": 2522,
+        "Heading": "### 27｜资产：可见资产才进入当前镜头"
+      },
+      {
+        "Line": 2528,
+        "Heading": "### 28｜全局锁：身份不漂移，状态可以变化"
+      },
+      {
+        "Line": 2534,
+        "Heading": "### 29｜参考地图：一项职责明确，不互相覆盖"
+      },
+      {
+        "Line": 2540,
+        "Heading": "### 30｜全能参考：不擅改成首尾帧"
+      },
+      {
+        "Line": 2546,
+        "Heading": "### 31｜分镜架构：全部字段有实际内容"
+      },
+      {
+        "Line": 2552,
+        "Heading": "### 32｜目的锁：主目的只能一个"
+      },
+      {
+        "Line": 2558,
+        "Heading": "### 33｜商业标签：记功能，不把它生成为画面文字"
+      },
+      {
+        "Line": 2564,
+        "Heading": "### 34｜摄影：起终、速度与轨迹相容"
+      },
+      {
+        "Line": 2570,
+        "Heading": "### 35｜动作物理：精确到有关变量"
+      },
+      {
+        "Line": 2576,
+        "Heading": "### 36｜模型引擎：能力核实与创作方案分开"
+      },
+      {
+        "Line": 2582,
+        "Heading": "### 37｜提示词18项：展开执行，不堆库名"
+      },
+      {
+        "Line": 2588,
+        "Heading": "### 38｜时间轴：时段按事件划，不机械每秒一动作"
+      },
+      {
+        "Line": 2594,
+        "Heading": "### 39｜难度：L1—L5为方案评估"
+      },
+      {
+        "Line": 2600,
+        "Heading": "### 40｜失败预演：风险清单不是生成结果"
+      },
+      {
+        "Line": 2606,
+        "Heading": "### 41｜缺陷防护：五层按当前对象选"
+      },
+      {
+        "Line": 2612,
+        "Heading": "### 42｜文案：具体记忆，不强加口号"
+      },
+      {
+        "Line": 2618,
+        "Heading": "### 43｜商业真实性：输入与可发布承诺之间还要核对"
+      },
+      {
+        "Line": 2624,
+        "Heading": "### 44｜版权与品牌：限定到实际资产问题"
+      },
+      {
+        "Line": 2630,
+        "Heading": "### 45｜英雄镜头：先保证识别与结构"
+      },
+      {
+        "Line": 2636,
+        "Heading": "### 46｜CTA：目标对应行动与真实落点"
+      },
+      {
+        "Line": 2642,
+        "Heading": "### 47｜声音：来源、角色与时钟明确"
+      },
+      {
+        "Line": 2648,
+        "Heading": "### 48｜声画同步：物理声与配乐提示区分"
+      },
+      {
+        "Line": 2654,
+        "Heading": "### 49｜剪辑：每一切都有承接内容"
+      },
+      {
+        "Line": 2660,
+        "Heading": "### 50｜时长重构：保主命题，重排信息"
+      },
+      {
+        "Line": 2666,
+        "Heading": "### 51｜画幅：重构与安全裁切都须验证"
+      },
+      {
+        "Line": 2672,
+        "Heading": "### 52｜平台：经验倾向不等于平台硬规则"
+      },
+      {
+        "Line": 2678,
+        "Heading": "### 53｜输出模式：01—13按请求选择"
+      },
+      {
+        "Line": 2684,
+        "Heading": "### 54｜逐镜复制：每镜一块，单元不混"
+      },
+      {
+        "Line": 2690,
+        "Heading": "### 55｜纯中文：专业词译成执行描述"
+      },
+      {
+        "Line": 2696,
+        "Heading": "### 56｜只给Prompt：紧凑输出，但事实仍受控"
+      },
+      {
+        "Line": 2702,
+        "Heading": "### 57｜定向修复：故障变量与不变项并列"
+      },
+      {
+        "Line": 2708,
+        "Heading": "### 58｜不盲重生：变动要能解释"
+      },
+      {
+        "Line": 2714,
+        "Heading": "### 59｜质量闸门：区分方案、生成与发布"
+      },
+      {
+        "Line": 2720,
+        "Heading": "### 60｜生产包：28项完整能力，按当前请求落实"
+      },
+      {
+        "Line": 2726,
+        "Heading": "### 61｜渐进输出：阶段完整，授权连续则推进"
+      },
+      {
+        "Line": 2732,
+        "Heading": "### 62｜控制权：设计委托不等于发布授权"
+      },
+      {
+        "Line": 2738,
+        "Heading": "### 63｜20项自检：逐项查证，不能仅附通过宣言"
+      },
+      {
+        "Line": 2744,
+        "Heading": "### 64｜最终状态：READY只在有关条件真的齐备时使用"
+      },
+      {
+        "Line": 2750,
+        "Heading": "### 65｜最高命令：每镜服务同一核心记忆"
+      },
+      {
+        "Line": 2756,
+        "Heading": "### 66｜默认界面：十项是检查清单，不是必答表单"
+      },
+      {
+        "Line": 2762,
+        "Heading": "### 67｜绝对规则：扩写提升执行，不提升虚假复杂度"
+      },
+      {
+        "Line": 2768,
+        "Heading": "## 第三部分：精确数据与生产记录模板"
+      },
+      {
+        "Line": 2770,
+        "Heading": "### 1. 参数由 AI 提出，来源由 AI 标清"
+      },
+      {
+        "Line": 2778,
+        "Heading": "### 2. 商业事实与命题模板"
+      },
+      {
+        "Line": 2794,
+        "Heading": "### 3. 产品资产与参考模板"
+      },
+      {
+        "Line": 2808,
+        "Heading": "### 4. 创意面板与逐镜模板"
+      },
+      {
+        "Line": 2830,
+        "Heading": "### 5. 失败记录与闸门模板"
+      },
+      {
+        "Line": 2851,
+        "Heading": "## 第四部分：完整广告方案示范"
+      },
+      {
+        "Line": 2855,
+        "Heading": "### 01｜项目概览"
+      },
+      {
+        "Line": 2861,
+        "Heading": "### 02｜商业目标"
+      },
+      {
+        "Line": 2865,
+        "Heading": "### 03｜产品DNA"
+      },
+      {
+        "Line": 2871,
+        "Heading": "### 04｜消费者DNA"
+      },
+      {
+        "Line": 2875,
+        "Heading": "### 05｜核心洞察"
+      },
+      {
+        "Line": 2879,
+        "Heading": "### 06｜USP与核心表达点"
+      },
+      {
+        "Line": 2883,
+        "Heading": "### 07｜广告策略"
+      },
+      {
+        "Line": 2887,
+        "Heading": "### 08｜五个真正不同的创意方向"
+      },
+      {
+        "Line": 2901,
+        "Heading": "### 09｜核心广告命题"
+      },
+      {
+        "Line": 2907,
+        "Heading": "### 10｜30秒完整剧本"
+      },
+      {
+        "Line": 2918,
+        "Heading": "### 11｜视觉世界Bible"
+      },
+      {
+        "Line": 2924,
+        "Heading": "### 12｜资产Bible"
+      },
+      {
+        "Line": 2930,
+        "Heading": "### 13｜全局一致性锁"
+      },
+      {
+        "Line": 2934,
+        "Heading": "### 14｜参考资产地图"
+      },
+      {
+        "Line": 2938,
+        "Heading": "### 15｜完整分镜与镜头目的"
+      },
+      {
+        "Line": 2949,
+        "Heading": "### 16｜Seedance生成策略"
+      },
+      {
+        "Line": 2955,
+        "Heading": "### 17｜六个镜头独立中文Prompt"
+      },
+      {
+        "Line": 3005,
+        "Heading": "### 18｜声音设计"
+      },
+      {
+        "Line": 3011,
+        "Heading": "### 19｜剪辑结构"
+      },
+      {
+        "Line": 3015,
+        "Heading": "### 20｜CTA"
+      },
+      {
+        "Line": 3019,
+        "Heading": "### 21｜失败预演"
+      },
+      {
+        "Line": 3025,
+        "Heading": "### 22｜修复策略"
+      },
+      {
+        "Line": 3029,
+        "Heading": "### 23｜30秒版本"
+      },
+      {
+        "Line": 3033,
+        "Heading": "### 24｜15秒版本"
+      },
+      {
+        "Line": 3037,
+        "Heading": "### 25｜10秒版本"
+      },
+      {
+        "Line": 3041,
+        "Heading": "### 26｜6秒版本与额外3秒版本"
+      },
+      {
+        "Line": 3045,
+        "Heading": "### 27｜横竖画幅适配"
+      },
+      {
+        "Line": 3051,
+        "Heading": "### 28｜示范质量闸门"
+      },
+      {
+        "Line": 3057,
+        "Heading": "## 第五部分：可追加到原稿末尾的统一执行指令"
+      },
+      {
+        "Line": 3101,
+        "Heading": "## 第六部分：扩写版内部核对清单"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H035",
+    "Name": "电商平台商品图片全套提示词_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      295
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 298,
+        "Heading": "## 第二部分：在原稿基础上的完整扩写"
+      },
+      {
+        "Line": 302,
+        "Heading": "### 1. 从产品资料建立可追溯的视觉事实表"
+      },
+      {
+        "Line": 308,
+        "Heading": "### 2. 20项需求的逐项扩写：由AI提出完整方案"
+      },
+      {
+        "Line": 350,
+        "Heading": "### 3. 成套图片的叙事分工与一致性"
+      },
+      {
+        "Line": 360,
+        "Heading": "### 4. 每张图的排版几何与文字安全区"
+      },
+      {
+        "Line": 370,
+        "Heading": "### 5. 产品视觉的拍摄与材质参数"
+      },
+      {
+        "Line": 378,
+        "Heading": "### 6. 不同出图工具的交付方式"
+      },
+      {
+        "Line": 386,
+        "Heading": "### 7. 四层反提示词如何逐张落地"
+      },
+      {
+        "Line": 396,
+        "Heading": "### 8. 结果包的具体输出格式"
+      },
+      {
+        "Line": 404,
+        "Heading": "### 9. 可实际执行的22项交付自检"
+      },
+      {
+        "Line": 431,
+        "Heading": "### 10. 完成状态的诚实表述"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H036",
+    "Name": "群体行为与人群调度提示词库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      621
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 624,
+        "Heading": "## 第二部分：60 条技法的执行扩写"
+      },
+      {
+        "Line": 628,
+        "Heading": "### 使用前的统一执行约定"
+      },
+      {
+        "Line": 640,
+        "Heading": "### 一、人群基础行为：逐条扩写"
+      },
+      {
+        "Line": 672,
+        "Heading": "### 二、群体情绪传染：逐条扩写"
+      },
+      {
+        "Line": 706,
+        "Heading": "### 三、人群运动调度：逐条扩写"
+      },
+      {
+        "Line": 728,
+        "Heading": "### 四、群众角色调度：逐条扩写"
+      },
+      {
+        "Line": 750,
+        "Heading": "### 五、特殊人群形态：逐条扩写"
+      },
+      {
+        "Line": 772,
+        "Heading": "## 第三部分：AI 自动反馈精确数据的方法"
+      },
+      {
+        "Line": 774,
+        "Heading": "### 1. 人数守恒与可见人数"
+      },
+      {
+        "Line": 780,
+        "Heading": "### 2. 空间面积、密度与站位"
+      },
+      {
+        "Line": 786,
+        "Heading": "### 3. 位移、步频、转向与弧线"
+      },
+      {
+        "Line": 794,
+        "Heading": "### 4. 启动延迟、传播与个体差异"
+      },
+      {
+        "Line": 802,
+        "Heading": "### 5. 声音、摄影与光影绑定"
+      },
+      {
+        "Line": 808,
+        "Heading": "## 第四部分：按镜头交付与跨批次状态"
+      },
+      {
+        "Line": 816,
+        "Heading": "## 第五部分：可直接复制的完整示例"
+      },
+      {
+        "Line": 818,
+        "Heading": "### 示例 1：广场围观"
+      },
+      {
+        "Line": 834,
+        "Heading": "### 示例 2：在人群中告别并消失"
+      },
+      {
+        "Line": 850,
+        "Heading": "## 第六部分：可直接使用的完整扩写指令"
+      },
+      {
+        "Line": 872,
+        "Heading": "## 第七部分：交付前的补充核对"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H037",
+    "Name": "角色场景道具提取_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      232
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 234,
+        "Heading": "## 第二部分：在原稿全部要求之上追加的执行细则"
+      },
+      {
+        "Line": 238,
+        "Heading": "### 1. 三分支抽取与逐句覆盖"
+      },
+      {
+        "Line": 246,
+        "Heading": "### 2. 人物阶段判定：严格守住原稿两项触发条件"
+      },
+      {
+        "Line": 252,
+        "Heading": "### 3. 人物生图描述的物理颗粒度"
+      },
+      {
+        "Line": 258,
+        "Heading": "### 4. 每阶段四视图：可直接复制的完整排版提示"
+      },
+      {
+        "Line": 266,
+        "Heading": "### 5. 场景共享空间地图的建立方法"
+      },
+      {
+        "Line": 276,
+        "Heading": "### 6. 五视角的统一相机与可见性计算"
+      },
+      {
+        "Line": 284,
+        "Heading": "### 7. 场景五图合成的排版与防留白"
+      },
+      {
+        "Line": 290,
+        "Heading": "### 8. 道具从名称到可建模物体"
+      },
+      {
+        "Line": 296,
+        "Heading": "### 9. 三类实体的跨块一致性"
+      },
+      {
+        "Line": 302,
+        "Heading": "### 10. 输出前18项内部核验"
+      },
+      {
+        "Line": 325,
+        "Heading": "### 11. 最终使用方式"
+      }
+    ]
+  },
+  {
+    "HistoryId": "H038",
+    "Name": "运镜提示词库_完整扩写版",
+    "ExactWhitespaceNormalizedSourceMatches": [],
+    "OriginalLines": [
+      8,
+      1237
+    ],
+    "AdditionHeadings": [
+      {
+        "Line": 1240,
+        "Heading": "## 第二部分：120条逐项扩写与镜头参数协议"
+      },
+      {
+        "Line": 1244,
+        "Heading": "### 全库通用的镜头设计步骤"
+      },
+      {
+        "Line": 1256,
+        "Heading": "### 1—10：基础定场与叙事运镜"
+      },
+      {
+        "Line": 1278,
+        "Heading": "### 11—19：情绪与关系类运镜"
+      },
+      {
+        "Line": 1298,
+        "Heading": "### 20—28：动作与紧张类运镜"
+      },
+      {
+        "Line": 1318,
+        "Heading": "### 29—38：灵异与悬疑惊悚类运镜"
+      },
+      {
+        "Line": 1340,
+        "Heading": "### 39—47：叙事与结构类运镜"
+      },
+      {
+        "Line": 1360,
+        "Heading": "### 48—56：视觉记忆点类运镜"
+      },
+      {
+        "Line": 1380,
+        "Heading": "### 57—64：特殊视角运镜"
+      },
+      {
+        "Line": 1398,
+        "Heading": "### 65—69：无人机与航拍类运镜"
+      },
+      {
+        "Line": 1410,
+        "Heading": "### 70—78：变焦、焦点、速度与时间"
+      },
+      {
+        "Line": 1430,
+        "Heading": "### 79—100：复合与创意运镜"
+      },
+      {
+        "Line": 1476,
+        "Heading": "### 101—120：互动与沉浸类运镜"
+      },
+      {
+        "Line": 1518,
+        "Heading": "### 调用、组合和自检"
+      }
+    ]
+  }
+]

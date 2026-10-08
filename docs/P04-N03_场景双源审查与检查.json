@@ -1,0 +1,189 @@
+{
+  "SourceIds": [
+    "SRC003",
+    "SRC027"
+  ],
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC003-S001",
+      "Title": "独立100条来源的范围与四字段继承",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "五组100/四字段、原13/21与L16区分、34小庭院设计变体",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0A9E729C4FFFBD0E8BEB4A44719518D3739D25E46FF3ECB3167089CCFA5A1267",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S002",
+      "Title": "8×6米庭院的完整几何与固定锚点",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "8×6/48㎡地图、低院门闭且演员已在内、桌凳边界与通道净距",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "C99F4A2F08983CAE7626CDA7F9113BDDCBD1587D8E1F9D8565F6741667BA8B67",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S003",
+      "Title": "角色、手中物与一次完整动作",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "2m4秒/.5速度、4—6右转90°、右书左空、根脚/接触待实作",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "5C6A1596D7302BE8D2F90353F0054396FB88481219910A5880B438057E7B1B65",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S004",
+      "Title": "时间、天气、光源与看得见的环境字段",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "20°西光与墙影3.297m、人物影被墙截断、雨停和湿斑不骤干",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "E5D64DD011CA9AFF52E57822D43009C634042760326D806B778BED9FAEB26231",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S005",
+      "Title": "两个视角从同一地图推导",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "M01原35mm视角起点出画，改28mm看路径中点并实际194端点投影；M02非全身保证",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "2EEA175EA661BE47AB9204DF228706B125981BDA45B548CF0CB06F4BA8C18C4B",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S006",
+      "Title": "四字段变成可复制的完整提示与声音交接",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "两实际完整提示和3声轨含时窗/端态、无对白音乐",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0DA333FC564F3D012093223CF5C1E69B1C3F063B0220F3D53819990A2F49A443",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S007",
+      "Title": "自然、历史、医疗与幻想的使用边界",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "NPS洞穴类型正文实际查、地理/宗教/医疗/幻想边界而非100全事实校勘",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "D768C8D29785B1711CF482AA9648608769D024384F90D434D32723025D305D3A",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC003-S008",
+      "Title": "失败检查、资产计划和后续状态",
+      "SourceId": "SRC003",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "初→走→停转→末态和逐故障修复/7计划资产无文件",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1A98686ECC478EE2BBB2392FA41F8FE9F1A7B0DDF72B6B0451D55EBA7323C8BE",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S001",
+      "Title": "第二独立100条版本逐字段对读",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "四版400字段及4实际差异阅读、63任选/并列保留独立版本",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "7666462CAF4CADFD8401F55DE0CDFDA44080A9312329281D9E43FADD7EB664A4",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S002",
+      "Title": "天气是状态层，不重建场景家具",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "同地图与雨停状态，风已淡出需重混版本才能要求不断声",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "C4170D64693EBCB1BADA597207852263E817683A7EA14F4BE89095F72E701C22",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S003",
+      "Title": "从真实末态继续的空凳观察镜",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "续镜144帧/全336帧，根固定右书左空抬眼；西南背面改东南正侧可见目标",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "E781F6964AFFDC697BFE82CDAC994C3D9C83EE25D4D55C26525D3C1B5033DBA1",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S004",
+      "Title": "可复制续镜提示与实际验收点",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整续镜提示，C3机位改变但家具世界不变、仅一风轨非凑三声音",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "1D6E9ADB56F50A9F54924F612CD389FFFAAC2DD79D6F13E1E3980BC5B129B766",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S005",
+      "Title": "彩虹、阴天和星空不能保证同时成立",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "NWS彩虹条件正文/东西方向前提、未建雨幕明确无彩虹",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "6B0D4115A460F2F51BF01B4FBAC69A04F9527F3B5B624039EC92CAC84A793FD5",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC027-S006",
+      "Title": "字段用途、失败回退与版本交付",
+      "SourceId": "SRC027",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/16、场景环境库_原文与应用扩写.md",
+      "ActualReviewObservation": "字段逐类实际落值/前后状态/失败回退/资产计划与真实效果分开",
+      "Review": "源全文、实际差异值和新增执行段逐项阅读自审；结构检查不代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "F3111AA6FE34F20DECDD1C3CB245353D366CC1309F3E6EC1E36049D542DC05DA",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Review": "docs/P04-N03_场景双源逐步骤审查.md",
+  "Retrieval": "14实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_场景双源工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false
+}

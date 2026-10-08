@@ -1,0 +1,1059 @@
+{
+  "HistoryId": "H016",
+  "SourceId": "SRC031",
+  "HistoricalSHA256": "512E855E65E2FE43D3A427842831A518A1B097576737156BEB9C30C9B744505A",
+  "Normalization": "仅去Markdown符号/空白，不去文字或数值，历史标题加完整定义/AI技术执行/情绪功能/适用场景/联动作为连续片段匹配当前原文。",
+  "Rows": [
+    {
+      "HistoricalLine": 18,
+      "Title": "子午诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "子午诀 定义：拇指掐无名指根部子位，其余四指相抱，道家基础手诀。 AI技术执行：双手叠放或单手持诀，灵力内敛，符文微光，呼吸节奏同步，袖口微微飘动。 情绪功能：静心、聚气、正统、克制。 适用场景：打坐、吐纳、布阵、疗伤。 联动：光线-柔光；声音-环境音突出；气氛-神圣空间。"
+    },
+    {
+      "HistoricalLine": 20,
+      "Title": "太极印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "太极印 定义：双手环抱成圆，阴阳鱼虚影在掌心旋转。 AI技术执行：掌心相对，灵力成球，黑白气旋缓慢旋转，周围空气扭曲，衣摆随气旋轻动。 情绪功能：平衡、包容、以柔克刚、道法自然。 适用场景：防御、化劲、封印、太极法术。 联动：特效-能量漩涡；构图-圆形构图；色彩-黑白灰。"
+    },
+    {
+      "HistoricalLine": 22,
+      "Title": "两仪诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "两仪诀 定义：左右手分持阴阳，一手指天一手按地。 AI技术执行：左手掌心向上托阳，右手掌心向下压阴，天地灵气在双手之间形成循环光柱。 情绪功能：分化、平衡、掌控、秩序。 适用场景：分阴阳、破阵、平衡灵力。 联动：特效-能量波；色彩-黑白对比。"
+    },
+    {
+      "HistoricalLine": 24,
+      "Title": "三清诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "三清诀 定义：拇指、食指、中指三指相扣，象征玉清、上清、太清。 AI技术执行：三指相扣后指尖亮起三色光，头顶出现三清虚影或三色光环。 情绪功能：正统、至高、神圣、道门巅峰。 适用场景：道门大招、请神、封印。 联动：文化符号-三清；特效-光环旋转。"
+    },
+    {
+      "HistoricalLine": 26,
+      "Title": "四象诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "四象诀 定义：青龙、白虎、朱雀、玄武四象方位印。 AI技术执行：四方亮起四色光，四象虚影从四方升起，阵法四方合围。 情绪功能：四方守护、完整、宏大。 适用场景：护阵、召唤四象、封印。 联动：非人-四象；特效-图腾显灵。"
+    },
+    {
+      "HistoricalLine": 28,
+      "Title": "五行诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "五行诀 定义：五指分别对应金木水火土，依次掐扣。 AI技术执行：五色光在指尖依次亮起，灵力循环相生或相克，五行光环环绕手掌。 情绪功能：循环、平衡、相生相克。 适用场景：五行法术、布阵、疗伤。 联动：色彩-五色；特效-光环旋转。"
+    },
+    {
+      "HistoricalLine": 30,
+      "Title": "六合诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "六合诀 定义：六指方位印，象征上下四方。 AI技术执行：双手六指交叉成六合印，空间六方亮起光点，形成立体结界。 情绪功能：空间、封锁、完整、掌控。 适用场景：结界、封锁、空间法术。 联动：特效-空间扭曲；构图-对称构图。"
+    },
+    {
+      "HistoricalLine": 32,
+      "Title": "七星诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "七星诀 定义：左手掐北斗七星，右手剑指，足踏七星步。 AI技术执行：脚下七星阵亮起，天空北斗呼应，星光落入手印，衣袍翻飞。 情绪功能：天命、神秘、宏大、召唤。 适用场景：星象法术、传送、续命、占卜。 联动：场景-星空；特效-星光粒子；构图-俯拍对称。"
+    },
+    {
+      "HistoricalLine": 34,
+      "Title": "八卦诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "八卦诀 定义：双手结八卦印，乾坎艮震巽离坤兑八门轮转。 AI技术执行：八卦图在掌心或地面旋转，八门逐一亮起，阵门变化，空间扭曲。 情绪功能：变化、智慧、困敌、道门。 适用场景：八卦阵、迷阵、防御、推演。 联动：文化符号-八卦；构图-对称。"
+    },
+    {
+      "HistoricalLine": 36,
+      "Title": "九宫诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "九宫诀 定义：九宫格布局，中宫为核心，八宫环绕。 AI技术执行：九宫格亮起，中宫最亮，八宫依次旋转，形成复杂阵势。 情绪功能：复杂、精密、掌控、宏大。 适用场景：大阵、推演、封印、困仙。 联动：特效-魔法阵启动；构图-俯拍对称。"
+    },
+    {
+      "HistoricalLine": 38,
+      "Title": "莲花印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "莲花印 定义：双手合拢如莲苞，再向外展开如莲开。 AI技术执行：指尖绽放光瓣，灵力如莲花层层展开，粉白金光，治愈粒子上升。 情绪功能：慈悲、治愈、圣洁、净化。 适用场景：疗伤、净化、佛修、超度。 联动：特效-光之羽；光线-丁达尔光；声音-合唱人声。"
+    },
+    {
+      "HistoricalLine": 40,
+      "Title": "金刚伏魔印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金刚伏魔印 定义：右手覆左手，拇指相扣，结金刚界印。 AI技术执行：金色梵文环绕，手印沉重，地面出现金色法阵，魔气被压制。 情绪功能：威严、镇压、正义、不可侵犯。 适用场景：伏魔、封印、佛门法术、镇压邪祟。 联动：特效-能量护盾；声画-低频轰鸣；构图-中心构图。"
+    },
+    {
+      "HistoricalLine": 42,
+      "Title": "施无畏印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "施无畏印 定义：右手上举，掌心向外，五指朝上，象征无畏与救济。 AI技术执行：掌心放出柔和金光，恐惧消散，黑气退散，众生安宁。 情绪功能：安抚、无畏、慈悲、庇护。 适用场景：安抚、驱散恐惧、护心。 联动：光线-柔光；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 44,
+      "Title": "禅定印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "禅定印 定义：双手叠放于腹前，掌心向上，拇指相触。 AI技术执行：身体周围金光笼罩，呼吸缓慢，灵气从头顶灌入，周围光点上升。 情绪功能：宁静、入定、超脱、内观。 适用场景：打坐、入定、疗伤、悟道。 联动：气氛-神圣空间；声画-环境音。"
+    },
+    {
+      "HistoricalLine": 46,
+      "Title": "触地印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "触地印 定义：右手下垂触地，掌心向内，象征大地为证。 AI技术执行：掌心触地瞬间，地面金色波纹扩散，地动山摇，魔军退散。 情绪功能：坚定、证道、镇压、不可动摇。 适用场景：降魔、证道、镇压、护法。 联动：特效-气劲震地；声画-震动波。"
+    },
+    {
+      "HistoricalLine": 48,
+      "Title": "说法印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "说法印 定义：拇指与食指或中指相扣，其余手指自然伸展，象征讲法。 AI技术执行：指尖放出梵文光字，空中浮现经文，声音回荡，众生聆听。 情绪功能：智慧、传法、神圣、教化。 适用场景：讲法、传功、开示、佛门。 联动：声画-画外音；特效-符文环绕。"
+    },
+    {
+      "HistoricalLine": 50,
+      "Title": "合十印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "合十印 定义：双掌合十于胸前，十指并拢向上。 AI技术执行：双掌合拢处放出柔和白光，身体周围光晕扩散，衣袍无风自动。 情绪功能：虔诚、礼敬、平和、神圣。 适用场景：礼佛、问候、祈祷、告别。 联动：光线-柔光；表情-平静。"
+    },
+    {
+      "HistoricalLine": 52,
+      "Title": "降魔印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "降魔印 定义：掌心向下，五指张开，向下镇压。 AI技术执行：掌下出现金色“卍”字或法轮，向下镇压，地面龟裂，魔气消散。 情绪功能：镇压、威严、降伏、力量。 适用场景：降魔、封印、镇压、战斗。 联动：特效-山岳镇压；声画-钟鸣。"
+    },
+    {
+      "HistoricalLine": 54,
+      "Title": "与愿印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "与愿印 定义：右手掌心向外，手指向下，象征满足众生愿望。 AI技术执行：掌心放出金色光雨，光点落入众生，伤口愈合，愿望实现。 情绪功能：慈悲、给予、满足、治愈。 适用场景：赐福、疗伤、满足愿望。 联动：特效-能量治愈；色彩-金色。"
+    },
+    {
+      "HistoricalLine": 56,
+      "Title": "智拳印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "智拳印 定义：双手握拳，食指伸出相触，象征智慧与方便合一。 AI技术执行：双食指相触处放出金色智慧光，梵文旋转，脑中顿悟。 情绪功能：智慧、觉悟、合一、高深。 适用场景：悟道、破迷、开智、佛门高阶。 联动：眼睛-瞳孔扩张；特效-光环旋转。"
+    },
+    {
+      "HistoricalLine": 58,
+      "Title": "剑指诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑指诀 定义：食指中指并拢如剑，拇指压无名指小指，灵力从指尖射出。 AI技术执行：指尖微光，剑气细长，手部特写，指关节清晰，衣袖被灵气吹动。 情绪功能：凌厉、决绝、专注、攻击性。 适用场景：御剑、点穴、剑气、施法起手。 联动：运镜-快速推入；特效-气刃斩击；声画-金属出鞘声。"
+    },
+    {
+      "HistoricalLine": 60,
+      "Title": "御剑诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "御剑诀 定义：剑指竖于胸前，以气御剑，剑随指动。 AI技术执行：飞剑悬空，剑尖随剑指方向转动，剑身发光，剑鸣清越。 情绪功能：飘逸、凌厉、剑修、掌控。 适用场景：御剑飞行、战斗、追杀。 联动：运镜-环绕；特效-剑气。"
+    },
+    {
+      "HistoricalLine": 62,
+      "Title": "万剑诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "万剑诀 定义：双手剑指，万剑听令。 AI技术执行：天空剑阵展开，万剑齐落，剑光如雨，剑指所指即剑落之处。 情绪功能：震撼、终极、剑道巅峰。 适用场景：剑修大招、决战、群攻。 联动：特效-魔法弹幕；声画-剑鸣。"
+    },
+    {
+      "HistoricalLine": 64,
+      "Title": "剑心通明印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑心通明印 定义：剑指轻点眉心，剑心通明，人剑合一。 AI技术执行：眉心剑光，眼中浮现剑影，周身剑气环绕，飞剑与本体同步。 情绪功能：专注、顿悟、剑道、超然。 适用场景：剑修悟道、人剑合一、突破。 联动：眼睛-瞳孔变化；特效-剑气纵横。"
+    },
+    {
+      "HistoricalLine": 66,
+      "Title": "刀诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "刀诀 定义：掌缘如刀，灵力化刀气。 AI技术执行：掌缘发光，劈出半月刀气，刀气凌厉，地面开裂。 情绪功能：刚猛、霸道、杀伐。 适用场景：刀修、近战、破阵。 联动：特效-气刃斩击；声画-金属碰撞。"
+    },
+    {
+      "HistoricalLine": 68,
+      "Title": "枪诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "枪诀 定义：单手持枪诀，灵力化枪影。 AI技术执行：掌心射出枪形气劲，直线突刺，空气撕裂。 情绪功能：精准、刚猛、距离。 适用场景：枪修、远程突刺、战场。 联动：武学-枪；特效-能量波。"
+    },
+    {
+      "HistoricalLine": 70,
+      "Title": "弓诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "弓诀 定义：一手持弓，一手拉弦，灵力化箭。 AI技术执行：灵力凝聚成弓与箭，拉满后射出，箭光破空。 情绪功能：精准、远程、专注。 适用场景：弓修、远程狙杀、狩猎。 联动：武学-弓箭；特效-能量轨迹。"
+    },
+    {
+      "HistoricalLine": 72,
+      "Title": "鞭诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "鞭诀 定义：灵力化鞭，缠绕抽打。 AI技术执行：掌心射出灵力长鞭，鞭身带刺或火焰，缠绕目标。 情绪功能：灵活、控制、远程。 适用场景：鞭修、控制、一打多。 联动：武学-软鞭；特效-能量丝线。"
+    },
+    {
+      "HistoricalLine": 74,
+      "Title": "暗器诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "暗器诀 定义：手指夹暗器，灵力加持，掷出。 AI技术执行：指间夹飞针、飞镖，灵力附着，掷出后轨迹可变，命中爆裂。 情绪功能：隐蔽、致命、精准。 适用场景：暗杀、偷袭、远程。 联动：武学-暗器；特效-能量轨迹。"
+    },
+    {
+      "HistoricalLine": 76,
+      "Title": "点穴诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "点穴诀 定义：剑指或单指点出，灵力封穴。 AI技术执行：指尖点中穴位，灵力入体，被点者定身、失语或昏迷。 情绪功能：精准、控制、神秘。 适用场景：点穴、制敌、疗伤。 联动：武学-点穴；特效-能量传导。"
+    },
+    {
+      "HistoricalLine": 78,
+      "Title": "双手结印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "双手结印 定义：双手同时结不同手印，阴阳配合。 AI技术执行：左右手各结不同印，灵力从双手分别射出，形成组合法术。 情绪功能：复杂、高阶、掌控、双修。 适用场景：高阶法术、双人配合、组合技。 联动：特效-能量碰撞；微动作-手指。"
+    },
+    {
+      "HistoricalLine": 80,
+      "Title": "单手瞬诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "单手瞬诀 定义：单手极速结印，瞬间施法。 AI技术执行：单手手指快速变化，留下残影，法术瞬间释放，无需前摇。 情绪功能：迅捷、高深、战斗、突袭。 适用场景：战斗、偷袭、瞬发法术。 联动：剪辑-快速剪辑；特效-残影。"
+    },
+    {
+      "HistoricalLine": 82,
+      "Title": "空中画符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空中画符 定义：以灵力在空中直接绘制符文。 AI技术执行：指尖在空中画出金色符文，符文悬浮发光，完成后爆发法术。 情绪功能：神秘、高阶、传统、仪式。 适用场景：高阶施法、封印、召唤。 联动：特效-符文环绕；声画-画外音。"
+    },
+    {
+      "HistoricalLine": 84,
+      "Title": "血诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "血诀 定义：以血为引，结印施法。 AI技术执行：指尖划破，血液在空中形成符文，血光暴涨，法术威力大增。 情绪功能：危险、禁忌、代价、黑暗。 适用场景：禁术、血阵、拼命。 联动：色彩-暗红；特效-魔气弥漫。"
+    },
+    {
+      "HistoricalLine": 86,
+      "Title": "魂诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魂诀 定义：以灵魂之力结印。 AI技术执行：灵魂虚影从身体浮现，与本体同步结印，魂光冷蓝。 情绪功能：灵魂、超凡、危险、禁忌。 适用场景：灵魂法术、元神战、禁术。 联动：特效-灵魂出窍；色彩-冷蓝。"
+    },
+    {
+      "HistoricalLine": 88,
+      "Title": "心诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "心诀 定义：以心念结印，无需手指动作。 AI技术执行：无手印，仅眉心发光，法术随心动，念动即法成。 情绪功能：至高、超脱、心念、大道。 适用场景：高阶仙法、心念施法、终极。 联动：眼睛-瞳孔变化；特效-时间冻结。"
+    },
+    {
+      "HistoricalLine": 90,
+      "Title": "眼神诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "眼神诀 定义：以眼神施法，目之所及法术即至。 AI技术执行：瞳孔变色发光，目光所及之处法术爆发，无需手印。 情绪功能：凌厉、超凡、压迫、神秘。 适用场景：高阶战斗、瞳术、精神攻击。 联动：眼睛语言库；特效-能量波。"
+    },
+    {
+      "HistoricalLine": 92,
+      "Title": "口吐真言",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "口吐真言 定义：口诵咒语或真言，声波化法。 AI技术执行：口中吐出金色梵文或符文，声波可见，法术随声音释放。 情绪功能：威严、神圣、音波、净化。 适用场景：佛门、道门真言、音波法术。 联动：声画-声音蒙太奇；特效-能量波。"
+    },
+    {
+      "HistoricalLine": 94,
+      "Title": "足踏罡步",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "足踏罡步 定义：脚踩七星、八卦或九宫步法，配合手诀施法。 AI技术执行：脚下生光，每一步踩出阵纹，步法与手印配合，天地呼应。 情绪功能：仪式、阵法、天命、宏大。 适用场景：布阵、请神、大招、渡劫。 联动：场面调度-纵深走位；特效-魔法阵启动。"
+    },
+    {
+      "HistoricalLine": 96,
+      "Title": "收诀归元",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "收诀归元 定义：手印散开，灵力归于丹田，法术结束。 AI技术执行：手印解开，光效收束回掌心，衣发落回，环境恢复，丹田微亮。 情绪功能：收束、余韵、克制、结束。 适用场景：施法结束、战后、隐藏实力、转场。 联动：剪辑-叠化；声画-声音后置；身体-放松站姿。"
+    },
+    {
+      "HistoricalLine": 100,
+      "Title": "金刃术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金刃术 定义：灵力化金刃，直线斩杀。 AI技术执行：剑指一挥，金色月牙刃飞出，切裂空气，金属火花四溅。 情绪功能：锋利、果断、杀伐。 适用场景：远程斩击、破甲、战斗起手。 联动：特效-斩击闪光；声画-金属碰撞。"
+    },
+    {
+      "HistoricalLine": 102,
+      "Title": "金钟罩",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金钟罩 定义：金光覆体，形成护体金钟。 AI技术执行：金色钟形虚影罩住全身，攻击命中时钟面波纹震荡，钟声回荡。 情绪功能：防御、无敌、威严。 适用场景：硬抗攻击、护体、冲阵。 联动：特效-护体罡气；声音-钟鸣。"
+    },
+    {
+      "HistoricalLine": 104,
+      "Title": "万剑归宗",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "万剑归宗 定义：无数飞剑从四面八方汇聚，如剑雨倾泻。 AI技术执行：天空剑影密布，剑尖朝下，随剑指落下如暴雨，地面千疮百孔。 情绪功能：震撼、毁灭、剑修极致。 适用场景：大招、群战、剑修绝技。 联动：运镜-航拍拉出；特效-魔法弹幕；声画-剑鸣。"
+    },
+    {
+      "HistoricalLine": 106,
+      "Title": "金丝缚",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金丝缚 定义：灵力化金丝，缠绕束缚。 AI技术执行：指尖射出金色细丝，缠绕目标，越挣越紧，符文流动。 情绪功能：束缚、控制、精密。 适用场景：擒拿、封印、捕妖。 联动：特效-能量丝线；微动作-手指微动。"
+    },
+    {
+      "HistoricalLine": 108,
+      "Title": "金刚不坏",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金刚不坏 定义：体表化为金色，刀枪不入。 AI技术执行：皮肤泛金光，攻击命中爆出火花，身形沉稳，地面微裂。 情绪功能：坚不可摧、力量、镇压。 适用场景：体修、硬抗、佛修。 联动：材质-金属；声音-金属碰撞。"
+    },
+    {
+      "HistoricalLine": 110,
+      "Title": "金乌焚天",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金乌焚天 定义：金乌神鸟虚影，太阳真火焚烧。 AI技术执行：金色神鸟从掌心飞出，太阳真火落下，万物焦灼。 情绪功能：炽烈、毁灭、神圣。 适用场景：金火双修、大招、焚邪。 联动：非人-凤凰；特效-火焰龙卷。"
+    },
+    {
+      "HistoricalLine": 112,
+      "Title": "金刚杵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金刚杵 定义：灵力化金刚杵，投掷或砸下。 AI技术执行：金色杵形光柱从手印射出，砸中目标爆出金光。 情绪功能：镇压、佛门、力量。 适用场景：伏魔、破防、佛修。 联动：道具-法器；特效-能量爆炸。"
+    },
+    {
+      "HistoricalLine": 114,
+      "Title": "金鳞甲",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金鳞甲 定义：灵力化金色鳞片覆体。 AI技术执行：身体表面浮现金色龙鳞，防御力大增，龙威扩散。 情绪功能：龙血、防御、威严。 适用场景：龙族、体修、防御。 联动：非人-龙；材质-鳞片。"
+    },
+    {
+      "HistoricalLine": 116,
+      "Title": "金针渡穴",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金针渡穴 定义：金针灵力刺穴，疗伤或封穴。 AI技术执行：指尖射出金色细针，精准刺入穴位，经脉发光。 情绪功能：精准、医疗、控制。 适用场景：疗伤、点穴、针灸。 联动：武学-点穴；特效-能量传导。"
+    },
+    {
+      "HistoricalLine": 118,
+      "Title": "金蝉脱壳",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金蝉脱壳 定义：留下金色蝉蜕替身，本体瞬移。 AI技术执行：身体化金光消失，原地留下金色蝉蜕，蝉蜕碎裂。 情绪功能：逃遁、替身、神秘。 适用场景：逃命、替身、瞬移。 联动：特效-残影；转场-闪白。"
+    },
+    {
+      "HistoricalLine": 120,
+      "Title": "藤蔓缠绕",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "藤蔓缠绕 定义：灵力催生藤蔓，束缚目标。 AI技术执行：地面裂开，绿色藤蔓疯长，缠住四肢，尖刺突出，花朵绽放。 情绪功能：自然、控制、生机。 适用场景：木系控制、森林战斗。 联动：特效-藤蔓缠绕；场景-森林。"
+    },
+    {
+      "HistoricalLine": 122,
+      "Title": "万木回春",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "万木回春 定义：木灵之力治愈伤口，复苏植物。 AI技术执行：绿色光雨落下，伤口愈合，枯木发芽，花朵绽放，蝴蝶飞来。 情绪功能：治愈、希望、生命。 适用场景：疗伤、净化、恢复。 联动：特效-能量治愈；色彩-绿色。"
+    },
+    {
+      "HistoricalLine": 124,
+      "Title": "木龙破",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "木龙破 定义：木灵化龙，冲撞敌人。 AI技术执行：巨木成龙形，盘旋冲出，木屑飞溅，龙首咬合，地面震动。 情绪功能：威严、力量、自然之怒。 适用场景：木系大招、群攻。 联动：特效-水龙替换为木龙；声画-龙吟。"
+    },
+    {
+      "HistoricalLine": 126,
+      "Title": "花雨疗愈",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "花雨疗愈 定义：花瓣如雨，治愈范围内友方。 AI技术执行：粉色花瓣飘落，触肤化光，伤口恢复，气氛温柔。 情绪功能：温柔、治愈、浪漫。 适用场景：群体治疗、战后恢复。 联动：特效-光之羽；气氛-温馨。"
+    },
+    {
+      "HistoricalLine": 128,
+      "Title": "荆棘牢",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "荆棘牢 定义：荆棘从地底升起，形成牢笼。 AI技术执行：黑色或绿色荆棘围合，尖刺向内，困住目标，藤蔓收紧。 情绪功能：囚禁、危险、自然反击。 适用场景：困敌、防御、陷阱。 联动：特效-岩石突刺变体；场景-密林。"
+    },
+    {
+      "HistoricalLine": 130,
+      "Title": "生命之种",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "生命之种 定义：种下灵力种子，快速生长成树或花。 AI技术执行：掌心落下光种，入土即发芽，瞬间长成大树或花海。 情绪功能：生命、创造、奇迹。 适用场景：造景、防御、治愈。 联动：季节-春季；特效-粒子汇聚。"
+    },
+    {
+      "HistoricalLine": 132,
+      "Title": "树界降临",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "树界降临 定义：召唤大片森林，改变战场。 AI技术执行：地面涌出巨树，树根盘结，树冠遮天，战场变为森林。 情绪功能：宏大、自然、主场、压制。 适用场景：木系大招、改变地形。 联动：场景-森林；特效-魔法阵启动。"
+    },
+    {
+      "HistoricalLine": 134,
+      "Title": "花毒瘴",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "花毒瘴 定义：释放花粉毒瘴，迷惑或毒杀。 AI技术执行：彩色花粉弥漫，目标中毒或陷入幻境，雾气缭绕。 情绪功能：阴柔、危险、迷惑。 适用场景：毒攻、幻术、困敌。 联动：特效-粒子风暴；色彩-病态色。"
+    },
+    {
+      "HistoricalLine": 136,
+      "Title": "木遁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "木遁术 定义：借木而遁，穿行树木之间。 AI技术执行：身体没入树干，从另一棵树中钻出，木纹波动。 情绪功能：隐匿、逃遁、自然。 适用场景：逃遁、潜行、森林战。 联动：特效-传送门；场景-森林。"
+    },
+    {
+      "HistoricalLine": 138,
+      "Title": "青木长生诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "青木长生诀 定义：木系顶级功法，生生不息。 AI技术执行：绿色光环环绕，伤口快速愈合，断肢重生，寿元增加。 情绪功能：长生、恢复、生机、顶级。 适用场景：木系高阶、疗伤、续命。 联动：特效-能量治愈；色彩-翠绿。"
+    },
+    {
+      "HistoricalLine": 140,
+      "Title": "水龙吟",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "水龙吟 定义：水流化龙，盘旋攻击。 AI技术执行：水龙从江河或掌心升起，龙身透明有水波，冲击目标，水花四溅。 情绪功能：灵动、磅礴、优雅。 适用场景：水系大招、水战。 联动：特效-水龙；声画-水声。"
+    },
+    {
+      "HistoricalLine": 142,
+      "Title": "寒冰诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "寒冰诀 定义：灵力凝冰，冻结目标。 AI技术执行：指尖冰晶蔓延，地面结霜，目标被冰封，冰晶生长声。 情绪功能：冰冷、控制、静止。 适用场景：冰系控制、冻结、防御。 联动：特效-冰晶冻结；色彩-冰蓝。"
+    },
+    {
+      "HistoricalLine": 144,
+      "Title": "冰封千里",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "冰封千里 定义：大范围冰封，天地变色。 AI技术执行：暴风雪起，地面迅速结冰，河流冻结，呼吸成白雾。 情绪功能：极寒、压制、绝望。 适用场景：大范围控制、冰系绝技。 联动：场景-雪原；特效-暴风雪。"
+    },
+    {
+      "HistoricalLine": 146,
+      "Title": "水镜术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "水镜术 定义：水面成镜，映照过去或远方。 AI技术执行：掌心或空中出现水镜，画面浮现影像，波纹微动。 情绪功能：神秘、预知、窥视。 适用场景：侦查、回忆、预知。 联动：特效-全息投影；转场-反射转场。"
+    },
+    {
+      "HistoricalLine": 148,
+      "Title": "雨幕",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雨幕 定义：灵力化雨，形成遮掩或攻击。 AI技术执行：大雨倾盆，雨滴如针，或雨幕遮挡视线，雨中有光。 情绪功能：忧郁、掩护、洗涤。 适用场景：逃遁、掩护、水战。 联动：场景-雨夜；声画-雨声。"
+    },
+    {
+      "HistoricalLine": 150,
+      "Title": "水牢",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "水牢 定义：水形成牢笼困住目标。 AI技术执行：水从地面升起形成球形水牢，目标被困其中，水压挤压。 情绪功能：困住、窒息、控制。 适用场景：困敌、水下战斗。 联动：特效-水幕；声画-水下声音。"
+    },
+    {
+      "HistoricalLine": 152,
+      "Title": "潮汐术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "潮汐术 定义：操控潮水涨落，席卷一切。 AI技术执行：远处巨浪升起，铺天盖地而来，冲刷一切。 情绪功能：自然之怒、不可阻挡、宏大。 适用场景：海战、水攻、大范围。 联动：场景-海洋；特效-海啸。"
+    },
+    {
+      "HistoricalLine": 154,
+      "Title": "冰锥术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "冰锥术 定义：空中凝结冰锥，如雨射下。 AI技术执行：空中凝结大量冰锥，尖锐锋利，如雨射下，地面结冰。 情绪功能：锋利、致命、范围。 适用场景：远程群攻、冰系。 联动：特效-冰锥突刺；声画-冰裂。"
+    },
+    {
+      "HistoricalLine": 156,
+      "Title": "寒冰甲",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "寒冰甲 定义：冰甲覆体，防御并反弹。 AI技术执行：身体表面凝结冰甲，攻击命中冰甲碎裂反弹冰刺。 情绪功能：防御、反击、冰冷。 适用场景：冰系防御、近战。 联动：特效-护体罡气；色彩-冰蓝。"
+    },
+    {
+      "HistoricalLine": 158,
+      "Title": "弱水三千",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "弱水三千 定义：弱水之力，鸿毛不浮，吞噬一切。 AI技术执行：黑色或深蓝水流蔓延，万物沉入，无法挣脱。 情绪功能：神秘、危险、吞噬。 适用场景：禁术、困敌、水系数顶级。 联动：特效-空间扭曲；声画-水下声音。"
+    },
+    {
+      "HistoricalLine": 160,
+      "Title": "火球术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "火球术 定义：掌心凝聚火球，投掷爆炸。 AI技术执行：火焰旋转成球，拖尾飞出，命中爆裂成火海，热浪扭曲。 情绪功能：直接、暴烈、攻击。 适用场景：火系基础、远程攻击。 联动：特效-火焰弹；光线-火光。"
+    },
+    {
+      "HistoricalLine": 162,
+      "Title": "烈焰掌",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "烈焰掌 定义：掌覆火焰，近身击出。 AI技术执行：掌面燃火，击中时火焰爆开，掌风带火星，地面焦黑。 情绪功能：愤怒、力量、近战。 适用场景：近身火法、体术结合。 联动：武学-掌法；特效-火焰爆发。"
+    },
+    {
+      "HistoricalLine": 164,
+      "Title": "三昧真火",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "三昧真火 定义：元神之火，焚邪不伤正。 AI技术执行：白金色火焰，温度极高，邪气被净化，火焰有灵性，可追踪。 情绪功能：神圣、净化、不可熄灭。 适用场景：焚魔、炼丹、净化。 联动：特效-能量燃烧；色彩-白金。"
+    },
+    {
+      "HistoricalLine": 166,
+      "Title": "火凤燎原",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "火凤燎原 定义：火焰化凤，展翅席卷。 AI技术执行：火凤长鸣，双翼展开，火海蔓延，热浪扭曲空气，凤凰虚影冲天。 情绪功能：壮丽、毁灭、重生。 适用场景：火系大招、群攻、凤凰血脉。 联动：非人-凤凰；特效-火焰龙卷。"
+    },
+    {
+      "HistoricalLine": 168,
+      "Title": "焚天诀",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "焚天诀 定义：禁术级火焰，焚烧天地。 AI技术执行：天空变红，火云翻滚，火柱从天而降，万物焦黑，空气燃烧。 情绪功能：毁灭、禁忌、悲壮。 适用场景：禁术、最终决战、牺牲。 联动：特效-陨石坠落；声画-爆炸。"
+    },
+    {
+      "HistoricalLine": 170,
+      "Title": "火墙",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "火墙 定义：火焰成墙，阻挡或围困。 AI技术执行：地面升起火墙，火焰高耸，热浪逼人，火墙移动围困目标。 情绪功能：阻挡、围困、防御。 适用场景：防御、困敌、分割战场。 联动：特效-火焰爆发；色彩-橙红。"
+    },
+    {
+      "HistoricalLine": 172,
+      "Title": "炎龙咆哮",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "炎龙咆哮 定义：火龙从口中或掌心喷出，咆哮冲击。 AI技术执行：火龙咆哮而出，火焰柱冲击，龙首狰狞，地面熔化。 情绪功能：威猛、毁灭、龙威。 适用场景：火系大招、龙族、战斗。 联动：非人-龙；特效-火焰龙卷。"
+    },
+    {
+      "HistoricalLine": 174,
+      "Title": "凤凰涅槃",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "凤凰涅槃 定义：火焰中重生，恢复全部伤势。 AI技术执行：角色被火焰吞没，化为灰烬后火焰中重新凝聚身形，光芒四射。 情绪功能：重生、希望、神圣、不死。 适用场景：复活、重生、凤凰血脉。 联动：非人-凤凰；特效-状态爆发。"
+    },
+    {
+      "HistoricalLine": 176,
+      "Title": "火雨",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "火雨 定义：天空降下火雨，大范围攻击。 AI技术执行：天空火云翻滚，火雨如流星坠下，地面火海一片。 情绪功能：毁灭、范围、天灾。 适用场景：大范围攻击、战争、末日。 联动：特效-陨石坠落；场景-火山。"
+    },
+    {
+      "HistoricalLine": 178,
+      "Title": "太阳真火",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "太阳真火 定义：至阳之火，焚尽一切阴邪。 AI技术执行：金色火焰如太阳般耀眼，邪气触之即灭，光芒万丈。 情绪功能：至阳、净化、神圣、克制阴邪。 适用场景：焚邪、净化、金乌血脉。 联动：非人-金乌；特效-能量燃烧。"
+    },
+    {
+      "HistoricalLine": 180,
+      "Title": "土墙术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "土墙术 定义：地面升起土墙防御。 AI技术执行：岩石或泥土从地面突起，形成厚墙，尘土飞扬，墙体有符文。 情绪功能：防御、厚重、可靠。 适用场景：防御、阻挡、阵地战。 联动：特效-岩石突刺；材质-石材。"
+    },
+    {
+      "HistoricalLine": 182,
+      "Title": "地刺阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "地刺阵 定义：地面突出石刺，范围攻击。 AI技术执行：地面裂开，石刺成排刺出，目标被穿刺，碎石飞溅。 情绪功能：突袭、致命、范围。 适用场景：陷阱、群攻、土系。 联动：特效-岩石突刺；构图-俯拍对称。"
+    },
+    {
+      "HistoricalLine": 184,
+      "Title": "流沙陷",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "流沙陷 定义：地面化为流沙，吞噬目标。 AI技术执行：地面软化旋转，目标下陷，沙尘翻涌，流沙如漩涡。 情绪功能：困住、吞噬、危险。 适用场景：控制、陷阱、沙漠。 联动：场景-沙漠；特效-沙暴。"
+    },
+    {
+      "HistoricalLine": 186,
+      "Title": "山岳镇压",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "山岳镇压 定义：灵力化山岳虚影，镇压敌人。 AI技术执行：巨大山影从天而降，地面龟裂，目标被压伏，山体符文环绕。 情绪功能：威压、不可抗、沉重。 适用场景：镇压、大招、土系。 联动：特效-重力控制器；声画-震动波。"
+    },
+    {
+      "HistoricalLine": 188,
+      "Title": "大地回春",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "大地回春 定义：土灵之力复苏土地。 AI技术执行：枯地生绿，花朵开放，地脉发光，范围治愈，土地肥沃。 情绪功能：复苏、希望、厚重。 适用场景：治愈、恢复环境、木土双修。 联动：季节-春季；特效-能量治愈。"
+    },
+    {
+      "HistoricalLine": 190,
+      "Title": "石傀儡",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "石傀儡 定义：召唤石头傀儡战斗。 AI技术执行：地面岩石隆起成人形，关节处发光，行动沉重，力大无穷。 情绪功能：召唤、力量、防御。 适用场景：战斗、护卫、土系。 联动：特效-召唤法阵；非人-石像鬼。"
+    },
+    {
+      "HistoricalLine": 192,
+      "Title": "地龙翻身",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "地龙翻身 定义：引发地震，地龙翻身。 AI技术执行：地面剧烈震动，裂缝蔓延，建筑倒塌，地龙虚影在地下穿行。 情绪功能：灾难、力量、不可阻挡。 适用场景：大范围攻击、地震、土系大招。 联动：特效-地震；声画-震动波。"
+    },
+    {
+      "HistoricalLine": 194,
+      "Title": "重力术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "重力术 定义：操控局部重力，压制或浮空。 AI技术执行：目标区域重力加倍，敌人被压伏；或重力消失，物体漂浮。 情绪功能：控制、压制、超凡。 适用场景：控制、困敌、土系高阶。 联动：特效-重力控制器；声画-低频轰鸣。"
+    },
+    {
+      "HistoricalLine": 196,
+      "Title": "化石为泥",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "化石为泥 定义：将岩石化为泥浆。 AI技术执行：坚硬岩石软化流动，目标陷入泥中，泥浆翻涌。 情绪功能：软化、困住、变化。 适用场景：破防、困敌、土系。 联动：特效-流沙陷；材质-泥浆。"
+    },
+    {
+      "HistoricalLine": 198,
+      "Title": "黄龙翻江",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "黄龙翻江 定义：土灵化黄龙，翻江倒海。 AI技术执行：黄龙从地底升起，地动山摇，泥土如浪，龙身覆盖岩石鳞片。 情绪功能：宏大、力量、地龙。 适用场景：土系大招、改变地形。 联动：非人-龙；特效-山体滑坡。"
+    },
+    {
+      "HistoricalLine": 202,
+      "Title": "御剑术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "御剑术 定义：以气御剑，剑随心动。 AI技术执行：剑悬空，剑指牵引，飞剑盘旋、突刺、回旋，剑鸣清越。 情绪功能：飘逸、凌厉、剑修。 适用场景：御剑战斗、飞行、追杀。 联动：运镜-环绕；特效-剑气。"
+    },
+    {
+      "HistoricalLine": 204,
+      "Title": "万剑归宗",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "万剑归宗 定义：万剑听令，汇聚成雨。 AI技术执行：天空剑阵展开，万剑齐落，剑光如雨，大地千疮百孔。 情绪功能：震撼、终极、剑道巅峰。 适用场景：剑修大招、决战。 联动：特效-魔法弹幕；声画-剑鸣。"
+    },
+    {
+      "HistoricalLine": 206,
+      "Title": "剑气纵横",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑气纵横 定义：剑气如网，纵横交错。 AI技术执行：剑指连挥，剑气交叉飞行，切割一切，空气撕裂。 情绪功能：凌厉、密集、压制。 适用场景：群战、破阵、剑修。 联动：特效-斩击闪光；剪辑-快速剪辑。"
+    },
+    {
+      "HistoricalLine": 208,
+      "Title": "剑心通明",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑心通明 定义：剑心通明，人剑合一。 AI技术执行：眉心剑光，眼中浮现剑影，周身剑气环绕，飞剑与本体同步。 情绪功能：专注、顿悟、剑道、超然。 适用场景：剑修悟道、人剑合一、突破。 联动：眼睛-瞳孔变化；特效-剑气纵横。"
+    },
+    {
+      "HistoricalLine": 210,
+      "Title": "一剑开天",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "一剑开天 定义：一剑劈开天地，终极剑招。 AI技术执行：剑光冲天，一剑劈下，天空撕裂，大地分开，万物肃杀。 情绪功能：终极、震撼、剑道极致。 适用场景：剑修终极、决战、开天。 联动：特效-斩击闪光；声画-剑鸣。"
+    },
+    {
+      "HistoricalLine": 212,
+      "Title": "心剑",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "心剑 定义：无形之剑，以心念伤人。 AI技术执行：无剑无形，心念所至，剑意已至，目标灵魂受创。 情绪功能：无形、高阶、心念、致命。 适用场景：灵魂战、精神攻击、剑修高阶。 联动：眼睛-瞳孔变化；特效-灵魂锁链。"
+    },
+    {
+      "HistoricalLine": 214,
+      "Title": "剑域",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑域 定义：展开剑之领域，万剑环绕。 AI技术执行：以自身为中心展开剑域，万剑悬浮，领域内一切被剑意压制。 情绪功能：领域、掌控、剑修极致。 适用场景：剑修领域、决战、压制。 联动：特效-魔法领域；运镜-环绕。"
+    },
+    {
+      "HistoricalLine": 216,
+      "Title": "葬剑",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "葬剑 定义：万剑归葬，封印剑灵。 AI技术执行：无数剑插入地面形成剑冢，剑灵被封印，剑气沉寂。 情绪功能：悲壮、封印、剑道、宿命。 适用场景：封印剑灵、结局、剑冢。 联动：场景-废墟；特效-封印解封。"
+    },
+    {
+      "HistoricalLine": 218,
+      "Title": "剑来",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "剑来 定义：一声剑来，万剑听令。 AI技术执行：角色伸手，天地万剑飞来，汇聚成剑河，气势磅礴。 情绪功能：霸气、召唤、剑道巅峰。 适用场景：剑修登场、决战、召唤。 联动：特效-魔法弹幕；声画-剑鸣。"
+    },
+    {
+      "HistoricalLine": 220,
+      "Title": "人剑合一",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "人剑合一 定义：人与剑完全合一，化为剑光。 AI技术执行：角色化为一道剑光，人即是剑，剑即是人，速度极致。 情绪功能：极致、超凡、剑道终极。 适用场景：终极剑招、决战、突破。 联动：特效-高速移动模糊；声画-破空声。"
+    },
+    {
+      "HistoricalLine": 222,
+      "Title": "雷法天罚",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷法天罚 定义：引天雷降罚，审判邪恶。 AI技术执行：乌云密布，雷柱劈落，目标焦黑，空气电离，雷声震天。 情绪功能：天威、审判、毁灭。 适用场景：雷法、破邪、高潮。 联动：特效-雷电劈落；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 224,
+      "Title": "九天神雷",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "九天神雷 定义：九道神雷连续劈落。 AI技术执行：天空九雷依次落下，每道颜色略异，最后一道最强，天地震动。 情绪功能：极致、毁灭、天劫。 适用场景：渡劫、终极雷法。 联动：特效-雷电铠甲；声画-连环爆炸。"
+    },
+    {
+      "HistoricalLine": 226,
+      "Title": "五雷轰顶",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "五雷轰顶 定义：五方天雷同时劈落。 AI技术执行：五道雷柱从五个方向同时劈下，目标无处可逃，地面焦黑。 情绪功能：审判、致命、天威。 适用场景：雷法、破邪、处刑。 联动：特效-雷电劈落；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 228,
+      "Title": "雷龙",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷龙 定义：雷电化龙，咆哮劈落。 AI技术执行：雷龙从乌云中探出，龙身由雷电构成，咆哮劈下，电网扩散。 情绪功能：威猛、毁灭、龙威。 适用场景：雷法大招、龙族、战斗。 联动：非人-龙；特效-雷电铠甲。"
+    },
+    {
+      "HistoricalLine": 230,
+      "Title": "雷劫",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷劫 定义：修炼者渡劫时天降雷劫。 AI技术执行：乌云压顶，雷电交加，天火坠落，角色硬抗，天地变色。 情绪功能：悲壮、考验、生死。 适用场景：渡劫、突破、高潮。 联动：特效-九天神雷；场景-雷暴。"
+    },
+    {
+      "HistoricalLine": 232,
+      "Title": "雷遁",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷遁 定义：化雷光瞬移。 AI技术执行：身体化雷光消失，沿雷电轨迹瞬间移动，原地电弧残留。 情绪功能：迅捷、雷法、逃遁。 适用场景：瞬移、逃遁、突袭。 联动：特效-残影；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 234,
+      "Title": "雷铠",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷铠 定义：雷电覆体，攻防一体。 AI技术执行：全身覆盖雷电铠甲，电弧跳跃，攻击者被电击反弹。 情绪功能：防御、反击、雷法。 适用场景：雷法防御、近战、冲阵。 联动：特效-雷电铠甲；声画-电弧声。"
+    },
+    {
+      "HistoricalLine": 236,
+      "Title": "雷域",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "雷域 定义：展开雷之领域，万雷齐落。 AI技术执行：以自身为中心展开雷域，乌云密布，万雷齐落，领域内一切被雷击。 情绪功能：领域、掌控、雷法极致。 适用场景：雷法领域、决战、压制。 联动：特效-魔法领域；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 238,
+      "Title": "天雷勾地火",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "天雷勾地火 定义：天雷与地火同时爆发。 AI技术执行：天雷劈落，地火喷涌，雷火交织，毁灭一切。 情绪功能：毁灭、禁忌、天灾。 适用场景：禁术、决战、毁灭。 联动：特效-能量碰撞；色彩-红蓝对比。"
+    },
+    {
+      "HistoricalLine": 240,
+      "Title": "紫霄神雷",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "紫霄神雷 定义：最高阶神雷，紫色天雷。 AI技术执行：紫色雷柱从天而降，威力毁天灭地，空气电离，万物焦黑。 情绪功能：终极、天威、神圣、毁灭。 适用场景：雷法终极、渡劫、决战。 联动：特效-九天神雷；色彩-紫色。"
+    },
+    {
+      "HistoricalLine": 242,
+      "Title": "空间折叠",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空间折叠 定义：折叠空间，瞬移或困敌。 AI技术执行：空间如纸折叠，景物扭曲，角色一步跨远。 情绪功能：超凡、神秘、掌控。 适用场景：瞬移、困敌、空间法术。 联动：特效-空间折叠；转场-穿越转场。"
+    },
+    {
+      "HistoricalLine": 244,
+      "Title": "瞬移",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "瞬移 定义：瞬间从一处到另一处。 AI技术执行：身体化光粒消失，原地残影，目标处光粒重组。 情绪功能：迅捷、神秘、不可捉摸。 适用场景：战斗、逃遁、突袭。 联动：特效-残影；声画-突然静音。"
+    },
+    {
+      "HistoricalLine": 246,
+      "Title": "缩地成寸",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "缩地成寸 定义：一步跨过千里。 AI技术执行：脚下波纹扩散，景物快速后退，一步抵达远方。 情绪功能：逍遥、仙家、超脱。 适用场景：赶路、追击、仙侠登场。 联动：运镜-航拍推入；季节-时间压缩。"
+    },
+    {
+      "HistoricalLine": 248,
+      "Title": "空间牢笼",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空间牢笼 定义：封锁空间，困住目标。 AI技术执行：空间凝固，目标被困在透明牢笼中，无法移动。 情绪功能：困住、封锁、掌控。 适用场景：困敌、封印、空间法术。 联动：特效-空间扭曲；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 250,
+      "Title": "空间撕裂",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空间撕裂 定义：撕裂空间，斩断一切。 AI技术执行：空中出现黑色裂缝，裂缝边缘空间扭曲，万物被撕裂。 情绪功能：毁灭、超凡、危险。 适用场景：空间攻击、破防、大招。 联动：特效-空间撕裂；声画-撕裂声。"
+    },
+    {
+      "HistoricalLine": 252,
+      "Title": "时间停滞",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "时间停滞 定义：局部时间停止。 AI技术执行：雨滴停空，飞剑凝固，只有施法者可动，色调偏蓝灰。 情绪功能：绝对控制、超凡、震撼。 适用场景：时停、关键转折。 联动：特效-时间冻结；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 254,
+      "Title": "时光倒流",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "时光倒流 定义：逆转局部时间，修复或回溯。 AI技术执行：碎片飞回重组，伤口愈合，水流倒流，画面倒放。 情绪功能：回溯、命运、奇迹。 适用场景：复活、还原真相、逆转。 联动：特效-时间倒流；转场-倒带转场。"
+    },
+    {
+      "HistoricalLine": 256,
+      "Title": "时间加速",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "时间加速 定义：加速局部时间，植物快速生长或衰老。 AI技术执行：目标区域时间加速，植物瞬间生长枯萎，建筑风化。 情绪功能：时间、变化、无常。 适用场景：催熟、衰老、时间法术。 联动：特效-时间加速；季节-时间压缩。"
+    },
+    {
+      "HistoricalLine": 258,
+      "Title": "因果线",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "因果线 定义：看见并拨动因果之线。 AI技术执行：空中浮现发光丝线连接人与事，拨动一线引发变化。 情绪功能：宿命、神秘、哲学。 适用场景：命运法术、揭示、布局。 联动：特效-命数特效；叙事-伏笔。"
+    },
+    {
+      "HistoricalLine": 260,
+      "Title": "轮回印",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "轮回印 定义：灵魂轮回，前世今生显现。 AI技术执行：眉心轮回印记亮起，身后浮现前世残影，光轮旋转。 情绪功能：宿命、悲悯、超脱。 适用场景：转世、觉醒、记忆恢复。 联动：特效-光环旋转；声音-回声。"
+    },
+    {
+      "HistoricalLine": 262,
+      "Title": "元神出窍",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "元神出窍 定义：元神离体，灵魂行动。 AI技术执行：半透明元神从肉身飘出，肉身静止，元神可穿墙飞行。 情绪功能：超凡、神秘、生死。 适用场景：灵魂战、探秘、濒死。 联动：特效-灵魂出窍；色彩-冷色。"
+    },
+    {
+      "HistoricalLine": 264,
+      "Title": "灵魂锁链",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "灵魂锁链 定义：锁住灵魂或元神。 AI技术执行：发光锁链从虚空射出，缠绕元神，符文流动。 情绪功能：束缚、审判、囚禁。 适用场景：锁魂、封印、灵魂战。 联动：特效-灵魂锁链；声画-回声。"
+    },
+    {
+      "HistoricalLine": 266,
+      "Title": "夺舍",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "夺舍 定义：元神侵入他人躯体。 AI技术执行：元神出窍化光，冲入目标身体，目标眼神变色，性格突变。 情绪功能：邪恶、禁忌、恐惧。 适用场景：反派、禁术、灵魂战。 联动：眼睛-眼神冰火；表情-表情闪切。"
+    },
+    {
+      "HistoricalLine": 268,
+      "Title": "搜魂",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "搜魂 定义：搜索灵魂记忆。 AI技术执行：掌心覆于头顶，灵魂记忆以光片浮现，目标痛苦扭曲。 情绪功能：残忍、禁忌、真相。 适用场景：审讯、搜查、禁术。 联动：特效-记忆水晶；表情-痛苦。"
+    },
+    {
+      "HistoricalLine": 270,
+      "Title": "魂飞魄散",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魂飞魄散 定义：灵魂被彻底打散，形神俱灭。 AI技术执行：灵魂碎裂成光粒消散，肉身化为飞灰，再无轮回。 情绪功能：终结、恐怖、不可逆。 适用场景：终极死亡、禁术、悲剧。 联动：特效-粒子消散；声画-突然静音。"
+    },
+    {
+      "HistoricalLine": 272,
+      "Title": "元神法相",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "元神法相 定义：元神化为巨大法相。 AI技术执行：身后升起巨大元神法相，与本体同步动作，威压天地。 情绪功能：神圣、威严、镇压。 适用场景：元神战、大招、佛道高阶。 联动：特效-图腾显灵；构图-低角度仰拍。"
+    },
+    {
+      "HistoricalLine": 274,
+      "Title": "魂域",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魂域 定义：展开灵魂领域，掌控灵魂。 AI技术执行：以自身为中心展开魂域，万魂环绕，领域内灵魂被压制。 情绪功能：领域、掌控、灵魂。 适用场景：灵魂战、领域、禁术。 联动：特效-魔法领域；色彩-冷蓝。"
+    },
+    {
+      "HistoricalLine": 276,
+      "Title": "借尸还魂",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "借尸还魂 定义：借他人尸体还魂。 AI技术执行：灵魂进入尸体，尸体睁眼起身，动作僵硬，阴气环绕。 情绪功能：诡异、禁忌、复活。 适用场景：复活、禁术、恐怖。 联动：特效-灵魂出窍；色彩-暗绿。"
+    },
+    {
+      "HistoricalLine": 278,
+      "Title": "魂灯",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魂灯 定义：以灵魂之力点燃的灯，指引或护魂。 AI技术执行：掌心浮现魂灯，火光冷蓝，照亮灵魂之路，驱散阴气。 情绪功能：指引、守护、神秘。 适用场景：引路、护魂、超度。 联动：光线-冷光；特效-光尘。"
+    },
+    {
+      "HistoricalLine": 280,
+      "Title": "轮回眼",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "轮回眼 定义：看穿轮回，洞察前世今生。 AI技术执行：瞳孔变化为轮回眼纹路，眼中浮现轮回光影，看穿灵魂。 情绪功能：洞察、宿命、超凡。 适用场景：看穿轮回、审判、预知。 联动：眼睛-瞳孔变化；特效-命数特效。"
+    },
+    {
+      "HistoricalLine": 282,
+      "Title": "法天象地",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "法天象地 定义：身体巨大化，通天彻地。 AI技术执行：角色身形暴涨，云层在腰际，山岳如脚下，声音低沉，天地震动。 情绪功能：史诗、力量、神话。 适用场景：终极战斗、神话对决。 联动：运镜-航拍拉出；场景-云海。"
+    },
+    {
+      "HistoricalLine": 284,
+      "Title": "金身法相",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "金身法相 定义：身后浮现巨大金色法相。 AI技术执行：金光中升起巨大佛像或神将虚影，动作与本体同步，威压天地。 情绪功能：神圣、威严、镇压。 适用场景：佛修大招、伏魔、决战。 联动：特效-图腾显灵；构图-低角度仰拍。"
+    },
+    {
+      "HistoricalLine": 286,
+      "Title": "万法归一",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "万法归一 定义：万法归一，一击必杀。 AI技术执行：所有法术汇聚成一点，化为一道白光射出，万物归寂。 情绪功能：终极、归一、毁灭、大道。 适用场景：终极法术、决战、悟道。 联动：特效-能量碰撞；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 288,
+      "Title": "言出法随",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "言出法随 定义：言语即法则，出口成真。 AI技术执行：口吐真言，天地响应，法则随言语改变，万物遵从。 情绪功能：至高、超凡、掌控、大道。 适用场景：高阶仙法、创世、终极。 联动：声画-画外音；特效-符文环绕。"
+    },
+    {
+      "HistoricalLine": 290,
+      "Title": "一念花开",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "一念花开 定义：一念之间，万物花开。 AI技术执行：心念一动，花海绽放，枯木逢春，天地生机。 情绪功能：创造、生机、超凡、美好。 适用场景：治愈、创造、悟道。 联动：季节-春季；特效-粒子汇聚。"
+    },
+    {
+      "HistoricalLine": 292,
+      "Title": "一念成魔",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "一念成魔 定义：一念之间，堕入魔道。 AI技术执行：瞳孔变红，魔气缠身，黑红火焰燃烧，面容狰狞。 情绪功能：堕落、黑暗、危险、悲剧。 适用场景：黑化、堕落、反派。 联动：特效-魔气弥漫；色彩-暗红。"
+    },
+    {
+      "HistoricalLine": 294,
+      "Title": "一念成佛",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "一念成佛 定义：一念之间，顿悟成佛。 AI技术执行：金光普照，莲花绽放，面容慈悲，佛光万丈。 情绪功能：觉悟、超脱、神圣、慈悲。 适用场景：顿悟、成佛、结局。 联动：特效-圣光降临；色彩-金色。"
+    },
+    {
+      "HistoricalLine": 296,
+      "Title": "大道无形",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "大道无形 定义：大道无形，无招胜有招。 AI技术执行：无手印、无咒语、无光效，但天地随之而动，万物俯首。 情绪功能：至高、无形、大道、超脱。 适用场景：终极悟道、大道之战。 联动：特效-时间冻结；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 298,
+      "Title": "天机术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "天机术 定义：推演天机，预知未来。 AI技术执行：空中浮现星图与卦象，天机流转，未来片段闪现。 情绪功能：预知、神秘、智慧、宿命。 适用场景：占卜、推演、布局。 联动：特效-未来视；文化符号-八卦。"
+    },
+    {
+      "HistoricalLine": 300,
+      "Title": "逆天改命",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "逆天改命 定义：逆天而行，改变命运。 AI技术执行：天象异变，命运线断裂重组，角色承受天罚，逆天改命。 情绪功能：悲壮、反抗、命运、奇迹。 适用场景：改命、结局、高潮。 联动：特效-命数特效；叙事-牺牲。"
+    },
+    {
+      "HistoricalLine": 304,
+      "Title": "符箓绘制",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "符箓绘制 定义：以朱砂黄纸绘制符箓。 AI技术执行：笔尖灵光，符文一气呵成，纸面发光，符文浮动。 情绪功能：传统、神秘、仪式。 适用场景：驱邪、施法、布阵。 联动：道具-符纸；微动作-手部。"
+    },
+    {
+      "HistoricalLine": 306,
+      "Title": "符箓激发",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "符箓激发 定义：灵力注入符箓，释放法术。 AI技术执行：符箓自燃，符文飞出，化为火焰、雷光或护盾。 情绪功能：爆发、快捷、传统。 适用场景：战斗、驱邪、急救。 联动：特效-火焰爆发；声画-纸张燃烧。"
+    },
+    {
+      "HistoricalLine": 308,
+      "Title": "镇魂符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "镇魂符 定义：镇压灵魂的符箓。 AI技术执行：符箓贴在目标额头或胸口，金光符文锁住灵魂，目标无法动弹。 情绪功能：镇压、封印、控制。 适用场景：镇魂、封印、驱邪。 联动：特效-灵魂锁链；色彩-金色。"
+    },
+    {
+      "HistoricalLine": 310,
+      "Title": "驱邪符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "驱邪符 定义：驱散邪祟的符箓。 AI技术执行：符箓飞出，化为金光或火焰，邪气触之即散，鬼魂惨叫。 情绪功能：净化、驱邪、神圣。 适用场景：驱邪、超度、护身。 联动：特效-圣光降临；声画-惨叫声。"
+    },
+    {
+      "HistoricalLine": 312,
+      "Title": "爆裂符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "爆裂符 定义：爆炸攻击的符箓。 AI技术执行：符箓贴附目标后爆炸，火光四溅，碎片飞散。 情绪功能：攻击、爆炸、破坏。 适用场景：战斗、爆破、偷袭。 联动：特效-小型爆炸；声画-爆炸。"
+    },
+    {
+      "HistoricalLine": 314,
+      "Title": "封印符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "封印符 定义：封印目标或空间的符箓。 AI技术执行：符箓贴在封印处，符文锁链蔓延，封印阵收缩，目标被封印。 情绪功能：封印、囚禁、控制。 适用场景：封印妖魔、锁魂、镇物。 联动：特效-封印解封；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 316,
+      "Title": "传送符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "传送符 定义：瞬间传送的符箓。 AI技术执行：符箓燃烧，空间扭曲，角色被光柱包裹消失。 情绪功能：迅捷、逃遁、神秘。 适用场景：逃命、赶路、传送。 联动：特效-传送门；转场-闪白。"
+    },
+    {
+      "HistoricalLine": 318,
+      "Title": "护身符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "护身符 定义：随身佩戴的护身符箓。 AI技术执行：符箓发光形成护盾，抵挡一次攻击后碎裂。 情绪功能：保护、防御、安心。 适用场景：护身、防御、保命。 联动：特效-能量护盾；声画-碎裂声。"
+    },
+    {
+      "HistoricalLine": 320,
+      "Title": "召雷符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "召雷符 定义：召唤天雷的符箓。 AI技术执行：符箓飞向天空，乌云汇聚，雷柱劈落。 情绪功能：天威、攻击、雷法。 适用场景：雷法、战斗、破邪。 联动：特效-雷电劈落；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 322,
+      "Title": "冰封符",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "冰封符 定义：冻结目标的符箓。 AI技术执行：符箓贴附目标，冰晶蔓延，目标被冰封，寒气四溢。 情绪功能：控制、冰冷、静止。 适用场景：冰系控制、冻结、困敌。 联动：特效-冰晶冻结；色彩-冰蓝。"
+    },
+    {
+      "HistoricalLine": 324,
+      "Title": "聚灵阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "聚灵阵 定义：汇聚天地灵气。 AI技术执行：阵纹旋转，灵气成旋涡汇入中心，植物生长，光芒上升。 情绪功能：修炼、恢复、神圣。 适用场景：修炼、疗伤、洞府。 联动：特效-粒子汇聚；光线-丁达尔。"
+    },
+    {
+      "HistoricalLine": 326,
+      "Title": "传送阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "传送阵 定义：远距离传送。 AI技术执行：巨大圆形阵纹亮起，空间扭曲，光柱冲天。 情绪功能：穿越、快捷、神秘。 适用场景：跨域、逃跑、出征。 联动：特效-传送门；转场-闪白。"
+    },
+    {
+      "HistoricalLine": 328,
+      "Title": "护山阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "护山阵 定义：保护门派的巨型阵法。 AI技术执行：山脉上空浮现光罩，阵纹连绵，攻击被反弹。 情绪功能：守护、威严、安全。 适用场景：门派防御、大战。 联动：场景-仙山；特效-能量护盾。"
+    },
+    {
+      "HistoricalLine": 330,
+      "Title": "杀阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "杀阵 定义：以杀伐为目的的阵法。 AI技术执行：剑气、雷光、火焰交错，阵内无死角攻击，血光弥漫。 情绪功能：危险、致命、压迫。 适用场景：伏击、决杀、战争。 联动：特效-魔法弹幕；剪辑-快速剪辑。"
+    },
+    {
+      "HistoricalLine": 332,
+      "Title": "幻阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "幻阵 定义：制造幻象迷惑敌人。 AI技术执行：场景扭曲，真假难辨，幻影出现，边界如水波。 情绪功能：迷惑、心理、诡异。 适用场景：困敌、试炼、心理战。 联动：特效-幻象；眼睛-视线游移。"
+    },
+    {
+      "HistoricalLine": 334,
+      "Title": "锁魂阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "锁魂阵 定义：锁住灵魂，防止逃脱。 AI技术执行：阵内黑气缠绕，灵魂锁链交错，目标元神被固定。 情绪功能：囚禁、阴冷、禁忌。 适用场景：锁魂、审魂、禁术。 联动：特效-灵魂锁链；色彩-暗紫。"
+    },
+    {
+      "HistoricalLine": 336,
+      "Title": "五行阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "五行阵 定义：五行相生相克循环的阵法。 AI技术执行：五色阵眼亮起，五行光流循环，攻防一体。 情绪功能：平衡、循环、完整。 适用场景：团队、门派、防御。 联动：色彩-五色；特效-光环旋转。"
+    },
+    {
+      "HistoricalLine": 338,
+      "Title": "北斗阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "北斗阵 定义：按北斗七星排列的阵法。 AI技术执行：七个阵位亮起，星光连接，天象呼应。 情绪功能：天命、神秘、宏大。 适用场景：召唤、封印、传送。 联动：场景-星空；特效-星光粒子。"
+    },
+    {
+      "HistoricalLine": 340,
+      "Title": "八卦阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "八卦阵 定义：按八卦方位变化的阵法。 AI技术执行：八卦图旋转，阵门变化，敌人迷失方向。 情绪功能：变化、智慧、困敌。 适用场景：防御、迷阵、道门。 联动：文化符号-八卦；构图-对称。"
+    },
+    {
+      "HistoricalLine": 342,
+      "Title": "周天星斗阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "周天星斗阵 定义：引周天星辰之力的顶级大阵。 AI技术执行：夜空星辰连线，星光如雨落下，阵法覆盖天地。 情绪功能：史诗、神圣、终极。 适用场景：护宗、封印、大战。 联动：特效-陨石坠落；声画-合唱。"
+    },
+    {
+      "HistoricalLine": 344,
+      "Title": "血阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "血阵 定义：以血为引的邪阵。 AI技术执行：血液在地面蔓延成阵，暗红光芒，阴风阵阵。 情绪功能：邪恶、禁忌、危险。 适用场景：魔修、献祭、禁术。 联动：色彩-暗红；特效-魔气弥漫。"
+    },
+    {
+      "HistoricalLine": 346,
+      "Title": "献祭阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "献祭阵 定义：以生灵或记忆献祭换取力量。 AI技术执行：阵中黑红光柱，献祭物化为光粒被吸收，施法者力量暴涨。 情绪功能：黑暗、代价、悲剧。 适用场景：反派、禁术、绝境。 联动：特效-能量燃烧；叙事-堕落。"
+    },
+    {
+      "HistoricalLine": 348,
+      "Title": "困仙阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "困仙阵 定义：困住仙人的阵法。 AI技术执行：地面阵纹展开，光柱升起，空间封锁，飞剑难出。 情绪功能：封锁、压制、绝望。 适用场景：困敌、决斗、封印。 联动：特效-魔法阵启动；场景-幽闭。"
+    },
+    {
+      "HistoricalLine": 350,
+      "Title": "时间阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "时间阵 定义：操控时间的阵法。 AI技术执行：阵内时间加速或减速，阵外时间正常，时间流速不同。 情绪功能：时间、超凡、掌控。 适用场景：修炼、困敌、时间法术。 联动：特效-时间扭曲；声画-滴答声。"
+    },
+    {
+      "HistoricalLine": 352,
+      "Title": "空间阵",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空间阵 定义：操控空间的阵法。 AI技术执行：阵内空间折叠或扩展，空间扭曲，距离改变。 情绪功能：空间、超凡、掌控。 适用场景：传送、困敌、空间法术。 联动：特效-空间折叠；转场-穿越转场。"
+    },
+    {
+      "HistoricalLine": 354,
+      "Title": "焚天禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "焚天禁术 定义：焚烧天地，毁灭一切。 AI技术执行：天空变红，火云翻滚，火柱从天而降，万物焦黑。 情绪功能：毁灭、禁忌、悲壮。 适用场景：禁术、最终决战、牺牲。 联动：特效-陨石坠落；声画-爆炸。"
+    },
+    {
+      "HistoricalLine": 356,
+      "Title": "血祭禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "血祭禁术 定义：以血为祭，换取力量。 AI技术执行：施法者燃烧精血，血光暴涨，威力大增，面容痛苦。 情绪功能：黑暗、代价、疯狂。 适用场景：禁术、黑化、绝境。 联动：特效-能量燃烧；表情-痛苦。"
+    },
+    {
+      "HistoricalLine": 358,
+      "Title": "献祭禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "献祭禁术 定义：献祭寿命、记忆或血肉换取力量。 AI技术执行：施法者身体崩裂发光，黑红灵力暴涨，记忆碎片消散。 情绪功能：黑暗、代价、悲剧。 适用场景：禁术、黑化、绝境。 联动：特效-能量燃烧；叙事-牺牲。"
+    },
+    {
+      "HistoricalLine": 360,
+      "Title": "魂祭禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魂祭禁术 定义：以灵魂为祭，释放毁灭一击。 AI技术执行：灵魂燃烧，魂光冲天，一击之下万物归寂，施法者魂飞魄散。 情绪功能：悲壮、牺牲、终极、毁灭。 适用场景：终极禁术、同归于尽。 联动：特效-粒子消散；声画-静默设计。"
+    },
+    {
+      "HistoricalLine": 362,
+      "Title": "轮回禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "轮回禁术 定义：逆转轮回，复活死者。 AI技术执行：轮回印亮起，灵魂从轮回中拉回，天地变色，施法者承受天罚。 情绪功能：逆天、代价、悲壮、奇迹。 适用场景：复活、逆天改命、结局。 联动：特效-轮回印；声画-回声。"
+    },
+    {
+      "HistoricalLine": 364,
+      "Title": "时间禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "时间禁术 定义：逆转时间，改变过去。 AI技术执行：时间倒流，画面倒放，过去被改变，因果混乱。 情绪功能：逆天、代价、命运、奇迹。 适用场景：改变过去、逆转结局、禁术。 联动：特效-时间倒流；转场-倒带转场。"
+    },
+    {
+      "HistoricalLine": 366,
+      "Title": "空间禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "空间禁术 定义：撕裂空间，跨界传送。 AI技术执行：空间撕裂，黑洞出现，万物被吸入，跨界穿越。 情绪功能：超凡、危险、禁忌。 适用场景：跨界、逃遁、禁术。 联动：特效-空间撕裂；声画-撕裂声。"
+    },
+    {
+      "HistoricalLine": 368,
+      "Title": "天劫禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "天劫禁术 定义：引动天劫，毁灭一切。 AI技术执行：天劫降临，九天神雷、天火、罡风同时落下，万物毁灭。 情绪功能：天威、毁灭、终极。 适用场景：终极禁术、同归于尽。 联动：特效-九天神雷；声画-雷声。"
+    },
+    {
+      "HistoricalLine": 370,
+      "Title": "魔化禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "魔化禁术 定义：引魔气入体，化为魔身。 AI技术执行：魔气缠身，瞳孔变红，魔纹浮现，力量暴涨但理智丧失。 情绪功能：堕落、黑暗、危险、悲剧。 适用场景：黑化、堕落、反派。 联动：特效-魔气弥漫；色彩-暗红。"
+    },
+    {
+      "HistoricalLine": 372,
+      "Title": "尸解禁术",
+      "AllFiveFieldsExactAfterMarkdownWhitespaceRemoval": true,
+      "HistoricalRaw": "尸解禁术 定义：以尸解方式成仙，灵魂脱离肉身。 AI技术执行：肉身化为光粒消散，灵魂升天，只留衣物或法器。 情绪功能：超脱、成仙、悲壮、神秘。 适用场景：成仙、坐化、结局。 联动：特效-粒子消散；声画-静默设计。"
+    }
+  ],
+  "Boundary": "相同段落可复用第一项SRC031完整原文阅读；机器匹配不能替代新增方法实际审读。"
+}

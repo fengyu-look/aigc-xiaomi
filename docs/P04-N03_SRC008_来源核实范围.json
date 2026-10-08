@@ -1,0 +1,17 @@
+{
+  "Original": "SRC008完整原文及应用层；SRC022-L02与SRC04502章",
+  "PrimarySources": [
+    {
+      "URL": "https://www.usa.canon.com/pro/rf-lens-world/features/depth-of-field",
+      "ActuallyRead": "网页正文262–263，非整个Canon课程",
+      "Supported": "景深依焦距、光圈、对焦、拍摄/背景距离，不以f8–16保证所有距离"
+    },
+    {
+      "URL": "https://www.nikonimgsupport.com/na/NSG_article?articleNo=000047395&configured=1&lang=en_SG",
+      "ActuallyRead": "搜索可见透视说明；两次直接抓取502，未读到完整网页",
+      "Supported": "透视由机位距离控制，换镜通常伴随换距离，不能误归于单独焦距"
+    }
+  ],
+  "Excluded": "未做完整镜头产品性能/近摄能力核验；未计算缺少CoC条件的景深范围",
+  "FullTaskComplete": false
+}

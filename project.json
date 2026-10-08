@@ -1,0 +1,16 @@
+{
+  "name": "aigc-creative-assistant",
+  "displayName": "AIGC小秘",
+  "version": "1.0.0",
+  "stage": "内容与框架完整首版",
+  "skillPath": "skills/film-creation-library",
+  "knowledgePath": "skills/film-creation-library/references/knowledge_base",
+  "pythonMinimum": "3.10",
+  "runtimeDependencies": [],
+  "expansionStatus": "docs/expansion_status.json",
+  "publication": "GitHub公开发布准备中；等待首次推送确认",
+  "releaseStatus": "docs/首版状态.json",
+  "releaseAcceptance": "passed_four_item_scope",
+  "releaseNotes": "docs/版本说明_1.0.0.md",
+  "repository": "https://github.com/fengyu-look/aigc-xiaomi"
+}

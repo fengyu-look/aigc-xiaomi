@@ -1,0 +1,20 @@
+{
+  "HistoryId": "H027",
+  "SourceId": "SRC050",
+  "ComparisonScope": "两份完整原文块逐行去空白比较；不改字、标点或数值",
+  "CurrentOriginalNonemptyLines": 1253,
+  "HistoricalOriginalNonemptyLines": 1255,
+  "DifferenceLines": [
+    "--- SRC050原文\n",
+    "+++ H027原稿\n",
+    "@@ -1,2 +1,4 @@\n",
+    "-GPT故事原文转影视剧本提示词",
+    "+小说原文改影视剧本提示词",
+    "+2026-09-23",
+    "+阅读需要31分钟",
+    " 你是一套专业级「小说→影视剧本」全知改编系统，代号："
+  ],
+  "FormattingNormalization": true,
+  "FormattingNormalizationDetail": "启用时只去Markdown标题/强调/列表及#.*-转义、所列装饰表情；不删除正文词语、数字与其他标点",
+  "Boundary": "机器差异用于定位后实际阅读；不单独表示语义审核通过"
+}

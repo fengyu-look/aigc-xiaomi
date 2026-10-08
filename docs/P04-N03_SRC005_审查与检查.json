@@ -1,0 +1,153 @@
+{
+  "SourceIds": [
+    "SRC005"
+  ],
+  "SourceDeepSteps": [
+    {
+      "TaskId": "SRC005-S001",
+      "Title": "60条五组四字段与独立版本",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "五组60/240字段/5差异实际分类，原18/21与L20区分、刀/杖数值保留",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "367B9412B08EB4410897CE957043A41D4B794BBEC20BDC11A1C3E01ABB420CEA",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S002",
+      "Title": "实填道具账本与几何口径",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "一钥匙环径.02/环心尖.06/总长.07分口径，柜叶锁柄固定/移动分资产",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "929F1A464663F81439B2B1CD0EAE295468DCB21061620F056C81CF1620E6B953",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S003",
+      "Title": "右手插钥匙、旋转和明确松开",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "右手插.055/转90/明确松手后留孔，锁轴约束未声称真实机械已验",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "81938B3A624B55B0D56C264D4D56F39238D76B2BAFD2D918CEC2C40B925E0BE2",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S004",
+      "Title": "左手开柜门时钥匙必须跟随门扇",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "左握柄0→90，根径1.15外弧与门同步，97時刻刚体及末点实际核",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "52B13624DD05C1B785333760E80DFF41AE64990E1FD4A395ABC91B0CC3A28403",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S005",
+      "Title": "镜头、完整提示和声音事件",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "完整12s单镜/288帧/4实际音轨计划，未称画幅/接触已渲染",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "0F12304993B57222529BB196C2518CCCBC355F576C7375F9B80D663366A86DD6",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S006",
+      "Title": "现实、幻想和未来设备的技术边界",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "IBM课程开篇某些问题可能更快，未来/幻想/液体颜色非现实功效",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "15FCE544E892C8F28DC154CC0D2DCFE85B7ADEC42D0CDF1FAB4CD4CC5284E5F3",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S007",
+      "Title": "纸、屏幕、载具与可消耗物分开追踪",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "纸屏反射/消耗物/动物载具区别，独立车预演圈数未合并钥匙例",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "7C2979A25F29A622EC6E81C63E9EF6AE8F789AD60F5323D40324F6E3CF6E54C0",
+      "ActualSingleSectionRetrievalPassed": true
+    },
+    {
+      "TaskId": "SRC005-S008",
+      "Title": "失败修复、候选资产与实际交接",
+      "SourceId": "SRC005",
+      "OutputRelativePath": "91_创作小秘工作库/01_工作流与原文映射/01_图片制作/道具库_原文与应用扩写.md",
+      "ActualReviewObservation": "8计划资产无文件，逐故障状态恢复，末右空左空/门开/钥匙锁内",
+      "Review": "完整来源及新增执行段逐项文本自审；不以机械检测代替语义审核",
+      "IndependentContentReview": "pending",
+      "MediaVerification": "not_performed",
+      "DeepSHA256": "92EBF20D99AFBEA05EA2C66A2E3FAD8B63E4A9A1D5D7E56C26C74BAD0AD8EEE7",
+      "ActualSingleSectionRetrievalPassed": true
+    }
+  ],
+  "OriginalBytesPreserved": true,
+  "LibraryCandidatesAdded": 0,
+  "Review": "docs/P04-N03_SRC005_逐步骤审查.md",
+  "Retrieval": "8实际单节CLI成功",
+  "Engineering": {
+    "RefreshDryRun": "passed no changes",
+    "ProjectCheck": "passed zero errors",
+    "UnitTests": "passed14 actual run recorded",
+    "Runs": "docs/P04-N03_SRC005_工程检查运行.json"
+  },
+  "IndependentContentReview": "pending",
+  "MediaVerification": "not_performed",
+  "FullTaskComplete": false,
+  "ContentManifest": {
+    "BatchLabel": "SRC005",
+    "ActualTextReviewCompleted": true,
+    "FullTaskComplete": false,
+    "Scope": "道具源60条240字段及应用层实际全文读取，三版对应章20逐字段对读、5差异实际阅读。新增8来源流程段，含右手钥匙→锁内、左开门→双手空、钥匙跟门局部刚体的12秒完整实例。",
+    "ReviewConclusion": "[三版字段实际值](P04-N03_SRC005_60条三版字段对读.json)、[14关系及97刚体时刻](P04-N03_SRC005_关系与刚体核对.json)、[来源范围](P04-N03_SRC005_来源范围.json)。当前实际文字末态钥匙仍在打开柜门的锁孔、两手空，无真实资产文件。",
+    "Sources": [
+      {
+        "SourceId": "SRC005",
+        "Draft": ".local/P04-N03_SRC005_工作流草稿.md",
+        "ActualReviewObservations": [
+          "五组60/240字段/5差异实际分类，原18/21与L20区分、刀/杖数值保留",
+          "一钥匙环径.02/环心尖.06/总长.07分口径，柜叶锁柄固定/移动分资产",
+          "右手插.055/转90/明确松手后留孔，锁轴约束未声称真实机械已验",
+          "左握柄0→90，根径1.15外弧与门同步，97時刻刚体及末点实际核",
+          "完整12s单镜/288帧/4实际音轨计划，未称画幅/接触已渲染",
+          "IBM课程开篇某些问题可能更快，未来/幻想/液体颜色非现实功效",
+          "纸屏反射/消耗物/动物载具区别，独立车预演圈数未合并钥匙例",
+          "8计划资产无文件，逐故障状态恢复，末右空左空/门开/钥匙锁内"
+        ],
+        "CompletedScope": "60条四字段/五分类/实际三版对读及8流程文本深化自审检索，非60科学历史全校勘或真实模型验收",
+        "VersionComparison": "docs/P04-N03_SRC005_60条三版字段对读.json",
+        "Limitations": "无真实锁具结构/rig/材质/音频/媒体验证，候选资产ID非实际文件。"
+      }
+    ],
+    "PartialScopeUpdates": [
+      {
+        "SourceId": "SRC045",
+        "Scope": "另核章20道具60条四字段与61合集一致；06/16/21章先前记录保留，不含其他章全审"
+      }
+    ],
+    "ExpectedCumulativeSourcesAndSteps": [
+      9,
+      70
+    ],
+    "NextWork": "SRC006起剩42源/38历史/15演练/旧3053扩大交接审与独立全量内容验收"
+  }
+}
